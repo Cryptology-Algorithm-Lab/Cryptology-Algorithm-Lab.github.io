@@ -24,7 +24,7 @@ description              : "Sunpill Kim"
 url                      : "https://sunpill.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"Sunpill/Sunpill.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/ksp.jpg"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Sunpill Kim"
   avatar           : "/assets/images/ksp.jpg"
-      bio              : "Hello! I am researcher interested in applied cryptography especially as it relates to zero-knowledge proof and biometric. Currently I am pursuing my Master degree in applied mathemathics at Hanyang University and am advised by Jaehong Seo in Cryptology & Algorithm Lab."
+  bio              : "Hello! I am researcher interested in applied cryptography especially as it relates to zero-knowledge proof and biometric. Currently I am pursuing my Master degree in applied mathemathics at Hanyang University and am advised by Jaehong Seo in Cryptology & Algorithm Lab."
   location         : "South Korea"
-  email            : 
+  email            : "ksp0352@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:ksp0352@gmail.com
+      #url: "mailto:ksp0352@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Sunpill"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
