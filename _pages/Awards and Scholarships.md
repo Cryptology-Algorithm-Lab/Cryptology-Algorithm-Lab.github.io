@@ -1,5 +1,6 @@
 ---
 title: "Awards and Scholarships"
+author_profile: true
 permalink: /Awards and Scholarships/
 layout: single
 ---
