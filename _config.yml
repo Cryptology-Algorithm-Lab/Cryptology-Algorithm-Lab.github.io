@@ -98,6 +98,7 @@ author:
   bio              : "Hello! I am researcher interested in applied cryptography especially as it relates to zero-knowledge proof and biometric. Currently I am pursuing my Master degree in applied mathemathics at Hanyang University and am advised by Jaehong Seo in Cryptology & Algorithm Lab."
   location         : "South Korea"
   email            : "ksp0352@gmail.com"
+  github : "Sunpill"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
