@@ -4,6 +4,4 @@ permalink: /News/
 layout: single
 ---
 
-## news
-
-News !
+## Opening Homepage!

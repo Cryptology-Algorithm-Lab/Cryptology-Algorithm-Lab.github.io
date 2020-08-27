@@ -2,10 +2,10 @@
 main:
   - title: "News"
     url: /News/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Awards and Scholarships"
+    url: /Awards and Scholarships/
+  - title: "Publications"
+    url: /Publications/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
