@@ -5,3 +5,5 @@ layout: single
 ---
 
 ## Opening Homepage!
+
+# Welcome!
