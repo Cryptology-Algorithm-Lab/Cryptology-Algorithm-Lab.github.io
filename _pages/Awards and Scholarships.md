@@ -1,6 +1,5 @@
 ---
 title: "Awards and Scholarships"
-permalink: /Awards and Scholarships/
 layout: single
 ---
 
