@@ -1,5 +1,5 @@
 ---
-title: "Sunpill"
+title: "Sunpill Kim"
 layout: single
 author_profile: true
 excerpt: 'Hello World !'
