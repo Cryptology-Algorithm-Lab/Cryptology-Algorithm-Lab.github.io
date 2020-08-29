@@ -276,6 +276,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      permalink: /:basename/
       read_time: true
       comments: # true
       share: true
