@@ -2,6 +2,7 @@
 title: "Awards and Scholarships"
 layout: single
 author_profile: true
+permalink: /Awards and Scholarships/
 excerpt: 'Thank you so much to everyone who helped me'
 header:
   overlay_image: /assets/images/JP1.jpg
