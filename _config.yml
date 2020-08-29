@@ -219,7 +219,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -227,7 +227,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
+  - jekyll-include-cache
 
 
 # Archives
@@ -276,6 +276,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      permalink: /:title/
       read_time: true
       comments: # true
       share: true
