@@ -22,3 +22,7 @@ Familiar with: **Python, PyTorch, Matlab.**
 |----------|--------|
 | Korean   | Fluent |
 | English  | Intermediate |
+
+## Contact
+
+For any inquires, you can reach me via email: **_[ksp0352@gmail.com](mailto:ksp0352@gmail.com)_**
