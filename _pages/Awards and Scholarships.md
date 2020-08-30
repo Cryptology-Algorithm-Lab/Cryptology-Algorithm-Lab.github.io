@@ -12,14 +12,14 @@ header:
 
 ## Awards
 
-<li>Excellence award, Academic Seminar, College of Natural Science, Hanyang University, 2019.</li>
+<li>Excellence Award, Academic Seminar, College of Natural Science, Hanyang University, 2019.</li>
 <br>
 <li>CUM LAUDE, Graduate Honors, Hanyang University, 2020.</li>
 
 
 ## Scholarships
 
-<li>Undergraduate Fellowship (merit-based), Hanyang University, 2015.3~2020.2 (4 years)</li>
+<li>Scholarship Based on Entrance Scores (50% tuition waiver), Hanyang University, 2015.3~2020.2 (4 years)</li>
 <br>
 <li>National Scholarship, Korea Student Aid Foundation, 2015.3~2020.2 (4 years).</li>
 <br>
@@ -28,3 +28,5 @@ header:
 <li>Wooin Scholarship, Wooin Scholarship Foundation, 2018.9~2019.8</li>
 <br>
 <li>Hyung Namjin Scholarship, Hyung Namjin Scholarship Foundation, 2019.3~2020.2</li>
+<br>
+<li>HY-IN Scholarship (70% tuition waiver), Hanyang University, 2020.3~2022.2</li>
