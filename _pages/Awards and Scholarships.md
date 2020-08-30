@@ -11,7 +11,8 @@ header:
 
 ## Awards
 
-Excellence award, Academic Seminar, College of Natural Science, Hanyang University, 2019. \n\n
+Excellence award, Academic Seminar, College of Natural Science, Hanyang University, 2019.
+<br>
 CUM LAUDE, Graduate Honors, Hanyang University, 2020.
 
 
