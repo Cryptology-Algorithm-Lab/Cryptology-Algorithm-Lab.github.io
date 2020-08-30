@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 layout: single
+classes: wide
 author_profile: true
 permalink: /Publications/
 excerpt: 'If you have any questions, please feel free to email me.'

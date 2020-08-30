@@ -1,6 +1,7 @@
 ---
 title: "Sunpill Kim"
 layout: single
+classes: wide
 author_profile: true
 excerpt: 'Hello World !'
 header:
