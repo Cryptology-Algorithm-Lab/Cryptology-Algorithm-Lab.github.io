@@ -11,8 +11,10 @@ header:
 
 ## Awards
 
-Thanks..
+Excellence award, Academic Seminar, College of Natural Science, Hanyang University, 2019.
+CUM LAUDE, Graduate Honors, Hanyang University, 2020.
+
 
 ## Scholarships
 
-Too many to write
+National Scholarship, Korea Student Aid Foundation, 2015.3~2020.2 (4 years).
