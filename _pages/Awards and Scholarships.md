@@ -19,7 +19,7 @@ header:
 
 ## Scholarships
 
-<li>Scholarship Based on Entrance Scores (50% tuition waiver), Hanyang University, 2015.3~2020.2 (4 years)</li>
+<li>CSAT Scholarship (entrance merit-based), Hanyang University, 2015.3~2020.2 (4 years)</li>
 <br>
 <li>National Scholarship, Korea Student Aid Foundation, 2015.3~2020.2 (4 years).</li>
 <br>
@@ -29,4 +29,4 @@ header:
 <br>
 <li>Hyung Namjin Scholarship, Hyung Namjin Scholarship Foundation, 2019.3~2020.2</li>
 <br>
-<li>HY-IN Scholarship (70% tuition waiver), Hanyang University, 2020.3~2022.2</li>
+<li>HY-IN Scholarship (entrance merit-based), Hanyang University, 2020.3~2022.2</li>
