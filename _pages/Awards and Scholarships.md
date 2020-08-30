@@ -1,6 +1,7 @@
 ---
 title: "Awards and Scholarships"
 layout: single
+classes: wide
 author_profile: true
 permalink: /Awards and Scholarships/
 excerpt: 'Thank you so much to everyone who helped me'
