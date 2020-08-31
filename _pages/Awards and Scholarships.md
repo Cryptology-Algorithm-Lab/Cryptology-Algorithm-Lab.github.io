@@ -23,7 +23,7 @@ header:
 <br>
 <li>National Scholarship, Korea Student Aid Foundation, 2015.3~2020.2 (4 years).</li>
 <br>
-<li>Seoul Hope Scholarship, Soult Scholarship Foundation, 2018.3~2019.2</li>
+<li>Seoul Hope Scholarship, Seoul Scholarship Foundation, 2018.3~2019.2</li>
 <br>
 <li>Wooin Scholarship, Wooin Scholarship Foundation, 2018.9~2019.8</li>
 <br>
