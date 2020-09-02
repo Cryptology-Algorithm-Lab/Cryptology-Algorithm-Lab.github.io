@@ -11,7 +11,7 @@ header:
 
 # About me
 
-I'm pursuing M.S. degree in applied mathemathics at Hanyang University and am advised by Jaehong Seo in Cryptology & Algorithm Lab.
+I graduated from Hanyang University, Department of Mathematics and am pursuing master degree in applied mathemathics at same university and am advised by Jaehong Seo in Cryptology & Algorithm Lab. My main research interests are in cryptography especially zero-knowledge proof. Besides cryptography, I'm interested in artificial intelligence using deep learning such as face recognition and speaker recognition.
 
 ## Programming Skills
 
