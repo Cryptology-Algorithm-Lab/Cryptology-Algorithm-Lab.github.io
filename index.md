@@ -1,6 +1,6 @@
 ---
 title: "C&A Lab"
-layout: single
+layout: splash
 classes: wide
 author_profile: false
 excerpt: 'Hello World !'
