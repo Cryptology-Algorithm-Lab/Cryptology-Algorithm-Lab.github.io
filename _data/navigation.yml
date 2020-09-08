@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "About me"
-    url: https://sunpill.github.io
-  - title: "Awards and Scholarships"
-    url: /Awards and Scholarships/
+  - title: "About C&A Lab"
+    url: https://Cryptology-Algorithm-Lab.github.io
+  - title: "Members"
+    url: /Members/
+  - title: "Projects"
+    url: /Projects/    
   - title: "Publications"
     url: /Publications/
   # - title: "Sample Collections"

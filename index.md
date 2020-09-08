@@ -1,5 +1,5 @@
 ---
-title: "Sunpill Kim"
+title: "C&A Lab"
 layout: single
 classes: wide
 author_profile: true
@@ -11,18 +11,11 @@ header:
 
 # About me
 
-I graduated from Hanyang University, Department of Mathematics and am pursuing master degree in applied mathemathics at same university. From July 2018, I'm member of Cryptology & Algorithm Lab and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). My main research interests are in cryptography especially zero-knowledge proof. Besides cryptography, I'm interested in artificial intelligence using deep learning such as face recognition and speaker recognition.
+We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). Our main research interests are in cryptography especially zero-knowledge proof. Besides cryptography, I'm interested in artificial intelligence using deep learning such as face recognition and speaker recognition.
 
-## Programming Skills
+## Project
 
 Familiar with: **Python, PyTorch, Matlab.**
-
-## Languages
-
-| Language | Level  |
-|----------|--------|
-| Korean   | Fluent |
-| English  | Intermediate |
 
 ## Contact
 
