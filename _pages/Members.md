@@ -11,7 +11,7 @@ header:
 ---
 
 ## PostDoc
-
+<ul type="square">
 <li>Heewon Chung</li>
 
 ## Ph.D student
@@ -26,3 +26,4 @@ header:
 <li>Sunpill Kim</li>
 <br>
 <li>Hyunbeom Lee</li>
+</ul>
