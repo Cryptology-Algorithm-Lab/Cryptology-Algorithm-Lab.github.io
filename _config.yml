@@ -19,9 +19,9 @@ locale                   : "en-US"
 title                    : "Cryptology and Algorithm Lab"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Sunpill Kim"
-description              : "Sunpill Kim"
-url                      : "https://sunpill.github.io"
+name                     : "Cryptology and Algorithm Lab"
+description              : "C&A Lab"
+url                      : "https://Cryptology-Algorithm-Lab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"Sunpill/Sunpill.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/ksp.jpg
@@ -275,7 +275,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
