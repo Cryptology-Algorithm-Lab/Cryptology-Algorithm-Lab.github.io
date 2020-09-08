@@ -2,7 +2,7 @@
 title: "C&A Lab"
 layout: single
 classes: wide
-author_profile: true
+author_profile: false
 excerpt: 'Hello World !'
 header:
   overlay_image: /assets/images/hyu1.png

@@ -2,7 +2,7 @@
 title: "Projects"
 layout: single
 classes: wide
-author_profile: true
+author_profile: false
 permalink: /Projects/
 excerpt: 'Stay hungry, Stay foolish'
 header:
