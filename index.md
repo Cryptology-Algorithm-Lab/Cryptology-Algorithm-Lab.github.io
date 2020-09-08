@@ -5,13 +5,13 @@ classes: wide
 author_profile: true
 excerpt: 'Hello World !'
 header:
-  overlay_image: /assets/images/PH.jpg
+  overlay_image: /assets/images/hyu1.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 # About me
 
-We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). Our main research interests are in cryptography especially zero-knowledge proof. Besides cryptography, I'm interested in artificial intelligence using deep learning such as face recognition and speaker recognition.
+We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). Our main research interests are in cryptography especially zero-knowledge proof. Besides cryptography, We're interested in artificial intelligence using deep learning such as face recognition and speaker recognition.
 
 ## Project
 
