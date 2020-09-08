@@ -15,7 +15,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 ## Project
 
-Familiar with: **Python, PyTorch, Matlab.**
+Hahaha.. **연구과제..**
 
 ## Contact
 
