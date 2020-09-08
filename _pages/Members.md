@@ -1,7 +1,7 @@
 ---
 title: "Members"
-layout: single
-classes: splash
+layout: splash
+classes: wide
 author_profile: false
 permalink: /Members/
 excerpt: 'Anyone interested in our C&A Lab is always welcome!'

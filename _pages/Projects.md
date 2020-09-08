@@ -1,7 +1,7 @@
 ---
 title: "Projects"
-layout: single
-classes: splash
+layout: splash
+classes: wide
 author_profile: false
 permalink: /Projects/
 excerpt: 'Stay hungry, Stay foolish'
