@@ -11,18 +11,22 @@ header:
 ---
 
 ## PostDoc
+
 <ul type="square">
 <li>Heewon Chung</li>
+</ul>
 
 ## Ph.D student
 
+<ul type="square">
 <li>Changjin Kim</li>
 <br>
 <li>Chanyang Ju</li>
-
+</ul>
 
 ## Master's student
 
+<ul type="square">
 <li>Sunpill Kim</li>
 <br>
 <li>Hyunbeom Lee</li>
