@@ -29,5 +29,5 @@ header:
 <ul type="square">
 <li>Sunpill Kim</li>
 <br>
-<li>Hyunbeom Lee</li>
+<li>Hyeonbum Lee</li>
 </ul>
