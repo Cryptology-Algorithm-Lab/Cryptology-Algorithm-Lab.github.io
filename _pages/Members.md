@@ -10,6 +10,12 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
+## Professor
+
+<ul type="square">
+<li>Jae Hong Seo</li>
+</ul>
+
 ## PostDoc
 
 <ul type="square">
