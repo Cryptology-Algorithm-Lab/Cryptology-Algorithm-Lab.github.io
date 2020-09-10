@@ -19,4 +19,4 @@ Hahaha.. **연구과제..**
 
 ## Contact
 
-For any inquires, you can reach me via email: **_[ksp0352@gmail.com](mailto:ksp0352@gmail.com)_**
+For any inquires, you can reach me via email: **_[webmaster.cnalab@gmail.com](mailto:webmaster.cnalab@gmail.com)_**
