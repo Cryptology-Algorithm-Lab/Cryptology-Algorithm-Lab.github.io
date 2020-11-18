@@ -34,6 +34,11 @@ header:
 
 <ul type="square">
 <li>Sunpill Kim</li>
+    <ul type="None">
+        <li>사진</li>
+        <li>학력</li>
+        <li>관심사</li>
+    </ul>
 <br>
 <li>Hyeonbum Lee</li>
 </ul>
