@@ -32,18 +32,21 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
 
 <ul type="none">
 <li>
+    <p>
 [J20]  Hyung Tae Lee, San Ling, <b>Jae Hong Seo (corresponding author)</b>, Huaxiong Wang, and Taek-Young Youn
-<p>
-    <i>Public key encryption with equality test in the standard model.</i>
 </p>
-Information Sciences,  Vol. 516, pp 89--108, March 2020.
+    <i>Public key encryption with equality test in the standard model.</i>
+<br>
+    Information Sciences,  Vol. 516, pp 89--108, March 2020.
 </li>
 
 <li>
+    <p>
 [J19] <b>Jae Hong Seo</b>
-<p>
-    <i>Efficient Digital Signatures from RSA without Random Oracles</i>
 </p>
+    <i>Efficient Digital Signatures from RSA without Random Oracles</i>
+    <br>
+    
 Information Sciences,  Vol. 512, pp 471--480, March 2020 . [DOI](https://www.sciencedirect.com/science/article/pii/S0020025519309478?via%3Dihub)
 </li>
 </ul>
