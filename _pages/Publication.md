@@ -220,7 +220,7 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
         <p>
             <i>New Revocable IBE in Prime-Order Groups: Adaptively Secure, Decryption Key Exposure Resistant, and with Short Public Parameters</i>
             <br>
-            <b>CT-RSA</b> 2017, (DOI)
+            <b>CT-RSA</b> 2017, <A href="https://link.springer.com/chapter/10.1007%2F978-3-319-52153-4_25"> (DOI). </A>
         </p>
     </li>
     
@@ -229,7 +229,7 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
     <p>
         <i>Adaptive-ID Secure Revocable Hierarchical Identity-Based Encryption</i>
         <br>
-        <b>IWSEC</b> 2015, (DOI).
+        <b>IWSEC</b> 2015, <A href="https://link.springer.com/chapter/10.1007%2F978-3-319-22425-1_2"> (DOI). </A>
     </p>
 </li>
 
@@ -238,7 +238,7 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
     <p>
         <i>Accumulable Optimistic Fair Exchange from Verifiably Encrypted Homomorphic Signatures</i>
         <br>
-        <b>ACNS</b> 2015, (DOI).
+        <b>ACNS</b> 2015, <A href="https://link.springer.com/chapter/10.1007%2F978-3-319-28166-7_10"> (DOI). </A>
     </p>
 </li>
 
@@ -247,7 +247,7 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
     <p>
         <i>Revocable Hierarchical Identity-Based Encryption: History-Free Update, Security Against Insiders, and Short Ciphertexts</i>
         <br>
-        <b>CT-RSA</b> 2015 (DOI) (acceptance rate = 23.4%).
+        <b>CT-RSA</b> 2015 <A href="https://link.springer.com/chapter/10.1007%2F978-3-319-16715-2_6"> (DOI) </A> (acceptance rate = 23.4%).
     </p>
 </li>
 
@@ -256,7 +256,7 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
     <p>
         <i>A New Additive Homomorphic Encryption based on the co-ACD Problem</i>
         <br>
-        <b>ACM-CCS</b> 2014 (DOI) (acceptance rate = 19.5%). 
+        <b>ACM-CCS</b> 2014 <A href="https://dl.acm.org/doi/10.1145/2660267.2660335"> (DOI) </A> (acceptance rate = 19.5%). 
     </p>
 </li>
 
@@ -265,7 +265,7 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
     <p>
         <i>Security Analysis of Multilinear Maps over the Integers</i>
         <br>
-        <b>IACR-CRYPTO</b> 2014 (DOI) (acceptance rate = 26%). 
+        <b>IACR-CRYPTO</b> 2014 <A href="https://link.springer.com/chapter/10.1007%2F978-3-662-44371-2_13"> (DOI) </A> (acceptance rate = 26%). 
     </p>
 </li>
 
@@ -274,7 +274,7 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
     <p>
         <i>Practical Signatures from Standard Assumptions</i>
         <br>
-        <b>IACR-EUROCRYPT</b> 2013 (link) (acceptance rate = 20%).
+        <b>IACR-EUROCRYPT</b> 2013 <A href="https://link.springer.com/chapter/10.1007/978-3-642-38348-9_28"> (DOI) </A> (acceptance rate = 20%).
     </p>
 </li>
 
@@ -283,7 +283,7 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
     <p>
         <i>Revocable Identity-Based Encryption, Revisited: Security Definition and Construction</i>
         <br>
-        <b>IACR-PKC</b> 2013 (link) (acceptance rate = 28%).
+        <b>IACR-PKC</b> 2013 <A href="https://eprint.iacr.org/2013/016"> (link) </A> (acceptance rate = 28%).
     </p>
 </li>
 
@@ -292,7 +292,7 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
     <p>
         <i>Efficient Delegation of Key Generation and Revocation Functionalities in Identity-Based Encryption</i>
         <br>
-        <b>CT-RSA</b> 2013 (link) (acceptance rate = 28%).
+        <b>CT-RSA</b> 2013 <A href="https://eprint.iacr.org/2013/018"> (link) </A> (acceptance rate = 28%).
     </p>
 </li>
 
@@ -301,7 +301,7 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
     <p>
         <i>On the (Im)possibility of Projecting Property in Prime-Order Setting</i>
         <br>
-        <b>IACR-ASIACRYPT</b> 2012  (link) (acceptance rate = 17%).
+        <b>IACR-ASIACRYPT</b> 2012  <A href="https://eprint.iacr.org/2013/186"> (link) </A> (acceptance rate = 17%).
     </p>
 </li>
 
@@ -310,7 +310,7 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
     <p>
         <i>Constant-Round Multi-Party Private Set Union using Reversed Laurent Series</i>
         <br>          
-        <b>IACR-PKC</b> 2012 (DOI) (acceptance rate = 22%).
+        <b>IACR-PKC</b> 2012 <A href="https://link.springer.com/chapter/10.1007/978-3-642-30057-8_24"> (DOI) </A> (acceptance rate = 22%).
     </p>
 </li>
 
@@ -319,7 +319,7 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
     <p>
         <i>Beyond the Limitation of Prime-Order Bilinear Groups, and Round Optimal Blind Signatures</i>
         <br>
-        <b>IACR-TCC</b> 2012 (link) (acceptance rate = 27%). 
+        <b>IACR-TCC</b> 2012 <A href="https://eprint.iacr.org/2012/198"> (link) </A> (acceptance rate = 27%). 
     </p>
 </li>
 
@@ -343,3 +343,41 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
 </ul>
 
 ### other
+
+<ul type="none">
+<li>
+    [E4]  Jinsu Kim, Sungwook Kim, and <b>Jae Hong Seo (corresponding author)</b>; [alphabetical order]
+    <p>
+        <i>Multilinear Map via Scale-Invariant FHE: Enhancing Security and Efficiency</i>
+        <br>
+        ePrint Archive (<A href="http://eprint.iacr.org/2015/992"> http://eprint.iacr.org/2015/992 </A>).
+    </p>
+</li>
+
+<li>
+    [E3]  <b>Jae Hong Seo</b>
+    <p>
+        <i>Short signatures from Diffie-Hellman, Revisited: Sublinear public key, CMA security, and tighter reduction</i>
+        <br>
+        ePrint Archive (<A href="http://eprint.iacr.org/2014/138"> http://eprint.iacr.org/2014/138 </A>).
+    </p>
+</li>
+
+<li>
+    [E2]  <b>Jae Hong Seo</b>
+    <p>
+        <i>Short signatures from Diffie-Hellman: Realizing short public key</i>
+        <br>
+        ePrint Archive (<A href="http://eprint.iacr.org/2012/480"> http://eprint.iacr.org/2012/480 </A>), (Eurocrypt 2013, merged with another paper)
+    </p>
+</li>
+
+<li>
+    [E1]  <b>Jae Hong Seo</b> and Jung Hee Cheon
+    <p>
+        <i>Fully secure anonymous hierarchical identity-based encryption with constant size ciphertexts</i>
+        <br>
+        ePrint Archive (<A href="http://eprint.iacr.org/2011/021"> http://eprint.iacr.org/2011/021 </A>).
+    </p>
+</li>
+</ul>
