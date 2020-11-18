@@ -12,6 +12,6 @@ header:
 
 ## Ongoing
 
-"Mar 2020 - Feb 2021", 양자내성을 가지는 효율적 단방향 영지식 증명 방법에 관한 연구 (Research on Post-Quantum Non-Interactive Zero-Knowledge Proofs), ETRI부설국가보안기술연구소 (National Security Research Institute)
+"Mar 2020 - Feb 2021", 양자내성을 가지는 효율적 단방향 영지식 증명 방법에 관한 연구 (Research on Post-Quantum Non-Interactive Zero-Knowledge Proofs), 한국연구재단 (National Reserch Foundation of KOREA, NRF)
 
 ## Finished
