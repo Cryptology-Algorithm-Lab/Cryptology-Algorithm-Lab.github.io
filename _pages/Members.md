@@ -33,7 +33,7 @@ header:
 ## Master's student
 
 <ul type="square">
-<li>Sunpill Kim
+<li><b sytle="font-size:120%;">Sunpill Kim</b>
     <br>
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill.jpg" alt="" height="160" width="120">
     <br>
@@ -42,7 +42,7 @@ header:
     Hanyang University
     <br>
     <i><p style="text-align:left;">MS in Applied Mathematics<span style="float:right;">Mar 2020 - present</span><br>
-        <span style="text-align:left;">BS in Mathematics, Cum laude</span><span style="float:right;"> Mar 2015 - Feb 2020</span></p></i>
+        <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2015 - Feb 2020</span></p></i>
     <b>Academic Interests</b>
     <br>
     Cryptography(Zero-Knowledge Proofs), Deep Learning-Based Biometric(Face Recognition)
