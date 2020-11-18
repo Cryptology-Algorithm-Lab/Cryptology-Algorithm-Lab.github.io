@@ -33,8 +33,11 @@ header:
 ## Master's student
 
 <ul type="square">
-<li>Sunpill Kim <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill.jpg" alt="" height="160" width="120"></li>
+<li>Sunpill Kim</li>
     <ul type="None">
+        <li>
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill.jpg" alt="" height="160" width="120">
+        </li>
         <li>
             <b>Education</b>
             <br>
