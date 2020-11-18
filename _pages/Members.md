@@ -33,25 +33,20 @@ header:
 ## Master's student
 
 <ul type="square">
-<li>Sunpill Kim</li>
-    <ul type="None">
-        <li>
-            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill.jpg" alt="" height="160" width="120">
-        </li>
-        <li>
-            <b>Education</b>
-            <br>
-            Hanyang University
-            <br>
-            <i><p style="text-align:left;">MS in Applied Mathematics<span style="float:right;">Mar 2020 - present</span><br>
-                <span style="text-align:left;">BS in Mathematics, Cum laude</span><span style="float:right;"> Mar 2015 - Feb 2020</span></p></i>
-        </li>
-        <li>
-            <b>Academic Interests</b>
-            <br>
-            Cryptography(Zero-Knowledge Proofs), Deep Learning-Based Biometric(Face Recognition)
-        </li>
-    </ul>
+<li>Sunpill Kim
+    <br>
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill.jpg" alt="" height="160" width="120">
+    <br>
+    <b>Education</b>
+    <br>
+    Hanyang University
+    <br>
+    <i><p style="text-align:left;">MS in Applied Mathematics<span style="float:right;">Mar 2020 - present</span><br>
+        <span style="text-align:left;">BS in Mathematics, Cum laude</span><span style="float:right;"> Mar 2015 - Feb 2020</span></p></i>
+    <b>Academic Interests</b>
+    <br>
+    Cryptography(Zero-Knowledge Proofs), Deep Learning-Based Biometric(Face Recognition)
+</li>   
 <br>
 <li>Hyeonbum Lee</li>
 </ul>
