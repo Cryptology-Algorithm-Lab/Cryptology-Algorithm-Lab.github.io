@@ -214,6 +214,132 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
 
 ## Conference
 
+<ul type="none">
+    <li>
+        [C14] Yohei Watanabe, Keita Emura, and <b>Jae Hong Seo</b>
+        <p>
+            <i>New Revocable IBE in Prime-Order Groups: Adaptively Secure, Decryption Key Exposure Resistant, and with Short Public Parameters</i>
+            <br>
+            <b>CT-RSA</b> 2017, (DOI)
+        </p>
+    </li>
+    
+<li>
+    [C13] <b>Jae Hong Seo</b> and Keita Emura
+    <p>
+        <i>Adaptive-ID Secure Revocable Hierarchical Identity-Based Encryption</i>
+        <br>
+        <b>IWSEC</b> 2015, (DOI).
+    </p>
+</li>
 
+<li>
+    [C12] <b>Jae Hong Seo</b>, Keita Emura, Keita Xagawa, and Kazuki Yoneyama
+    <p>
+        <i>Accumulable Optimistic Fair Exchange from Verifiably Encrypted Homomorphic Signatures</i>
+        <br>
+        <b>ACNS</b> 2015, (DOI).
+    </p>
+</li>
+
+<li>
+    [C11] <b>Jae Hong Seo</b> and Keita Emura
+    <p>
+        <i>Revocable Hierarchical Identity-Based Encryption: History-Free Update, Security Against Insiders, and Short Ciphertexts</i>
+        <br>
+        <b>CT-RSA</b> 2015 (DOI) (acceptance rate = 23.4%).
+    </p>
+</li>
+
+<li>
+    [C10] Jung Hee Cheon, Hyung Tae Lee, and <b>Jae Hong Seo</b>; [alphabetical order]
+    <p>
+        <i>A New Additive Homomorphic Encryption based on the co-ACD Problem</i>
+        <br>
+        <b>ACM-CCS</b> 2014 (DOI) (acceptance rate = 19.5%). 
+    </p>
+</li>
+
+<li>
+    [C9]  Hyung Tae Lee and <b>Jae Hong Seo (corresponding author)</b>; [alphabetical order]
+    <p>
+        <i>Security Analysis of Multilinear Maps over the Integers</i>
+        <br>
+        <b>IACR-CRYPTO</b> 2014 (DOI) (acceptance rate = 26%). 
+    </p>
+</li>
+
+<li>
+    [C8]  Florian Böhl, Dennis Hofheinz, Tibor Jager, Jessica Koch, <b>Jae Hong Seo</b>, and Christoph Striecks; [alphabetical order]
+    <p>
+        <i>Practical Signatures from Standard Assumptions</i>
+        <br>
+        <b>IACR-EUROCRYPT</b> 2013 (link) (acceptance rate = 20%).
+    </p>
+</li>
+
+<li>
+    [C7]  <b>Jae Hong Seo</b> and Keita Emura
+    <p>
+        <i>Revocable Identity-Based Encryption, Revisited: Security Definition and Construction</i>
+        <br>
+        <b>IACR-PKC</b> 2013 (link) (acceptance rate = 28%).
+    </p>
+</li>
+
+<li>
+    [C6]  <b>Jae Hong Seo</b> and Keita Emura
+    <p>
+        <i>Efficient Delegation of Key Generation and Revocation Functionalities in Identity-Based Encryption</i>
+        <br>
+        <b>CT-RSA</b> 2013 (link) (acceptance rate = 28%).
+    </p>
+</li>
+
+<li>
+    [C5]  <b>Jae Hong Seo</b>
+    <p>
+        <i>On the (Im)possibility of Projecting Property in Prime-Order Setting</i>
+        <br>
+        <b>IACR-ASIACRYPT</b> 2012  (link) (acceptance rate = 17%).
+    </p>
+</li>
+
+<li>
+    [C4]  <b>Jae Hong Seo</b>, Jung Hee Cheon, and Jonathan Katz
+    <p>
+        <i>Constant-Round Multi-Party Private Set Union using Reversed Laurent Series</i>
+        <br>          
+        <b>IACR-PKC</b> 2012 (DOI) (acceptance rate = 22%).
+    </p>
+</li>
+
+<li>
+    [C3]  <b>Jae Hong Seo</b> and Jung Hee Cheon
+    <p>
+        <i>Beyond the Limitation of Prime-Order Bilinear Groups, and Round Optimal Blind Signatures</i>
+        <br>
+        <b>IACR-TCC</b> 2012 (link) (acceptance rate = 27%). 
+    </p>
+</li>
+
+<li>
+    [C2]  <b>Jae Hong Seo</b>
+    <p>
+        <i>Round-Efficient Sub-linear Zero-Knowledge Arguments for Linear Algebra</i>
+        <br>
+        <b>IACR-PKC</b> 2011 (acceptance rate = 27%). 
+    </p>
+</li>
+
+<li>
+    [C1]  <b>Jae Hong Seo</b>, Tetsutaro Kobayashi, Miyako Ohkubo, and Koutarou Suzuki
+    <p>
+        <i>Anonymous Hierarchical Identity-Based Encryption with Constant Size Ciphertexts</i>
+        <br>
+        <b>IACR-PKC</b> 2009 (acceptance rate = 25%). 
+    </p>
+</li>
+</ul>
 
 ### other
