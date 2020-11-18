@@ -25,6 +25,15 @@ header:
 ## Finished
 <ul type="square">
     <li>
-        Dec 2017 - Dec 2019, 실수 기반 Fuzzy Extractor 기술 개발, 삼성전자
+        Dec 2018 - Dec 2019, 실수 기반 Fuzzy Extractor 기술 개발, 삼성전자
     </li>
+    <li>
+        Jul 2018 - Feb 2020, 격자 구조가 가지는 암호학적 성질에 관한 연구, 한국연구재단
+    </li>
+    <li>
+        Apr 2020 - Oct 2020, 양자내성 영지식 증명 설계기법 및 적용방안 연구, 국가보안기술연구소
+    </li>
+    <li>
+        May 2019 - Oct 2020, 격자 기반 영지식 증명 설계 기법 연구, 국가보안기술연구소
+    </li>    
 </ul>
