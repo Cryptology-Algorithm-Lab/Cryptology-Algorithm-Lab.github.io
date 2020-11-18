@@ -40,7 +40,7 @@ header:
             <br>
             Hanyang University
             <br>
-            <i>MS in Applied Mathematics Mar 2020 - present</i>
+            <i><span class="left">MS in Applied Mathematics</span><span class="right">Mar 2020 - present</span></i>
             <br>
             Hanyang University
             <br>
