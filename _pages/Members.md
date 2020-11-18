@@ -33,10 +33,10 @@ header:
 ## Master's student
 
 <ul type="square">
-<li><b sytle="font-size:120%;">Sunpill Kim</b>
+<li><p style="text-align:left;"><b sytle="font-size:120%;">Sunpill Kim</b>
     <br>
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill.jpg" alt="" height="160" width="120">
-    <br>
+    <span style="float:center;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill.jpg" alt="" height="160" width="120"></span>
+    </p>
     <b>Education</b>
     <br>
     Hanyang University
