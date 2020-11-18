@@ -13,12 +13,14 @@ header:
 ## Proceeding
 
 <ul type="none">
-<li>[P2]Jae Hong Seo
+<li>
+[P2] <b>Jae Hong Seo</b>
 <br>
 Information Security and Cryptology - ICISC 2019 - 22nd International Conference, Seoul, South Korea, December 4-6, 2019, Revised Selected Papers. Lecture Notes in Computer Science 11975, Springer 2020.
 </li>
 
-<li>[P1] Keita Emura, Jae Hong Seo, and Yohei Watanabe
+<li>
+[P1] Keita Emura, <b>Jae Hong Seo</b>, and Yohei Watanabe
 <br>
 Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCCS, Incheon, Republic of Korea, June 4, 2018. ACM 2018
 </li>
@@ -26,23 +28,27 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
 
 ## Journal
 
-[J20]  Hyung Tae Lee, San Ling, <li>Jae Hong Seo (corresponding author)</li>, Huaxiong Wang, and Taek-Young Youn
+<ul type="none">
+<li>
+[J20]  Hyung Tae Lee, San Ling, <b>Jae Hong Seo (corresponding author)</b>, Huaxiong Wang, and Taek-Young Youn
 <p>
-Public key encryption with equality test in the standard model. 
+    <i>Public key encryption with equality test in the standard model.</i>
 </p>
 <p>
 Information Sciences,  Vol. 516, pp 89--108, March 2020.
 </p>
+</li>
 
-[J19] <li>Jae Hong Seo</li>
-
+<li>
+[J19] <b>Jae Hong Seo</b>
 <p>
-Efficient Digital Signatures from RSA without Random Oracles
+    <i>Efficient Digital Signatures from RSA without Random Oracles</i>
 </p>
 <p>
 Information Sciences,  Vol. 512, pp 471--480, March 2020 . [DOI](https://www.sciencedirect.com/science/article/pii/S0020025519309478?via%3Dihub)
 </p>
-
+</li>
+</ul>
 
 ## Conference
 
