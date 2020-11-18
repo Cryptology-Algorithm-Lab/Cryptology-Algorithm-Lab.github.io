@@ -35,7 +35,7 @@ header:
 <ul type="square">
 <li><p style="text-align:left;"><b sytle="font-size:120%;">Sunpill Kim</b>
     <br>
-    <span style="float:center;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill.jpg" alt="" height="160" width="120"></span>
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill.jpg" alt="" height="160" width="120">
     </p>
     <b>Education</b>
     <br>
