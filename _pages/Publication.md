@@ -15,14 +15,16 @@ header:
 <ul type="none">
 <li>
 [P2] <b>Jae Hong Seo</b>
-<br>
+<p>
 Information Security and Cryptology - ICISC 2019 - 22nd International Conference, Seoul, South Korea, December 4-6, 2019, Revised Selected Papers. Lecture Notes in Computer Science 11975, Springer 2020.
+</p>
 </li>
 
 <li>
 [P1] Keita Emura, <b>Jae Hong Seo</b>, and Yohei Watanabe
-<br>
+<p>
 Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCCS, Incheon, Republic of Korea, June 4, 2018. ACM 2018
+    </p>
 </li>
 </ul>
 
@@ -34,9 +36,7 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
 <p>
     <i>Public key encryption with equality test in the standard model.</i>
 </p>
-<p>
 Information Sciences,  Vol. 516, pp 89--108, March 2020.
-</p>
 </li>
 
 <li>
@@ -44,9 +44,7 @@ Information Sciences,  Vol. 516, pp 89--108, March 2020.
 <p>
     <i>Efficient Digital Signatures from RSA without Random Oracles</i>
 </p>
-<p>
 Information Sciences,  Vol. 512, pp 471--480, March 2020 . [DOI](https://www.sciencedirect.com/science/article/pii/S0020025519309478?via%3Dihub)
-</p>
 </li>
 </ul>
 
