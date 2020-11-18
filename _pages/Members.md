@@ -33,7 +33,7 @@ header:
 ## Master's student
 
 <ul type="square">
-    <li><p style="text-align:left;"><A href:"https://sunpill.github.io"><b sytle="font-size:120%;">Sunpill Kim</b></A>
+    <li><p style="text-align:left;"><A href="https://sunpill.github.io"><b sytle="font-size:120%;">Sunpill Kim</b></A>
     <br>
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill.jpg" alt="" height="160" width="120">
     </p>
