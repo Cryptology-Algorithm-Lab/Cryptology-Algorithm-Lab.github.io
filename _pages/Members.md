@@ -33,15 +33,14 @@ header:
 ## Master's student
 
 <ul type="square">
-<li>Sunpill Kim</li>
+<li>Sunpill Kim <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill.jpg" alt="" height="160" width="120"></li>
     <ul type="None">
-        <li><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill.jpg" alt="" height="160" width="120"></li>
         <li>
             <b>Education</b>
             <br>
             Hanyang University
             <br>
-            <i>MS in Applied Mathematics <div styel="text-align:right;">Mar 2020 - present</div></i>
+            <i>MS in Applied Mathematics Mar 2020 - present</i>
             <br>
             Hanyang University
             <br>
