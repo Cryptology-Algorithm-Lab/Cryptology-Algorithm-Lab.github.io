@@ -41,7 +41,11 @@ header:
             <br>
             Hanyang University
             <br>
-            <i>BS in Mathematics, Cum laude</i>
+            <i>MS in Applied Mathematics <div styel="text-align:right;">Mar 2020 - present</div></i>
+            <br>
+            Hanyang University
+            <br>
+            <i>BS in Mathematics, Cum laude Mar 2015 - Feb 2020</i>
         </li>
         <li>
             <b>Academic Interests</b>
