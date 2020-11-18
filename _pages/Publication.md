@@ -54,7 +54,7 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
     <p>
         <i>Public Key Encryption with Equality Test from Generic Assumptions in the Random Oracle Model</i>
         <br>
-        Information Sciences, Vol.500, pp 15--33, 2019. DOI
+        Information Sciences, Vol.500, pp 15--33, 2019. <A href="https://www.sciencedirect.com/science/article/pii/S002002551930430X?via%3Dihub"> [DOI] </A>
     </p>
 </li>
 
@@ -63,7 +63,7 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
     <p>
         <i>A New Approach for Practical Function-Private Inner Product Encryption.</i>
         <br>
-        Theoretical Computer Science, Vol. 783,  pp 22--40, September 2019. DOI
+        Theoretical Computer Science, Vol. 783,  pp 22--40, September 2019. <A href="https://www.sciencedirect.com/science/article/pii/S0304397519301690?via%3Dihub"> [DOI] </A>
     </p>
 </li>
 
@@ -90,7 +90,7 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
     <p>
         <i>Short Signatures from Diffie–Hellman: Realizing Almost Compact Public Key</i>
         <br>
-        Journal of Cryptology, Volume 30, Issue 3, pp 735--759, July 2017. DOI
+        Journal of Cryptology, Volume 30, Issue 3, pp 735--759, July 2017. <A href="https://link.springer.com/article/10.1007/s00145-016-9234-8"> [DOI] </A>
     </p>
 </li>
 
@@ -117,7 +117,7 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
     <p>
         <i>Revocable hierarchical identity-based encryption via history-free approach</i>
         <br>
-        Theoretical Computer Science, Vol.615,  pp45--60, 2016. DOI
+        Theoretical Computer Science, Vol.615,  pp45--60, 2016. <A href="https://www.sciencedirect.com/science/article/pii/S0304397515011354"> [DOI] </A>
     </p>
 </li>
 
@@ -144,7 +144,7 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
     <p>
         <i>Revocable Identity-Based Cryptosystem Revisited: Security Models and Constructions</i>
         <br>
-        IEEE Transactions on Information Forensics and Security, Vol.9(7), pp1193--1205, 2014. DOI 
+        IEEE Transactions on Information Forensics and Security, Vol.9(7), pp1193--1205, 2014. <A href="https://ieeexplore.ieee.org/document/6824197?arnumber=6824197"> [DOI] </A> 
     </p>
 </li>
 
@@ -153,7 +153,7 @@ Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCC
     <p>
         <i>Revocable Hierarchical Identity-Based Encryption</i>
         <br>
-        Theoretical Computer Science,Vol.542, pp44--62, 2014. DOI
+        Theoretical Computer Science,Vol.542, pp44--62, 2014. <A href="https://www.sciencedirect.com/science/article/pii/S0304397514003363?via%3Dihub"> [DOI] </A>
     </p>
 </li>
 
