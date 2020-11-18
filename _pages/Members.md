@@ -35,7 +35,7 @@ header:
 <ul type="square">
 <li>Sunpill Kim</li>
     <ul type="None">
-        <li>사진</li>
+        <li>사진<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill.jpg" alt=""></li>
         <li>학력</li>
         <li>관심사</li>
     </ul>
