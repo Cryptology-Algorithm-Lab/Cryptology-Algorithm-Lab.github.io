@@ -35,15 +35,19 @@ header:
 <ul type="square">
 <li>Sunpill Kim</li>
     <ul type="None">
-        <li>사진<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill.jpg" alt="" height="320" width="240"></li>
+        <li><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill.jpg" alt="" height="160" width="120"></li>
         <li>
-            Education
+            <b>Education</b>
             <br>
             Hanyang University
             <br>
             <i>BS in Mathematics, Cum laude</i>
         </li>
-        <li>관심사</li>
+        <li>
+            <b>Academic Interests</b>
+            <br>
+            Cryptography(Zero-Knowledge Proofs), Deep Learning-Based Biometric(Face Recognition)
+        </li>
     </ul>
 <br>
 <li>Hyeonbum Lee</li>
