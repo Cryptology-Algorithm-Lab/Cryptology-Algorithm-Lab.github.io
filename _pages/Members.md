@@ -28,14 +28,14 @@ header:
     Seoul National University
     <br>
     <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Mar 201? - Feb 2017</span><br>
-        <span style="text-align:left;">MS in Mathematics</span><span style="float:right;"> Mar 201? - Feb 2013</span><br></i><p>
-        <span style="text-align:left;">KAIST</span><br>
-        <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 200? - Feb 2010</span></p>
+        <span style="text-align:left;">MS in Mathematics</span><span style="float:right;"> Mar 201? - Feb 2013</span></p></i>
+    KAIST
+    <br>
+    <i><p style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 200? - Feb 2010</span></p></i>
     <u>Research Interests</u>
     <br>
     Zero-Knowledge Proofs, Blockchain, Homomorphic Encryption
 </ul>
-
 
 ## Ph.D student
 
@@ -45,9 +45,7 @@ header:
 <li>Chanyang Ju</li>
 </ul>
 
-
 ## Master's student
-
 
 <ul type="square">
     <li><p style="text-align:left;"><A href="https://sunpill.github.io"><b sytle="font-size:120%;">Sunpill Kim</b></A>
