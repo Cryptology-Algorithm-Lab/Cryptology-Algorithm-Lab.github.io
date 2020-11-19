@@ -19,7 +19,21 @@ header:
 ## PostDoc
 
 <ul type="square">
-<li>Heewon Chung</li>
+    <li><p style="text-align:left;"><b sytle="font-size:120%;">Heewon Chung</b>
+    <br>
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Heewon.jpg" alt="" height="160" width="120">
+    </p>
+    <u>Education</u>
+    <br>
+    Seoul National University
+    <br>
+    <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Mar 201? - Feb 2017</span><br>
+        <span style="text-align:left;">MS in Mathematics</span><span style="float:right;"> Mar 201? - Feb 2013</span><br>
+        <span style="text-align:left;">KAIST</span><br>
+        <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 200? - Feb 2010</span></p></i>
+    <u>Academic Interests</u>
+    <br>
+    Zero-Knowledge Proofs, Blockchain, Homomorphic Encryption
 </ul>
 
 ## Ph.D student
