@@ -31,7 +31,7 @@ header:
         <span style="text-align:left;">MS in Mathematics</span><span style="float:right;"> Mar 201? - Feb 2013</span></p></i>
     KAIST
     <br>
-    <i><p style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 200? - Feb 2010</span></p></i>
+    <i><p style="text-align:left;">BS in Mathematics<span style="float:right;"> Mar 200? - Feb 2010</span></p></i>
     <u>Research Interests</u>
     <br>
     Zero-Knowledge Proofs, Blockchain, Homomorphic Encryption
