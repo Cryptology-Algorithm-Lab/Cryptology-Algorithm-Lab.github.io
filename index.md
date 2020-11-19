@@ -13,9 +13,18 @@ header:
 
 We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). Our main research interests are in cryptography especially zero-knowledge proof. Besides cryptography, We're interested in artificial intelligence using deep learning such as face recognition and speaker recognition.
 
-## Project
+## Ongoing Project
 
-Hahaha.. **연구과제..**
+<ul type="square">
+    <li>
+        Mar 2020 - Feb 2021, 양자내성을 가지는 효율적 단방향 영지식 증명 방법에 관한 연구, 한국연구재단
+        <br>
+        Research on Post-Quantum Non-Interactive Zero-Knowledge Proofs, National Research Foundation of KOREA (NRF)
+    </li>
+    <li>
+        Nov 2016 - Jul 2021, 함수암호 기법 설계·분석 및 구현기술 연구, IITP
+    </li>
+</ul>    
 
 ## Contact
 
