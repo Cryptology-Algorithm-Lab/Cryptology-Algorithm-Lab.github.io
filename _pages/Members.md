@@ -35,6 +35,7 @@ header:
     <u>Research Interests</u>
     <br>
     Zero-Knowledge Proofs, Blockchain, Homomorphic Encryption
+    </li>
 </ul>
 
 ## Ph.D student
