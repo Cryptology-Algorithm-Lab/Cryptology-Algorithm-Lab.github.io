@@ -19,7 +19,8 @@ header:
         Research on Post-Quantum Non-Interactive Zero-Knowledge Proofs, National Research Foundation of KOREA (NRF)
     </li>
     <li>
-        Nov 2016 - Jul 2021, 함수암호 기법 설계·분석 및 구현기술 연구, IITP
+        Nov 2016 - Jul 2021, 함수암호 기법 설계·분석 및 구현기술 연구, 정보통신기획평가원 (IITP)
+        Research on Functional Encryption Technique Design, Analysis and Implementation Technology, Institute for Information and Communications Technology Promotion (IITP)
     </li>
 </ul>    
         

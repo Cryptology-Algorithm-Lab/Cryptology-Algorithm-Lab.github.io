@@ -57,8 +57,24 @@ header:
 ## Ph.D student
 
 <ul type="square">
-    <li>
-        Changjin KIM
+    <li><p style="text-align:left;"><b sytle="font-size:120%;">Changjin Kim</b>
+    <br>
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Changjin.jpg" alt="" height="160" width="120">
+    </p>
+    <u>Education</u>
+    <br>
+    Hanyang University
+    <br>
+    <p style="text-align:left;"><i>Ph.D in Mathematics</i> (Transfer from Myongji University)<span style="float:right;"><i>Mar 2018 - present</i></span><br>
+        </p>
+    Myongji University
+    <br>
+    <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Mar 2017 - Feb 2018</span><br>
+        <span style="text-align:left;">MS in Mathematics</span><span style="float:right;">Mar 2015 - Feb 2017</span><br>
+        <span style="text-align:left;">BS in Mathematics</span><span style="float:right;">Mar 2009 - Feb 2015</span></p></i>
+    <u>Research Interests</u>
+    <br>
+    Zero-Knowledge Proofs, Computer Vision, Blockchain
     </li>
     <li><p style="text-align:left;"><A href="https://chanyangju.github.io"><b sytle="font-size:120%;">Chanyang Ju</b></A>
     <br>
