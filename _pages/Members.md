@@ -41,9 +41,26 @@ header:
 ## Ph.D student
 
 <ul type="square">
-<li>Changjin Kim</li>
-<br>
-<li>Chanyang Ju</li>
+    <li>
+        Changjin KIM
+    </li>
+    <li><p style="text-align:left;"><b sytle="font-size:120%;">Chanyang Ju</b>
+    <br>
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Chanyang Ju.jpg" alt="" height="160" width="120">
+    </p>
+    <u>Education</u>
+    <br>
+    Hanyang University
+    <br>
+    <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Mar 2018 - present</span><br>
+        </p></i>
+    Myongji University
+    <br>
+    <i><p style="text-align:left;">BS in Mathematics<span style="float:right;"> Mar 2013 - Feb 2018</span></p></i>
+    <u>Research Interests</u>
+    <br>
+    Cryptography, Blockchain, Information Theory
+    </li>
 </ul>
 
 ## Master's student
@@ -57,11 +74,11 @@ header:
     <br>
     Hanyang University
     <br>
-    <i><p style="text-align:left;">MS in Applied Mathematics<span style="float:right;">Mar 2020 - present</span><br>
+    <i><p style="text-align:left;">MS in Mathematics<span style="float:right;">Mar 2020 - present</span><br>
         <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2015 - Feb 2020</span></p></i>
     <u>Academic Interests</u>
     <br>
-    Cryptography(Zero-Knowledge Proofs), Deep Learning-Based Biometric(Face Recognition)
+    Zero-Knowledge Proofs, Deep Learning-Based Biometric, Computer Vision
 </li>   
 <br>
     <li><p style="text-align:left;"><b sytle="font-size:120%;">HyeonBum Lee</b>
@@ -72,7 +89,7 @@ header:
     <br>
     Hanyang University
     <br>
-    <i><p style="text-align:left;">MS in Applied Mathematics<span style="float:right;">Mar 2020 - present</span><br>
+    <i><p style="text-align:left;">MS in Mathematics<span style="float:right;">Mar 2020 - present</span><br>
         <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2014 - Feb 2018</span></p></i>
     <u>Academic Interests</u>
     <br>
