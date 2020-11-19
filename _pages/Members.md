@@ -13,7 +13,23 @@ header:
 ## Professor
 
 <ul type="square">
-<li>Jae Hong Seo</li>
+    <li><p style="text-align:left;"><A href="https://sites.google.com/site/jhsbhs/"><b sytle="font-size:120%;">Jae Hong Seo</b></A>
+    <br>
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jaehong.jpg" alt="" height="160" width="120">
+    </p>
+    <u>Education</u>
+    <br>
+    Seoul National University
+    <br>
+    <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Feb ????</span><br>
+        <span style="text-align:left;">MS in Mathematics</span><span style="float:right;">Feb ????</span></p></i>
+    Korea University
+    <br>
+    <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Feb ????</span></p></i>
+    <u>Research Interests</u>
+    <br>
+    Zero-Knowledge Proofs, ???, ???, ???, ???, ???
+    </li>
 </ul>
 
 ## PostDoc
@@ -27,11 +43,11 @@ header:
     <br>
     Seoul National University
     <br>
-    <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Mar 201? - Feb 2017</span><br>
-        <span style="text-align:left;">MS in Mathematics</span><span style="float:right;"> Mar 201? - Feb 2013</span></p></i>
+    <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Feb 2017</span><br>
+        <span style="text-align:left;">MS in Mathematics</span><span style="float:right;">Feb 2013</span></p></i>
     KAIST
     <br>
-    <i><p style="text-align:left;">BS in Mathematics<span style="float:right;"> Mar 200? - Feb 2010</span></p></i>
+    <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Feb 2010</span></p></i>
     <u>Research Interests</u>
     <br>
     Zero-Knowledge Proofs, Blockchain, Homomorphic Encryption
@@ -44,9 +60,9 @@ header:
     <li>
         Changjin KIM
     </li>
-    <li><p style="text-align:left;"><b sytle="font-size:120%;">Chanyang Ju</b>
+    <li><p style="text-align:left;"><A href="https://chanyangju.github.io"><b sytle="font-size:120%;">Chanyang Ju</b></A>
     <br>
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Chanyang Ju.jpg" alt="" height="160" width="120">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Chanyang.jpg" alt="" height="160" width="120">
     </p>
     <u>Education</u>
     <br>
@@ -76,12 +92,12 @@ header:
     <br>
     <i><p style="text-align:left;">MS in Mathematics<span style="float:right;">Mar 2020 - present</span><br>
         <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2015 - Feb 2020</span></p></i>
-    <u>Academic Interests</u>
+    <u>Research Interests</u>
     <br>
     Zero-Knowledge Proofs, Deep Learning-Based Biometric, Computer Vision
 </li>   
 <br>
-    <li><p style="text-align:left;"><b sytle="font-size:120%;">HyeonBum Lee</b>
+    <li><p style="text-align:left;"><A href="https://hyeonbumlee.github.io"><b sytle="font-size:120%;">HyeonBum Lee</b></A>
     <br>
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Hyeonbum.jpg" alt="" height="160" width="120">
     </p>
@@ -91,7 +107,7 @@ header:
     <br>
     <i><p style="text-align:left;">MS in Mathematics<span style="float:right;">Mar 2020 - present</span><br>
         <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2014 - Feb 2018</span></p></i>
-    <u>Academic Interests</u>
+    <u>Research Interests</u>
     <br>
     Cryptography(Zero-Knowledge Proofs)
     </li>
