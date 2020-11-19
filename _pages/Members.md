@@ -48,5 +48,17 @@ header:
     Cryptography(Zero-Knowledge Proofs), Deep Learning-Based Biometric(Face Recognition)
 </li>   
 <br>
-<li>Hyeonbum Lee</li>
+    <li><p style="text-align:left;"><b sytle="font-size:120%;">HyeonBum Lee</b>
+    <br>
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Hyeonbum.jpg" alt="" height="160" width="120">
+    </p>
+    <u>Education</u>
+    <br>
+    Hanyang University
+    <br>
+    <i><p style="text-align:left;">MS in Applied Mathematics<span style="float:right;">Mar 2020 - present</span><br>
+        <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2014 - Feb 2018</span></p></i>
+    <u>Academic Interests</u>
+    <br>
+    Cryptography(Zero-Knowledge Proofs)
 </ul>
