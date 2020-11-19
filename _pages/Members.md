@@ -36,6 +36,7 @@ header:
     Zero-Knowledge Proofs, Blockchain, Homomorphic Encryption
 </ul>
 
+
 ## Ph.D student
 
 <ul type="square">
@@ -44,7 +45,9 @@ header:
 <li>Chanyang Ju</li>
 </ul>
 
+
 ## Master's student
+
 
 <ul type="square">
     <li><p style="text-align:left;"><A href="https://sunpill.github.io"><b sytle="font-size:120%;">Sunpill Kim</b></A>
