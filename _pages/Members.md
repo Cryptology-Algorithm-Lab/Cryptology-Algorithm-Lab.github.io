@@ -28,9 +28,9 @@ header:
     Seoul National University
     <br>
     <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Mar 201? - Feb 2017</span><br>
-        <span style="text-align:left;">MS in Mathematics</span><span style="float:right;"> Mar 201? - Feb 2013</span><br>
+        <span style="text-align:left;">MS in Mathematics</span><span style="float:right;"> Mar 201? - Feb 2013</span><br></i><p>
         <span style="text-align:left;">KAIST</span><br>
-        <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 200? - Feb 2010</span></p></i>
+        <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 200? - Feb 2010</span></p>
     <u>Research Interests</u>
     <br>
     Zero-Knowledge Proofs, Blockchain, Homomorphic Encryption
