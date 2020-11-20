@@ -12,7 +12,7 @@ header:
 
 
 
-<details open>
+<details>
     <summary style="font-size:1.2rem; font-weight:bold;">
         Professor
     </summary>
@@ -37,10 +37,9 @@ header:
     </ul>
 </details>
 
-## PostDoc
 
 <details>
-    <summary style="font-size:1.2rem;">
+    <summary style="font-size:1.2rem; font-weight:bold;">
         PostDoc
     </summary>
     <ul type="square">
@@ -64,10 +63,9 @@ header:
     </ul>
 </details>
 
-## Ph.D student
 
 <details>
-    <summary style="font-size:1.2rem;">
+    <summary style="font-size:1.2rem; font-weight:bold;">
         Ph.D student
     </summary>
     <ul type="square">
@@ -105,41 +103,46 @@ header:
         <i><p style="text-align:left;">BS in Mathematics<span style="float:right;"> Mar 2013 - Feb 2018</span></p></i>
         <u>Research Interests</u>
         <br>
-        Cryptography, Blockchain, Information Theory
+        Cryptography, Blockchain, Verifiable Computation, Zero-Knowledge Proofs
         </li>
     </ul>
 </details>
 
 ## Master's student
 
-<ul type="square">
-    <li><p style="text-align:left;"><A href="https://sunpill.github.io"><b sytle="font-size:120%;">Sunpill Kim</b></A>
+<details>
+    <summary style="font-size:1.2rem; font-weight:bold;">
+        Master's student
+    </summary>
+    <ul type="square">
+        <li><p style="text-align:left;"><A href="https://sunpill.github.io"><b sytle="font-size:120%;">Sunpill Kim</b></A>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill.jpg" alt="" height="160" width="120">
+        </p>
+        <u>Education</u>
+        <br>
+        Hanyang University
+        <br>
+        <i><p style="text-align:left;">MS in Mathematics<span style="float:right;">Mar 2020 - present</span><br>
+            <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2015 - Feb 2020</span></p></i>
+        <u>Research Interests</u>
+        <br>
+        Zero-Knowledge Proofs, Deep Learning-Based Biometric, Computer Vision
+    </li>   
     <br>
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill.jpg" alt="" height="160" width="120">
-    </p>
-    <u>Education</u>
-    <br>
-    Hanyang University
-    <br>
-    <i><p style="text-align:left;">MS in Mathematics<span style="float:right;">Mar 2020 - present</span><br>
-        <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2015 - Feb 2020</span></p></i>
-    <u>Research Interests</u>
-    <br>
-    Zero-Knowledge Proofs, Deep Learning-Based Biometric, Computer Vision
-</li>   
-<br>
-    <li><p style="text-align:left;"><A href="https://hyeonbumlee.github.io"><b sytle="font-size:120%;">HyeonBum Lee</b></A>
-    <br>
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Hyeonbum.jpg" alt="" height="160" width="120">
-    </p>
-    <u>Education</u>
-    <br>
-    Hanyang University
-    <br>
-    <i><p style="text-align:left;">MS in Mathematics<span style="float:right;">Mar 2020 - present</span><br>
-        <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2014 - Feb 2018</span></p></i>
-    <u>Research Interests</u>
-    <br>
-    Cryptography(Zero-Knowledge Proofs)
-    </li>
-</ul>
+        <li><p style="text-align:left;"><A href="https://hyeonbumlee.github.io"><b sytle="font-size:120%;">HyeonBum Lee</b></A>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Hyeonbum.jpg" alt="" height="160" width="120">
+        </p>
+        <u>Education</u>
+        <br>
+        Hanyang University
+        <br>
+        <i><p style="text-align:left;">MS in Mathematics<span style="float:right;">Mar 2020 - present</span><br>
+            <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2014 - Feb 2018</span></p></i>
+        <u>Research Interests</u>
+        <br>
+        Cryptography(Zero-Knowledge Proofs)
+        </li>
+    </ul>
+</details>
