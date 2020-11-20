@@ -13,7 +13,7 @@ header:
 
 
 <details open>
-    <summary style="font-size:15px";>
+    <summary style="font-size:15px;">
         Professor
     </summary>
     <ul type="square">
