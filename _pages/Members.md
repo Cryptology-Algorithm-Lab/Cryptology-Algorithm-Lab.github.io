@@ -13,7 +13,7 @@ header:
 
 
 <details open>
-    <summary style="font-size:1.2rem;">
+    <summary style="font-size:1.2rem; font-weight:bold;">
         Professor
     </summary>
     <ul type="square">
@@ -39,66 +39,76 @@ header:
 
 ## PostDoc
 
-<ul type="square">
-    <li><p style="text-align:left;"><b sytle="font-size:120%;">Heewon Chung</b>
-    <br>
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Heewon.jpg" alt="" height="160" width="120">
-    </p>
-    <u>Education</u>
-    <br>
-    Seoul National University
-    <br>
-    <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Feb 2017</span><br>
-        <span style="text-align:left;">MS in Mathematics</span><span style="float:right;">Feb 2013</span></p></i>
-    KAIST
-    <br>
-    <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Feb 2010</span></p></i>
-    <u>Research Interests</u>
-    <br>
-    Zero-Knowledge Proofs, Blockchain, Homomorphic Encryption
-    </li>
-</ul>
+<details>
+    <summary style="font-size:1.2rem;">
+        PostDoc
+    </summary>
+    <ul type="square">
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Heewon Chung</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Heewon.jpg" alt="" height="160" width="120">
+        </p>
+        <u>Education</u>
+        <br>
+        Seoul National University
+        <br>
+        <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Feb 2017</span><br>
+            <span style="text-align:left;">MS in Mathematics</span><span style="float:right;">Feb 2013</span></p></i>
+        KAIST
+        <br>
+        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Feb 2010</span></p></i>
+        <u>Research Interests</u>
+        <br>
+        Zero-Knowledge Proofs, Blockchain, Homomorphic Encryption
+        </li>
+    </ul>
+</details>
 
 ## Ph.D student
 
-<ul type="square">
-    <li><p style="text-align:left;"><b sytle="font-size:120%;">Changjin Kim</b>
-    <br>
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Changjin.jpg" alt="" height="160" width="120">
-    </p>
-    <u>Education</u>
-    <br>
-    Hanyang University
-    <br>
-    <p style="text-align:left;"><i>Ph.D in Mathematics</i> (Transfer from Myongji University)<span style="float:right;"><i>Mar 2018 - present</i></span><br>
+<details>
+    <summary style="font-size:1.2rem;">
+        Ph.D student
+    </summary>
+    <ul type="square">
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Changjin Kim</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Changjin.jpg" alt="" height="160" width="120">
         </p>
-    Myongji University
-    <br>
-    <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Mar 2017 - Feb 2018</span><br>
-        <span style="text-align:left;">MS in Mathematics</span><span style="float:right;">Mar 2015 - Feb 2017</span><br>
-        <span style="text-align:left;">BS in Mathematics</span><span style="float:right;">Mar 2009 - Feb 2015</span></p></i>
-    <u>Research Interests</u>
-    <br>
-    Zero-Knowledge Proofs, Computer Vision, Blockchain
-    </li>
-    <li><p style="text-align:left;"><A href="https://chanyangju.github.io"><b sytle="font-size:120%;">Chanyang Ju</b></A>
-    <br>
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Chanyang.jpg" alt="" height="160" width="120">
-    </p>
-    <u>Education</u>
-    <br>
-    Hanyang University
-    <br>
-    <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Mar 2018 - present</span><br>
-        </p></i>
-    Myongji University
-    <br>
-    <i><p style="text-align:left;">BS in Mathematics<span style="float:right;"> Mar 2013 - Feb 2018</span></p></i>
-    <u>Research Interests</u>
-    <br>
-    Cryptography, Blockchain, Information Theory
-    </li>
-</ul>
+        <u>Education</u>
+        <br>
+        Hanyang University
+        <br>
+        <p style="text-align:left;"><i>Ph.D in Mathematics</i> (Transfer from Myongji University)<span style="float:right;"><i>Mar 2018 - present</i></span><br>
+            </p>
+        Myongji University
+        <br>
+        <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Mar 2017 - Feb 2018</span><br>
+            <span style="text-align:left;">MS in Mathematics</span><span style="float:right;">Mar 2015 - Feb 2017</span><br>
+            <span style="text-align:left;">BS in Mathematics</span><span style="float:right;">Mar 2009 - Feb 2015</span></p></i>
+        <u>Research Interests</u>
+        <br>
+        Zero-Knowledge Proofs, Computer Vision, Blockchain
+        </li>
+        <li><p style="text-align:left;"><A href="https://chanyangju.github.io"><b sytle="font-size:120%;">Chanyang Ju</b></A>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Chanyang.jpg" alt="" height="160" width="120">
+        </p>
+        <u>Education</u>
+        <br>
+        Hanyang University
+        <br>
+        <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Mar 2018 - present</span><br>
+            </p></i>
+        Myongji University
+        <br>
+        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;"> Mar 2013 - Feb 2018</span></p></i>
+        <u>Research Interests</u>
+        <br>
+        Cryptography, Blockchain, Information Theory
+        </li>
+    </ul>
+</details>
 
 ## Master's student
 
