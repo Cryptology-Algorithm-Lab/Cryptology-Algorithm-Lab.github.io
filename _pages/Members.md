@@ -11,9 +11,9 @@ header:
 ---
 
 <details open>
-    <summary>
-        <h1>Professor</h1>
-    </summary>
+    <h2><summary>
+        Professor
+    </summary></h2>
     <ul type="square">
         <li><p style="text-align:left;"><A href="https://sites.google.com/site/jhsbhs/"><b sytle="font-size:120%;">Jae Hong Seo</b></A>
             <br>
