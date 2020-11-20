@@ -104,7 +104,7 @@ header:
         <i><p style="text-align:left;">BS in Mathematics<span style="float:right;"> Mar 2013 - Feb 2018</span></p></i>
         <u>Research Interests</u>
         <br>
-        Cryptography, Blockchain, Verifiable Computation, Zero-Knowledge Proofs
+        Blockchain, Verifiable Computation, Zero-Knowledge Proofs
         </li>
     </ul>
 </details>
