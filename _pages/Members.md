@@ -10,34 +10,30 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-<div class="accordion-box">
-    <ul class="list">
-        <li>
-            <p class="title">Professor</p>
-            <div class="con">
-                <ul type="square">
-                    <li><p style="text-align:left;"><A href="https://sites.google.com/site/jhsbhs/"><b sytle="font-size:120%;">Jae Hong Seo</b></A>
-                        <br>
-                        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jaehong.jpg" alt="" height="160" width="120">
-                        </p>
-                        <u>Education</u>
-                        <br>
-                        Seoul National University
-                        <br>
-                        <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Feb ????</span><br>
-                            <span style="text-align:left;">MS in Mathematics</span><span style="float:right;">Feb ????</span></p></i>
-                        Korea University
-                        <br>
-                        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Feb ????</span></p></i>
-                        <u>Research Interests</u>
-                        <br>
-                        Zero-Knowledge Proofs, ???, ???, ???, ???, ???
-                    </li>
-                </ul>
-            </div>
+<details>
+    <summary>
+        Professor
+    </summary>
+    <ul type="square">
+        <li><p style="text-align:left;"><A href="https://sites.google.com/site/jhsbhs/"><b sytle="font-size:120%;">Jae Hong Seo</b></A>
+            <br>
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jaehong.jpg" alt="" height="160" width="120">
+            </p>
+            <u>Education</u>
+            <br>
+            Seoul National University
+            <br>
+            <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Feb ????</span><br>
+                <span style="text-align:left;">MS in Mathematics</span><span style="float:right;">Feb ????</span></p></i>
+            Korea University
+            <br>
+            <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Feb ????</span></p></i>
+            <u>Research Interests</u>
+            <br>
+            Zero-Knowledge Proofs, ???, ???, ???, ???, ???
         </li>
     </ul>
-</div>
+</details>
 
 ## PostDoc
 
