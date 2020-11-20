@@ -9,16 +9,12 @@ header:
   overlay_image: /assets/images/crypt1.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
-<html>
 
-<style type="text/css">
-    body{font-size: 100%;}
-#ab4{font-size:12pt;}
-</style>
+
 
 <details open>
-    <summary>
-        <span id="ab4">medium Professor</span>
+    <summary style="font-size":15px;>
+        Professor
     </summary>
     <ul type="square">
         <li><p style="text-align:left;"><A href="https://sites.google.com/site/jhsbhs/"><b sytle="font-size:120%;">Jae Hong Seo</b></A>
@@ -137,5 +133,3 @@ header:
     Cryptography(Zero-Knowledge Proofs)
     </li>
 </ul>
-
-</html>
