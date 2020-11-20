@@ -25,18 +25,18 @@ header:
             <br>
             Seoul National University
             <br>
-            <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Feb ????</span><br>
-                <span style="text-align:left;">MS in Mathematics</span><span style="float:right;">Feb ????</span></p></i>
+            <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Feb 2011</span></p></i>                
             Korea University
             <br>
-            <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Feb ????</span></p></i>
+            <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Feb 2004</span></p></i>
             <u>Research Interests</u>
             <br>
-            Zero-Knowledge Proofs, ???, ???, ???, ???, ???
+            Cryptography, Computational Number Theory, Information Security (Recently, very interested in crypto primitives for secure blockchains and/or deep learning such as zero-knowledge proofs and bio authentication)
         </li>
     </ul>
 </details>
 
+<br>
 
 <details>
     <summary style="font-size:1.2rem; font-weight:bold;">
@@ -63,6 +63,7 @@ header:
     </ul>
 </details>
 
+<br>
 
 <details>
     <summary style="font-size:1.2rem; font-weight:bold;">
@@ -108,7 +109,7 @@ header:
     </ul>
 </details>
 
-## Master's student
+<br>
 
 <details>
     <summary style="font-size:1.2rem; font-weight:bold;">
