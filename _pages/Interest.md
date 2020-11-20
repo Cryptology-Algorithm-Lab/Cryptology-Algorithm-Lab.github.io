@@ -4,7 +4,7 @@ layout: splash
 classes: wide
 author_profile: false
 permalink: /Interest/
-excerpt: 'Stay hungry, Stay foolish'
+excerpt: 'Interesting Cryptography!'
 header:
   overlay_image: /assets/images/seoul.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
