@@ -12,7 +12,7 @@ header:
 
 <details open>
     <summary style="font-size:1.2rem; font-weight:bold;">
-        Verifiable Computation
+        In page of "Verifiable computing" of wikipedia, Verifiable computing (or verified computation or verified computing) enables a computer to offload the computation of some function, to other perhaps untrusted clients, while maintaining verifiable results. The other clients evaluate the function and return the result with a proof that the computation of the function was carried out correctly. The introduction of this notion came as a result of the increasingly common phenomenon of "outsourcing" computation to untrusted users in projects such as <A href="https://en.wikipedia.org/wiki/SETI@home">SETI@home</A> and also to the growing desire of weak clients to outsource computational tasks to a more powerful computation service like in cloud computing.
     </summary>
     bp+
 </details>
