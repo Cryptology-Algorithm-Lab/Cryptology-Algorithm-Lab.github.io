@@ -23,10 +23,12 @@ header:
             2. Tells <i>V</i> the answer.<br>
             3. Then <i>P</i> proves to <i>V</i> that the answer is correct.</p>
         </li>
-        <li><p>Requirements:<br>
-            <u>Completeness</u>: If the answer is true, the honest <i>V</i> will be convinced of this fact by an untrusted <i>P</i> (honest <i>P</i> in ZKP).<br>
-            <u>Soundness</u>: If the answer is false, no <i>P</i> (no cheating <i>P</i> in ZKP) can convince the honest <i>V</i> that it is true, except with some small probability.</p>
-        </li>
+        <ul type="none">
+            <li><p>Requirements:<br>
+                <u>Completeness</u>: If the answer is true, the honest <i>V</i> will be convinced of this fact by an untrusted <i>P</i> (honest <i>P</i> in ZKP).<br>
+                <u>Soundness</u>: If the answer is false, no <i>P</i> (no cheating <i>P</i> in ZKP) can convince the honest <i>V</i> that it is true, except with some small probability.</p>
+            </li>
+        </ul>
         <li><p>Difference of IPs and Arguments<br>
             The difference is that the prover is restricted to be a polynomial-time algorithm for an interactive arguement, whereas no such restrictions on the prover apply for an interactive proof.</p>
         </li>
