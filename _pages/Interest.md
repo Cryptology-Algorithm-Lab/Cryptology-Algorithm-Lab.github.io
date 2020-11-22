@@ -24,8 +24,8 @@ header:
             3. Then <i>P</i> proves to <i>V</i> that the answer is correct.</p>
         </li>
         <li><p>Requirements:<br>
-            <u>Completeness</u>: If the answer is true, the honest <i>V</i> will be convinced of this fact by an untrusted <i>P</i> (honest <i>P</i> in ZKPs).<br>
-            <u>Soundness</u>: If the answer is false, no <i>P</i> (no cheating <i>P</i> in ZKPs) can convince the honest <i>V</i> that it is true, except with some small probability.</p>
+            <u>Completeness</u>: If the answer is true, the honest <i>V</i> will be convinced of this fact by an untrusted <i>P</i> (honest <i>P</i> in ZKP).<br>
+            <u>Soundness</u>: If the answer is false, no <i>P</i> (no cheating <i>P</i> in ZKP) can convince the honest <i>V</i> that it is true, except with some small probability.</p>
         </li>
         <li><p>Difference of IPs and Arguments<br>
             The difference is that the prover is restricted to be a polynomial-time algorithm for an interactive arguement, whereas no such restrictions on the prover apply for an interactive proof.</p>
@@ -35,7 +35,7 @@ header:
     <ul type="square">
         <li><p>Zero-Knowledge Proof<br>
             ZKP is one of the IPs and is a method by which <i>P</i> can prove to <i>V</i> that they know a secret, without conveying any information apart from the fact that they know the secret.<br></p>
-            <p>More requirements for ZKP:<br>
+            <p>More requirement for ZKP:<br>
                 <u>Zero-knowledge</u>: If the answer is true, no <i>V</i> learns anything other than the fact that the answer is true.</p>
         </li>
         <li><p>Non-Interactive Proofs<br>
