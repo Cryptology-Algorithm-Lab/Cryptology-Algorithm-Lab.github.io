@@ -16,6 +16,21 @@ header:
     </summary>
     <br>
     <p>In page of "Verifiable computing" of wikipedia, Verifiable computing (or verified computation or verified computing) enables a computer to offload the computation of some function, to other perhaps untrusted clients, while maintaining verifiable results. The other clients evaluate the function and return the result with a proof that the computation of the function was carried out correctly. The introduction of this notion came as a result of the increasingly common phenomenon of "outsourcing" computation to untrusted users in projects such as <A href="https://en.wikipedia.org/wiki/SETI@home">SETI@home</A> and also to the growing desire of weak clients to outsource computational tasks to a more powerful computation service like in cloud computing.</p>
+    Interactive Proofs (IPs) and Arguments
+    <ul tyep="square">
+        <li><p>Prover <i>P</i> and Verfier <i>V</i></p>
+            1. <i>P</i> solves a problem on a given input.<br>
+            2. Tells <i>V</i> the answer.<br>
+            3. Then <i>P</i> proves to <i>V</i> that the answer is correct.
+        </li>
+        <li><p>Requirements:</p>
+            Completeness: If the answer is true, the honest <i>V</i> will be convinced of this face by an honest <i>P</i>.<br>
+            Soundness: If the answer is false, no cheating <i>P</i> can convince the honest <i>V</i> that it is true, except with some small probability.
+        </li>
+        <li><p>Difference of IPs and Arguments</p>
+            The difference is that the prover is restricted to be a polynomial-time algorithm for an interactive arguement, whereas no such restrictions on the prover apply for an interactive proof.
+        </li>
+    </ul>
 </details>
 
 <br>
