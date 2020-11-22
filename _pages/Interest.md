@@ -35,11 +35,11 @@ header:
     <ul type="square">
         <li><p>Zero-Knowledge Proof<br>
             ZKP is one of the IPs and is a method by which <i>P</i> can prove to <i>V</i> that they know a secret, without conveying any information apart from the fact that they know the secret.<br>
-            <p>More requirements for ZKPs):<br>
+            <p>More requirements for ZKPs:<br>
                 <u>Zero-knowledge</u>: If the answer is true, no <i>V</i> learns anything other than the fact that the answer is true.</p>
         </li>
         <li><p>Non-Interactive Proofs<br>
-            Non-Interactive Proofs require no interaction between the <i>P</i> and <i>V</i>.
+            Non-Interactive Proofs require no interaction between the <i>P</i> and <i>V</i>.</p>
         </li>
     </ul>
 </details>
