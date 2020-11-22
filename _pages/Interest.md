@@ -51,7 +51,7 @@ header:
                 Non-Interactive Proofs require no interaction between the <i>P</i> and <i>V</i>.</p>
             </li>
         </ul>
-        Non-interactive zero-knowledge proofs (also known as NIZK, zk-SNARK, zk-STARK) are zero-knowledge proofs that require no interaction between the <i>P</i> and <i>V</i>.
+        Therefore, Non-interactive zero-knowledge proofs (also known as NIZK, zk-SNARK, zk-STARK) are zero-knowledge proofs that require no interaction between the <i>P</i> and <i>V</i>.
     </details>
 </details>
 
