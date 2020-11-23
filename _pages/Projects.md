@@ -4,7 +4,7 @@ layout: splash
 classes: wide
 author_profile: false
 permalink: /Projects/
-excerpt: 'Stay hungry, Stay foolish'
+excerpt: 'If you have any questions, please feel free to email us.'
 header:
   overlay_image: /assets/images/Hanyang1.jfif
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
