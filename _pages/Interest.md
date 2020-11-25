@@ -74,5 +74,7 @@ header:
     <summary style="font-size:1.2rem; font-weight:bold;">
         Functional Encryption
     </summary>
-    FE
+    <p>Functional Encryption (FE) is a new public key encryption system that extends the existing public key encryption concept more flexibly. It is a public key encryption that allows the decryption condition of a cipher text to be specified as an arbitrary function. At this time, Functional Encryption guarantees complete privacy by not exposing unnecessary information related to the password text to not only system outsiders but also system insiders.<br>
+    The purpose of ongoing research (Research on Functional Encryption Technique Design, Analysis and Implementation Technology, supported by IITP) is to obtain the important source technologies of FE that is considered to be next-generation public-key encryption and to study the extended technologies of FE for cloud computing. In addition, this research studies techniques of other cryptographic primetives like Lattices.</p>
+    
 </details>
