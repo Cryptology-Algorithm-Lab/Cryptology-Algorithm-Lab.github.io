@@ -77,7 +77,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <td class="tg-c3ow">7/9/2020</td>
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">김선필</td>
-    <td class="tg-c3ow">ZK Rollup</td>
+    <td class="tg-c3ow">zkRollup</td>
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">주찬양</td>
       <td class="tg-c3ow"><A href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.217.4200&rep=rep1&type=pdf">GKR</A></td>
@@ -180,6 +180,60 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <td class="tg-c3ow">자연과학관 751호</td>
     <td class="tg-c3ow">김지승</td>
     <td class="tg-c3ow">Cryptanalysis of LPN</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">12/10/2020</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">N/A</td>
+    <td class="tg-c3ow">N/A</td>
+    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow">김선필</td>
+    <td class="tg-c3ow">TBD</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">N/A</td>
+    <td class="tg-c3ow">N/A</td>
+    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow">김창진</td>
+    <td class="tg-c3ow">TBD</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">N/A</td>
+    <td class="tg-c3ow">N/A</td>
+    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow">서재홍</td>
+    <td class="tg-c3ow">TBD</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">N/A</td>
+    <td class="tg-c3ow">N/A</td>
+    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow">정희원</td>
+    <td class="tg-c3ow">TBD</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">N/A</td>
+    <td class="tg-c3ow">N/A</td>
+    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow">주찬양</td>
+    <td class="tg-c3ow">TBD</td>
+  </tr>  
+  <tr>
+    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">N/A</td>
+    <td class="tg-c3ow">N/A</td>
+    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow">이현범</td>
+    <td class="tg-c3ow">TBD</td>
   </tr>
 </tbody>
 </table>
