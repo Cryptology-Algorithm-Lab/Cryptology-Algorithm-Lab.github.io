@@ -71,7 +71,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <td class="tg-c3ow">N/A</td>
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">정희원</td>
-    <td class="tg-c3ow">Mimblewimble &amp; Zether</td>
+      <td class="tg-c3ow">Mimblewimble &amp; Zether</td>
   </tr>
   <tr>
     <td class="tg-c3ow">7/9/2020</td>
@@ -80,7 +80,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <td class="tg-c3ow">ZK Rollup</td>
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">주찬양</td>
-    <td class="tg-c3ow">GKR</td>
+      <td class="tg-c3ow"><A href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.217.4200&rep=rep1&type=pdf">GKR</A></td>
   </tr>
   <tr>
     <td class="tg-c3ow">7/16/2020</td>
