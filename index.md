@@ -30,138 +30,146 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 ## Seminar
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:1px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:1px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
 <thead>
   <tr>
-    <th colspan="7">Seminar Schedule</th>
+    <th class="tg-wp8o" colspan="7">Seminar Schedule</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Date</td>
-    <td>Place</td>
-    <td>Presenter</td>
-    <td>Topic</td>
-    <td>Place</td>
-    <td>Presenter</td>
-    <td>Topic</td>
+    <td class="tg-wp8o">Date</td>
+    <td class="tg-wp8o">Place</td>
+    <td class="tg-wp8o">Presenter</td>
+    <td class="tg-wp8o">Topic</td>
+    <td class="tg-wp8o">Place</td>
+    <td class="tg-wp8o">Presenter</td>
+    <td class="tg-wp8o">Topic</td>
   </tr>
   <tr>
-    <td>6/25/2020</td>
-    <td></td>
-    <td>N/A</td>
-    <td>N/A</td>
-    <td>자연과학관 702호</td>
-    <td>정희원</td>
-    <td>Mimblewimble &amp; Zether</td>
+    <td class="tg-wp8o">6/25/2020</td>
+    <td class="tg-wp8o"></td>
+    <td class="tg-wp8o">N/A</td>
+    <td class="tg-wp8o">N/A</td>
+    <td class="tg-wp8o">자연과학관 702호</td>
+    <td class="tg-wp8o">정희원</td>
+    <td class="tg-wp8o">Mimblewimble &amp; Zether</td>
   </tr>
   <tr>
-    <td>7/9/2020</td>
-    <td>자연과학관 702호</td>
-    <td>김선필</td>
-    <td>ZK Rollup</td>
-    <td>자연과학관 702호</td>
-    <td>주찬양</td>
-    <td>GKR</td>
+    <td class="tg-wp8o">7/9/2020</td>
+    <td class="tg-wp8o">자연과학관 702호</td>
+    <td class="tg-wp8o">김선필</td>
+    <td class="tg-wp8o">ZK Rollup</td>
+    <td class="tg-wp8o">자연과학관 702호</td>
+    <td class="tg-wp8o">주찬양</td>
+    <td class="tg-wp8o">GKR</td>
   </tr>
   <tr>
-    <td>7/16/2020</td>
-    <td>자연과학관 702호</td>
-    <td>김동영</td>
-    <td>Interoperability(S&amp;B)</td>
-    <td>자연과학관 702호</td>
-    <td>이현범</td>
-    <td>Sonic</td>
+    <td class="tg-wp8o">7/16/2020</td>
+    <td class="tg-wp8o">자연과학관 702호</td>
+    <td class="tg-wp8o">김동영</td>
+    <td class="tg-wp8o">Interoperability(S&amp;B)</td>
+    <td class="tg-wp8o">자연과학관 702호</td>
+    <td class="tg-wp8o">이현범</td>
+    <td class="tg-wp8o">Sonic</td>
   </tr>
   <tr>
-    <td>7/23/2020</td>
-    <td>자연과학관 702호</td>
-    <td>김동영</td>
-    <td>Interoperability(CCS)</td>
-    <td>자연과학관 702호</td>
-    <td>정희원</td>
-    <td>Interoperability (Zendoo+alpha)</td>
+    <td class="tg-wp8o">7/23/2020</td>
+    <td class="tg-wp8o">자연과학관 702호</td>
+    <td class="tg-wp8o">김동영</td>
+    <td class="tg-wp8o">Interoperability(CCS)</td>
+    <td class="tg-wp8o">자연과학관 702호</td>
+    <td class="tg-wp8o">정희원</td>
+    <td class="tg-wp8o">Interoperability (Zendoo+alpha)</td>
   </tr>
   <tr>
-    <td>7/30/2020</td>
-    <td>자연과학관 702호</td>
-    <td>서재홍</td>
-    <td>Inception</td>
-    <td></td>
-    <td>N/A</td>
-    <td>N/A</td>
+    <td class="tg-wp8o">7/30/2020</td>
+    <td class="tg-wp8o">자연과학관 702호</td>
+    <td class="tg-wp8o">서재홍</td>
+    <td class="tg-wp8o">Inception</td>
+    <td class="tg-wp8o"></td>
+    <td class="tg-wp8o">N/A</td>
+    <td class="tg-wp8o">N/A</td>
   </tr>
   <tr>
-    <td>8/6/2020</td>
-    <td>자연과학관 702호</td>
-    <td>김동우</td>
-    <td>LegoSNARK</td>
-    <td>자연과학관 702호</td>
-    <td>이현범</td>
-    <td>Supersonic</td>
+    <td class="tg-wp8o">8/6/2020</td>
+    <td class="tg-wp8o">자연과학관 702호</td>
+    <td class="tg-wp8o">김동우</td>
+    <td class="tg-wp8o">LegoSNARK</td>
+    <td class="tg-wp8o">자연과학관 702호</td>
+    <td class="tg-wp8o">이현범</td>
+    <td class="tg-wp8o">Supersonic</td>
   </tr>
   <tr>
-    <td>8/13/2020</td>
-    <td>자연과학관 702호</td>
-    <td>김지승</td>
-    <td>VDF</td>
-    <td>자연과학관 702호</td>
-    <td>김선필</td>
-    <td>Plonk</td>
+    <td class="tg-wp8o">8/13/2020</td>
+    <td class="tg-wp8o">자연과학관 702호</td>
+    <td class="tg-wp8o">김지승</td>
+    <td class="tg-wp8o">VDF</td>
+    <td class="tg-wp8o">자연과학관 702호</td>
+    <td class="tg-wp8o">김선필</td>
+    <td class="tg-wp8o">Plonk</td>
   </tr>
   <tr>
-    <td>10/19/2020</td>
-    <td></td>
-    <td>N/A</td>
-    <td>N/A</td>
-    <td>자연과학관 751호</td>
-    <td>주찬양</td>
-    <td>Virgo</td>
+    <td class="tg-wp8o">10/19/2020</td>
+    <td class="tg-wp8o"></td>
+    <td class="tg-wp8o">N/A</td>
+    <td class="tg-wp8o">N/A</td>
+    <td class="tg-wp8o">자연과학관 751호</td>
+    <td class="tg-wp8o">주찬양</td>
+    <td class="tg-wp8o">Virgo</td>
   </tr>
   <tr>
-    <td>10/26/2020</td>
-    <td>자연과학관 751호</td>
-    <td>손용하</td>
-    <td>Accumulator</td>
-    <td></td>
-    <td>N/A</td>
-    <td>N/A</td>
+    <td class="tg-wp8o">10/26/2020</td>
+    <td class="tg-wp8o">자연과학관 751호</td>
+    <td class="tg-wp8o">손용하</td>
+    <td class="tg-wp8o">Accumulator</td>
+    <td class="tg-wp8o"></td>
+    <td class="tg-wp8o">N/A</td>
+    <td class="tg-wp8o">N/A</td>
   </tr>
   <tr>
-    <td>11/5/2020</td>
-    <td></td>
-    <td>N/A</td>
-    <td>N/A</td>
-    <td>자연과학관 746호</td>
-    <td>김창진</td>
-    <td>Groth16</td>
+    <td class="tg-wp8o">11/5/2020</td>
+    <td class="tg-wp8o"></td>
+    <td class="tg-wp8o">N/A</td>
+    <td class="tg-wp8o">N/A</td>
+    <td class="tg-wp8o">자연과학관 746호</td>
+    <td class="tg-wp8o">김창진</td>
+    <td class="tg-wp8o">Groth16</td>
   </tr>
   <tr>
-    <td>11/9/2020</td>
-    <td>자연과학관 751호</td>
-    <td>김선필</td>
-    <td>Inner Pairing Product</td>
-    <td></td>
-    <td>N/A</td>
-    <td>N/A</td>
+    <td class="tg-wp8o">11/9/2020</td>
+    <td class="tg-wp8o">자연과학관 751호</td>
+    <td class="tg-wp8o">김선필</td>
+    <td class="tg-wp8o">Inner Pairing Product</td>
+    <td class="tg-wp8o"></td>
+    <td class="tg-wp8o">N/A</td>
+    <td class="tg-wp8o">N/A</td>
   </tr>
   <tr>
-    <td>11/16/2020</td>
-    <td>자연과학관 751호</td>
-    <td>이현범</td>
-    <td>Dory &amp; Kopis</td>
-    <td>자연과학관 751호</td>
-    <td>김동우</td>
-    <td>Verifiable Computation on Encrypted Data</td>
+    <td class="tg-wp8o">11/16/2020</td>
+    <td class="tg-wp8o">자연과학관 751호</td>
+    <td class="tg-wp8o">이현범</td>
+    <td class="tg-wp8o">Dory &amp; Kopis</td>
+    <td class="tg-wp8o">자연과학관 751호</td>
+    <td class="tg-wp8o">김동우</td>
+    <td class="tg-wp8o">Verifiable Computation on Encrypted Data</td>
   </tr>
   <tr>
-    <td>11/19/2020</td>
-    <td></td>
-    <td>N/A</td>
-    <td>N/A</td>
-    <td>자연과학관 751호</td>
-    <td>김지승</td>
-    <td>Cryptanalysis of LPN</td>
+    <td class="tg-wp8o">11/19/2020</td>
+    <td class="tg-wp8o"></td>
+    <td class="tg-wp8o">N/A</td>
+    <td class="tg-wp8o">N/A</td>
+    <td class="tg-wp8o">자연과학관 751호</td>
+    <td class="tg-wp8o">김지승</td>
+    <td class="tg-wp8o">Cryptanalysis of LPN</td>
   </tr>
 </tbody>
 </table>
