@@ -71,7 +71,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <td class="tg-c3ow">N/A</td>
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">정희원</td>
-      <td class="tg-c3ow">Mimblewimble &amp; Zether</td>
+      <td class="tg-c3ow"><A href="https://scalingbitcoin.org/papers/mimblewimble.pdf">Mimblewimble</A> &amp; <A href="https://eprint.iacr.org/2019/191.pdf">Zether</A></td>
   </tr>
   <tr>
     <td class="tg-c3ow">7/9/2020</td>
@@ -86,19 +86,19 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <td class="tg-c3ow">7/16/2020</td>
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">김동영</td>
-    <td class="tg-c3ow">Interoperability(zkRealy)</td>
+      <td class="tg-c3ow">Interoperability(<A href="https://eprint.iacr.org/2020/433.pdf">zkRealy)</A></td>
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">이현범</td>
-    <td class="tg-c3ow">Sonic</td>
+      <td class="tg-c3ow"><A href="https://eprint.iacr.org/2019/099.pdf">Sonic</A></td>
   </tr>
   <tr>
     <td class="tg-c3ow">7/23/2020</td>
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">김동영</td>
-    <td class="tg-c3ow">Interoperability(Proof-of-Stake Sidechains)</td>
+      <td class="tg-c3ow">Interoperability(<A href="https://eprint.iacr.org/2018/1239.pdf">Proof-of-Stake Sidechains</A>)</td>
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">정희원</td>
-    <td class="tg-c3ow">Interoperability (Zendoo+alpha)</td>
+      <td class="tg-c3ow">Interoperability (<A href="https://arxiv.org/pdf/2002.01847.pdf">Zendoo</A>+alpha)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">7/30/2020</td>
@@ -113,19 +113,19 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <td class="tg-c3ow">8/6/2020</td>
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">김동우</td>
-    <td class="tg-c3ow">LegoSNARK</td>
+      <td class="tg-c3ow"><A href="https://eprint.iacr.org/2019/142.pdf">LegoSNARK</A></td>
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">이현범</td>
-    <td class="tg-c3ow">Supersonic</td>
+      <td class="tg-c3ow"><A href="https://eprint.iacr.org/2019/1229.pdf">Supersonic</A></td>
   </tr>
   <tr>
     <td class="tg-c3ow">8/13/2020</td>
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">김지승</td>
-    <td class="tg-c3ow">VDF</td>
+      <td class="tg-c3ow"><A href="https://eprint.iacr.org/2018/601.pdf">VDF</A></td>
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">김선필</td>
-    <td class="tg-c3ow">Plonk</td>
+      <td class="tg-c3ow"><A href="https://eprint.iacr.org/2019/953.pdf">Plonk</A></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10/19/2020</td>
@@ -134,16 +134,16 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <td class="tg-c3ow">N/A</td>
     <td class="tg-c3ow">자연과학관 751호</td>
     <td class="tg-c3ow">주찬양</td>
-    <td class="tg-c3ow">Virgo</td>
+      <td class="tg-c3ow"><A href="https://eprint.iacr.org/2019/1482.pdf">Virgo</A></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10/26/2020</td>
     <td class="tg-c3ow">자연과학관 751호</td>
     <td class="tg-c3ow">손용하</td>
-    <td class="tg-c3ow">Accumulator</td>
+      <td class="tg-c3ow"><A href="https://eprint.iacr.org/2018/1188.pdf">Accumulator</A></td>
     <td class="tg-c3ow">자연과학관 751호</td>
     <td class="tg-c3ow">김창진</td>
-    <td class="tg-c3ow">Groth16</td>
+      <td class="tg-c3ow"><A href="https://eprint.iacr.org/2016/260.pdf">Groth16</A></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11/5/2020</td>
@@ -152,22 +152,22 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <td class="tg-c3ow">N/A</td>
     <td class="tg-c3ow">자연과학관 746호</td>
     <td class="tg-c3ow">김창진</td>
-    <td class="tg-c3ow">Groth16</td>
+      <td class="tg-c3ow"><A href="https://eprint.iacr.org/2016/260.pdf">Groth16</A></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11/9/2020</td>
     <td class="tg-c3ow">자연과학관 751호</td>
     <td class="tg-c3ow">김선필</td>
-    <td class="tg-c3ow">Inner Pairing Product</td>
+      <td class="tg-c3ow"><A href="https://eprint.iacr.org/2019/1177.pdf">Inner Pairing Product</A></td>
     <td class="tg-c3ow">자연과학관 751호</td>
     <td class="tg-c3ow">이현범</td>
-    <td class="tg-c3ow">Dory &amp; Kopis</td>
+      <td class="tg-c3ow"><A href="https://eprint.iacr.org/2020/1274.pdf">Dory</A> &amp; <A href="https://eprint.iacr.org/2020/1275.pdf">Kopis</A></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11/16/2020</td>
     <td class="tg-c3ow">자연과학관 751호</td>
     <td class="tg-c3ow">이현범</td>
-    <td class="tg-c3ow">Dory &amp; Kopis</td>
+    <td class="tg-c3ow"><A href="https://eprint.iacr.org/2020/1274.pdf">Dory</A> &amp; <A href="https://eprint.iacr.org/2020/1275.pdf">Kopis</A></td>
     <td class="tg-c3ow">자연과학관 751호</td>
     <td class="tg-c3ow">김동우</td>
     <td class="tg-c3ow">Verifiable Computation on Encrypted Data</td>
