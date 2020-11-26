@@ -86,7 +86,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <td class="tg-c3ow">7/16/2020</td>
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">김동영</td>
-    <td class="tg-c3ow">Interoperability(S&amp;B)</td>
+    <td class="tg-c3ow">Interoperability(zkRealy)</td>
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">이현범</td>
     <td class="tg-c3ow">Sonic</td>
@@ -95,7 +95,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <td class="tg-c3ow">7/23/2020</td>
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">김동영</td>
-    <td class="tg-c3ow">Interoperability(CCS)</td>
+    <td class="tg-c3ow">Interoperability(Proof-of-Stake Sidechains)</td>
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">정희원</td>
     <td class="tg-c3ow">Interoperability (Zendoo+alpha)</td>
@@ -159,9 +159,9 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <td class="tg-c3ow">자연과학관 751호</td>
     <td class="tg-c3ow">김선필</td>
     <td class="tg-c3ow">Inner Pairing Product</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">N/A</td>
-    <td class="tg-c3ow">N/A</td>
+    <td class="tg-c3ow">자연과학관 751호</td>
+    <td class="tg-c3ow">이현범</td>
+    <td class="tg-c3ow">Dory &amp; Kopis</td>
   </tr>
   <tr>
     <td class="tg-c3ow">11/16/2020</td>
