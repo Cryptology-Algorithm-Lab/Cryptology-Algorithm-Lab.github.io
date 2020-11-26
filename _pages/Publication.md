@@ -10,24 +10,6 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-## Proceeding
-
-<ul type="none">
-<li>
-[P2] <b>Jae Hong Seo</b>
-<p>
-Information Security and Cryptology - ICISC 2019 - 22nd International Conference, Seoul, South Korea, December 4-6, 2019, Revised Selected Papers. Lecture Notes in Computer Science 11975, Springer 2020.
-</p>
-</li>
-
-<li>
-[P1] Keita Emura, <b>Jae Hong Seo</b>, and Yohei Watanabe
-<p>
-Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop, APKC@AsiaCCS, Incheon, Republic of Korea, June 4, 2018. ACM 2018
-</p>
-</li>
-</ul>
-
 ## Journal
 
 <ul type="none">
