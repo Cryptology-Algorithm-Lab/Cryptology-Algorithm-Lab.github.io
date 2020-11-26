@@ -174,6 +174,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 </tbody>
 </table>
 
+
 ## Contact
 
 For any inquires, you can reach us via email: **_[webmaster.cnalab@gmail.com](mailto:webmaster.cnalab@gmail.com)_**
