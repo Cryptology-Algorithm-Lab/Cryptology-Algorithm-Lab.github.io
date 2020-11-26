@@ -38,106 +38,133 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 </thead>
 <tbody>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Date</td>
+    <td>Place</td>
+    <td>Presenter</td>
+    <td>Topic</td>
+    <td>Place</td>
+    <td>Presenter</td>
+    <td>Topic</td>
   </tr>
   <tr>
+    <td>6/25/2020</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>자연과학관 702호</td>
+    <td>정희원</td>
+    <td>Mimblewimble &amp; Zether</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>7/9/2020</td>
+    <td>자연과학관 702호</td>
+    <td>김선필</td>
+    <td>ZK Rollup</td>
+    <td>자연과학관 702호</td>
+    <td>주찬양</td>
+    <td>GKR</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>7/16/2020</td>
+    <td>자연과학관 702호</td>
+    <td>김동영</td>
+    <td>Interoperability(S&amp;B)</td>
+    <td>자연과학관 702호</td>
+    <td>이현범</td>
+    <td>Sonic</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>7/23/2020</td>
+    <td>자연과학관 702호</td>
+    <td>김동영</td>
+    <td>Interoperability(CCS)</td>
+    <td>자연과학관 702호</td>
+    <td>정희원</td>
+    <td>Interoperability (Zendoo+alpha)</td>
   </tr>
   <tr>
+    <td>7/30/2020</td>
+    <td>자연과학관 702호</td>
+    <td>서재홍</td>
+    <td>Inception</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>N/A</td>
+    <td>N/A</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>8/6/2020</td>
+    <td>자연과학관 702호</td>
+    <td>김동우</td>
+    <td>LegoSNARK</td>
+    <td>자연과학관 702호</td>
+    <td>이현범</td>
+    <td>Supersonic</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>8/13/2020</td>
+    <td>자연과학관 702호</td>
+    <td>김지승</td>
+    <td>VDF</td>
+    <td>자연과학관 702호</td>
+    <td>김선필</td>
+    <td>Plonk</td>
   </tr>
   <tr>
+    <td>10/19/2020</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>자연과학관 751호</td>
+    <td>주찬양</td>
+    <td>Virgo</td>
   </tr>
   <tr>
+    <td>10/26/2020</td>
+    <td>자연과학관 751호</td>
+    <td>손용하</td>
+    <td>Accumulator</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>N/A</td>
+    <td>N/A</td>
   </tr>
   <tr>
+    <td>11/5/2020</td>
     <td></td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>자연과학관 746호</td>
+    <td>김창진</td>
+    <td>Groth16</td>
+  </tr>
+  <tr>
+    <td>11/9/2020</td>
+    <td>자연과학관 751호</td>
+    <td>김선필</td>
+    <td>Inner Pairing Product</td>
     <td></td>
+    <td>N/A</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>11/16/2020</td>
+    <td>자연과학관 751호</td>
+    <td>이현범</td>
+    <td>Dory &amp; Kopis</td>
+    <td>자연과학관 751호</td>
+    <td>김동우</td>
+    <td>Verifiable Computation on Encrypted Data</td>
+  </tr>
+  <tr>
+    <td>11/19/2020</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>자연과학관 751호</td>
+    <td>김지승</td>
+    <td>Cryptanalysis of LPN</td>
   </tr>
 </tbody>
-</table>        
+</table>
 
 ## Contact
 
