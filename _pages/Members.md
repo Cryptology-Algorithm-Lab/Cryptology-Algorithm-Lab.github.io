@@ -147,3 +147,26 @@ header:
         </li>
     </ul>
 </details>
+
+<br>
+
+<details>
+    <summary style="font-size:1.2rem; font-weight:bold;">
+        Undergraduate student
+    </summary>
+    <ul type="square">
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Taesam Kim</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Taesam.jpg" alt="" height="160" width="120">
+        </p>
+        <u>Education</u>
+        <br>
+        Hanyang University
+        <br>
+        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Mar 2015 - present</span></p></i>
+        <u>Research Interests</u>
+        <br>
+        Zero-Knowledge Proofs, Blockchain
+    </li>
+    </ul>
+</details>
