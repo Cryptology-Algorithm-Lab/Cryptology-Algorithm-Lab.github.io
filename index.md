@@ -186,55 +186,37 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">N/A</td>
     <td class="tg-c3ow">N/A</td>
-    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow">자연과학관 751호</td>
     <td class="tg-c3ow">김선필</td>
-    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow"><A href="https://eprint.iacr.org/2020/1274.pdf">Dory</A></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow">12/24/2020</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">N/A</td>
     <td class="tg-c3ow">N/A</td>
-    <td class="tg-c3ow">TBD</td>
-    <td class="tg-c3ow">김창진</td>
-    <td class="tg-c3ow">TBD</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">TBD</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">N/A</td>
-    <td class="tg-c3ow">N/A</td>
-    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow">자연과학관 751호</td>
     <td class="tg-c3ow">서재홍</td>
-    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow"><A href="https://eprint.iacr.org/2020/1274.pdf">Dory</A> &amp; Inception</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow">1/7/2021</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">N/A</td>
     <td class="tg-c3ow">N/A</td>
-    <td class="tg-c3ow">TBD</td>
-    <td class="tg-c3ow">정희원</td>
-    <td class="tg-c3ow">TBD</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">TBD</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">N/A</td>
-    <td class="tg-c3ow">N/A</td>
-    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">주찬양</td>
-    <td class="tg-c3ow">TBD</td>
-  </tr>  
+    <td class="tg-c3ow"><A href="https://papers.nips.cc/paper/2017/file/6048ff4e8cb07aa60b6777b6f7384d52-Paper.pdf">Safetynet</A></td>
+  </tr>
   <tr>
-    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow">1/14/2021</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">N/A</td>
     <td class="tg-c3ow">N/A</td>
     <td class="tg-c3ow">TBD</td>
     <td class="tg-c3ow">이현범</td>
     <td class="tg-c3ow">TBD</td>
-  </tr>
+  </tr>  
 </tbody>
 </table>
 
