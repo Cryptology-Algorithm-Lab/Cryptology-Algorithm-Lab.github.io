@@ -86,7 +86,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <td class="tg-c3ow">7/16/2020</td>
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">김동영</td>
-      <td class="tg-c3ow">Interoperability(<A href="https://eprint.iacr.org/2020/433.pdf">zkRealy)</A></td>
+      <td class="tg-c3ow">Interoperability(<A href="https://eprint.iacr.org/2020/433.pdf">zkrelay)</A></td>
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">이현범</td>
       <td class="tg-c3ow"><A href="https://eprint.iacr.org/2019/099.pdf">Sonic</A></td>
