@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "   Cryptology and Algorithm Lab"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Cryptology and Algorithm Lab"
+name                     : "abc Cryptology and Algorithm Lab"
 description              : "C&A Lab"
 url                      : "https://Cryptology-Algorithm-Lab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
