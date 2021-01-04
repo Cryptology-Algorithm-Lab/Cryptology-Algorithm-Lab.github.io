@@ -204,7 +204,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">N/A</td>
     <td class="tg-c3ow">N/A</td>
-    <td class="tg-c3ow">916 2591 5128 (Zoom)</td>
+     <td class="tg-c3ow"><A href="https://zoom.us/j/91625915128#success">Zoom Link</A></td>
     <td class="tg-c3ow">주찬양</td>
     <td class="tg-c3ow"><A href="https://papers.nips.cc/paper/2017/file/6048ff4e8cb07aa60b6777b6f7384d52-Paper.pdf">SafetyNets</A></td>
   </tr>
