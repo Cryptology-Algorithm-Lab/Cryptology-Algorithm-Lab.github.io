@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-# About C&A Lab
+# About us
 
 We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). Our main research interests are in cryptography especially zero-knowledge proof. Besides cryptography, We're interested in artificial intelligence using deep learning such as face recognition and speaker recognition.
 
@@ -206,7 +206,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <td class="tg-c3ow">N/A</td>
     <td class="tg-c3ow">916 2591 5128 (Zoom)</td>
     <td class="tg-c3ow">주찬양</td>
-    <td class="tg-c3ow"><A href="https://papers.nips.cc/paper/2017/file/6048ff4e8cb07aa60b6777b6f7384d52-Paper.pdf">Safetynet</A></td>
+    <td class="tg-c3ow"><A href="https://papers.nips.cc/paper/2017/file/6048ff4e8cb07aa60b6777b6f7384d52-Paper.pdf">SafetyNets</A></td>
   </tr>
   <tr>
     <td class="tg-c3ow">1/14/2021</td>
