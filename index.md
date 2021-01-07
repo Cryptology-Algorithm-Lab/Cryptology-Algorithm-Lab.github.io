@@ -209,13 +209,13 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <td class="tg-c3ow"><A href="https://papers.nips.cc/paper/2017/file/6048ff4e8cb07aa60b6777b6f7384d52-Paper.pdf">SafetyNets</A></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">1/14/2021</td>
+    <td class="tg-c3ow">1/21/2021</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">N/A</td>
     <td class="tg-c3ow">N/A</td>
     <td class="tg-c3ow">TBD</td>
-    <td class="tg-c3ow">이현범</td>
-    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow">김선필</td>
+    <td class="tg-c3ow"><A href="https://iacr.org/archive/tcc2008/49480001/49480001.pdf">Incrementally Verifiable Computation</A></td>
   </tr>  
 </tbody>
 </table>

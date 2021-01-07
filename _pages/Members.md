@@ -89,7 +89,7 @@ header:
         <br>
         Zero-Knowledge Proofs, Computer Vision, Blockchain
         </li>
-        <li><p style="text-align:left;"><A href="https://chanyangju.github.io"><b sytle="font-size:120%;">Chanyang Ju</b></A>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Chanyang Ju</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Chanyang.jpg" alt="" height="160" width="120">
         </p>
