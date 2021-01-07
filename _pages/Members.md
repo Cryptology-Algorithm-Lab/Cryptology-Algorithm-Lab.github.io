@@ -70,6 +70,7 @@ header:
         Ph.D student
     </summary>
     <ul type="square">
+        <!--
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Changjin Kim</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Changjin.jpg" alt="" height="160" width="120">
@@ -89,6 +90,7 @@ header:
         <br>
         Zero-Knowledge Proofs, Computer Vision, Blockchain
         </li>
+        -->
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Chanyang Ju</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Chanyang.jpg" alt="" height="160" width="120">
