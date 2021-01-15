@@ -213,7 +213,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">N/A</td>
     <td class="tg-c3ow">N/A</td>
-    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">김선필</td>
     <td class="tg-c3ow"><A href="https://iacr.org/archive/tcc2008/49480001/49480001.pdf">Incrementally Verifiable Computation</A></td>
   </tr>  
