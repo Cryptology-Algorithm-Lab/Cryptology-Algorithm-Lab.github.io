@@ -13,6 +13,17 @@ header:
 
 We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). Our main research interests are in cryptography especially zero-knowledge proof. Besides cryptography, We're interested in artificial intelligence using deep learning such as face recognition and speaker recognition.
 
+## News
+
+<ul type="square">
+    <li>
+        <A href="https://www.getmonero.org/2020/12/24/Bulletproofs+-in-Monero.html">Bulletproofs+ in Monero</A>
+    </li>
+    <li>
+        <A href="https://twitter.com/monero/status/1349815249235537921?s=20">Bulletproofs+ Audit for Monero</A>
+    </li>
+</ul>    
+
 ## Ongoing Project
 
 <ul type="square">
