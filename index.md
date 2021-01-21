@@ -246,7 +246,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 </details>
 
-</br>
+<br>
 
 <details open>
     <summary style="font-size:1.2rem; font-weight:bold;">
