@@ -246,7 +246,74 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 </details>
 
-
+<details>
+    <summary style="font-size:1.2rem; font-weight:bold;">
+        2021
+    </summary>
+        <style type="text/css">
+    .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
+    .tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
+      font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
+      font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-7jts{border-color:inherit;font-size:18px;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg" style="undefined;table-layout: fixed; width: 1082px">
+    <colgroup>
+    <col style="width: 82px">
+    <col style="width: 131px">
+    <col style="width: 72px">
+    <col style="width: 297px">
+    <col style="width: 131px">
+    <col style="width: 72px">
+    <col style="width: 297px">
+    </colgroup>
+    <thead>
+      <tr>
+        <th class="tg-7jts" colspan="7">Seminar Schedule</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow">Date</td>
+        <td class="tg-c3ow">Place(10:00 AM)</td>
+        <td class="tg-c3ow">Presenter</td>
+        <td class="tg-c3ow">Topic</td>
+        <td class="tg-c3ow">Place(2:00 PM)</td>
+        <td class="tg-c3ow">Presenter</td>
+        <td class="tg-c3ow">Topic</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">1/7/2021</td>
+        <td class="tg-c3ow"><A href="https://zoom.us/j/91625915128#success">Zoom Link</A></td>
+        <td class="tg-c3ow">주찬양</td>
+        <td class="tg-c3ow"><A href="https://papers.nips.cc/paper/2017/file/6048ff4e8cb07aa60b6777b6f7384d52-Paper.pdf">SafetyNets</A></td>
+         <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">N/A</td>
+        <td class="tg-c3ow">N/A</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">1/21/2021</td>
+        <td class="tg-c3ow">자연과학관 702호</td>
+        <td class="tg-c3ow">김선필</td>
+        <td class="tg-c3ow"><A href="https://iacr.org/archive/tcc2008/49480001/49480001.pdf">Incrementally Verifiable Computation</A></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">N/A</td>
+        <td class="tg-c3ow">N/A</td>
+      </tr>  
+      <tr>
+        <td class="tg-c3ow">1/28/2021</td>
+        <td class="tg-c3ow">TBD</td>
+        <td class="tg-c3ow">이현범</td>
+        <td class="tg-c3ow">TBD</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">N/A</td>
+        <td class="tg-c3ow">N/A</td>
+      </tr>  
+    </tbody>
+    </table>      
+</details>        
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
