@@ -212,7 +212,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
   </tr>
   <tr>
     <td class="tg-c3ow">1/7/2021</td>
-    <td class="tg-c3ow"><A href="https://zoom.us/j/91625915128#success">Zoom Link</A><</td>
+    <td class="tg-c3ow"><A href="https://zoom.us/j/91625915128#success">Zoom Link</A></td>
     <td class="tg-c3ow">주찬양</td>
     <td class="tg-c3ow"><A href="https://papers.nips.cc/paper/2017/file/6048ff4e8cb07aa60b6777b6f7384d52-Paper.pdf">SafetyNets</A></td>
      <td class="tg-c3ow"></td>
@@ -224,6 +224,15 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <td class="tg-c3ow">자연과학관 702호</td>
     <td class="tg-c3ow">김선필</td>
     <td class="tg-c3ow"><A href="https://iacr.org/archive/tcc2008/49480001/49480001.pdf">Incrementally Verifiable Computation</A></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">N/A</td>
+    <td class="tg-c3ow">N/A</td>
+  </tr>  
+  <tr>
+    <td class="tg-c3ow">1/28/2021</td>
+    <td class="tg-c3ow">TBD</td>
+    <td class="tg-c3ow">이현범</td>
+    <td class="tg-c3ow">TBD</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">N/A</td>
     <td class="tg-c3ow">N/A</td>
