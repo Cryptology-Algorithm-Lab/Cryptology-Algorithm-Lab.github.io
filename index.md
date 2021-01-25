@@ -306,9 +306,9 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </tr>  
       <tr>
         <td class="tg-c3ow">1/28</td>
-        <td class="tg-c3ow">TBD</td>
+        <td class="tg-c3ow"><A href="https://us02web.zoom.us/j/86870082959">Zoom Link</A></td>
         <td class="tg-c3ow">이현범</td>
-        <td class="tg-c3ow">TBD</td>
+        <td class="tg-c3ow">Inception</td>
         <td class="tg-c3ow"></td>
         <td class="tg-c3ow">N/A</td>
         <td class="tg-c3ow">N/A</td>
