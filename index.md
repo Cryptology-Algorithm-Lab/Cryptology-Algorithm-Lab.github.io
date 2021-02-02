@@ -313,6 +313,15 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <td class="tg-c3ow">N/A</td>
         <td class="tg-c3ow">N/A</td>
       </tr>  
+      <tr>
+        <td class="tg-c3ow">2/4</td>
+        <td class="tg-c3ow">TBD</td>
+        <td class="tg-c3ow">정희원</td>
+        <td class="tg-c3ow">Privacy-preserving decentralized exchange</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">N/A</td>
+        <td class="tg-c3ow">N/A</td>
+      </tr>  
     </tbody>
     </table>      
 </details>        
