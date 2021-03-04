@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
-        One paper accepted at <A href="http://cvpr2021.thecvf.com/">CVPR 2021</A>
+        One paper (IronMask: Modular Architecture for Protecting Deep Face Template) accepted at <A href="http://cvpr2021.thecvf.com/">CVPR 2021</A>
     </li>
     <li>
         <A href="https://www.getmonero.org/2020/12/24/Bulletproofs+-in-Monero.html">Bulletproofs+ in Monero</A>
