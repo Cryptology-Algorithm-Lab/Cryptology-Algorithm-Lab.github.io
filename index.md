@@ -22,12 +22,6 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <li>
         [<A href="https://eprint.iacr.org/2020/735">Bulletproofs+</A>] Participant Prizes in the National Cryptographic Technology Contest, National Intelligence Service, Korea.
     </li>
-    <li> 
-        <A href="https://www.getmonero.org/2020/12/24/Bulletproofs+-in-Monero.html">Bulletproofs+ in Monero</A>
-    </li>
-    <li>
-        <A href="https://twitter.com/monero/status/1349815249235537921?s=20">Bulletproofs+ Audit for Monero</A>
-    </li>
 </ul>    
 
 ## Ongoing Project
