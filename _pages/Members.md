@@ -147,6 +147,24 @@ header:
         <br>
         Cryptography(Zero-Knowledge Proofs)
         </li>
+     <br>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Gwangwoon Lee</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/lgw.jpg" alt="" height="160" width="120">
+        </p>
+        <u>Education</u>
+        <br>
+        Hanyang University
+        <br>
+        <i><p style="text-align:left;">MS in Mathematics<span style="float:right;">Mar 2021 - present</span><br>
+            </p></i>
+        CATHOLIC KWANDONG UNIVERSITY
+        <br>
+        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;"> Mar 2014 - Feb 2021</span></p></i>
+        <u>Research Interests</u>
+        <br>
+        Blockchain, Cryptography
+        </li>
     </ul>
 </details>
 
@@ -166,6 +184,20 @@ header:
         Hanyang University
         <br>
         <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Mar 2015 - present</span></p></i>
+        <u>Research Interests</u>
+        <br>
+        Zero-Knowledge Proofs, Blockchain
+    </li>
+    <br>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyunki Cho</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jhk.jpg" alt="" height="160" width="120">
+        </p>
+        <u>Education</u>
+        <br>
+        Hanyang University
+        <br>
+        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Mar 2017 - present</span></p></i>
         <u>Research Interests</u>
         <br>
         Zero-Knowledge Proofs, Blockchain
