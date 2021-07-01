@@ -206,14 +206,23 @@ header:
 ## Conference
 
 <ul type="none">
-    <li>
-        [C14] Yohei Watanabe, Keita Emura, and <b>Jae Hong Seo</b>
-        <p>
-            <i>New Revocable IBE in Prime-Order Groups: Adaptively Secure, Decryption Key Exposure Resistant, and with Short Public Parameters</i>
-            <br>
-            <b>CT-RSA</b> 2017, (<A href="https://link.springer.com/chapter/10.1007%2F978-3-319-52153-4_25">DOI</A>).
-        </p>
-    </li>
+<li>
+    [C15] <b>Sunpill Kim</b>, Yunseong Jeong, Jinsu Kim, Jungkon Kim, Hyung Tae Lee, and <b>Jae Hong Seo (corresponding author)</b>
+    <p>
+        <i>IronMask: Modular Architecture for Protecting Deep Face Template</i>
+        <br>
+        <b>CVPR</b> 2021, (<A href="https://openaccess.thecvf.com/content/CVPR2021/html/Kim_IronMask_Modular_Architecture_for_Protecting_Deep_Face_Template_CVPR_2021_paper.html">DOI</A>) (acceptance rate = 23.7%).
+    </p>
+</li>
+
+<li>
+    [C14] Yohei Watanabe, Keita Emura, and <b>Jae Hong Seo</b>
+    <p>
+        <i>New Revocable IBE in Prime-Order Groups: Adaptively Secure, Decryption Key Exposure Resistant, and with Short Public Parameters</i>
+        <br>
+        <b>CT-RSA</b> 2017, (<A href="https://link.springer.com/chapter/10.1007%2F978-3-319-52153-4_25">DOI</A>).
+    </p>
+</li>
     
 <li>
     [C13] <b>Jae Hong Seo</b> and Keita Emura

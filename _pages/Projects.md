@@ -20,7 +20,7 @@ header:
     </li>
     <li>
         May 2021 - Apr 2022, 검색 가능한 블록체인기반 프로비넌스 로그의 프라이버시 보호를 위한 영지식 증명 기법연구, 정보통신기획평가원 (IITP)
-        <br>, 
+        <br>
         Blockchain and Zero Knowledge Proof for Searchable and Privacy-preserving Provenance Logging, Institute for Information and Communications Technology Promotion (IITP)
     </li>
     <li>
