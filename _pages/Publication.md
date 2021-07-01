@@ -14,6 +14,15 @@ header:
 
 <ul type="none">
 <li>
+[J21]  Keita Emura, <b>Jae Hong Seo (corresponding author)</b>, Yohei Watanabe
+    <p>
+        <i>Efficient revocable identity-based encryption with short public parameters.</i> 
+        <br>
+        Theoretical Computer Science,  Vol. 863, pp 127--155, March 2021.
+    </p>
+</li>
+    
+<li>
 [J20]  Hyung Tae Lee, San Ling, <b>Jae Hong Seo (corresponding author)</b>, Huaxiong Wang, and Taek-Young Youn
     <p>
         <i>Public key encryption with equality test in the standard model.</i> 
