@@ -15,9 +15,18 @@ header:
 <ul type="square">
     <li>
         Apr 2021 - Dec 2026, 간결한 비대화형 연산 증명 시스템(SNARK)를 위한 암호 원천 기술 개발, 정보통신기획평가원 (IITP)
+        <br>
+        A Study on Cryptographic Primitives for SNARK, Institute for Information and Communications Technology Promotion (IITP)
+    </li>
+    <li>
+        May 2021 - Apr 2022, 검색 가능한 블록체인기반 프로비넌스 로그의 프라이버시 보호를 위한 영지식 증명 기법연구, 정보통신기획평가원 (IITP)
+        <br>, 
+        Blockchain and Zero Knowledge Proof for Searchable and Privacy-preserving Provenance Logging, Institute for Information and Communications Technology Promotion (IITP)
     </li>
     <li>
         Apr 2021 - Oct 2021, 점진적 검증가능연산 설계기법 및 적용방안 연구, 국가보안기술연구소
+        <br>
+        Research on Incrementally Verifiable Computation Design Technique and Application Method, National Security Research Institute (NSR)
     </li>
     <li>
         Mar 2020 - Feb 2025, 양자내성을 가지는 효율적 단방향 영지식 증명 방법에 관한 연구, 한국연구재단
