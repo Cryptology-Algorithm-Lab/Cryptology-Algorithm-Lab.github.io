@@ -209,6 +209,20 @@ header:
 
 <details>
     <summary style="font-size:1.2rem; font-weight:bold;">
+        Staff
+    </summary>
+    <ul type="square">
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Bomin Kwon</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/kbm.jpg" alt="" height="160" width="120">
+    </li>
+    </ul>
+</details>
+
+<br>
+
+<details>
+    <summary style="font-size:1.2rem; font-weight:bold;">
         Graduated Master Students
     </summary>
     <ul type="square">
