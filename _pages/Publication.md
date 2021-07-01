@@ -14,11 +14,11 @@ header:
 
 <ul type="none">
 <li>
-[J21]  Keita Emura, <b>Jae Hong Seo (corresponding author)</b>, Yohei Watanabe
+[J21]  Keita Emura, <b>Jae Hong Seo </b>, Yohei Watanabe
     <p>
         <i>Efficient revocable identity-based encryption with short public parameters.</i> 
         <br>
-        Theoretical Computer Science,  Vol. 863, pp 127--155, March 2021.
+        Theoretical Computer Science,  Vol. 863, pp 127--155, April 2021.
     </p>
 </li>
     
