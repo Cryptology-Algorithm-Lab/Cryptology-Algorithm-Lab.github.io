@@ -224,7 +224,7 @@ header:
 
 <details>
     <summary style="font-size:1.2rem; font-weight:bold;">
-        Graduated Master Students
+        Alumni (Graduate Students)
     </summary>
     <ul type="square">
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Hwamin Yoo</b><span style="float:right;"> <i>Feb 2017</i></span></p>
@@ -233,5 +233,23 @@ header:
     </li>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Gyumin Lim</b><span style="float:right;"> <i>Feb 2021</i></span></p>
     </li>
+    </ul>
+</details>
+
+<details>
+    <summary style="font-size:1.2rem; font-weight:bold;">
+        Alumni (Undergraduate Students)
+    </summary>
+    <ul type="square">
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Sunpill Kim</b><span style="float:right;"> <i></i></span></p>
+    </li>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Dongyoung Kim</b><span style="float:right;"> <i></i></span></p>
+    </li>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Jaeyong Ahn</b><span style="float:right;"> <i></i></span></p>
+    </li>
+        <li><p style="text-align:left;"><A href="https://github.com/imeunu"><b sytle="font-size:120%;">Eunwoo Im</b></A><span style="float:right;"> <i></i></span></p>
+    </li>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Sulyun Ji</b><span style="float:right;"> <i></i></span></p>
+    </li>        
     </ul>
 </details>
