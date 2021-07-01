@@ -215,6 +215,7 @@ header:
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Bomin Kwon</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/kbm.jpg" alt="" height="160" width="120">
+        </p>
     </li>
     </ul>
 </details>
