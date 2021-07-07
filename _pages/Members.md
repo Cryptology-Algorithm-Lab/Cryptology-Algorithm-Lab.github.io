@@ -160,7 +160,7 @@ header:
             </p></i>
         CATHOLIC KWANDONG UNIVERSITY
         <br>
-        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;"> Mar 2014 - Feb 2021</span></p></i>
+        <i><p style="text-align:left;">BS in Mathematics Education<span style="float:right;"> Mar 2014 - Feb 2021</span></p></i>
         <u>Research Interests</u>
         <br>
         Blockchain, Cryptography
