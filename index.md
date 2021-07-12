@@ -18,8 +18,34 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 <ul type="square">
     <li>
         <details>
-            <summary style="font-size:1.2rem; font-weight:bold;">
-                TBA
+details {
+  font: 16px "Open Sans", Calibri, sans-serif;
+  width: 620px;
+}
+
+details > summary {
+  padding: 2px 6px;
+  width: 15em;
+  background-color: #ddd;
+  border: none;
+  box-shadow: 3px 3px 4px black;
+  cursor: pointer;
+  list-style: none;
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+details > p {
+  border-radius: 0 0 10px 10px;
+  background-color: #ddd;
+  padding: 2px 6px;
+  margin: 0;
+  box-shadow: 3px 3px 4px black;
+}
+            <summary>
+                Lecture on "Secure Computation and Management for Large Scale Data Aggregation" by Prof. Tae-Ho Jung
             </summary>
             <img src="{{ site.url }}{{ site.baseurl }}/assets/images/0001.jpg">
         </details>
