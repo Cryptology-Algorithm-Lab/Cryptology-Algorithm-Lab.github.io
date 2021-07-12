@@ -316,6 +316,31 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <td class="tg-c3ow">N/A</td>
         <td class="tg-c3ow">N/A</td>
       </tr>  
+      <tr>
+        <td class="tg-c3ow">7/2</td>
+        <td class="tg-c3ow">자연과학관 707호</td>
+        <td class="tg-c3ow">FR Team</td>
+        <td class="tg-c3ow">Face Recognition</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">N/A</td>
+        <td class="tg-c3ow">N/A</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">7/12</td>
+        <td class="tg-c3ow"><A href="https://us02web.zoom.us/j/87310910372">Zoom Link</A></td>
+        <td class="tg-c3ow">FR Team</td>
+        <td class="tg-c3ow"><A href="https://openaccess.thecvf.com/content/CVPR2021/papers/Meng_MagFace_A_Universal_Representation_for_Face_Recognition_and_Quality_Assessment_CVPR_2021_paper.pdf">MagFace: A Universal Representation for Face Recognition and Quality Assessment</A></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">N/A</td>
+        <td class="tg-c3ow">N/A</td>
+        <td class="tg-c3ow">7/16</td>
+        <td class="tg-c3ow"><A href="https://us02web.zoom.us/j/87310910372">Zoom Link</A></td>
+        <td class="tg-c3ow">FR Team</td>
+        <td class="tg-c3ow"><A href="https://arxiv.org/pdf/2010.05222.pdf">Partial FC: Training 10 Million Identities on a Single Machine</A></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">N/A</td>
+        <td class="tg-c3ow">N/A</td>
+      </tr> 
     </tbody>
     </table>      
 </details>        
