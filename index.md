@@ -333,6 +333,8 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <td class="tg-c3ow"></td>
         <td class="tg-c3ow">N/A</td>
         <td class="tg-c3ow">N/A</td>
+      </tr> 
+      <tr>
         <td class="tg-c3ow">7/16</td>
         <td class="tg-c3ow"><A href="https://us02web.zoom.us/j/87310910372">Zoom Link</A></td>
         <td class="tg-c3ow">FR Team</td>
