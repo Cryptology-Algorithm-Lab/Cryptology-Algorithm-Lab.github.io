@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
-         Lecture on "Secure Computation and Management for Large Scale Data Aggregation" by Prof. Tae-Ho Jung
+         Lecture on "Secure Computation and Management for Large Scale Data Aggregation" by Prof. <A href="https://sites.nd.edu/taeho-jung/">Tae-Ho Jung</A>
         <details>
             <summary>
                 (For more information, click the arrow)
