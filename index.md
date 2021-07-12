@@ -15,13 +15,13 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 ## News
 
-<details>
-    <summary style="font-size:1.2rem; font-weight:bold;">
-        Lecture on "Secure Computation and Management for Large Scale Data Aggregation" by Prof. Tae-Ho Jung
-    </summary>
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/0001.jpg">
-</details>
 <ul type="square">
+    <details>
+        <summary>
+            Lecture on "Secure Computation and Management for Large Scale Data Aggregation" by Prof. Tae-Ho Jung
+        </summary>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/0001.jpg">
+    </details>
     <li>
         One paper (<A href="https://openaccess.thecvf.com/content/CVPR2021/html/Kim_IronMask_Modular_Architecture_for_Protecting_Deep_Face_Template_CVPR_2021_paper.html">IronMask: Modular Architecture for Protecting Deep Face Template</A>) accepted at <A href="http://cvpr2021.thecvf.com/">CVPR 2021</A>
     </li>
