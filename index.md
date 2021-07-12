@@ -19,7 +19,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <li>
         <details>
             <summary>
-                Lecture on "Secure Computation and Management for Large Scale Data Aggregation" by Prof. Tae-Ho Jung
+                (Click the arrow) Lecture on "Secure Computation and Management for Large Scale Data Aggregation" by Prof. Tae-Ho Jung
             </summary>
             <img src="{{ site.url }}{{ site.baseurl }}/assets/images/0001.jpg">
         </details>
