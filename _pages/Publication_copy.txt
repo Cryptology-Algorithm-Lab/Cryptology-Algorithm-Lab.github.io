@@ -346,14 +346,38 @@ header:
 
 <ul type="none">
 <li>
-    [E1]  Heewon Chung, Kyoohyung Han, Chanyang Ju, Myungsun Kim, and Jae Hong Seo*; [alphabetical order]
+    [E4]  Jinsu Kim, Sungwook Kim, and <b>Jae Hong Seo (corresponding author)</b>; [alphabetical order]
     <p>
-        <i>Bulletproofs+: Shorter Proofs for Privacy-Enhanced Distributed Ledger</i>
+        <i>Multilinear Map via Scale-Invariant FHE: Enhancing Security and Efficiency</i>
         <br>
-        ePrint Archive (<A href="https://eprint.iacr.org/2020/735">https://eprint.iacr.org/2020/735</A>).
+        ePrint Archive (<A href="http://eprint.iacr.org/2015/992">http://eprint.iacr.org/2015/992</A>).
     </p>
 </li>
 
-</ul>
+<li>
+    [E3]  <b>Jae Hong Seo</b>
+    <p>
+        <i>Short signatures from Diffie-Hellman, Revisited: Sublinear public key, CMA security, and tighter reduction</i>
+        <br>
+        ePrint Archive (<A href="http://eprint.iacr.org/2014/138">http://eprint.iacr.org/2014/138</A>).
+    </p>
+</li>
 
-The corresponding author is marked with *.
+<li>
+    [E2]  <b>Jae Hong Seo</b>
+    <p>
+        <i>Short signatures from Diffie-Hellman: Realizing short public key</i>
+        <br>
+        ePrint Archive (<A href="http://eprint.iacr.org/2012/480">http://eprint.iacr.org/2012/480</A>), (Eurocrypt 2013, merged with another paper).
+    </p>
+</li>
+
+<li>
+    [E1]  <b>Jae Hong Seo</b> and Jung Hee Cheon
+    <p>
+        <i>Fully secure anonymous hierarchical identity-based encryption with constant size ciphertexts</i>
+        <br>
+        ePrint Archive (<A href="http://eprint.iacr.org/2011/021">http://eprint.iacr.org/2011/021</A>).
+    </p>
+</li>
+</ul>
