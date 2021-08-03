@@ -53,13 +53,22 @@ header:
         Dec 2018 - Dec 2019, 실수 기반 Fuzzy Extractor 기술 개발, 삼성전자
     </li>
     <li>
+        Apr 2018 - Nov 2018, 생체 정보 기반 암호화 기술 개발
+    </li>
+    <li>
         Mar 2017 - Feb 2020, 격자 구조가 가지는 암호학적 성질에 관한 연구, 과학기술정보통신부/한국연구재단
     </li>
     <li>
         Jun 2016 - Nov 2016, 암호화 데이터의 효과적인 구간 검색 기술 연구, ETRI
     </li>
     <li>
+        May 2016 - Dec 2016, 안전한 Support Vector Machine (SVM) 모델 설계를 위한 암호학적 알고리즘 분석 및 개발 연구
+    </li>
+    <li>
         May 2015 - Nov 2015, 공개키 기반 암호데이터 검색기술 연구, ETRI
+    </li>
+    <li>
+        Apr 2015 - Dec 2015, 암호학적 Multi-linear map 알고리즘 분석 및 개발 연구
     </li>
     <li>
         Sep 2014 - Aug 2015, 1kB 이하 암호문간의 연산을 지원하는 동형암호 원천 기술 개발 및 응용기술 연구, 미래부/정보통신기술진흥센터
