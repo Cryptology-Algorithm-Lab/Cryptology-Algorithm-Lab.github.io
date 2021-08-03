@@ -23,7 +23,7 @@ header:
 </li>
     
 <li>
-[J20]  Hyung Tae Lee, San Ling, <b>Jae Hong Seo (corresponding author)</b>, Huaxiong Wang, and Taek-Young Youn
+[J20]  Hyung Tae Lee, San Ling, <b>Jae Hong Seo*</b>, Huaxiong Wang, and Taek-Young Youn
     <p>
         <i>Public key encryption with equality test in the standard model.</i> 
         <br>
@@ -41,7 +41,7 @@ header:
 </li>
 
 <li>
-    [J18] Hyung Tae Lee, San Ling, <b>Jae Hong Seo (corresponding author)</b>, and Huaxiong Wang; [alphabetical order]
+    [J18] Hyung Tae Lee, San Ling, <b>Jae Hong Seo*</b>, and Huaxiong Wang; [alphabetical order]
     <p>
         <i>Public Key Encryption with Equality Test from Generic Assumptions in the Random Oracle Model</i>
         <br>
@@ -50,7 +50,7 @@ header:
 </li>
 
 <li>
-    [J17] Sungwook Kim, Jinsu Kim, and <b>Jae Hong Seo (corresponding author)</b>
+    [J17] Sungwook Kim, Jinsu Kim, and <b>Jae Hong Seo*</b>
     <p>
         <i>A New Approach for Practical Function-Private Inner Product Encryption.</i>
         <br>
@@ -68,7 +68,7 @@ header:
 </li>
     
 <li>
-    [J15] Jinsu Kim, Sungwook Kim, and <b>Jae Hong Seo (corresponding author)</b>
+    [J15] Jinsu Kim, Sungwook Kim, and <b>Jae Hong Seo*</b>
     <p>
         <i>A new Scale-Invariant Homomorphic Encryption Scheme.</i>
         <br>
@@ -86,7 +86,7 @@ header:
 </li>
 
 <li>
-    [J13] Hyung Tae Lee, San Ling, <b>Jae Hong Seo (corresponding author)</b>, and Huaxiong Wang; [alphabetical order]
+    [J13] Hyung Tae Lee, San Ling, <b>Jae Hong Seo*</b>, and Huaxiong Wang; [alphabetical order]
     <p>
         <i>Semi-Generic Construction of Public Key Encryption and Identity-Based Encryption with Equality Test</i>
         <br>
@@ -95,7 +95,7 @@ header:
 </li>
 
 <li>
-    [J12] Hyung Tae Lee, San Ling, <b>Jae Hong Seo (corresponding author)</b> and Huaxiong Wang
+    [J12] Hyung Tae Lee, San Ling, <b>Jae Hong Seo*</b> and Huaxiong Wang
     <p>
         <i>CCA2 attack and modification of Huang et al.'s public key encryption with authorized equality test</i>
         <br>
@@ -113,7 +113,7 @@ header:
 </li>
 
 <li>
-    [J10] Keita Emura, <b>Jae Hong Seo (corresponding author)</b>, and Taek-Young Youn; [alphabetical order]
+    [J10] Keita Emura, <b>Jae Hong Seo*</b>, and Taek-Young Youn; [alphabetical order]
     <p>
         <i>Semi-generic Transformation of Revocable Hierarchical Identity-Based Encryption and its DBDH Instantiation</i>
         <br>
@@ -167,7 +167,7 @@ header:
 </li>
 
 <li>
-    [J4]  Jung Hee Cheon, Stanislaw Jarecki, and <b>Jae Hong Seo (corresponding author)</b>; [alphabetical order]
+    [J4]  Jung Hee Cheon, Stanislaw Jarecki, and <b>Jae Hong Seo*</b>; [alphabetical order]
     <p>
         <i>Multi-Party Privacy-Preserving Set Intersection with Quasi-linear Complexity</i>
         <br>
@@ -207,7 +207,7 @@ header:
 
 <ul type="none">
 <li>
-    [C15] <b>Sunpill Kim</b>, Yunseong Jeong, Jinsu Kim, Jungkon Kim, Hyung Tae Lee, and <b>Jae Hong Seo (corresponding author)</b>
+    [C15] <b>Sunpill Kim</b>, Yunseong Jeong, Jinsu Kim, Jungkon Kim, Hyung Tae Lee, and <b>Jae Hong Seo*</b>
     <p>
         <i>IronMask: Modular Architecture for Protecting Deep Face Template</i>
         <br>
@@ -261,7 +261,7 @@ header:
 </li>
 
 <li>
-    [C9]  Hyung Tae Lee and <b>Jae Hong Seo (corresponding author)</b>; [alphabetical order]
+    [C9]  Hyung Tae Lee and <b>Jae Hong Seo*</b>; [alphabetical order]
     <p>
         <i>Security Analysis of Multilinear Maps over the Integers</i>
         <br>
@@ -346,7 +346,7 @@ header:
 
 <ul type="none">
 <li>
-    [E1]  Heewon Chung, Kyoohyung Han, Chanyang Ju, Myungsun Kim, and Jae Hong Seo*; [alphabetical order]
+    [E1]  <b>Heewon Chung</b>, Kyoohyung Han, <b>Chanyang Ju</b>, Myungsun Kim, and <b>Jae Hong Seo*</b>; [alphabetical order]
     <p>
         <i>Bulletproofs+: Shorter Proofs for Privacy-Enhanced Distributed Ledger</i>
         <br>
@@ -355,5 +355,7 @@ header:
 </li>
 
 </ul>
+
+
 
 The corresponding author is marked with *.
