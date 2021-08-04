@@ -14,7 +14,7 @@ header:
 
 <ul type="square">
     <li>
-        [<A href="https://eprint.iacr.org/2020/735">Bulletproofs+</A>] Participant Prizes in the National Cryptographic Technology Contest, National Intelligence Service, Korea.
+        [<A href="https://eprint.iacr.org/2020/735">Bulletproofs+</A>] Participant Prizes (2020) in the National Cryptographic Technology Contest, National Intelligence Service, Korea.
     </li>
 </ul>    
 
@@ -228,7 +228,7 @@ header:
 
 <br>
 
-<details open>
+<details>
     <summary style="font-size:1.2rem; font-weight:bold;">
         2021
     </summary>
