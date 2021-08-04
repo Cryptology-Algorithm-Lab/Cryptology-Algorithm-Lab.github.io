@@ -10,6 +10,15 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
+## Previous News
+
+<ul type="square">
+    <li>
+        [<A href="https://eprint.iacr.org/2020/735">Bulletproofs+</A>] Participant Prizes in the National Cryptographic Technology Contest, National Intelligence Service, Korea.
+    </li>
+</ul>    
+
+
 ## Seminar
 
 <details>
@@ -338,5 +347,3 @@ header:
         Top (2012), Second (2013), Participant (2020, 2006) Prizes in the National Cryptographic Technology Contest, National Intelligence Service, Korea.
     </li>
 </ul>    
-
-
