@@ -323,3 +323,20 @@ header:
     </tbody>
     </table>      
 </details>        
+
+
+## Honors and Awards
+
+<ul type="square">
+    <li>
+        Excellent Young Researcher Award, NRF & Elsevier, 2018.
+    </li>
+    <li>
+        Sang-San Young Mathematician Award, Korean Mathematical Society, 2012. 
+    </li>
+    <li>
+        Top (2012), Second (2013), Participant (2020, 2006) Prizes in the National Cryptographic Technology Contest, National Intelligence Service, Korea.
+    </li>
+</ul>    
+
+
