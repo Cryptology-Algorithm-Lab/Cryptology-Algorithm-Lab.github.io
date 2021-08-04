@@ -3,7 +3,7 @@ title: "Previous events"
 layout: splash
 classes: wide
 author_profile: false
-permalink: /Previous events/
+permalink: /Previous-events/
 excerpt: 'previous events..'
 header:
   overlay_image: /assets/images/korea.jpg
