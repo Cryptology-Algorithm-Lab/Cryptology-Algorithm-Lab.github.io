@@ -10,6 +10,8 @@ main:
     url: /Publications/
   - title: "Interest"
     url: /Interest/  
+  - title: "Previous events"
+    url: /Previous-events/  
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
