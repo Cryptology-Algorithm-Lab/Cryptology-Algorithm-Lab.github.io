@@ -17,6 +17,9 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
+        A new project (Title: "Secure Multi-party Approximate Computation") has started.    
+    </li>
+    <li>
         Presentation of research results related to Ironmask at <A href="https://research.samsung.com/sstf">SSTF 2021</A>
         <details>
             <summary>
