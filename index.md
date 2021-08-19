@@ -22,7 +22,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
             <summary>
                 (For more information, click the arrow)
             </summary>
-            <iframe src="https://www.youtube.com/embed/RDl81Jd83zc" width="560" height="315" frameborder="0"> </iframe>
+            <iframe src="https://www.youtube.com/embed/RDl81Jd83zc?start=15563" width="560" height="315" frameborder="0"> </iframe>
         </details>
     </li>
     <li>
