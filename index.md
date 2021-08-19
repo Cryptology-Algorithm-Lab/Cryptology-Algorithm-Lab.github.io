@@ -17,7 +17,16 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
-         Seminar on "Secure Computation and Management for Large Scale Data Aggregation" by Prof. <A href="https://sites.nd.edu/taeho-jung/">Tae-Ho Jung</A>
+        Presentation of research results related to Ironmask at <A href="https://research.samsung.com/sstf">SSTF 2021</A>
+        <details>
+            <summary>
+                (For more information, click the arrow)
+            </summary>
+            {% include video id="RDl81Jd83zc" provider="youtube" %}
+        </details>
+    </li>
+    <li>
+        Seminar on "Secure Computation and Management for Large Scale Data Aggregation" by Prof. <A href="https://sites.nd.edu/taeho-jung/">Tae-Ho Jung</A>
         <details>
             <summary>
                 (For more information, click the arrow)
