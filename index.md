@@ -55,3 +55,33 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 ## Contact
 
 For any inquires, you can reach us via email: **_[webmaster.cnalab@gmail.com](mailto:webmaster.cnalab@gmail.com)_**
+
+<div class='mo'><body><script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=510d988emtu&amp;m=2&amp;c=baff00&amp;cr1=f03b11&amp;f=ubuntu&amp;l=0&amp;bv=55" async="async"></script></body>
+ </div>
+
+<div class='pc'><body><script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=510d988emtu&amp;m=2&amp;c=baff00&amp;cr1=f03b11&amp;f=ubuntu&amp;l=0&amp;bv=55" async="async"></script></body>
+ </div>
+
+<script>
+
+var ratio = window.devicePixelRatio,
+
+     mo = document.querySelector('.mo'),
+
+     pc = document.querySelector('.pc');
+
+     
+
+console.log(ratio);
+
+if(ratio >= 2) {
+
+  pc.style.display = 'none';
+
+} else {
+
+  mo.style.display = 'none';
+
+}
+
+</script>
