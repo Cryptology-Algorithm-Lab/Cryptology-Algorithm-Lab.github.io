@@ -108,6 +108,7 @@ header:
         <br>
         Blockchain, Verifiable Computation, Zero-Knowledge Proofs
         </li>
+        <br>
         <li><p style="text-align:left;"><A href="https://sunpill.github.io"><b sytle="font-size:120%;">Sunpill Kim</b></A>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill1.jpg" alt="" height="160" width="120">
@@ -136,9 +137,7 @@ header:
         <u>Research Interests</u>
         <br>
         Cryptography(Zero-Knowledge Proofs)
-        </li>
-     <br>
-        
+        </li>        
     </ul>
 </details>
 
