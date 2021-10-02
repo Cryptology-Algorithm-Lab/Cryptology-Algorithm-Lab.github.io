@@ -117,7 +117,7 @@ header:
         <br>
         Hanyang University
         <br>
-        <i><p style="text-align:left;">MS in Mathematics<span style="float:right;">Mar 2020 - present</span><br>
+        <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Mar 2020 - present</span><br>
             <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2015 - Feb 2020</span></p></i>
         <u>Research Interests</u>
         <br>
@@ -132,7 +132,7 @@ header:
         <br>
         Hanyang University
         <br>
-        <i><p style="text-align:left;">MS in Mathematics<span style="float:right;">Mar 2020 - present</span><br>
+        <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Mar 2020 - present</span><br>
             <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2014 - Feb 2018</span></p></i>
         <u>Research Interests</u>
         <br>
