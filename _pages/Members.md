@@ -67,7 +67,7 @@ header:
 
 <details>
     <summary style="font-size:1.2rem; font-weight:bold;">
-        Ph.D student
+        MS&Ph.D student
     </summary>
     <ul type="square">
         <!--
@@ -108,16 +108,6 @@ header:
         <br>
         Blockchain, Verifiable Computation, Zero-Knowledge Proofs
         </li>
-    </ul>
-</details>
-
-<br>
-
-<details>
-    <summary style="font-size:1.2rem; font-weight:bold;">
-        Master's student
-    </summary>
-    <ul type="square">
         <li><p style="text-align:left;"><A href="https://sunpill.github.io"><b sytle="font-size:120%;">Sunpill Kim</b></A>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill1.jpg" alt="" height="160" width="120">
@@ -148,6 +138,17 @@ header:
         Cryptography(Zero-Knowledge Proofs)
         </li>
      <br>
+        
+    </ul>
+</details>
+
+<br>
+
+<details>
+    <summary style="font-size:1.2rem; font-weight:bold;">
+        Master's student
+    </summary>
+    <ul type="square">
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Gwangwoon Lee</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/lgw.jpg" alt="" height="160" width="120">
