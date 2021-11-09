@@ -17,6 +17,9 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
+        Presentation of research results related to Ironmask at <A href="http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20210801&B_CATE=BBC1">2021 KAIC Fall Meeting</A>
+    </li>
+    <li>
         (Oct 1, 2021) Hyeonbum Lee (MS&Ph.D student) will receive a Special Prize from Korea Cryptography Forum, due to his paper entitled "Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier" submitted in National Cryptographic Technology Contest. Congrat. Hyeonbum!
     </li>
     <li>
