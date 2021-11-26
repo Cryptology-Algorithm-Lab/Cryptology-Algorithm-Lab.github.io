@@ -17,6 +17,9 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
+        (Nov 26, 2021) Taesam Kim (Undergraduate student) and Gyuhwan (Undergraduate student) receive a First Award from College of Natural Science (Hanyang University), due to their academic paper entitled "Proof of dot product using ZK-SNARK: Groth16" submitted in Academic Seminar. Congrat. Taesam and Gyuhwan!
+    </li>
+    <li>
         (Nov 5, 2021) Presentation of research results related to Ironmask at <A href="http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20210801&B_CATE=BBC1">2021 KAIC Fall Meeting</A>
     </li>
     <li>
