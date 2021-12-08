@@ -17,6 +17,9 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
+        (Dec 8, 2021) One paper (<A href="https://ieeexplore.ieee.org/document/9638642">Efficient Sum-Check Protocol for Convolution</A>) accepted at IEEE Access
+    </li>
+    <li>
         (Nov 26, 2021) Taesam Kim (Undergraduate student) and Gyuhwan (Undergraduate student) receive a First Award from College of Natural Science (Hanyang University), due to their academic paper entitled "Proof of dot product using ZK-SNARK: Groth16" submitted in Academic Seminar. Congrat. Taesam and Gyuhwan!
     </li>
     <li>
