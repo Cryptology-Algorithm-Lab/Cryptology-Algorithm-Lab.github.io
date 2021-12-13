@@ -124,7 +124,7 @@ header:
         Zero-Knowledge Proofs, Deep Learning-Based Biometric, Computer Vision
     </li>   
     <br>
-        <li><p style="text-align:left;"><A href="https://hyeonbumlee.github.io"><b sytle="font-size:120%;">HyeonBum Lee</b></A>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyeonbum Lee</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Hyeonbum.jpg" alt="" height="160" width="120">
         </p>
