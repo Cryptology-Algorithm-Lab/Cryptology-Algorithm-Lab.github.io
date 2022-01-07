@@ -29,11 +29,6 @@ header:
         A Study on Cryptographic Primitives for SNARK, Institute for Information and Communications Technology Promotion (IITP)
     </li>
     <li>
-        Apr 2021 - Oct 2021, 점진적 검증가능연산 설계기법 및 적용방안 연구, 국가보안기술연구소
-        <br>
-        Research on Incrementally Verifiable Computation Design Technique and Application Method, National Security Research Institute (NSR)
-    </li>
-    <li>
         Mar 2020 - Feb 2025, 양자내성을 가지는 효율적 단방향 영지식 증명 방법에 관한 연구, 한국연구재단
         <br>
         Research on Post-Quantum Non-Interactive Zero-Knowledge Proofs, National Research Foundation of KOREA (NRF)
@@ -43,6 +38,11 @@ header:
 
 ## Finished
 <ul type="square">
+    <li>
+        Apr 2021 - Oct 2021, 점진적 검증가능연산 설계기법 및 적용방안 연구, 국가보안기술연구소
+        <br>
+        Research on Incrementally Verifiable Computation Design Technique and Application Method, National Security Research Institute (NSR)
+    </li>
     <li>
         Nov 2016 - Jul 2021, 함수암호 기법 설계·분석 및 구현기술 연구, 정보통신기획평가원 (IITP)
         <br>
