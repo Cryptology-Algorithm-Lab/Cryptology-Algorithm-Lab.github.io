@@ -247,7 +247,6 @@ header:
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b>
         <br>
-        
         </p>
         <u>Education</u>
         <br>
