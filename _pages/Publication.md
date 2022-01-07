@@ -14,6 +14,15 @@ header:
 
 <ul type="none">
 <li>
+[J22]  <b>Chanyang Ju</b>, <b>Hyeonbum Lee</b>, <b>Heewon Chung</b>, <b>Jae Hong Seo </b>, and Sungwook Kim
+    <p>
+        <i>Efficient Sum-Check Protocol for Convolution.</i> 
+        <br>
+        IEEE Access,  Vol. 9, pp 164047--164059, Dec 2021.
+    </p>
+</li>
+
+<li>
 [J21]  Keita Emura, <b>Jae Hong Seo </b>, Yohei Watanabe
     <p>
         <i>Efficient revocable identity-based encryption with short public parameters.</i> 
@@ -345,6 +354,15 @@ header:
 ### Other
 
 <ul type="none">
+<li>
+    [E2]  <b>Hyeonbum Lee</b> and <b>Jae Hong Seo*</b>
+    <p>
+        <i>Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier</i>
+        <br>
+        ePrint Archive (<A href="https://eprint.iacr.org/2021/1450">https://eprint.iacr.org/2021/1450</A>).
+    </p>
+</li>
+
 <li>
     [E1]  <b>Heewon Chung</b>, Kyoohyung Han, <b>Chanyang Ju</b>, Myungsun Kim, and <b>Jae Hong Seo*</b>; [alphabetical order]
     <p>
