@@ -87,7 +87,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </tr>
       <tr>
         <td class="tg-c3ow">1/11</td>
-        <td class="tg-c3ow">Room 701/11:00 AM</td>
+        <td class="tg-c3ow">Zoom/11:00 AM</td>
         <td class="tg-c3ow">Sunpill</td>
         <td class="tg-c3ow">Incrementally Verifiable Computation</td>
         <td class="tg-c3ow"></td>
