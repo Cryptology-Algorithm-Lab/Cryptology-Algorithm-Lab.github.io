@@ -23,7 +23,7 @@ header:
 </li>
 
 <li>
-[J21]  Keita Emura, <b>Jae Hong Seo </b>, Yohei Watanabe
+[J21]  Keita Emura, <b>Jae Hong Seo</b>, and Yohei Watanabe
     <p>
         <i>Efficient revocable identity-based encryption with short public parameters.</i> 
         <br>
