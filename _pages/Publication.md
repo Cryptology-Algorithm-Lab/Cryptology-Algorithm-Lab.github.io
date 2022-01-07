@@ -14,7 +14,7 @@ header:
 
 <ul type="none">
 <li>
-[J22]  <b>Chanyang Ju</b>, <b>Hyeonbum Lee</b>, <b>Heewon Chung</b>, <b>Jae Hong Seo </b>, and Sungwook Kim
+[J23]  <b>Chanyang Ju</b>, <b>Hyeonbum Lee</b>, <b>Heewon Chung</b>, <b>Jae Hong Seo </b>, and Sungwook Kim
     <p>
         <i>Efficient Sum-Check Protocol for Convolution.</i> 
         <br>
@@ -22,6 +22,15 @@ header:
     </p>
 </li>
 
+<li>
+[J22]  <b>Chanyang Ju</b>, <b>Hyeonbum Lee</b>, <b>Heewon Chung</b>, and <b>Jae Hong Seo </b>
+    <p>
+        <i>Analysis of Zero-Knowledge Protocols for Verifiable Computation and Its Applications(연산을 검증하기 위한 영지식 증명 프로토콜의 기법 및 응요 사례 분석).</i> 
+        <br>
+        Journal of the Korea Institute of Information Security & Cryptology(정보보호학회논문지),  Vol. 31, pp 675--686, 2021.
+    </p>
+</li>  
+  
 <li>
 [J21]  Keita Emura, <b>Jae Hong Seo</b>, and Yohei Watanabe
     <p>
