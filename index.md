@@ -17,6 +17,9 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
+        (Jan 3, 2022) Two undergraduate researchers (Bora Jeong, Seunghun Paik) participated in our Crypto & Algorithms Lab!
+    </li>
+    <li>
         (Dec 8, 2021) One paper (<A href="https://ieeexplore.ieee.org/document/9638642">Efficient Sum-Check Protocol for Convolution</A>) accepted at IEEE Access
     </li>
     <li>
@@ -30,39 +33,6 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     </li>
     <li>
         (Oct 1, 2021) Hyeonbum Lee (MS&Ph.D student) will receive a Special Prize from Korea Cryptography Forum, due to his paper entitled "Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier" submitted in National Cryptographic Technology Contest. Congrat. Hyeonbum!
-    </li>
-    <li>
-        A new project (Title: "Secure Multi-party Approximate Computation") has started.    
-    </li>
-    <li>
-        Presentation of research results related to Ironmask at <A href="https://research.samsung.com/sstf">SSTF 2021</A>
-        <details>
-            <summary>
-                (For more information, click the arrow)
-            </summary>
-            <iframe src="https://www.youtube.com/embed/RDl81Jd83zc?start=15563" width="560" height="315" frameborder="0"> </iframe>
-        </details>
-    </li>
-    <li>
-        Seminar on "Secure Computation and Management for Large Scale Data Aggregation" by Prof. <A href="https://sites.nd.edu/taeho-jung/">Tae-Ho Jung</A>
-        <details>
-            <summary>
-                (For more information, click the arrow)
-            </summary>
-            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/0001.jpg">
-        </details>
-    </li>
-    <li>
-        A new project (Title: "Blockchain and Zero Knowledge Proof for Searchable and Privacy-preserving Provenance Logging") has started.    
-    </li>
-    <li>
-        A new project (Title: "Study on Crypto Primitives for SNARK") has started.    
-    </li>
-    <li>
-        A new project (Title: "Research on Incrementally Verifiable Computation Design Technique and Application Method") has started.    
-    </li>
-    <li>
-        One paper (<A href="https://openaccess.thecvf.com/content/CVPR2021/html/Kim_IronMask_Modular_Architecture_for_Protecting_Deep_Face_Template_CVPR_2021_paper.html">IronMask: Modular Architecture for Protecting Deep Face Template</A>) accepted at <A href="http://cvpr2021.thecvf.com/">CVPR 2021</A>
     </li>
 </ul>    
 
