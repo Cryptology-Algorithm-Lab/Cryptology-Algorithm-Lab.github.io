@@ -69,16 +69,16 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <tbody>
       <tr>
         <td class="tg-c3ow">Date</td>
-        <td class="tg-c3ow">Place/Time</td>
+        <td class="tg-c3ow">Room/Time</td>
         <td class="tg-c3ow">Presenter</td>
         <td class="tg-c3ow">Topic</td>
-        <td class="tg-c3ow">Place/Time</td>
+        <td class="tg-c3ow">Room/Time</td>
         <td class="tg-c3ow">Presenter</td>
         <td class="tg-c3ow">Topic</td>
       </tr>
       <tr>
         <td class="tg-c3ow">1/7</td>
-        <td class="tg-c3ow">Room 701/10:00 AM</td>
+        <td class="tg-c3ow">701/10:00 AM</td>
         <td class="tg-c3ow">Bora</td>
         <td class="tg-c3ow">Attention is All You Need, An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, and CoAtNet: Marrying Convolution and Attention for All Data Sizes</td>
          <td class="tg-c3ow"></td>
@@ -96,7 +96,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </tr>  
       <tr>
         <td class="tg-c3ow">1/13</td>
-        <td class="tg-c3ow">Room 701/10:00 AM</td>
+        <td class="tg-c3ow">701/10:00 AM</td>
         <td class="tg-c3ow">Chanwoo</td>
         <td class="tg-c3ow">Who is Real Bob? Adversarial Attacks on Speaker Recognition Systems, Darker than Black-Box: Face Reconstruction from Similarity Queries, and IronMask: Modular Architecture for Protecting Deep Face Template</td>
         <td class="tg-c3ow"></td>
@@ -105,7 +105,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </tr>  
       <tr>
         <td class="tg-c3ow">1/20</td>
-        <td class="tg-c3ow">Room 701/10:00 AM</td>
+        <td class="tg-c3ow">701/10:00 AM</td>
         <td class="tg-c3ow">Dongsu</td>
         <td class="tg-c3ow">PlexNet: An Ensemble of Deep Neural Networks for Biometric Template Protection</td>
         <td class="tg-c3ow"></td>
@@ -132,7 +132,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </tr> 
       <tr>
         <td class="tg-c3ow">2/10</td>
-        <td class="tg-c3ow">Room 701/10:00 AM</td>
+        <td class="tg-c3ow">701/10:00 AM</td>
         <td class="tg-c3ow">Seunghun</td>
         <td class="tg-c3ow">Secure Chaff-less Fuzzy Vault for Face Identification Systems</td>
         <td class="tg-c3ow"></td>
