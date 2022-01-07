@@ -114,7 +114,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </tr>  
       <tr>
         <td class="tg-c3ow">1/27</td>
-        <td class="tg-c3ow">Room 701/10:00 AM</td>
+        <td class="tg-c3ow">701/10:00 AM</td>
         <td class="tg-c3ow">Bora</td>
         <td class="tg-c3ow">Secure Triplet Loss: Achieving Cancelability and Non-Linkability in End-to-End Deep Biometrics</td>
         <td class="tg-c3ow"></td>
@@ -123,7 +123,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </tr>
       <tr>
         <td class="tg-c3ow">2/3</td>
-        <td class="tg-c3ow">Room 701/10:00 AM</td>
+        <td class="tg-c3ow">701/10:00 AM</td>
         <td class="tg-c3ow">Chanwoo</td>
         <td class="tg-c3ow">Deep Index-of-Maximum Hashing for Face Template Protection</td>
         <td class="tg-c3ow"></td>
