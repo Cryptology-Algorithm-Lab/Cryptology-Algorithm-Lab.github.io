@@ -121,7 +121,7 @@ header:
             <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2015 - Feb 2020</span></p></i>
         <u>Research Interests</u>
         <br>
-        Zero-Knowledge Proofs, Deep Learning-Based Biometric, Computer Vision
+        Deep Learning-Based Biometric(Face, Speaker), Zero-Knowledge Proofs & Verifiable Computing 
     </li>   
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyeonbum Lee</b>
@@ -243,6 +243,34 @@ header:
         <u>Research Interests</u>
         <br>
         Deep Learning Algorithm, Computer Vision
+    </li>
+    <br>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b>
+        <br>
+        
+        </p>
+        <u>Education</u>
+        <br>
+        Hanyang University
+        <br>
+        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Mar 2015 - present</span></p></i>
+        <u>Research Interests</u>
+        <br>
+        Deep Learning Algorithm
+    </li>
+    <br>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Seunghun Paik</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Seunghun.jpg" alt="" height="160" width="120">
+        </p>
+        <u>Education</u>
+        <br>
+        Hanyang University
+        <br>
+        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Mar 2018 - present</span></p></i>
+        <u>Research Interests</u>
+        <br>
+        Privacy Preserving Machine Learning
     </li>
     </ul>
 </details>
