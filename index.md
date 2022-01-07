@@ -26,13 +26,13 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         (Nov 29, 2021) Three undergraduate researchers (Kyuhwan Lee, Dongsu Kim, Chanwoo Hwang) participated in our Crypto & Algorithms Lab!
     </li>
     <li>
-        (Nov 26, 2021) Taesam Kim (Undergraduate student) and Gyuhwan (Undergraduate student) receive a First Award from College of Natural Science (Hanyang University), due to their academic paper entitled "Proof of dot product using ZK-SNARK: Groth16" submitted in Academic Seminar. Congrat. Taesam and Gyuhwan!
+        (Nov 26, 2021) Taesam Kim (Undergraduate student) and Gyuhwan (Undergraduate student) receive a Top Prize from College of Natural Science (Hanyang University), due to their academic paper entitled "Proof of dot product using ZK-SNARK: Groth16" submitted in Academic Seminar. Congrat. Taesam and Gyuhwan!
     </li>
     <li>
         (Nov 5, 2021) Presentation of research results related to Ironmask at <A href="http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20210801&B_CATE=BBC1">2021 KAIC Fall Meeting</A>
     </li>
     <li>
-        (Oct 1, 2021) Hyeonbum Lee (MS&Ph.D student) will receive a Special Prize from Korea Cryptography Forum, due to his paper entitled "Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier" submitted in National Cryptographic Technology Contest. Congrat. Hyeonbum!
+        (Oct 1, 2021) Hyeonbum Lee (MS&Ph.D student) will receive a Participant Prize from Korea Cryptography Forum, due to his paper entitled "Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier" submitted in National Cryptographic Technology Contest. Congrat. Hyeonbum!
     </li>
 </ul>    
 
