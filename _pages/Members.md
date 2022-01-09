@@ -124,7 +124,7 @@ header:
         Deep Learning-Based Biometric(Face, Speaker), Zero-Knowledge Proofs & Verifiable Computing 
     </li>   
     <br>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyeonbum Lee</b>
+        <li><p style="text-align:left;"><A href="https://hyeonbumlee.github.io"><b sytle="font-size:120%;">Hyeonbum Lee</b></A>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Hyeonbum.jpg" alt="" height="160" width="120">
         </p>
@@ -136,7 +136,7 @@ header:
             <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2014 - Feb 2018</span></p></i>
         <u>Research Interests</u>
         <br>
-        Cryptography(Zero-Knowledge Proofs)
+        Zero-Knowledge Proofs, Verifiable Computing, Secure Multi-Party Computation
         </li>        
     </ul>
 </details>
