@@ -40,33 +40,6 @@ header:
 
 <details>
     <summary style="font-size:1.2rem; font-weight:bold;">
-        PostDoc
-    </summary>
-    <ul type="square">
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Heewon Chung</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Heewon.jpg" alt="" height="160" width="120">
-        </p>
-        <u>Education</u>
-        <br>
-        Seoul National University
-        <br>
-        <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Feb 2017</span><br>
-            <span style="text-align:left;">MS in Mathematics</span><span style="float:right;">Feb 2013</span></p></i>
-        KAIST
-        <br>
-        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Feb 2010</span></p></i>
-        <u>Research Interests</u>
-        <br>
-        Zero-Knowledge Proofs, Blockchain, Homomorphic Encryption
-        </li>
-    </ul>
-</details>
-
-<br>
-
-<details>
-    <summary style="font-size:1.2rem; font-weight:bold;">
         MS&Ph.D student
     </summary>
     <ul type="square">
@@ -294,14 +267,24 @@ header:
 
 <details>
     <summary style="font-size:1.2rem; font-weight:bold;">
+        Alumni (PostDoc)
+    </summary>
+    <ul type="square">
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Heewon Chung (Desilo)</b><span style="float:right;"> <i>Dec 2021</i></span></p>
+    </li>
+    </ul>
+</details>
+
+<details>
+    <summary style="font-size:1.2rem; font-weight:bold;">
         Alumni (Graduate Students)
     </summary>
     <ul type="square">
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Hwamin Yoo</b><span style="float:right;"> <i>Feb 2017</i></span></p>
     </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Changjin Kim</b><span style="float:right;"> <i>Feb 2017</i></span></p>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Changjin Kim (Onther)</b><span style="float:right;"> <i>Feb 2017</i></span></p>
     </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Gyumin Lim</b><span style="float:right;"> <i>Feb 2021</i></span></p>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Gyumin Lim (KAIST Cyber Security Research Center)</b><span style="float:right;"> <i>Feb 2021</i></span></p>
     </li>
     </ul>
 </details>
