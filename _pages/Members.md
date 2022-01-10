@@ -148,20 +148,6 @@ header:
         Undergraduate student
     </summary>
     <ul type="square">
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Taesam Kim</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Taesam.jpg" alt="" height="160" width="120">
-        </p>
-        <u>Education</u>
-        <br>
-        Hanyang University
-        <br>
-        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Mar 2015 - present</span></p></i>
-        <u>Research Interests</u>
-        <br>
-        Zero-Knowledge Proofs, Blockchain
-    </li>
-    <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyunki Cho</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jhk.jpg" alt="" height="160" width="120">
@@ -305,6 +291,9 @@ header:
         <li><p style="text-align:left;"><b sytle="font-size:120%;">SuRyun Ji</b><span style="float:right;"> <i></i></span></p>
     </li>
         <li><p style="text-align:left;"><A href="https://github.com/imeunu"><b sytle="font-size:120%;">Eunwoo Im</b></A><span style="float:right;"> <i></i></span></p>
+    </li>
+    </li>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Taesam Kim</b><span style="float:right;"> <i></i></span></p>
     </li>
     </ul>
 </details>
