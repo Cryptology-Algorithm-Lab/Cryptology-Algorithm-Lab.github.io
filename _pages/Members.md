@@ -97,7 +97,7 @@ header:
         Deep Learning-Based Biometric(Face, Speaker), Zero-Knowledge Proofs & Verifiable Computing 
     </li>   
     <br>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyeonbum Lee</b>
+        <li><p style="text-align:left;"><A href="https://hyeonbumlee.github.io"><b sytle="font-size:120%;">Hyeonbum Lee</b></A>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Hyeonbum.jpg" alt="" height="160" width="120">
         </p>
