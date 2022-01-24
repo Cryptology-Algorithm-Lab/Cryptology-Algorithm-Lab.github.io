@@ -32,7 +32,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         (Nov 5, 2021) Presentation of research results related to Ironmask at <A href="http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20210801&B_CATE=BBC1">2021 KAIC Fall Meeting</A>
     </li>
     <li>
-        (Oct 1, 2021) Hyeonbum Lee (MS&Ph.D student) will receive a Participant Prize from Korea Cryptography Forum, due to his paper entitled "Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier" submitted in National Cryptographic Technology Contest. Congrat. Hyeonbum!
+        (Oct 1, 2021) Hyeonbum Lee (MS&Ph.D student) will receive a Special Prize from Korea Cryptography Forum, due to his paper entitled "Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier" submitted in National Cryptographic Technology Contest. Congrat. Hyeonbum!
     </li>
 </ul>    
 
@@ -108,6 +108,15 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <td class="tg-c3ow">701/10:00 AM</td>
         <td class="tg-c3ow">Dongsu</td>
         <td class="tg-c3ow">PlexNet: An Ensemble of Deep Neural Networks for Biometric Template Protection</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">N/A</td>
+        <td class="tg-c3ow">N/A</td>
+      </tr>  
+      <tr>
+        <td class="tg-c3ow">1/24</td>
+        <td class="tg-c3ow">Zoom/11:00 AM</td>
+        <td class="tg-c3ow">Hyeonbum</td>
+        <td class="tg-c3ow">Bulletproofs: Short Proofs for Confidential Transactions and More</td>
         <td class="tg-c3ow"></td>
         <td class="tg-c3ow">N/A</td>
         <td class="tg-c3ow">N/A</td>
