@@ -40,30 +40,9 @@ header:
 
 <details>
     <summary style="font-size:1.2rem; font-weight:bold;">
-        MS&Ph.D student
+        Ph.D student
     </summary>
     <ul type="square">
-        <!--
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Changjin Kim</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Changjin.jpg" alt="" height="160" width="120">
-        </p>
-        <u>Education</u>
-        <br>
-        Hanyang University
-        <br>
-        <p style="text-align:left;"><i>Ph.D in Mathematics</i> (Transfer from Myongji University)<span style="float:right;"><i>Mar 2018 - present</i></span><br>
-            </p>
-        Myongji University
-        <br>
-        <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Mar 2017 - Feb 2018</span><br>
-            <span style="text-align:left;">MS in Mathematics</span><span style="float:right;">Mar 2015 - Feb 2017</span><br>
-            <span style="text-align:left;">BS in Mathematics</span><span style="float:right;">Mar 2009 - Feb 2015</span></p></i>
-        <u>Research Interests</u>
-        <br>
-        Zero-Knowledge Proofs, Computer Vision, Blockchain
-        </li>
-        -->
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Chanyang Ju</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Chanyang.jpg" alt="" height="160" width="120">
@@ -137,17 +116,8 @@ header:
         <u>Research Interests</u>
         <br>
         Blockchain, Cryptography
-        </li>
-    </ul>
-</details>
-
-<br>
-
-<details>
-    <summary style="font-size:1.2rem; font-weight:bold;">
-        Undergraduate student
-    </summary>
-    <ul type="square">
+    </li>
+    <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Kyuhwan Lee</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Kyuhwan.jpg" alt="" height="160" width="120">
@@ -161,7 +131,16 @@ header:
         <br>
         Lattice-based cryptography, Zero-Knowledge Proof
     </li>
-    <br>
+    </ul>
+</details>
+
+<br>
+
+<details>
+    <summary style="font-size:1.2rem; font-weight:bold;">
+        Undergraduate student
+    </summary>
+    <ul type="square">
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Chanwoo Hwang</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Chanwoo.jpg" alt="" height="160" width="120">
