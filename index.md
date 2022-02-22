@@ -17,6 +17,9 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
+        (Feb 22, 2022) A new project (Title: "A study on biometric information extraction threats and countermeasures in deep learning-based face recognition system") has started.
+    </li>
+    <li>
         (Jan 3, 2022) Two undergraduate researchers (Bora Jeong, Seunghun Paik) participated in our Crypto & Algorithms Lab!
     </li>
     <li>
