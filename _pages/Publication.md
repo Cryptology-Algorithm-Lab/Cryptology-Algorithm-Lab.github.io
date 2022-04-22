@@ -15,9 +15,9 @@ header:
 <ul type="none">
   
 <li>
-[J23]  <b>Heewon Chung</b>, Kyoohyung Han, <b>Chanyang Ju</b>, Myungsun Kim, and <b>Jae Hong Seo</b>
+[J24]  <b>Heewon Chung</b>, Kyoohyung Han, <b>Chanyang Ju</b>, Myungsun Kim, and <b>Jae Hong Seo</b>
     <p>
-        <i>Bulletproofs+: Shorter Proofs for a Privacy-Enhanced Distributed Ledger</i> 
+        <i>Bulletproofs+: Shorter Proofs for a Privacy-Enhanced Distributed Ledger.</i> 
         <br>
         IEEE Access, April 2022.
     </p>
