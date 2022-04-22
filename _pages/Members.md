@@ -88,7 +88,7 @@ header:
             <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2014 - Feb 2018</span></p></i>
         <u>Research Interests</u>
         <br>
-        Cryptography(Zero-Knowledge Proofs)
+        Zero-Knowledge Proofs, Verifiable Computing, Secure Multi-Party Computation
         </li>        
     </ul>
 </details>
