@@ -17,6 +17,9 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
+        (April 18, 2022) One paper (<A href="https://ieeexplore.ieee.org/document/9758733">Bulletproofs+: Shorter Proofs for a Privacy-Enhanced Distributed Ledger.</A>) accepted at IEEE Access
+    </li>  
+    <li>
         (Feb 22, 2022) A new project (Title: "A study on biometric information extraction threats and countermeasures in deep learning-based face recognition system") has started.
     </li>
     <li>
