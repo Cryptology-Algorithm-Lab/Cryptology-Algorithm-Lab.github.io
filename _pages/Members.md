@@ -42,24 +42,7 @@ header:
     <summary style="font-size:1.2rem; font-weight:bold;">
         Ph.D student
     </summary>
-    <ul type="square">
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Chanyang Ju</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Chanyang.jpg" alt="" height="160" width="120">
-        </p>
-        <u>Education</u>
-        <br>
-        Hanyang University
-        <br>
-        <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Mar 2018 - present</span><br>
-            </p></i>
-        Myongji University
-        <br>
-        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;"> Mar 2013 - Feb 2018</span></p></i>
-        <u>Research Interests</u>
-        <br>
-        Blockchain, Verifiable Computation, Zero-Knowledge Proofs
-        </li>
+    <ul type="square">        
         <br>
         <li><p style="text-align:left;"><A href="https://sunpill.github.io"><b sytle="font-size:120%;">Sunpill Kim</b></A>
         <br>
