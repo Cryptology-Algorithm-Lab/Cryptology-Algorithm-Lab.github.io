@@ -205,7 +205,7 @@ header:
         <u>Research Interests</u>
         <br>
         Error Correcting Code
-    </li>
+        </li>
     </ul>
 </details>
 
