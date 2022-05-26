@@ -193,7 +193,8 @@ header:
         <u>Research Interests</u>
         <br>
         Error Correcting Code
-     <br>
+        </li>
+    <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Seongae Baek</b>
         <br>
         <u>Education</u>
