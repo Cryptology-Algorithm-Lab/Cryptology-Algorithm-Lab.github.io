@@ -14,6 +14,9 @@ header:
 
 <ul type="square">
     <li>
+        (May 1, 2022) Two undergraduate researchers (Minsu Kim, Seongae Baik) participated in our Crypto & Algorithms Lab!
+    </li>
+    <li>
         (Dec 8, 2021) One paper (<A href="https://ieeexplore.ieee.org/document/9638642">Efficient Sum-Check Protocol for Convolution</A>) accepted at IEEE Access
     </li>
     <li>
