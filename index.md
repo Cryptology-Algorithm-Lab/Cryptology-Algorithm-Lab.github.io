@@ -15,15 +15,24 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 ## News
 
-<ul type="square">
+<ul type="square">  
+    <li>
+        (Jun 10, 2022) One paper (Monitoring Provenance of Delegated Personal Data With Blockchain.) accepted at IEEE Blockchain.
+    </li>
     <li>
         (May 1, 2022) Two undergraduate researchers (Minsu Kim, Seongae Baik) participated in our Crypto & Algorithms Lab!
     </li>
     <li>
-        (April 18, 2022) One paper (<A href="https://ieeexplore.ieee.org/document/9758733">Bulletproofs+: Shorter Proofs for a Privacy-Enhanced Distributed Ledger.</A>) accepted at IEEE Access
+        (May 1, 2022) A new project supported by Institute for Information and Communications Technology Promotion, IITP (Title: "Logging and Zero-knowledge Proof based on Hierarchical Blockchain") has started.
+    </li>
+    <li>
+        (Apr 18, 2022) One paper (<A href="https://ieeexplore.ieee.org/document/9758733">Bulletproofs+: Shorter Proofs for a Privacy-Enhanced Distributed Ledger.</A>) accepted at IEEE Access
+    </li>
+    <li>
+        (Apr 1, 2022) A new project supported by National Security Research Institute, NSR (Title: "Research on the design technology of a cryptographic proof system suitable for Proof-Carrying Data") has started.
     </li>  
     <li>
-        (Feb 22, 2022) A new project (Title: "A study on biometric information extraction threats and countermeasures in deep learning-based face recognition system") has started.
+        (Feb 22, 2022) A new project supported by Korea Institute of Information Security & Crytology, KIISC (Title: "A study on biometric information extraction threats and countermeasures in deep learning-based face recognition system") has started.
     </li>
     <li>
         (Jan 3, 2022) Two undergraduate researchers (Bora Jeong, Seunghun Paik) participated in our Crypto & Algorithms Lab!
