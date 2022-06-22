@@ -17,7 +17,7 @@ header:
 <li>
 [J25]  Chanyang Ju, Wenyi Tang, Changhao Chenli, <b>Gwangwoon Lee</b>, <b>Jae Hong Seo</b>, and Taeho Jung
     <p>
-        <i>Monitoring Provenance of Delegated Personal Data With Blockchain</i> 
+        <i>Monitoring Provenance of Delegated Personal Data With Blockchain.</i> 
         <br>
         IEEE Blockchain, 2022.
     </p>
