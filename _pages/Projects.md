@@ -14,15 +14,15 @@ header:
 
 <ul type="square">
     <li>
+        May 2022 - Apr 2023, 다중 계층 블록체인 기반의 로그 저장 및 영지식 증명 방법, 정보통신기획평가원 (IITP)
+        <br>
+        Logging and Zero-knowledge Proof based on Hierarchical Blockchain, Institute for Information and Communications Technology Promotion (IITP)
+    </li>
+    <li>
         Sep 2021 - Aug 2024, 다자간 근사계산 암호 원천기술 개발, 삼성미래기술육성재단
         <br>
         Secure Multi-party Approximate Computation, Samsung Science & Technology Foundation
-    </li>
-    <li>
-        May 2021 - Apr 2022, 검색 가능한 블록체인기반 프로비넌스 로그의 프라이버시 보호를 위한 영지식 증명 기법연구, 정보통신기획평가원 (IITP)
-        <br>
-        Blockchain and Zero Knowledge Proof for Searchable and Privacy-preserving Provenance Logging, Institute for Information and Communications Technology Promotion (IITP)
-    </li>
+    </li>    
     <li>
         Apr 2021 - Dec 2026, 간결한 비대화형 연산 증명 시스템(SNARK)를 위한 암호 원천 기술 개발, 정보통신기획평가원 (IITP)
         <br>
@@ -38,6 +38,11 @@ header:
 
 ## Finished
 <ul type="square">
+    <li>
+        May 2021 - Apr 2022, 검색 가능한 블록체인기반 프로비넌스 로그의 프라이버시 보호를 위한 영지식 증명 기법연구, 정보통신기획평가원 (IITP)
+        <br>
+        Blockchain and Zero Knowledge Proof for Searchable and Privacy-preserving Provenance Logging, Institute for Information and Communications Technology Promotion (IITP)
+    </li>
     <li>
         Apr 2021 - Oct 2021, 점진적 검증가능연산 설계기법 및 적용방안 연구, 국가보안기술연구소
         <br>
