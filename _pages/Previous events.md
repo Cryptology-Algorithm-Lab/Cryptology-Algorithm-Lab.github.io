@@ -14,18 +14,6 @@ header:
 
 <ul type="square">    
     <li>
-        (May 1, 2022) Two undergraduate researchers (Minsu Kim, Seongae Baik) participated in our Crypto & Algorithms Lab!
-    </li>
-    <li>
-        (April 18, 2022) One paper (Bulletproofs+: Shorter Proofs for a Privacy-Enhanced Distributed Ledger.) accepted at IEEE Access  
-    </li>
-    <li>
-        (Feb 22, 2022) A new project (Title: "A study on biometric information extraction threats and countermeasures in deep learning-based face recognition system") has started.
-    </li>        
-    <li>
-        (Jan 3, 2022) Two undergraduate researchers (Bora Jeong, Seunghun Paik) participated in our Crypto & Algorithms Lab!
-    </li>
-    <li>
         (Dec 8, 2021) One paper (<A href="https://ieeexplore.ieee.org/document/9638642">Efficient Sum-Check Protocol for Convolution</A>) accepted at IEEE Access
     </li>
     <li>
