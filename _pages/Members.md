@@ -207,6 +207,20 @@ header:
         <u>Research Interests</u>
         <br>
         Error Correcting Code
+    </li>    
+    <br>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Sangyoon Shin</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sangyoon.jpg" alt="" height="160" width="120">
+        </p>
+        <u>Education</u>
+        <br>
+        Hanyang University
+        <br>
+        <i><p style="text-align:left;">BS in Computer Science<span style="float:right;">Mar 2018 - present</span></p></i>
+        <u>Research Interests</u>
+        <br>
+        Deep Learning Algorithm
     </li>
     </ul>
 </details>
