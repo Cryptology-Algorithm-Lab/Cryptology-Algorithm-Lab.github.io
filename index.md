@@ -15,7 +15,10 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 ## News
 
-<ul type="square">  
+<ul type="square">
+    <li>
+        (Jul 1, 2022) One undergraduate researcher (Sangyoon Shin) participated in our Crypto & Algorithms Lab!
+    </li> 
     <li>
         (Jun 10, 2022) One paper (Monitoring Provenance of Delegated Personal Data With Blockchain.) accepted at IEEE Blockchain.
     </li>
