@@ -49,10 +49,11 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <summary style="font-size:1.2rem; font-weight:bold;">
         2022
     </summary>
-    <details>
+    <ol>
+    <details> 
     <summary style="font-size:1rem; font-weight:bold;">
         Deep Learning
-    </summary>    
+    </summary>
         <style type="text/css">
    .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
     .tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
@@ -182,21 +183,187 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     </tbody>
     </table>  
     </details>
+    </ol>
+    <ol>
     <details>
     <summary style="font-size:1rem; font-weight:bold;">
         Proof-Carrying Data
     </summary>
+      <style type="text/css">
+   .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
+    .tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
+      font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
+      font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:middle}
+    .tg .tg-5jts{border-color:inherit;font-size:18px;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg" style="undefined;table-layout: fixed; width: 1082px">
+    <colgroup>
+    <col style="width: 70px">
+    <col style="width: 100px">
+    <col style="width: 77px">
+    <col style="width: 110px">
+    <col style="width: 640px">
+    </colgroup>
+    <thead>
+      <tr>
+        <th class="tg-5jts" colspan="5">Seminar Schedule - Proof-Carrying Data</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow">Date</td>
+        <td class="tg-c3ow">Time</td>
+        <td class="tg-c3ow">Place</td>
+        <td class="tg-c3ow">Presenter</td>
+        <td class="tg-c3ow">Topic</td>
+      </tr>      
+      <tr>
+        <td class="tg-c3ow">6/30</td>
+        <td class="tg-c3ow">04:00PM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow">Hyeonbum</td>
+        <td class="tg-c3ow">Proof-Carrying Data without Succinct Arguments</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">7/14</td>
+        <td class="tg-c3ow">04:00PM</td>
+        <td class="tg-c3ow">701</td>
+        <td class="tg-c3ow">Hyeonbum</td>
+        <td class="tg-c3ow">Research topic : sublinear decidable accumulator scheme</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">7/21</td>
+        <td class="tg-c3ow">04:00PM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow">Hyeonbum</td>
+        <td class="tg-c3ow">Proof-Carrying Data without Succinct Arguments</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">7/27</td>
+        <td class="tg-c3ow">04:00PM</td>
+        <td class="tg-c3ow">TBD</td>
+        <td class="tg-c3ow">Hyeonbum</td>
+        <td class="tg-c3ow">Halo Infinite : Proof-Carrying Data from Additive Polynomial Commitments</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">8/3</td>
+        <td class="tg-c3ow">04:00PM</td>
+        <td class="tg-c3ow">TBD</td>
+        <td class="tg-c3ow">Hyeonbum</td>
+        <td class="tg-c3ow">Halo Infinite : Proof-Carrying Data from Additive Polynomial Commitments</td>
+      </tr>
+    </tbody>
+    </table>
     </details>
+    </ol>
+    <ol>
     <details>
     <summary style="font-size:1rem; font-weight:bold;">
         Differential Privacy
     </summary>
+      <style type="text/css">
+   .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
+    .tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
+      font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
+      font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:middle}
+    .tg .tg-5jts{border-color:inherit;font-size:18px;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg" style="undefined;table-layout: fixed; width: 1082px">
+    <colgroup>
+    <col style="width: 70px">
+    <col style="width: 100px">
+    <col style="width: 77px">
+    <col style="width: 110px">
+    <col style="width: 640px">
+    </colgroup>
+    <thead>
+      <tr>
+        <th class="tg-5jts" colspan="5">Seminar Schedule - Differential Privacy</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow">Date</td>
+        <td class="tg-c3ow">Time</td>
+        <td class="tg-c3ow">Place</td>
+        <td class="tg-c3ow">Presenter</td>
+        <td class="tg-c3ow">Topic</td>
+      </tr>      
+      <tr>
+        <td class="tg-c3ow">7/15</td>
+        <td class="tg-c3ow">01:00PM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow">Gwangwoon</td>
+        <td class="tg-c3ow">The promise of DP & Basic Terms (The Algorithmic Foundation of DP Chapter1,2) </td>
+      </tr>
+    </tbody>
+    </table>  
     </details>
+    </ol>
+    <ol>
     <details>
     <summary style="font-size:1rem; font-weight:bold;">
         Zero Knowledge Proof
     </summary>
-    </details>            
+      <style type="text/css">
+   .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
+    .tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
+      font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
+      font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:middle}
+    .tg .tg-5jts{border-color:inherit;font-size:18px;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg" style="undefined;table-layout: fixed; width: 1082px">
+    <colgroup>
+    <col style="width: 70px">
+    <col style="width: 100px">
+    <col style="width: 77px">
+    <col style="width: 110px">
+    <col style="width: 640px">
+    </colgroup>
+    <thead>
+      <tr>
+        <th class="tg-5jts" colspan="5">Seminar Schedule - Zero Knowledge Proof</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow">Date</td>
+        <td class="tg-c3ow">Time</td>
+        <td class="tg-c3ow">Place</td>
+        <td class="tg-c3ow">Presenter</td>
+        <td class="tg-c3ow">Topic</td>
+      </tr>      
+      <tr>
+        <td class="tg-c3ow">7/5</td>
+        <td class="tg-c3ow">04:00PM</td>
+        <td class="tg-c3ow">740</td>
+        <td class="tg-c3ow">Kyuhwan</td>
+        <td class="tg-c3ow">F-S transformation</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">7/5</td>
+        <td class="tg-c3ow">04:00PM</td>
+        <td class="tg-c3ow">740</td>
+        <td class="tg-c3ow">Kyuhwan</td>
+        <td class="tg-c3ow">Front end : Program2circuit</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">7/5</td>
+        <td class="tg-c3ow">04:00PM</td>
+        <td class="tg-c3ow">740</td>
+        <td class="tg-c3ow">Kyuhwan</td>
+        <td class="tg-c3ow">Program2circuit Sumcheck</td>
+      </tr>
+    </tbody>
+    </table>
+    </details>
+    </ol>  
 </details>        
 
 
