@@ -110,7 +110,7 @@ header:
         Hanyang University
         <br>
         <i><p style="text-align:left;">MS in Information Security<span style="float:right;">Mar 2022 - present</span><br>
-            <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2015 - Feb 2022</span></p></i>
+            <span style="text-align:left;">BS in Mathematics</span><span style="float:right;">Mar 2015 - Feb 2022</span></p></i>
         <u>Research Interests</u>
         <br>
         Lattice-based cryptography, Zero-Knowledge Proof
@@ -134,7 +134,7 @@ header:
         Hanyang University
         <br>
         <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Mar 2017 - present</span><br>
-          <span style="text-align:left;">BE in Computer Science<span style="float:right;">Sep 2019 - present</span></p></i>  
+            <span style="text-align:left;">BE in Computer Science</span><span style="float:right;">Sep 2019 - present</span></p></i>  
         <u>Research Interests</u>
         <br>
         Deep Learning Algorithm, Computer Vision
