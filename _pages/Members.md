@@ -133,7 +133,8 @@ header:
         <br>
         Hanyang University
         <br>
-        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Mar 2017 - present</span></p></i>
+        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Mar 2017 - present</span><br>
+          <span style="text-align:left;">BE in Computer Science<span style="float:right;">Sep 2019 - present</span></p></i>  
         <u>Research Interests</u>
         <br>
         Deep Learning Algorithm, Computer Vision
@@ -217,7 +218,7 @@ header:
         <br>
         Hanyang University
         <br>
-        <i><p style="text-align:left;">BS in Computer Science<span style="float:right;">Mar 2018 - present</span></p></i>
+        <i><p style="text-align:left;">BE in Computer Science<span style="float:right;">Mar 2018 - present</span></p></i>
         <u>Research Interests</u>
         <br>
         Deep Learning Algorithm
