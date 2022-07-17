@@ -50,7 +50,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         2022
     </summary>
     <details>
-    <summary style="font-size:1.2rem; font-weight:bold;">
+    <summary style="font-size:1rem; font-weight:bold;">
         Deep Learning
     </summary>    
         <style type="text/css">
@@ -59,13 +59,13 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
     .tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
       font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:middle}
     .tg .tg-5jts{border-color:inherit;font-size:18px;text-align:center;vertical-align:top}
     </style>
     <table class="tg" style="undefined;table-layout: fixed; width: 1082px">
     <colgroup>
     <col style="width: 70px">
-    <col style="width: 200px">
+    <col style="width: 100px">
     <col style="width: 77px">
     <col style="width: 110px">
     <col style="width: 640px">
@@ -94,7 +94,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <td class="tg-c3ow">An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale</td>
       </tr>
       <tr>
-        <td class="tg-a3ow">CoAtNet: Marrying Convolution and Attention for All Data Sizes</td>
+        <td class="tg-c3ow">CoAtNet: Marrying Convolution and Attention for All Data Sizes</td>
       </tr>  
       <tr>
         <td class="tg-c3ow">1/11</td>
@@ -183,17 +183,17 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     </table>  
     </details>
     <details>
-    <summary style="font-size:1.2rem; font-weight:bold;">
+    <summary style="font-size:1rem; font-weight:bold;">
         Proof-Carrying Data
     </summary>
     </details>
     <details>
-    <summary style="font-size:1.2rem; font-weight:bold;">
+    <summary style="font-size:1rem; font-weight:bold;">
         Differential Privacy
     </summary>
     </details>
     <details>
-    <summary style="font-size:1.2rem; font-weight:bold;">
+    <summary style="font-size:1rem; font-weight:bold;">
         Zero Knowledge Proof
     </summary>
     </details>            
