@@ -347,14 +347,14 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <td class="tg-c3ow">F-S transformation</td>
       </tr>
       <tr>
-        <td class="tg-c3ow">7/5</td>
+        <td class="tg-c3ow">7/12</td>
         <td class="tg-c3ow">04:00PM</td>
         <td class="tg-c3ow">740</td>
         <td class="tg-c3ow">Kyuhwan</td>
         <td class="tg-c3ow">Front end : Program2circuit</td>
       </tr>
       <tr>
-        <td class="tg-c3ow">7/5</td>
+        <td class="tg-c3ow">7/19</td>
         <td class="tg-c3ow">04:00PM</td>
         <td class="tg-c3ow">740</td>
         <td class="tg-c3ow">Kyuhwan</td>
