@@ -89,96 +89,89 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <td class="tg-c3ow" rowspan="3">10:00AM</td>
         <td class="tg-c3ow" rowspan="3">701</td>
         <td class="tg-c3ow" rowspan="3">Bora</td>
-        <td class="tg-c3ow">Attention is All You Need</td>
+        <td class="tg-c3ow"><A href="https://arxiv.org/pdf/1706.03762.pdf">Attention is All You Need</A></td>
       </tr>
       <tr>
-        <td class="tg-c3ow">An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale</td>
+        <td class="tg-c3ow"><A href="https://arxiv.org/pdf/2010.11929.pdf">An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale</A></td>
       </tr>
       <tr>
-        <td class="tg-c3ow">CoAtNet: Marrying Convolution and Attention for All Data Sizes</td>
-      </tr>  
-      <tr>
-        <td class="tg-c3ow">1/11</td>
-        <td class="tg-c3ow">11:00AM</td>
-        <td class="tg-c3ow">Zoom</td>
-        <td class="tg-c3ow">Sunpil</td>
-        <td class="tg-c3ow">Incrementally Verifiable Computation</td>
+        <td class="tg-c3ow"><A href="https://arxiv.org/pdf/2106.04803.pdf">CoAtNet: Marrying Convolution and Attention for All Data Sizes</A></td>
       </tr>  
       <tr>
         <td class="tg-c3ow" rowspan="3">1/13</td>
         <td class="tg-c3ow" rowspan="3">10:00AM</td>
         <td class="tg-c3ow" rowspan="3">701</td>
         <td class="tg-c3ow" rowspan="3">Chanwoo</td>
-        <td class="tg-c3ow">Who is Real Bob? Adversarial Attacks on Speaker Recognition Systems</td>
+        <td class="tg-c3ow"><A href="https://arxiv.org/pdf/1911.01840.pdf">Who is Real Bob? Adversarial Attacks on Speaker Recognition Systems</A></td>
       </tr>
       <tr>
-        <td class="tg-c3ow">Darker than Black-Box: Face Reconstruction from Similarity Queries</td>
+        <td class="tg-c3ow"><A href="https://arxiv.org/pdf/2106.14290.pdf">Darker than Black-Box: Face Reconstruction from Similarity Queries</A></td>
       </tr>
       <tr>
-        <td class="tg-c3ow">IronMask: Modular Architecture for Protecting Deep Face Template</td>
+        <td class="tg-c3ow"><A href="https://arxiv.org/pdf/2104.02239.pdf">IronMask: Modular Architecture for Protecting Deep Face Template</A></td>
       </tr> 
       <tr>
         <td class="tg-c3ow">1/20</td>
         <td class="tg-c3ow">10:00AM</td>
         <td class="tg-c3ow">701</td>
         <td class="tg-c3ow">Dongsu</td>
-        <td class="tg-c3ow">PlexNet: An Ensemble of Deep Neural Networks for Biometric Template Protection</td>
+        <td class="tg-c3ow"><A href="https://thesai.org/Downloads/Volume12No4/Paper_36-PlexNet_An_Ensemble_of_Deep_Neural_Networks.pdf">PlexNet: An Ensemble of Deep Neural Networks for Biometric Template Protection</A></td>
       </tr>  
       <tr>
         <td class="tg-c3ow">1/27</td>
         <td class="tg-c3ow">10:00AM</td>
         <td class="tg-c3ow">701</td>
         <td class="tg-c3ow">Bora</td>
-        <td class="tg-c3ow">Secure Triplet Loss: Achieving Cancelability and Non-Linkability in End-to-End Deep Biometrics</td>
+        <td class="tg-c3ow"><A href="https://web.fe.up.pt/~jsc/publications/journals/2021JoaoPintoTBIOM.pdf">Secure Triplet Loss: Achieving Cancelability and Non-Linkability in End-to-End Deep Biometrics</A></td>
       </tr>
       <tr>
         <td class="tg-c3ow">2/3</td>
         <td class="tg-c3ow">10:00AM</td>
         <td class="tg-c3ow">701</td>
         <td class="tg-c3ow">Chanwoo</td>
-        <td class="tg-c3ow">Deep Index-of-Maximum Hashing for Face Template Protection</td>
+        <td class="tg-c3ow"><A href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9118594">Deep Index-of-Maximum Hashing for Face Template Protection</A></td>
       </tr> 
       <tr>
         <td class="tg-c3ow">2/10</td>
         <td class="tg-c3ow">10:00AM</td>
         <td class="tg-c3ow">701</td>
         <td class="tg-c3ow">Seunghun</td>
-        <td class="tg-c3ow">Secure Chaff-less Fuzzy Vault for Face Identification Systems</td>
+        <td class="tg-c3ow"><A href="https://dl.acm.org/doi/pdf/10.1145/3442198">Secure Chaff-less Fuzzy Vault for Face Identification Systems</A></td>
       </tr>
       <tr>
         <td class="tg-c3ow">7/6</td>
         <td class="tg-c3ow">10:00AM</td>
         <td class="tg-c3ow">702</td>
         <td class="tg-c3ow">Seunghun</td>
-        <td class="tg-c3ow">Very Deep VAES Generalize Autogregressive Models and can outperform them on images</td>
+        <td class="tg-c3ow"><A href="https://arxiv.org/pdf/2011.10650.pdf">Very Deep VAES Generalize Autogregressive Models and can outperform them on images</A></td>
       </tr>
       <tr>
         <td class="tg-c3ow">7/13</td>
         <td class="tg-c3ow">10:00AM</td>
         <td class="tg-c3ow">702</td>
         <td class="tg-c3ow">Bora</td>
-        <td class="tg-c3ow">Sphereface2 : Binary Classification Is All You Need for Deep Face Recognition</td>
+        <td class="tg-c3ow"><A href="https://arxiv.org/pdf/2108.01513.pdf">Sphereface2 : Binary Classification Is All You Need for Deep Face Recognition</A></td>
       </tr>
       <tr>
         <td class="tg-c3ow">7/20</td>
         <td class="tg-c3ow">10:00AM</td>
         <td class="tg-c3ow">702</td>
         <td class="tg-c3ow">Dongsu</td>
-        <td class="tg-c3ow">Variational Prototype Learning for Deep Face Recognition</td>
+        <td class="tg-c3ow"><A href="https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Variational_Prototype_Learning_for_Deep_Face_Recognition_CVPR_2021_paper.pdf">Variational Prototype Learning for Deep Face Recognition</A></td>
       </tr>
       <tr>
         <td class="tg-c3ow">7/27</td>
         <td class="tg-c3ow">10:00AM</td>
         <td class="tg-c3ow">702</td>
         <td class="tg-c3ow">Chanwoo</td>
-        <td class="tg-c3ow">AutoAugment : Learning Augmentation Strategies from Data</td>
+        <td class="tg-c3ow"><A href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Cubuk_AutoAugment_Learning_Augmentation_Strategies_From_Data_CVPR_2019_paper.pdf">AutoAugment : Learning Augmentation Strategies from Data</A></td>
       </tr>
       <tr>
         <td class="tg-c3ow">8/3</td>
         <td class="tg-c3ow">10:00AM</td>
         <td class="tg-c3ow">702</td>
         <td class="tg-c3ow">Sunpil</td>
-        <td class="tg-c3ow">It’s All in the Head : Representation Knowledge Distillation through Classifier Sharing</td>
+        <td class="tg-c3ow"><A href="https://arxiv.org/pdf/2201.06945.pdf">It’s All in the Head : Representation Knowledge Distillation through Classifier Sharing</A></td>
       </tr>
     </tbody>
     </table>  
@@ -257,53 +250,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     </tbody>
     </table>
     </details>
-    </ol>
-    <ol>
-    <details>
-    <summary style="font-size:1rem; font-weight:bold;">
-        Differential Privacy
-    </summary>
-      <style type="text/css">
-   .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
-    .tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
-      font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-    .tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
-      font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:middle}
-    .tg .tg-5jts{border-color:inherit;font-size:18px;text-align:center;vertical-align:top}
-    </style>
-    <table class="tg" style="undefined;table-layout: fixed; width: 1082px">
-    <colgroup>
-    <col style="width: 70px">
-    <col style="width: 100px">
-    <col style="width: 77px">
-    <col style="width: 110px">
-    <col style="width: 640px">
-    </colgroup>
-    <thead>
-      <tr>
-        <th class="tg-5jts" colspan="5">Seminar Schedule - Differential Privacy</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="tg-c3ow">Date</td>
-        <td class="tg-c3ow">Time</td>
-        <td class="tg-c3ow">Place</td>
-        <td class="tg-c3ow">Presenter</td>
-        <td class="tg-c3ow">Topic</td>
-      </tr>      
-      <tr>
-        <td class="tg-c3ow">7/15</td>
-        <td class="tg-c3ow">01:00PM</td>
-        <td class="tg-c3ow">702</td>
-        <td class="tg-c3ow">Gwangwoon</td>
-        <td class="tg-c3ow">The promise of DP & Basic Terms (The Algorithmic Foundation of DP Chapter1,2) </td>
-      </tr>
-    </tbody>
-    </table>  
-    </details>
-    </ol>
+    </ol>   
     <ol>
     <details>
     <summary style="font-size:1rem; font-weight:bold;">
