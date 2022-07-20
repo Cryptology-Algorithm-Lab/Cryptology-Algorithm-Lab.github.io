@@ -154,7 +154,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </tr>
       <tr>
         <td class="tg-c3ow">7/20</td>
-        <td class="tg-c3ow">10:00AM</td>
+        <td class="tg-c3ow">11:00AM</td>
         <td class="tg-c3ow">702</td>
         <td class="tg-c3ow">Dongsu</td>
         <td class="tg-c3ow"><A href="https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Variational_Prototype_Learning_for_Deep_Face_Recognition_CVPR_2021_paper.pdf">Variational Prototype Learning for Deep Face Recognition</A></td>
