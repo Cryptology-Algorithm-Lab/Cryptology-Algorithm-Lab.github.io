@@ -13,6 +13,11 @@ header:
 ## Ongoing
 
 <ul type="square">
+     <li>
+        Jul 2022 - Jun 2023, 다중 계층 블록체인 기반의 로그 저장 및 영지식 증명 방법, CRYPTOLAB
+        <br>
+        Development of Encrypted Face Template DB Search Technology, CRYPTOLAB
+    </li>
     <li>
         May 2022 - Apr 2023, 다중 계층 블록체인 기반의 로그 저장 및 영지식 증명 방법, 정보통신기획평가원 (IITP)
         <br>
