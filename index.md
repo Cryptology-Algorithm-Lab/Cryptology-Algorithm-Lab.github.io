@@ -17,6 +17,9 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
+        (Jul 11, 2022) A new project supported by CRYTORAB (Title : Development of Encrypted Face Template DB Search Technology) has started.
+    </li> 
+    <li>
         (Jul 1, 2022) One undergraduate researcher (Sangyoon Shin) participated in our Crypto & Algorithms Lab!
     </li> 
     <li>
