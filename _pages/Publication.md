@@ -239,7 +239,7 @@ header:
     <p>
         <i>Monitoring Provenance of Delegated Personal Data With Blockchain.</i> 
         <br>
-        IEEE Blockchain, 2022.
+        <b>IEEE Blockchain</b> 2022,(acceptance rate = 15.3%).
     </p>
 </li>   
 <li>
