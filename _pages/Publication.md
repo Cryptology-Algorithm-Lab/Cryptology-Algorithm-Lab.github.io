@@ -12,17 +12,8 @@ header:
 
 ## Journal
 
-<ul type="none">
-  
-<li>
-[J25]  Chanyang Ju, Wenyi Tang, Changhao Chenli, <b>Gwangwoon Lee</b>, <b>Jae Hong Seo</b>, and Taeho Jung
-    <p>
-        <i>Monitoring Provenance of Delegated Personal Data With Blockchain.</i> 
-        <br>
-        IEEE Blockchain, 2022.
-    </p>
-</li>  
-  
+<ul type="none">  
+
 <li>
 [J24]  <b>Heewon Chung</b>, Kyoohyung Han, Chanyang Ju, Myungsun Kim, and <b>Jae Hong Seo</b>
     <p>
@@ -243,6 +234,14 @@ header:
 ## Conference
 
 <ul type="none">
+<li>
+    [C16] Chanyang Ju, Wenyi Tang, Changhao Chenli, <b>Gwangwoon Lee</b>, <b>Jae Hong Seo</b>, and Taeho Jung
+    <p>
+        <i>Monitoring Provenance of Delegated Personal Data With Blockchain.</i> 
+        <br>
+        IEEE Blockchain, 2022.
+    </p>
+</li>   
 <li>
     [C15] <b>Sunpill Kim</b>, Yunseong Jeong, Jinsu Kim, Jungkon Kim, Hyung Tae Lee, and <b>Jae Hong Seo*</b>
     <p>
