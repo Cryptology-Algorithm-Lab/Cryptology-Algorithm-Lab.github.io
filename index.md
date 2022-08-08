@@ -176,6 +176,13 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <td class="tg-c3ow">Sunpil</td>
         <td class="tg-c3ow"><A href="https://arxiv.org/pdf/2201.06945.pdf">It’s All in the Head : Representation Knowledge Distillation through Classifier Sharing</A></td>
       </tr>
+      <tr>
+        <td class="tg-c3ow">8/10</td>
+        <td class="tg-c3ow">01:00PM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow">Seunghun</td>
+        <td class="tg-c3ow"><A href="https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf">Denoising diffusion probabilistic models</A></td>
+      </tr>
     </tbody>
     </table>  
     </details>
@@ -237,15 +244,8 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <td class="tg-c3ow"><A href="https://eprint.iacr.org/2020/1618.pdf">Proof-Carrying Data without Succinct Arguments</A></td>
       </tr>
       <tr>
-        <td class="tg-c3ow">8/3</td>
-        <td class="tg-c3ow">04:00PM</td>
-        <td class="tg-c3ow">702</td>
-        <td class="tg-c3ow">Hyeonbum</td>
-        <td class="tg-c3ow"><A href="https://eprint.iacr.org/2020/1536.pdf">Halo Infinite : Proof-Carrying Data from Additive Polynomial Commitments</A></td>
-      </tr>
-      <tr>
-        <td class="tg-c3ow">8/4</td>
-        <td class="tg-c3ow">04:00PM</td>
+        <td class="tg-c3ow">8/8</td>
+        <td class="tg-c3ow">02:00PM</td>
         <td class="tg-c3ow">702</td>
         <td class="tg-c3ow">Hyeonbum</td>
         <td class="tg-c3ow"><A href="https://eprint.iacr.org/2020/1536.pdf">Halo Infinite : Proof-Carrying Data from Additive Polynomial Commitments</A></td>
