@@ -235,6 +235,14 @@ header:
 
 <ul type="none">
 <li>
+    [C17] Sungwook Kim, <b>Hyeonbum Lee</b>, and <b>Jae Hong Seo</b>
+    <p>
+        <i>Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier</i> 
+        <br>
+        <b>IACR-ASIACRYPT</b> 2022.
+    </p>
+</li>    
+<li>
     [C16] Chanyang Ju, Wenyi Tang, Changhao Chenli, <b>Gwangwoon Lee</b>, <b>Jae Hong Seo</b>, and Taeho Jung
     <p>
         <i>Monitoring Provenance of Delegated Personal Data With Blockchain.</i> 
