@@ -17,6 +17,9 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
+        (Aug 25, 2022) One paper (Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier) accepted for presentation at the ASIACRYPT 2022.
+    </li>  
+    <li>
         (Jul 11, 2022) A new project supported by CRYPTOLAB (Title : Development of Encrypted Face Template DB Search Technology) has started.
     </li> 
     <li>
