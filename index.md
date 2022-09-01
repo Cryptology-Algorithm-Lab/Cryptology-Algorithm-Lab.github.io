@@ -192,6 +192,13 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <td class="tg-c3ow">Seunghun</td>
         <td class="tg-c3ow"><A href="https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf">Denoising diffusion probabilistic models</A></td>
       </tr>
+      <tr>
+        <td class="tg-c3ow">9/5</td>
+        <td class="tg-c3ow">5:30PM</td>
+        <td class="tg-c3ow">TBD</td>
+        <td class="tg-c3ow">Bora</td>
+        <td class="tg-c3ow"><A href="https://arxiv.org/pdf/2208.00214.pdf"> Towards Privacy-Preserving, Real-Time and Lossless Feature Matching</A></td>
+      </tr>
     </tbody>
     </table>  
     </details>
