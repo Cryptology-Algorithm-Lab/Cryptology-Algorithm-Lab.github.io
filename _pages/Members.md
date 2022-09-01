@@ -72,7 +72,22 @@ header:
         <u>Research Interests</u>
         <br>
         Cryptography(Zero-Knowledge Proofs)
-        </li>        
+        </li>
+        <br>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Bora.jpg" alt="" height="160" width="120">
+        </p>
+        <u>Education</u>
+        <br>
+        Hanyang University
+        <br>
+        <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Sep 2022 - present</span><br>
+            <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2015 - Aug 2022</span></p></i>
+        <u>Research Interests</u>
+        <br>
+        Deep Learning Algorithm
+        </li>
     </ul>
 </details>
 
@@ -152,21 +167,7 @@ header:
         <u>Research Interests</u>
         <br>
         Deep Learning Algorithm, Computer Vision
-    </li>
-    <br>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Bora.jpg" alt="" height="160" width="120">
-        </p>
-        <u>Education</u>
-        <br>
-        Hanyang University
-        <br>
-        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Mar 2015 - present</span></p></i>
-        <u>Research Interests</u>
-        <br>
-        Deep Learning Algorithm
-        </li>
+    </li>    
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Seunghun Paik</b>
         <br>
