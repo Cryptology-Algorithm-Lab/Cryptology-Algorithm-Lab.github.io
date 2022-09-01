@@ -224,6 +224,20 @@ header:
         <br>
         Deep Learning Algorithm
     </li>
+    <br>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyunjung Son</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hyunjung.jpg" alt="" height="160" width="120">
+        </p>
+        <u>Education</u>
+        <br>
+        Sookmyung Women's University
+        <br>
+        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Mar 2019 - present</span></p></i>
+        <u>Research Interests</u>
+        <br>
+        Cryptography
+    </li>
     </ul>
 </details>
 
