@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
-        (Sep 1, 2022) One PhD reseacher (Bora Jung) and One undergraduate researcher (Hyunjung Son) participated in our Crypto & Algorithms Lab!
+        (Sep 1, 2022) One PhD reseacher (Bora Jeong) and One undergraduate researcher (Hyunjung Son) participated in our Crypto & Algorithms Lab!
     </li>
     <li>
         (Sep 1, 2022) Two members (Hyeonbum Lee and Kyuhwan Lee) of C&A lab visit the Data Security and Privacy lab (led by Prof. Taeho Jung) in the CSE at the University of Notre Dame to collaborate with DSP-lab for six months. We wish them a successful journey to become good researchers!
