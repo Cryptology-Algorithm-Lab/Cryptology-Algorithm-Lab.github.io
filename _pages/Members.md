@@ -256,7 +256,7 @@ header:
     </li>
        <li><p style="text-align:left;"><b sytle="font-size:120%;">Jiyeong Min</b>
         <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jiyeong.jpg" alt="" height="160" width="120">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jiyeong.png" alt="" height="160" width="120">
         </p>
     </li>
     </ul>
