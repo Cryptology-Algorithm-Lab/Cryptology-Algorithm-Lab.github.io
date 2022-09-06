@@ -307,7 +307,7 @@ header:
     </li>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Taesam Kim</b><span style="float:right;"> <i></i></span></p>
     </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jung</b><span style="float:right;"> <i></i></span></p>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b><span style="float:right;"> <i></i></span></p>
     </li>
     </ul>
 </details>
