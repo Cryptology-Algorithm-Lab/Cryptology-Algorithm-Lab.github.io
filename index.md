@@ -11,37 +11,37 @@ header:
 
 # About us
 
-We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). Our main research interests are in cryptography especially zero-knowledge proof. Besides cryptography, We're interested in artificial intelligence using deep learning such as face recognition and speaker recognition.
+We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). Our main research interests are in cryptography especially zero-knowledge proof. Besides cryptography, we're interested in artificial intelligence using deep learning such as face recognition and speaker recognition.
 
 ## News
 
 <ul type="square">
     <li>
-        (Sep 1, 2022) One PhD reseacher (Bora Jeong) and One undergraduate researcher (Hyunjung Son) participated in our Crypto & Algorithms Lab!
+        (Sep 1, 2022) Hyunjung Son (undergraduate student) participated in our Cryptology & Algorithm Lab!
     </li>
     <li>
-        (Sep 1, 2022) Two members (Hyeonbum Lee and Kyuhwan Lee) of C&A lab visit the Data Security and Privacy lab (led by Prof. Taeho Jung) in the CSE at the University of Notre Dame to collaborate with DSP-lab for six months. We wish them a successful journey to become good researchers!
+        (Sep 1, 2022) Hyeonbum Lee and Kyuhwan Lee visit the Data Security and Privacy lab (led by Prof. Taeho Jung) in the CSE at the University of Notre Dame to collaborate with DSP-lab for six months. We wish them a successful journey to become good researchers!
     </li>
     <li>
-        (Aug 25, 2022) One paper (Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier) accepted for presentation at the ASIACRYPT 2022.
+        (Aug 25, 2022) Our paper (Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier) is accepted for presentation at the ASIACRYPT 2022.
     </li>  
     <li>
         (Jul 11, 2022) A new project supported by CRYPTOLAB (Title : Development of Encrypted Face Template DB Search Technology) has started.
     </li> 
     <li>
-        (Jul 1, 2022) One undergraduate researcher (Sangyoon Shin) participated in our Crypto & Algorithms Lab!
+        (Jul 1, 2022) Sangyoon Shin (undergraduate student) participated in our Cryptology & Algorithm Lab!
     </li> 
     <li>
-        (Jun 10, 2022) One paper (Monitoring Provenance of Delegated Personal Data With Blockchain.) accepted at IEEE Blockchain.
+        (Jun 10, 2022) Our paper (Monitoring Provenance of Delegated Personal Data With Blockchain.) is accepted at IEEE Blockchain.
     </li>
     <li>
-        (May 1, 2022) Two undergraduate researchers (Minsu Kim, Seongae Baik) participated in our Crypto & Algorithms Lab!
+        (May 1, 2022) Minsu Kim (undergraduate student) and Seongae Baik (undergraduate student) participated in our Cryptology & Algorithm Lab!
     </li>
     <li>
         (May 1, 2022) A new project supported by Institute for Information and Communications Technology Promotion, IITP (Title: "Logging and Zero-knowledge Proof based on Hierarchical Blockchain") has started.
     </li>
     <li>
-        (Apr 18, 2022) One paper (<A href="https://ieeexplore.ieee.org/document/9758733">Bulletproofs+: Shorter Proofs for a Privacy-Enhanced Distributed Ledger.</A>) accepted at IEEE Access
+        (Apr 18, 2022) Our paper (<A href="https://ieeexplore.ieee.org/document/9758733">Bulletproofs+: Shorter Proofs for a Privacy-Enhanced Distributed Ledger.</A>) is accepted at IEEE Access.
     </li>
     <li>
         (Apr 1, 2022) A new project supported by National Security Research Institute, NSR (Title: "Research on the design technology of a cryptographic proof system suitable for Proof-Carrying Data") has started.
@@ -50,7 +50,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         (Feb 22, 2022) A new project supported by Korea Institute of Information Security & Crytology, KIISC (Title: "A study on biometric information extraction threats and countermeasures in deep learning-based face recognition system") has started.
     </li>
     <li>
-        (Jan 3, 2022) Two undergraduate researchers (Bora Jeong, Seunghun Paik) participated in our Crypto & Algorithms Lab!
+        (Jan 3, 2022) Bora Jeong (undergraduate student) and Seunghun Paik (undergraduate student) participated in our Cryptology & Algorithm Lab!
     </li>
    
 </ul>    
