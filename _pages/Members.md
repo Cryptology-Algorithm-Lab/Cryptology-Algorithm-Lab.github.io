@@ -52,7 +52,7 @@ header:
         <br>
         Hanyang University
         <br>
-        <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Mar 2020 - present</span><br>
+        <i><p style="text-align:left;">MS & Ph.D INTEGRATED COURSE in Mathematics<span style="float:right;">Mar 2020 - present</span><br>
             <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2015 - Feb 2020</span></p></i>
         <u>Research Interests</u>
         <br>
@@ -67,26 +67,11 @@ header:
         <br>
         Hanyang University
         <br>
-        <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Mar 2020 - present</span><br>
+        <i><p style="text-align:left;">MS & Ph.D INTEGRATED COURSE in Mathematics<span style="float:right;">Mar 2020 - present</span><br>
             <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2014 - Feb 2018</span></p></i>
         <u>Research Interests</u>
         <br>
         Cryptography(Zero-Knowledge Proofs)
-        </li>
-        <br>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Bora.jpg" alt="" height="160" width="120">
-        </p>
-        <u>Education</u>
-        <br>
-        Hanyang University
-        <br>
-        <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Sep 2022 - present</span><br>
-            <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2015 - Aug 2022</span></p></i>
-        <u>Research Interests</u>
-        <br>
-        Deep Learning Algorithm
         </li>
     </ul>
 </details>
@@ -130,6 +115,21 @@ header:
         <br>
         Lattice-based cryptography, Zero-Knowledge Proof
     </li>
+    <br>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Bora.jpg" alt="" height="160" width="120">
+        </p>
+        <u>Education</u>
+        <br>
+        Hanyang University
+        <br>
+        <i><p style="text-align:left;">MS & Ph.D INTEGRATED COURSE in Mathematics<span style="float:right;">Sep 2022 - present</span><br>
+            <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2015 - Aug 2022</span></p></i>
+        <u>Research Interests</u>
+        <br>
+        Deep Learning Algorithm
+        </li>
     </ul>
 </details>
 
