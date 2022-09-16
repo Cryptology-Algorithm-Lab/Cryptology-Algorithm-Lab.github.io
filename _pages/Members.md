@@ -239,6 +239,20 @@ header:
         <br>
         Cryptography
     </li>
+    <br>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Yunjeong Heo</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/yunjeong.jpg" alt="" height="160" width="120">
+        </p>
+        <u>Education</u>
+        <br>
+        Hanyang University
+        <br>
+        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Mar 2020 - present</span></p></i>
+        <u>Research Interests</u>
+        <br>
+        Deep Learning Algorithm
+    </li>
     </ul>
 </details>
 
