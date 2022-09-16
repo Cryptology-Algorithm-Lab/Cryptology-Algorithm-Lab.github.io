@@ -80,7 +80,7 @@ header:
     </p>
     <p>Personal data are shared by their owners with service providers for different needs, and these data can be modified and further shared among other service providers. For transparency and accountability of such delegated data, a personal data provenance monitoring system recording how owners’ data are propagated and modified is necessary.<br>However, achieving this involves significant challenges, due to the decentralized relationships of different service providers.<br>Therefore, we propose using blockchain to track the provenance of owners’ data. <br>While, for privacy reasons, what service providers can upload to the blockchain is limited to some sharing records that do not reveal data contents, and blockchain peers must validate them without actual data contents. <br>So, we propose a new extended vector commitment (EVC) scheme for monitoring personal data provenance in third-party services.
     </p>
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blockchain.jpg" alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blockchain.png" alt="">
 </details>
 <br>
 <details open>
