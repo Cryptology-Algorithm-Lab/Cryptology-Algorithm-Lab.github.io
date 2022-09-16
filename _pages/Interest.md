@@ -69,7 +69,7 @@ header:
     <br>
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/CVPR.jpg" alt="">
 </details>
-
+<br>
 <details open>
     <summary style="font-size:1.2rem; font-weight:bold;">
         Blockchain
