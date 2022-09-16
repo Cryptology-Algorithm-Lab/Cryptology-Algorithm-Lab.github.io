@@ -17,6 +17,9 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
+        (Sep 13, 2022) Yunjeong Heo (undergraduate student) participated in our Cryptology & Algorithm Lab!
+    </li>
+    <li>
         (Sep 1, 2022) Hyunjung Son (undergraduate student) participated in our Cryptology & Algorithm Lab!
     </li>
     <li>
