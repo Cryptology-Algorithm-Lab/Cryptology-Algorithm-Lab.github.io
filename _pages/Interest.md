@@ -66,7 +66,6 @@ However, depending on the time complexity of the operation of the verifier algor
 So, research on the types of proof systems that can be used as a component of the recursive proof composition and the method of the recursive proof composition is ongoing.</p>
     </details>
 </details>
-
 <br>
 
 <details open>
