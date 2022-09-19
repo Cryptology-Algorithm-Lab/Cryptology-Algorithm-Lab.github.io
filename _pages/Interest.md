@@ -57,13 +57,14 @@ header:
         <summary>
             What is the PCD?
         </summary>
+        <br>
         <ul type="square">
-          <li><A href="https://projects.csail.mit.edu/pcd/">PCD(Proof-Carrying-Data)</A><br></li>
+          <li><A href="https://projects.csail.mit.edu/pcd/">PCD(Proof-Carrying-Data)</A><br></li></ul>
         <ul type="none">
         <p>Proof-carrying data, PCD, is a cryptographic primitive applied to distributed computing, in DAG(directed acyclic graph), where multiple subjects without mutual trust generally participate.<br>In distributed computing, when a large operation is performed in multiple steps, the subject, in each node in distributed computing, of a step in the operation sends message including result of the operation to the subject who performs the next step of operation.<br>A proof is attached to the message, and the proof attests about the correctness of the result of the operation performed at both of  present node and previous one.</p> 
         PCD can usually be built by Recursive proof composition of cryptographic proof systems such as SNARK. In the recursive proof composition, in order to generate the proof as mentioned above, it is required that the verifier algorithm, of the component proof system, be embedded in the arithmetic circuit proved by the system.<br>
 However, depending on the time complexity of the operation of the verifier algorithm, the size of the proof grows larger as the operation proceeds, so verifying the proof requires more computation than performing the operation directly, so the verification becomes meaningless.<br> 
-So, research on the types of proof systems that can be used as a component of the recursive proof composition and the method of the recursive proof composition is ongoing.<br>      
+So, research on the types of proof systems that can be used as a component of the recursive proof composition and the method of the recursive proof composition is ongoing.<br></ul>    
 </details>
 <br>
 <details open>
