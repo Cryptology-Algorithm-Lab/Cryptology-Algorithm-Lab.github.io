@@ -65,9 +65,8 @@ header:
 However, depending on the time complexity of the operation of the verifier algorithm, the size of the proof grows larger as the operation proceeds, so verifying the proof requires more computation than performing the operation directly, so the verification becomes meaningless.<br> 
 So, research on the types of proof systems that can be used as a component of the recursive proof composition and the method of the recursive proof composition is ongoing.</p>
     </details>
-
+</details>
 <br>
-
 <details open>
     <summary style="font-size:1.2rem; font-weight:bold;">
         Secure Machine Learning (Cryptographic Approach)
