@@ -256,7 +256,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <td class="tg-c3ow">05:30PM</td>
         <td class="tg-c3ow">740</td>
         <td class="tg-c3ow">All Member</td>
-        <td class="tg-c3ow">Ch.2 Exercise</td>
+        <td class="tg-c3ow">Remaining Part of Ch.2 & Ch.2 Exercise</td>
       </tr>      
     </tbody>
     </table>
