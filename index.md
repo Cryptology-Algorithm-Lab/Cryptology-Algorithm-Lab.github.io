@@ -20,10 +20,10 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         (Sep 20, 2022) HUCC, Crypto Club of Hanyang University, won an award for excellence (우수상) in "Crypto Analysis Contest, 2022", hosted by Military Crypto Research Center. Congrats two of C&A members, Seunghun Paik and Minsu Kim, who are a leader and a member of HUCC.
     </li>
     <li>
-        (Sep 13, 2022) Yunjeong Heo (undergraduate student) participated in our Cryptology & Algorithm Lab!
+        (Sep 13, 2022) Yunjeong Heo (undergraduate student) joined our Cryptology & Algorithm Lab!
     </li>
     <li>
-        (Sep 1, 2022) Hyunjung Son (undergraduate student) participated in our Cryptology & Algorithm Lab!
+        (Sep 1, 2022) Hyunjung Son (undergraduate student) joined our Cryptology & Algorithm Lab!
     </li>
     <li>
         (Sep 1, 2022) Hyeonbum Lee and Kyuhwan Lee visit the Data Security and Privacy lab (led by Prof. Taeho Jung) in the CSE at the University of Notre Dame to collaborate with DSP-lab for six months. We wish them a successful journey to become good researchers!
@@ -35,13 +35,13 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         (Jul 11, 2022) A new project supported by CRYPTOLAB (Title : Development of Encrypted Face Template DB Search Technology) has started.
     </li> 
     <li>
-        (Jul 1, 2022) Sangyoon Shin (undergraduate student) participated in our Cryptology & Algorithm Lab!
+        (Jul 1, 2022) Sangyoon Shin (undergraduate student) joined in our Cryptology & Algorithm Lab!
     </li> 
     <li>
         (Jun 10, 2022) Our paper (Monitoring Provenance of Delegated Personal Data With Blockchain.) is accepted at IEEE Blockchain.
     </li>
     <li>
-        (May 1, 2022) Minsu Kim (undergraduate student) and Seongae Baik (undergraduate student) participated in our Cryptology & Algorithm Lab!
+        (May 1, 2022) Minsu Kim (undergraduate student) and Seongae Baik (undergraduate student) joined in our Cryptology & Algorithm Lab!
     </li>
     <li>
         (May 1, 2022) A new project supported by Institute for Information and Communications Technology Promotion, IITP (Title: "Logging and Zero-knowledge Proof based on Hierarchical Blockchain") has started.
@@ -56,7 +56,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         (Feb 22, 2022) A new project supported by Korea Institute of Information Security & Crytology, KIISC (Title: "A study on biometric information extraction threats and countermeasures in deep learning-based face recognition system") has started.
     </li>
     <li>
-        (Jan 3, 2022) Bora Jeong (undergraduate student) and Seunghun Paik (undergraduate student) participated in our Cryptology & Algorithm Lab!
+        (Jan 3, 2022) Bora Jeong (undergraduate student) and Seunghun Paik (undergraduate student) joined in our Cryptology & Algorithm Lab!
     </li>
    
 </ul>    
