@@ -17,7 +17,7 @@ header:
         (Dec 8, 2021) Our paper (<A href="https://ieeexplore.ieee.org/document/9638642">Efficient Sum-Check Protocol for Convolution</A>) is accepted at IEEE Access
     </li>
     <li>
-        (Nov 29, 2021) Three undergraduate students (Kyuhwan Lee, Dongsu Kim, Chanwoo Hwang) participated in our Crypto & Algorithms Lab!
+        (Nov 29, 2021) Three undergraduate students (Kyuhwan Lee, Dongsu Kim, Chanwoo Hwang) joined our Crypto & Algorithms Lab!
     </li>
     <li>
         (Nov 26, 2021) Taesam Kim (Undergraduate student) and Gyuhwan (Undergraduate student) receive a Top Prize from College of Natural Science (Hanyang University), due to their academic paper entitled "Proof of dot product using ZK-SNARK: Groth16" submitted in Academic Seminar. Congrat. Taesam and Gyuhwan!
