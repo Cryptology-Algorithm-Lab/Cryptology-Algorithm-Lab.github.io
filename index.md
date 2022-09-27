@@ -17,6 +17,19 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
+        (Sep 27, 2022) The following paper won the grand prize at "National Cryptographic Technology Contest, 2022".<br>	
+<ul type="circle">
+    <li>Title : Non-Pairing Sublinear Verifiable Zero-Knowledge Arguments in Discrete Logarithm Setting</li>
+    <li>Participant : Hyeonbum Lee (C&A Lab, Hanyang University), Sungwook Kim (Seoul Women's University), and Jae Hong Seo (C&A Lab, Hanyang University)</li></ul>
+Congrats Hyeonbum, who was the lead author of this submission.
+    </li>
+    <li>
+        (Sep 27, 2022) The following paper won the special prize at "National Cryptographic Technology Contest, 2022".<br><ul type="circle">
+    <li>Title : Deep Face Template Protection in the Wild</li>
+    <li>Sunpill Kim (C&A Lab, Hanyang University), Hoyong Shin (Hankuk University of Foreign Studies), and Jae Hong Seo (C&A Lab, Hanyang University)</li></ul>
+Congrats Sunpill, who was the lead author of this submission.
+    </li>
+    <li>
         (Sep 20, 2022) HUCC, Crypto Club of Hanyang University, won an award for excellence (우수상) in "Crypto Analysis Contest, 2022", hosted by Military Crypto Research Center. Congrats two of C&A members, Seunghun Paik and Minsu Kim, who are a leader and a member of HUCC.
     </li>
     <li>
