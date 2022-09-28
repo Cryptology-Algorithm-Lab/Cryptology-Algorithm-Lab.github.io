@@ -24,9 +24,10 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 Congrats Hyeonbum, who was the lead author of this submission.
     </li>
     <li>
-        (Sep 27, 2022) The following paper won the special prize at "National Cryptographic Technology Contest, 2022".<br><ul type="circle">
+        (Sep 27, 2022) The following paper won the special prize at "National Cryptographic Technology Contest, 2022".<br>
+<ul type="circle">
     <li>Title : Deep Face Template Protection in the Wild</li>
-    <li>Sunpill Kim (C&A Lab, Hanyang University), Hoyong Shin (Hankuk University of Foreign Studies), and Jae Hong Seo (C&A Lab, Hanyang University)</li></ul>
+    <li>Participant : Sunpill Kim (C&A Lab, Hanyang University), Hoyong Shin (Hankuk University of Foreign Studies), and Jae Hong Seo (C&A Lab, Hanyang University)</li></ul>
 Congrats Sunpill, who was the lead author of this submission.
     </li>
     <li>
