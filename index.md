@@ -17,6 +17,9 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
+        (Nov 11, 2022) Bora Jeong visits in the Singapore A*STAR to participate short-term research for top international students during four months. We wish her a successful journey to become good researchers!
+    </li>
+    <li>
         (Sep 27, 2022) The following paper won the grand prize at "National Cryptographic Technology Contest, 2022".<br>	
 <ul type="circle">
     <li>Title : Non-Pairing Sublinear Verifiable Zero-Knowledge Arguments in Discrete Logarithm Setting</li>
