@@ -15,7 +15,7 @@ header:
 <ul type="none">  
   
 <li>
-[J25]  <b>Bora Jeong</b>, <b>Sunpil Kim</b>, <b>Seunghun Paik</b>, and <b>Jae Hong Seo</b>
+[J25]  <b>Bora Jeong</b>, <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, and <b>Jae Hong Seo</b>
     <p>
         <i>Analysis on Secure Triplet Loss.</i> 
         <br>
