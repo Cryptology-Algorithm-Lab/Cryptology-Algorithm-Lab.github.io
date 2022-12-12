@@ -317,7 +317,7 @@ header:
     </li>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">SuRyun Ji</b><span style="float:right;"> <i></i></span></p>
     </li>
-        <li><p style="text-align:left;"><A href="https://github.com/imeunu"><b sytle="font-size:120%;">Eunwoo Im </b><A href="https://sites.google.com/site/lliger9/?pli=1">(Visual Intelligence Lab @Hanyang University)</A></A><span style="float:right;"> <i></i></span></p>
+        <li><p style="text-align:left;"><A href="https://github.com/imeunu"><b sytle="font-size:120%;">Eunwoo Im </b></A><A href="https://sites.google.com/site/lliger9/?pli=1">(Visual Intelligence Lab @Hanyang University)</A><span style="float:right;"> <i></i></span></p>
     </li>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Taesam Kim (Hyundai Mobis)</b><span style="float:right;"> <i></i></span></p>
     </li>
