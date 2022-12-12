@@ -13,7 +13,16 @@ header:
 ## Journal
 
 <ul type="none">  
-
+  
+<li>
+[J25]  <b>Bora Jeong</b>, <b>Sunpil Kim</b>, <b>Seunghun Paik</b>, and <b>Jae Hong Seo</b>
+    <p>
+        <i>Analysis on Secure Triplet Loss.</i> 
+        <br>
+        IEEE Access, Vol.10, pp 124355--124362  Novemver 2022.
+    </p>
+</li>  
+  
 <li>
 [J24]  <b>Heewon Chung</b>, Kyoohyung Han, Chanyang Ju, Myungsun Kim, and <b>Jae Hong Seo</b>
     <p>
