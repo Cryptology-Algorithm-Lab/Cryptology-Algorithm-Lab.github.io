@@ -16,6 +16,9 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 ## News
 
 <ul type="square">
+   <li>
+        (Dec 10, 2022) Our paper (<A href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9965373">Analysis on Secure Triplet Loss.</A>) is accepted at IEEE Access.
+    </li>
     <li>
         (Nov 11, 2022) Bora Jeong visits in the Singapore A*STAR to participate short-term research for top international students during four months. We wish her a successful journey to become good researchers!
     </li>
