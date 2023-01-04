@@ -24,6 +24,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 ## Seminar
 
 <details> 
+    <br>
     <summary style="font-size:1rem; font-weight:bold;">
         Deep Learning
     </summary>
