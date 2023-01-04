@@ -126,7 +126,96 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </tr>
       </tbody>
       </table>
-</details>       
+</details>
+
+
+<details> 
+    <br>
+    <summary style="font-size:1rem; font-weight:bold;">
+        Computational Number Theory Algebra
+    </summary>
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
+    .tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
+      font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
+      font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:middle}
+    .tg .tg-5jts{border-color:inherit;font-size:18px;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg" style="undefined;table-layout: fixed; width: 1082px; margin-left: auto; margin-right: auto;">
+    <colgroup>
+    <col style="width: 70px">
+    <col style="width: 100px">
+    <col style="width: 77px">
+    <col style="width: 640px">
+    </colgroup>
+    <thead>
+      <tr>
+        <th class="tg-5jts" colspan="5">Seminar Schedule - Computational Number Theory Algebra</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow">Date</td>
+        <td class="tg-c3ow">Time</td>
+        <td class="tg-c3ow">Place</td>
+        <td class="tg-c3ow">Topic</td>
+      </tr>
+      <tr>
+        <td class="tg-3ow" colspan="5">Book : A computational Introductiobn to Numver Theory and Algebra second Edition</td>
+      </tr>      
+      <tr>
+        <td class="tg-c3ow">1/5</td>
+        <td class="tg-c3ow">01:00PM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow">Chap. 1 ~ 4, Review on Number Theory and Integer Arithmetics</td>       
+      </tr>
+      <tr>
+        <td class="tg-c3ow">1/12</td>
+        <td class="tg-c3ow">01:00PM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow">Chap. 8 ~ 9, Probabilistic Distributions and Algorithms on <img src="https://latex.codecogs.com/svg.image?\inline&space;\mathbb{Z}_p" title="https://latex.codecogs.com/svg.image?\inline \mathbb{Z}_p" /></td>       
+      </tr>
+      <tr>
+        <td class="tg-c3ow">1/19</td>
+        <td class="tg-c3ow">01:00PM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow">Chap. 10 ~ 12, More Probabilistic Algorithms on <img src="https://latex.codecogs.com/svg.image?\inline&space;\mathbb{Z}_p" title="https://latex.codecogs.com/svg.image?\inline \mathbb{Z}_p" /> (e.g. Miller-Rabin Test)</td>       
+      </tr>
+      <tr>
+        <td class="tg-c3ow">1/26</td>
+        <td class="tg-c3ow">01:00PM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow">Chap. 6,7,13,14, Groups, Rings, Modules, and Vector Spaces</td>       
+      </tr>
+      <tr>
+        <td class="tg-c3ow">2/2</td>
+        <td class="tg-c3ow">01:00PM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow">Chap. 16, More  on  Rings  (e.g.  Field Extension, PID, UFD, ...)</td>       
+      </tr>
+      <tr>
+        <td class="tg-c3ow">2/9</td>
+        <td class="tg-c3ow">01:00PM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow">Chap. 17 ~ 18, Polynomial Arithmetics, and Linearly Generated Sequences</td>       
+      </tr>
+      <tr>
+        <td class="tg-c3ow">2/16</td>
+        <td class="tg-c3ow">01:00PM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow">Chap. 19 ~ 20, Finite Fields, Algorithms for Finite Fields (e.g. Cantor-Zassenhaus  Algorithm)</td>       
+      </tr>
+      <tr>
+        <td class="tg-c3ow">2/23</td>
+        <td class="tg-c3ow">01:00PM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow">Chap. 15, 21, Dixon’s Method, Index Calculus Method, and AKS Algorithm</td>       
+      </tr>
+    </tbody>
+    </table>
+</details>
 
 ## Contact
 
