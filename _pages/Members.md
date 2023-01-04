@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Cookie&family=Dancing+Script&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Cookie&family=Dancing+Script&family=Yesteryear&display=swap" rel="stylesheet">
 
 <details>
     <summary style="font-size:1.2rem; font-weight:bold;">
@@ -19,8 +19,8 @@ header:
     <ul type="square">
         <li><p style="text-align:left;"><A href="https://sites.google.com/site/jhsbhs/"><b sytle="font-size:120%;">Jae Hong Seo</b></A>
             <br>
-            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jaehong.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 150px;">
-               <span style="margin-top:20px; font-size:30px; font-family:Cookie" ><b>Stay hungry. Stay foolish.</b></span>
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jaehong.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 100px;">
+               <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" ><b>Stay hungry. Stay foolish.</b></span>
             </p>
             <u>Education</u>
             <br>
