@@ -11,9 +11,21 @@ header:
 ---
 
 ## Previous News
+<details>
+    <summary style="font-size:1.2rem; font-weight:bold;">
+            2022
+    </summary>
+    <ul type="square">
+      
+    </ul>
+</details>
 
-<ul type="square">    
-    <li>
+<details>
+    <summary style="font-size:1.2rem; font-weight:bold;">
+            2021
+    </summary>
+    <ul type="square">
+     <li>
         (Dec 8, 2021) Our paper (<A href="https://ieeexplore.ieee.org/document/9638642">Efficient Sum-Check Protocol for Convolution</A>) is accepted at IEEE Access
     </li>
     <li>
@@ -57,15 +69,23 @@ header:
     </li>
     <li>
         A new project (Title: "Research on Incrementally Verifiable Computation Design Technique and Application Method") has started.    
-    </li>
+    </li>  
+    </ul>
+</details>
+
+<details>
+    <summary style="font-size:1.2rem; font-weight:bold;">
+            2020
+    </summary>
+    <ul type="square">
     <li>
         Our paper (<A href="https://openaccess.thecvf.com/content/CVPR2021/html/Kim_IronMask_Modular_Architecture_for_Protecting_Deep_Face_Template_CVPR_2021_paper.html">IronMask: Modular Architecture for Protecting Deep Face Template</A>) is accepted at <A href="http://cvpr2021.thecvf.com/">CVPR 2021</A>
     </li>
     <li>
         [<A href="https://eprint.iacr.org/2020/735">Bulletproofs+</A>] Participant Prizes (2020) in the National Cryptographic Technology Contest, National Intelligence Service, Korea.
-    </li>
-</ul>    
-
+    </li>  
+    </ul>
+</details>
 
 ## Seminar
 
