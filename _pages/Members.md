@@ -47,7 +47,8 @@ header:
         <br>
         <li><p style="text-align:left;"><A href="https://sunpill.github.io"><b sytle="font-size:120%;">Sunpill Kim</b></A>
         <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill1.jpg" alt="" height="160" width="120">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill1.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Freedom is not free.</span>
         </p>
         <u>Education</u>
         <br>
@@ -86,7 +87,8 @@ header:
     <ul type="square">
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Gwangwoon Lee</b>
         <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/lgw.jpg" alt="" height="160" width="120">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/lgw.jpg" alt="" height="160" width="120"  style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Citius, Altius, Fortius.</span>
         </p>
         <u>Education</u>
         <br>
