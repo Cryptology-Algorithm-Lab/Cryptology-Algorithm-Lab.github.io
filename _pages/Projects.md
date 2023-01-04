@@ -22,17 +22,7 @@ header:
         May 2022 - Apr 2023, 다중 계층 블록체인 기반의 로그 저장 및 영지식 증명 방법, 정보통신기획평가원 (IITP)
         <br>
         Logging and Zero-knowledge Proof based on Hierarchical Blockchain, Institute for Information and Communications Technology Promotion (IITP)
-    </li>
-    <li>
-        Apr 2022 - Oct 2022, Proof-Carrying-Data에 적합한 암호학적 증명시스템 설계 기술 연구, 국가보안기술연구소 (NSR)
-        <br>
-        Research on the design technology of a cryptographic proof system suitable for Proof-Carrying Data, National Security Research Institute (NSR)
-    </li>
-    <li>
-        Feb 2022 - Nov 2022, 딥러닝 기반 얼굴인식 기술에서의 생체정보 추출 위협 및 대응방안 연구, 한국정보보호학회 암호연구회 (KIISC)
-        <br>
-        A study on biometric information extraction threats and countermeasures in deep learning-based face recognition system, Korea Institute of Information Security & Crytology (KIISC)
-    </li>
+    </li>    
     <li>
         Sep 2021 - Aug 2024, 다자간 근사계산 암호 원천기술 개발, 삼성미래기술육성재단
         <br>
@@ -53,6 +43,16 @@ header:
 
 ## Finished
 <ul type="square">
+    <li>
+        Feb 2022 - Nov 2022, 딥러닝 기반 얼굴인식 기술에서의 생체정보 추출 위협 및 대응방안 연구, 한국정보보호학회 암호연구회 (KIISC)
+        <br>
+        A study on biometric information extraction threats and countermeasures in deep learning-based face recognition system, Korea Institute of Information Security & Crytology (KIISC)
+    </li>  
+    <li>
+        Apr 2022 - Oct 2022, Proof-Carrying-Data에 적합한 암호학적 증명시스템 설계 기술 연구, 국가보안기술연구소 (NSR)
+        <br>
+        Research on the design technology of a cryptographic proof system suitable for Proof-Carrying Data, National Security Research Institute (NSR)
+    </li>  
     <li>
         May 2021 - Apr 2022, 검색 가능한 블록체인기반 프로비넌스 로그의 프라이버시 보호를 위한 영지식 증명 기법연구, 정보통신기획평가원 (IITP)
         <br>
