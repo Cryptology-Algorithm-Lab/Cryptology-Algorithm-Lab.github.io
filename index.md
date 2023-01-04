@@ -23,11 +23,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 ## Seminar
 
-<details>
-    <summary style="font-size:1.2rem; font-weight:bold;">
-        2023
-    </summary>
-    <details> 
+<details> 
     <summary style="font-size:1rem; font-weight:bold;">
         Deep Learning
     </summary>
@@ -77,7 +73,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <td class="tg-c3ow" rowspan="2">01:00PM</td>
         <td class="tg-c3ow" rowspan="2">702</td>
         <td class="tg-c3ow">Chanwoo</td>
-        <td class="tg-c3ow"><A href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9318547">SFace: Sigmoid-Constrained Hypersphere Loss for Robust Face Recognition</A></td>
+        <td class="tg-c3ow"><A href="https://arxiv.org/pdf/2205.12010.pdf">SFace: Sigmoid-Constrained Hypersphere Loss for Robust Face Recognition</A></td>
       </tr>
       <tr>
         <td class="tg-c3ow">Seunghun</td>
@@ -99,16 +95,36 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <td class="tg-c3ow" rowspan="2">01:00PM</td>
         <td class="tg-c3ow" rowspan="2">702</td>
         <td class="tg-c3ow">Seunghun</td>
-        <td class="tg-c3ow"><A href="https://openaccess.thecvf.com/content/CVPR2022/html/Tan_Hype
-rspherical_Consistency_Regularization_CVPR_2022_paper.html">Hyperspherical  Consistency  Regularization</A></td>
+        <td class="tg-c3ow"><A href="https://openaccess.thecvf.com/content/CVPR2022/html/Tan_Hyperspherical_Consistency_Regularization_CVPR_2022_paper.html">Hyperspherical Consistency Regularization</A></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">Dongsu</td>
+        <td class="tg-c3ow"><A href="https://arxiv.org/abs/2204.05502">CoupleFace: Relation Matters for Face Recognition Distillation</A></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow" rowspan="2">2/13</td>
+        <td class="tg-c3ow" rowspan="2">01:00PM</td>
+        <td class="tg-c3ow" rowspan="2">702</td>
+        <td class="tg-c3ow">Chanwoo</td>
+        <td class="tg-c3ow"><A href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9955645">QuantFace: Towards lightweight face recognition by synthetic data low-bit quantization</A></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">Seunghun</td>
+        <td class="tg-c3ow"><A href="https://arxiv.org/pdf/2210.08013.pdf">On the Relationship Between Variational Inference and Auto-Associative Memory</A></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow" rowspan="2">2/20</td>
+        <td class="tg-c3ow" rowspan="2">01:00PM</td>
+        <td class="tg-c3ow" rowspan="2">702</td>
+        <td class="tg-c3ow">Dongsu</td>
+        <td class="tg-c3ow"><A href="https://www.mdpi.com/2079-9292/11/23/3909">UFace: An Unsupervised Deep Learning Face Verification System
       </tr>
       <tr>
         <td class="tg-c3ow">Chanwoo</td>
-        <td class="tg-c3ow"><A href="https://arxiv.org/pdf/2207.07316.pdf">Privacy-Preserving Face Recognition with Learnable Privacy Budgets in Frequency Domain</A></td>
+        <td class="tg-c3ow"><A href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9796565">Frontal-Centers Guided Face: Boosting Face Recognition by Learning Pose-Invariant Features</A></td>
       </tr>
-    </details>       
-</details>        
-
+      </table>
+</details>       
 
 ## Contact
 
