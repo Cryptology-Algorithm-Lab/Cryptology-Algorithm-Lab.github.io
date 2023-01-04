@@ -19,7 +19,8 @@ header:
     <ul type="square">
         <li><p style="text-align:left;"><A href="https://sites.google.com/site/jhsbhs/"><b sytle="font-size:120%;">Jae Hong Seo</b></A>
             <br>
-            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jaehong.jpg" alt="" height="160" width="120">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jaehong.jpg" alt="" height="160" width="120" style="vertical-align:middle;">
+               <span style="margin-top:20px;font-size:20px;" >Stay hungry. Stay foolish.</span>
             </p>
             <u>Education</u>
             <br>
