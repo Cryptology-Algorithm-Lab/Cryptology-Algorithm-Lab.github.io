@@ -128,6 +128,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </table>
 </details>
 
+<br>
 
 <details> 
     <br>
@@ -217,6 +218,81 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     </tbody>
     </table>
 </details>
+
+<br>
+
+<details> 
+    <br>
+    <summary style="font-size:1rem; font-weight:bold;">
+        Algorithm
+    </summary>
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
+    .tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
+      font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
+      font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:middle}
+    .tg .tg-l3ow{border-color:inherit;text-align:left;vertical-align:middle}
+    .tg .tg-5jts{border-color:inherit;font-size:18px;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg" style="undefined;table-layout: fixed; width: 1082px; margin-left: auto; margin-right: auto;">
+    <colgroup>
+    <col style="width: 70px">
+    <col style="width: 100px">
+    <col style="width: 77px">
+    <col style="width: 640px">
+    </colgroup>
+    <thead>
+      <tr>
+        <th class="tg-5jts" colspan="5">Seminar Schedule - Algorithm</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-3ow" colspan="5"><b>Every Wednesday at 1pm</b></td>
+      </tr>
+    </tbody>
+    </table>
+</details> 
+
+<br>
+
+<details> 
+    <br>
+    <summary style="font-size:1rem; font-weight:bold;">
+        Zero Knowledge Proof
+    </summary>
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
+    .tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
+      font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
+      font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:middle}
+    .tg .tg-l3ow{border-color:inherit;text-align:left;vertical-align:middle}
+    .tg .tg-5jts{border-color:inherit;font-size:18px;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg" style="undefined;table-layout: fixed; width: 1082px; margin-left: auto; margin-right: auto;">
+    <colgroup>
+    <col style="width: 70px">
+    <col style="width: 100px">
+    <col style="width: 77px">
+    <col style="width: 640px">
+    </colgroup>
+    <thead>
+      <tr>
+        <th class="tg-5jts" colspan="5">Seminar Schedule - Zero Knowledge Proof</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-3ow" colspan="5"><b>TBD</b></td>
+      </tr>
+    </tbody>
+    </table>
+</details>
+
 
 ## Contact
 
