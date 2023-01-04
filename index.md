@@ -106,7 +106,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <td class="tg-c3ow" rowspan="2">01:00PM</td>
         <td class="tg-c3ow" rowspan="2">702</td>
         <td class="tg-c3ow">Chanwoo</td>
-        <td class="tg-c3ow"><A href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9955645">QuantFace: Towards lightweight face recognition by synthetic data low-bit quantization</A></td>
+        <td class="tg-c3ow"><A href="https://arxiv.org/abs/2204.05502">CoupleFace: Relation Matters for Face Recognition Distillation</A></td>
       </tr>
       <tr>
         <td class="tg-c3ow">Seunghun</td>
@@ -117,24 +117,25 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <td class="tg-c3ow" rowspan="2">01:00PM</td>
         <td class="tg-c3ow" rowspan="2">702</td>
         <td class="tg-c3ow">Dongsu</td>
-        <td class="tg-c3ow"><A href="https://www.mdpi.com/2079-9292/11/23/3909">UFace: An Unsupervised Deep Learning Face Verification System
+        <td class="tg-c3ow"><A href="https://www.mdpi.com/2079-9292/11/23/3909">UFace: An Unsupervised Deep Learning Face Verification System</A></td>
       </tr>
       <tr>
         <td class="tg-c3ow">Chanwoo</td>
-        <td class="tg-c3ow"><A href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9796565">Frontal-Centers Guided Face: Boosting Face Recognition by Learning Pose-Invariant Features</A></td>
+        <td class="tg-c3ow"><A href="https://arxiv.org/abs/2204.05502">CoupleFace: Relation Matters for Face Recognition Distillation</A></td>
       </tr>
+      </tbody>
       </table>
 </details>       
 
 ## Contact
 
+<br>
+
 For any inquires, you can reach us via email: **_[webmaster.cnalab@gmail.com](mailto:webmaster.cnalab@gmail.com)_**
 
-<div class='mo'><body><script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ajg80tj06y&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script></body>
- </div>
+<div class='mo'><body><script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ajg80tj06y&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script></body></div>
 
-<div class='pc'><body><script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ajg80tj06y&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script></body>
- </div>
+<div class='pc'><body><script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ajg80tj06y&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script></body></div>
 
 <script>
 
