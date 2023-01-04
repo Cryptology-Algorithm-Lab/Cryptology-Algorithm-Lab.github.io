@@ -22,7 +22,7 @@ header:
         <li><p style="text-align:left;"><A href="https://sites.google.com/site/jhsbhs/"><b sytle="font-size:120%;">Jae Hong Seo</b></A>
             <br>
             <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jaehong.jpg" alt="" height="160" width="120" style="vertical-align:middle;">
-               <span style="margin-top:20px;font-size:20px; font-family:Dancing Script" >Stay hungry. Stay foolish.</span>
+               <span style="margin-top:20px;font-size:40px; font-family:Dancing Script" ><b>     Stay hungry. Stay foolish.</b></span>
             </p>
             <u>Education</u>
             <br>
