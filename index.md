@@ -107,7 +107,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <td class="tg-c3ow" rowspan="2">01:00PM</td>
         <td class="tg-c3ow" rowspan="2">702</td>
         <td class="tg-c3ow">Chanwoo</td>
-        <td class="tg-c3ow"><A href="https://arxiv.org/abs/2204.05502">CoupleFace: Relation Matters for Face Recognition Distillation</A></td>
+        <td class="tg-c3ow"><A href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9955645">QuantFace: Towards lightweight face recognition by synthetic data low-bit quantization</A></td>
       </tr>
       <tr>
         <td class="tg-c3ow">Seunghun</td>
@@ -122,7 +122,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </tr>
       <tr>
         <td class="tg-c3ow">Chanwoo</td>
-        <td class="tg-c3ow"><A href="https://arxiv.org/abs/2204.05502">CoupleFace: Relation Matters for Face Recognition Distillation</A></td>
+        <td class="tg-c3ow"><A href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9796565">Frontal-Centers Guided Face: Boosting Face Recognition by Learning Pose-Invariant  Features</A></td>
       </tr>
       </tbody>
       </table>
