@@ -27,13 +27,12 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <summary style="font-size:1.2rem; font-weight:bold;">
         2023
     </summary>
-    <ol>
     <details> 
     <summary style="font-size:1rem; font-weight:bold;">
         Deep Learning
     </summary>
-        <style type="text/css">
-   .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
     .tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
       font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
     .tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
@@ -107,8 +106,7 @@ rspherical_Consistency_Regularization_CVPR_2022_paper.html">Hyperspherical  Cons
         <td class="tg-c3ow">Chanwoo</td>
         <td class="tg-c3ow"><A href="https://arxiv.org/pdf/2207.07316.pdf">Privacy-Preserving Face Recognition with Learnable Privacy Budgets in Frequency Domain</A></td>
       </tr>
-      
-       
+    </details>       
 </details>        
 
 
