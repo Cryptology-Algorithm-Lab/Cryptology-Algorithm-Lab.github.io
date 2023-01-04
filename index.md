@@ -37,8 +37,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:middle}
     .tg .tg-5jts{border-color:inherit;font-size:18px;text-align:center;vertical-align:top}
     </style>
-    <table class="tg" style="undefined;table-layout: fixed; width: 1082px">
-    <table style="margin-left: auto; margin-right: auto;">
+    <table class="tg" style="undefined;table-layout: fixed; width: 1082px; margin-left: auto; margin-right: auto;">
     <colgroup>
     <col style="width: 70px">
     <col style="width: 100px">
