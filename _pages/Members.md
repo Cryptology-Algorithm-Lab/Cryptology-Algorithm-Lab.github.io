@@ -95,7 +95,7 @@ header:
         <li><p style="text-align:left;"><A href="https://hyeonbumlee.github.io"><b sytle="font-size:120%;">Hyeonbum Lee</b></A>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Hyeonbum.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >What doesn't kill me, makes me stronger</span>
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >What doesn't kill me makes me stronger</span>
         </p>
         <u>Research Interests</u>
         <br>
