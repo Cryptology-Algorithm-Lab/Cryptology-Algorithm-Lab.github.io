@@ -32,7 +32,7 @@ header:
             <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Feb 2004</span></p></i>
             <u>Research Interests</u>
             <br>
-            Cryptography, Computational Number Theory, Information Security (Recently, very interested in crypto primitives for secure blockchains and/or deep learning such as zero-knowledge proofs and bio authentication)
+            Cryptography, Computational Number Theory, Information Security (Recently, very interested in crypto primitives for secure blockchains and/or deep learning such as zero-knowledge proofs and bio authentication)            
         </li>
     </ul>
 </details>
@@ -41,7 +41,7 @@ header:
 
 <details>
     <summary style="font-size:1.2rem; font-weight:bold;">
-        Ph.D student
+        Ms & Ph.D Integrated Course student
     </summary>
     <ul type="square">        
         <br>
@@ -50,15 +50,46 @@ header:
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill1.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
           <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Freedom is not free.</span>
         </p>
-        <u>Education</u>
         <br>
-        Hanyang University
-        <br>
-        <i><p style="text-align:left;">MS & Ph.D INTEGRATED COURSE in Mathematics<span style="float:right;">Mar 2020 - present</span><br>
-            <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2015 - Feb 2020</span></p></i>
         <u>Research Interests</u>
-        <br>
-        Deep Learning-Based Biometric(Face, Speaker), Zero-Knowledge Proofs & Verifiable Computing 
+        <br>  
+        Deep Learning-Based Biometric(Face, Speaker), Zero-Knowledge Proofs & Verifiable Computing
+        <br>  
+        <details>
+          <summary>
+            <u>Publication</u>
+          </summary>
+          <ul>
+            <li>
+              Sunpill Kim, Yunseong Jeong, Jinsu Kim, Jungkon Kim, Hyung Tae Lee, and Jae Hong Seo, IronMask: Modular Architecture for Protecting Deep Face Template, In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pages 16125-16134, 2021.(acceptance rate 23.4%)
+            </li>
+            <li>
+              Bora Jeong, Sunpill Kim, Seunghun Paik, and Jae Hong Seo, Attack on Secure Triplet Loss, IEEE Access.
+            </li>
+            <li>
+              Seunghun Paik, Sunpill Kim, and Jae Hong Seo, Analysis on Locality Sensitive HashingBased Biometric Template Protection Schemes, IEEE Transactions on Information Forensics & Security. (submitted)
+            </li>
+            <li>
+              Sunpill Kim, Hoyong Shin, and Jae Hong Seo, Deep Face Template Protection in the Wild, Pattern Recognition. (submitted)
+            </li>
+          </ul>  
+        </details> 
+        <details>
+          <summary>
+            <u>Awards</u>
+          </summary>
+          <ul>
+            <li>
+              A*STAR Research Attachment Programme (ARAP) Jan 2023 - Jan 2024 Agency for Science, Technology and Research (A*STAR), Singapore S$38400
+            </li>
+            <li>
+              Special Prize, National Cryptographic Technology Contest. Sep 2022 National Intelligence Service, Republic of Korea “Deep Face Template Protection in the Wild” $500
+            </li>  
+            <li>
+              Excellence Prize, Academic Seminar. Nov 2019 College of Natural Science, Hanyang University “Security of Biometric Authentication” $300
+            </li>  
+          </ul>  
+        </details>  
     </li>   
     <br>
         <li><p style="text-align:left;"><A href="https://hyeonbumlee.github.io"><b sytle="font-size:120%;">Hyeonbum Lee</b></A>
@@ -66,15 +97,19 @@ header:
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Hyeonbum.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
           <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >What doesn't kill me, makes me stronger</span>
         </p>
-        <u>Education</u>
-        <br>
-        Hanyang University
-        <br>
-        <i><p style="text-align:left;">MS & Ph.D INTEGRATED COURSE in Mathematics<span style="float:right;">Mar 2020 - present</span><br>
-            <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2014 - Feb 2018</span></p></i>
         <u>Research Interests</u>
         <br>
         Cryptography(Zero-Knowledge Proofs)
+        </li>
+      <br>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Bora.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Life is a series of the moment.</span>
+        </p>        
+        <u>Research Interests</u>
+        <br>
+        Deep learning algorithm, Secure machine learning
         </li>
     </ul>
 </details>
@@ -90,16 +125,7 @@ header:
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/lgw.jpg" alt="" height="160" width="120"  style="vertical-align:middle; margin-right: 75px;">
           <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Citius, Altius, Fortius.</span>
-        </p>
-        <u>Education</u>
-        <br>
-        Hanyang University
-        <br>
-        <i><p style="text-align:left;">MS in Mathematics<span style="float:right;">Mar 2021 - present</span><br>
-            </p></i>
-        CATHOLIC KWANDONG UNIVERSITY
-        <br>
-        <i><p style="text-align:left;">BS in Mathematics Education<span style="float:right;"> Mar 2014 - Feb 2021</span></p></i>
+        </p>        
         <u>Research Interests</u>
         <br>
         Blockchain, Cryptography
@@ -110,32 +136,10 @@ header:
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Kyuhwan.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
           <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >To the mind that is still, the whole universe surrenders.  -Lao Tzu-</span>
         </p>
-        <u>Education</u>
-        <br>
-        Hanyang University
-        <br>
-        <i><p style="text-align:left;">MS in Information Security<span style="float:right;">Mar 2022 - present</span><br>
-            <span style="text-align:left;">BS in Mathematics</span><span style="float:right;">Mar 2015 - Feb 2022</span></p></i>
         <u>Research Interests</u>
         <br>
         Lattice-based cryptography, Zero-Knowledge Proof
     </li>
-    <br>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Bora.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Life is a series of the moment.</span>
-        </p>
-        <u>Education</u>
-        <br>
-        Hanyang University
-        <br>
-        <i><p style="text-align:left;">MS & Ph.D INTEGRATED COURSE in Mathematics<span style="float:right;">Sep 2022 - present</span><br>
-            <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2015 - Aug 2022</span></p></i>
-        <u>Research Interests</u>
-        <br>
-        Deep learning algorithm, Secure machine learning
-        </li>
     </ul>
 </details>
 
@@ -150,13 +154,7 @@ header:
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Chanwoo.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
           <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >To doubt is safer than to be secure.</span>
-        </p>
-        <u>Education</u>
-        <br>
-        Hanyang University
-        <br>
-        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Mar 2017 - present</span><br>
-            <span style="text-align:left;">BS in Computer Science</span><span style="float:right;">Sep 2019 - present</span></p></i>  
+        </p>       
         <u>Research Interests</u>
         <br>
         Deep Learning Algorithm, Computer Vision
@@ -166,12 +164,7 @@ header:
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Dongsu.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
           <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Kites rise highest against the wind - not with it. -Winston Churchill-</span>
-        </p>
-        <u>Education</u>
-        <br>
-        Hanyang University
-        <br>
-        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Mar 2017 - present</span></p></i>
+        </p>        
         <u>Research Interests</u>
         <br>
         Deep Learning Algorithm, Computer Vision
@@ -181,12 +174,7 @@ header:
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Seunghun.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
           <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Be professional; be sceptical on your work. -Terrence Tao-</span>
-        </p>
-        <u>Education</u>
-        <br>
-        Hanyang University
-        <br>
-        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Mar 2018 - present</span></p></i>
+        </p>        
         <u>Research Interests</u>
         <br>
         Privacy Preserving Machine Learning
@@ -196,12 +184,7 @@ header:
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/minsu.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
           <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Better than yesterday</span>
-        </p>
-        <u>Education</u>
-        <br>
-        Hanyang University
-        <br>
-        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Mar 2018 - present</span></p></i>
+        </p>        
         <u>Research Interests</u>
         <br>
         Error Correcting Code
@@ -211,12 +194,7 @@ header:
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Seongae.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
           <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Life is something that happens when you can't get to sleep. -Fran Lebowitz-</span>
-        </p>
-        <u>Education</u>
-        <br>
-        Hanyang University
-        <br>
-        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Mar 2019 - present</span></p></i>
+        </p>       
         <u>Research Interests</u>
         <br>
         Error Correcting Code
@@ -226,13 +204,7 @@ header:
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sangyoon.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
           <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >You will face many defeats in life, but never let yourself be defeated. -Maya Angelou-</span>
-        </p>
-        <u>Education</u>
-        <br>
-        Hanyang University
-        <br>
-        <i><p style="text-align:left;">BS in Computer Science<span style="float:right;">Mar 2018 - present</span><br>
-            <span style="text-align:left;">BS in Mathematics</span><span style="float:right;">Sep 2018 - present</span></p></i>
+        </p>        
         <u>Research Interests</u>
         <br>
         Deep Learning Algorithm
@@ -242,12 +214,7 @@ header:
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hyunjung.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
           <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Study without desire spoils the memory, and it retains nothing that it takes in. -Leonardo da Vinci-</span>
-        </p>
-        <u>Education</u>
-        <br>
-        Sookmyung Women's University
-        <br>
-        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Mar 2019 - present</span></p></i>
+        </p>        
         <u>Research Interests</u>
         <br>
         Cryptography
@@ -257,12 +224,7 @@ header:
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/yunjeong.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
           <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >The essence of mathematics lies in freedom.</span>
-        </p>
-        <u>Education</u>
-        <br>
-        Hanyang University
-        <br>
-        <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Mar 2020 - present</span></p></i>
+        </p>        
         <u>Research Interests</u>
         <br>
         Deep Learning Algorithm
