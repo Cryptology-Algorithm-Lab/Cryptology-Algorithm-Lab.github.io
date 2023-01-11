@@ -201,7 +201,7 @@ header:
           </summary>
           <ul>
             <li>
-              2021 Academic Seminar Hosted by College of Natural Science, Hanyang University Top Award
+              2021 Academic Seminar Hosted by College of Natural Science, Hanyang University Top Prize
             </li>
           </ul>  
         </details>  
@@ -232,7 +232,7 @@ header:
           </summary>
           <ul>
             <li>
-              2021 Academic Seminar Hosted by College of Natural Science, Hanyang University Participation Award
+              2021 Academic Seminar Hosted by College of Natural Science, Hanyang University Participation Prize
             </li>
           </ul>  
         </details>  
@@ -254,7 +254,7 @@ header:
           </summary>
           <ul>
             <li>
-              2021 Academic Seminar Hosted by College of Natural Science, Hanyang University Participation Award
+              2021 Academic Seminar Hosted by College of Natural Science, Hanyang University Participation Prize
             </li>
           </ul>  
         </details>  
@@ -292,7 +292,7 @@ header:
               2022 Cryptanalysis Contest Hosted by Millitary Cryptography Research Center Excellence Award
             </li>
             <li>
-              2019 Academic Seminar Hosted by College of Natural Science, Hanyang University Excellence Award
+              2019 Academic Seminar Hosted by College of Natural Science, Hanyang University Excellence Prize
             </li>
           </ul>  
         </details>  
@@ -317,7 +317,7 @@ header:
               2022 Cryptanalysis Contest Hosted by Millitary Cryptography Research Center Excellence Award
             </li>
             <li>
-              2022 Academic Seminar Hosted by College of Natural Science, Hanyang University Excellence Award
+              2022 Academic Seminar Hosted by College of Natural Science, Hanyang University Excellence Prize
             </li>
           </ul>  
         </details>  
@@ -339,7 +339,7 @@ header:
           </summary>
           <ul>
             <li>
-              2022 Academic Seminar Hosted by College of Natural Science, Hanyang University Excellence Award
+              2022 Academic Seminar Hosted by College of Natural Science, Hanyang University Excellence Prize
             </li>
           </ul>  
         </details>  
@@ -381,7 +381,7 @@ header:
           </summary>
           <ul>
             <li>
-              2022 Academic Seminar Hosted by College of Natural Science, Hanyang University Participation Award
+              2022 Academic Seminar Hosted by College of Natural Science, Hanyang University Participation Prize
             </li>
           </ul>  
         </details>  
