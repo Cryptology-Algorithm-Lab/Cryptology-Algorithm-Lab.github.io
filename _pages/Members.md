@@ -171,6 +171,18 @@ header:
         <u>Research Interests</u>
         <br>
         Blockchain, Cryptography
+        <br>  
+        <br>
+        <details>
+          <summary>
+            Publication
+          </summary>
+          <ul>
+            <li>
+              Ju, Chanyang, et al. Monitoring Provenance of Delegated Personal Data with Blockchain. In: 2022 IEEE International Conference on Blockchain (Blockchain). IEEE, 2022. p. 11-20.
+            </li>
+          </ul>  
+        </details>   
     </li>
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Kyuhwan Lee</b>
@@ -181,6 +193,18 @@ header:
         <u>Research Interests</u>
         <br>
         Lattice-based cryptography, Zero-Knowledge Proof
+        <br>
+        <br>  
+        <details>
+          <summary>
+            Awards
+          </summary>
+          <ul>
+            <li>
+              2021 Academic Seminar Hosted by College of Natural Science, Hanyang University Top Award
+            </li>
+          </ul>  
+        </details>  
     </li>
     </ul>
 </details>
@@ -200,6 +224,18 @@ header:
         <u>Research Interests</u>
         <br>
         Deep Learning Algorithm, Computer Vision
+        <br>
+        <br>  
+        <details>
+          <summary>
+            Awards
+          </summary>
+          <ul>
+            <li>
+              2021 Academic Seminar Hosted by College of Natural Science, Hanyang University Participation Award
+            </li>
+          </ul>  
+        </details>  
     </li>
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Dongsu Kim</b>
@@ -210,6 +246,18 @@ header:
         <u>Research Interests</u>
         <br>
         Deep Learning Algorithm, Computer Vision
+        <br>
+        <br>  
+        <details>
+          <summary>
+            Awards
+          </summary>
+          <ul>
+            <li>
+              2021 Academic Seminar Hosted by College of Natural Science, Hanyang University Participation Award
+            </li>
+          </ul>  
+        </details>  
     </li>    
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Seunghun Paik</b>
@@ -220,6 +268,34 @@ header:
         <u>Research Interests</u>
         <br>
         Privacy Preserving Machine Learning
+        <br>  
+        <br>
+        <details>
+          <summary>
+            Publication
+          </summary>
+          <ul>
+            <li>
+              Analysis on Secure Triplet Loss Bora Jeong, Sunpill Kim, Seunghun Paik and Jae Hong Seo IEEE Access, 2022
+            </li>
+            <li>
+              Analysis on Locality Sensitive Hashing-based Biometric Template Protection Schemes Seunghun Paik, Sunpill Kim and Jae Hong Seo Manuscript, Under Review
+            </li>
+          </ul>  
+        </details> 
+        <details>
+          <summary>
+            Awards
+          </summary>
+          <ul>
+            <li>
+              2022 Cryptanalysis Contest Hosted by Millitary Cryptography Research Center Excellence Award
+            </li>
+            <li>
+              2019 Academic Seminar Hosted by College of Natural Science, Hanyang University Excellence Award
+            </li>
+          </ul>  
+        </details>  
     </li>
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Minsu Kim</b>
@@ -230,6 +306,21 @@ header:
         <u>Research Interests</u>
         <br>
         Error Correcting Code
+        <br>
+        <br>
+        <details>
+          <summary>
+            Awards
+          </summary>
+          <ul>
+            <li>
+              2022 Cryptanalysis Contest Hosted by Millitary Cryptography Research Center Excellence Award
+            </li>
+            <li>
+              2022 Academic Seminar Hosted by College of Natural Science, Hanyang University Excellence Award
+            </li>
+          </ul>  
+        </details>  
     </li>
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Seongae Baek</b>
@@ -240,6 +331,18 @@ header:
         <u>Research Interests</u>
         <br>
         Error Correcting Code
+        <br>
+        <br>
+        <details>
+          <summary>
+            Awards
+          </summary>
+          <ul>
+            <li>
+              2022 Academic Seminar Hosted by College of Natural Science, Hanyang University Excellence Award
+            </li>
+          </ul>  
+        </details>  
     </li>    
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Sangyoon Shin</b>
@@ -259,7 +362,7 @@ header:
         </p>        
         <u>Research Interests</u>
         <br>
-        Cryptography
+        Cryptography          
     </li>
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Yunjeong Heo</b>
@@ -270,6 +373,18 @@ header:
         <u>Research Interests</u>
         <br>
         Deep Learning Algorithm
+        <br>
+        <br>
+        <details>
+          <summary>
+            Awards
+          </summary>
+          <ul>
+            <li>
+              2022 Academic Seminar Hosted by College of Natural Science, Hanyang University Participation Award
+            </li>
+          </ul>  
+        </details>  
     </li>
     </ul>
 </details>
