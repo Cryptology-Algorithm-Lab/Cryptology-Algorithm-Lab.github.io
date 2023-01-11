@@ -101,6 +101,36 @@ header:
         <br>
         Cryptography(Zero-Knowledge Proofs)
         </li>
+        <br>
+        <details>
+          <summary>
+            Publication
+          </summary>
+          <ul>
+            <li>
+              Sungwook Kim, Hyeonbum Lee, Jae Hong Seo, [alphabetical order] Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier Accepted in Asiacrypt 2022   
+            </li>
+            <li>
+              Chanyang Ju, Hyeonbum Lee, Heewon Chung, Jae Hong Seo, and Sungwook Kim, Efficient Sum-Check Protocol for Convolution IEEE Access, vol. 9, pp. 164047-164059, 2021, doi:10.1109/ACCESS.2021.3133442.
+            </li>
+            <li>
+              Chanyang Ju, Hyeonbum Lee, Heewon Chung, and Jae Hong Seo, Analysis of Zero-Knowledge Protocols for Verifiable Computation and Its Applications Journal of The Korea Institute of Information Security & Cryptology VOL.31, NO.4, Aug. 2020
+            </li>
+          </ul>  
+        </details> 
+        <details>
+          <summary>
+            Awards
+          </summary>
+          <ul>
+            <li>
+              Grand Prize, National Cryptographic Technology Contest. Oct 2022 Korea Cryptography Forum 
+            </li>
+            <li>
+              Special Prize, National Cryptographic Technology Contest. Oct 2021 Korea Cryptography Forum
+            </li> 
+          </ul>  
+        </details>
       <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b>
         <br>
@@ -110,7 +140,19 @@ header:
         <u>Research Interests</u>
         <br>
         Deep learning algorithm, Secure machine learning
-        </li>
+        <br>
+        <br>
+        <details>
+          <summary>
+            Publication
+          </summary>
+          <ul>
+            <li>
+              B. Jeong, S. Kim, S. Paik and J. H. Seo, "Analysis on Secure Triplet Loss," in IEEE Access, vol. 10, pp. 124355-124362, 2022, doi: 10.1109/ACCESS.2022.3225430.
+            </li>
+          </ul>  
+        </details>
+      </li>
     </ul>
 </details>
 
