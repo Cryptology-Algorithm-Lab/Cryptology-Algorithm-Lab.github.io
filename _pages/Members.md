@@ -63,7 +63,8 @@ header:
     <br>
         <li><p style="text-align:left;"><A href="https://hyeonbumlee.github.io"><b sytle="font-size:120%;">Hyeonbum Lee</b></A>
         <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Hyeonbum.jpg" alt="" height="160" width="120">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Hyeonbum.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >What doesn't kill me, makes me stronger</span>
         </p>
         <u>Education</u>
         <br>
@@ -106,7 +107,8 @@ header:
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Kyuhwan Lee</b>
         <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Kyuhwan.jpg" alt="" height="160" width="120">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Kyuhwan.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >To the mind that is still, the whole universe surrenders.  -Lao Tzu-</span>
         </p>
         <u>Education</u>
         <br>
@@ -121,7 +123,8 @@ header:
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b>
         <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Bora.jpg" alt="" height="160" width="120">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Bora.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Life is a series of the moment.</span>
         </p>
         <u>Education</u>
         <br>
@@ -131,7 +134,7 @@ header:
             <span style="text-align:left;">BS in Mathematics</span><span style="float:right;"> Mar 2015 - Aug 2022</span></p></i>
         <u>Research Interests</u>
         <br>
-        Deep Learning Algorithm
+        Deep learning algorithm, Secure machine learning
         </li>
     </ul>
 </details>
@@ -145,7 +148,8 @@ header:
     <ul type="square">
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Chanwoo Hwang</b>
         <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Chanwoo.jpg" alt="" height="160" width="120">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Chanwoo.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >To doubt is safer than to be secure.</span>
         </p>
         <u>Education</u>
         <br>
@@ -160,7 +164,8 @@ header:
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Dongsu Kim</b>
         <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Dongsu.jpg" alt="" height="160" width="120">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Dongsu.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Kites rise highest against the wind - not with it. -Winston Churchill-</span>
         </p>
         <u>Education</u>
         <br>
@@ -174,7 +179,8 @@ header:
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Seunghun Paik</b>
         <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Seunghun.jpg" alt="" height="160" width="120">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Seunghun.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Be professional; be sceptical on your work. -Terrence Tao-</span>
         </p>
         <u>Education</u>
         <br>
@@ -188,7 +194,8 @@ header:
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Minsu Kim</b>
         <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/minsu.jpg" alt="" height="160" width="120">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/minsu.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Better than yesterday</span>
         </p>
         <u>Education</u>
         <br>
@@ -202,7 +209,8 @@ header:
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Seongae Baek</b>
         <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Seongae.jpg" alt="" height="160" width="120">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Seongae.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Life is something that happens when you can't get to sleep. -Fran Lebowitz-</span>
         </p>
         <u>Education</u>
         <br>
@@ -216,7 +224,8 @@ header:
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Sangyoon Shin</b>
         <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sangyoon.jpg" alt="" height="160" width="120">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sangyoon.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >You will face many defeats in life, but never let yourself be defeated. -Maya Angelou-</span>
         </p>
         <u>Education</u>
         <br>
@@ -231,7 +240,8 @@ header:
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyunjung Son</b>
         <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hyunjung.jpg" alt="" height="160" width="120">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hyunjung.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Study without desire spoils the memory, and it retains nothing that it takes in. -Leonardo da Vinci-</span>
         </p>
         <u>Education</u>
         <br>
@@ -245,7 +255,8 @@ header:
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Yunjeong Heo</b>
         <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/yunjeong.jpg" alt="" height="160" width="120">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/yunjeong.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >The essence of mathematics lies in freedom.</span>
         </p>
         <u>Education</u>
         <br>
