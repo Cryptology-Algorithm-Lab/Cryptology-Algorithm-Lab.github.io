@@ -50,14 +50,14 @@ header:
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill1.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
           <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Freedom is not free.</span>
         </p>
-        <br>
         <u>Research Interests</u>
         <br>  
         Deep Learning-Based Biometric(Face, Speaker), Zero-Knowledge Proofs & Verifiable Computing
+        <br>
         <br>  
         <details>
           <summary>
-            <u>Publication</u>
+            Publication
           </summary>
           <ul>
             <li>
@@ -76,7 +76,7 @@ header:
         </details> 
         <details>
           <summary>
-            <u>Awards</u>
+            Awards
           </summary>
           <ul>
             <li>
