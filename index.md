@@ -133,7 +133,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 <details> 
     <br>
     <summary style="font-size:1rem; font-weight:bold;">
-        Computational Number Theory Algebra
+        Computational Number Theory & Algebra
     </summary>
     <style type="text/css">
     .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
@@ -154,7 +154,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     </colgroup>
     <thead>
       <tr>
-        <th class="tg-5jts" colspan="5">Seminar Schedule - Computational Number Theory Algebra</th>
+        <th class="tg-5jts" colspan="5">Seminar Schedule - Computational Number Theory & Algebra</th>
       </tr>
     </thead>
     <tbody>
