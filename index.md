@@ -85,7 +85,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <td class="tg-c3ow">10:00AM</td>
         <td class="tg-c3ow">702</td>
         <td class="tg-c3ow">Prof. Jaehong Seo</td>
-        <td class="tg-c3ow">Hopfield Network Summay</td>
+        <td class="tg-c3ow">Hopfield Network Summary</td>
       </tr>
       <tr>
         <td class="tg-c3ow" rowspan="2">1/30</td>
