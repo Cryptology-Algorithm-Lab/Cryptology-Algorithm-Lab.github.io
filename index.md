@@ -79,7 +79,14 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       <tr>
         <td class="tg-c3ow">Seunghun</td>
         <td class="tg-c3ow"><A href="https://arxiv.org/pdf/2207.10131.pdf">Continual variational autoencoder learning via online cooperative memorization</A></td>
-      </tr> 
+      </tr>
+      <tr>
+        <td class="tg-c3ow">1/26</td>
+        <td class="tg-c3ow">10:00AM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow">Prof. Jaehong Seo</td>
+        <td class="tg-c3ow">Hopfield Network Summay</A></td>
+      </tr>
       <tr>
         <td class="tg-c3ow" rowspan="2">1/30</td>
         <td class="tg-c3ow" rowspan="2">01:00PM</td>
