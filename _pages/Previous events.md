@@ -768,7 +768,7 @@ Congrats Sunpill, who was the lead author of this submission.
 
 <ul type="square">
     <li>
-        Top (2021), Excellence (2019), Participant (2021) Prizes in the Academic Seminar, College of Natural Science, Hanyang University.
+        Top (2021), Excellence (2019, 2022), Participant (2021) Prizes in the Academic Seminar, College of Natural Science, Hanyang University.
     </li>
     <li>
         Excellent Young Researcher Award, NRF & Elsevier, 2018.
@@ -777,6 +777,6 @@ Congrats Sunpill, who was the lead author of this submission.
         Sang-San Young Mathematician Award, Korean Mathematical Society, 2012. 
     </li>
     <li>
-        Top (2012), Second (2013), Participant (2020, 2006), Special (2021) Prizes in the National Cryptographic Technology Contest, National Intelligence Service, Korea.
+        Top (2012, 2022), Second (2013), Participant (2020, 2006), Special (2021, 2022) Prizes in the National Cryptographic Technology Contest, National Intelligence Service, Korea.
     </li>
-</ul>    
+</ul>
