@@ -1,5 +1,5 @@
 ---
-title: "Interest"
+title: "Gallery"
 layout: splash
 classes: wide
 author_profile: false
