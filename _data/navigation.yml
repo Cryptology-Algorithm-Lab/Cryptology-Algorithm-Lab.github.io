@@ -10,11 +10,21 @@ main:
     url: /Publications/
   - title: "Interest"
     url: /Interest/  
-  - title: "Previous events"
+  - title: "News"
     url: /Previous-events/
-  - title: "Gallery"
-    url: /Gallery/  
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+- title: News
+  children:
+    - title: "Gallery"
+      url: /News/gallery/
+    - title: "C&A in Media"
+      url: /News/media/
+    - title: "Previous News"
+      url: /News/pre_news/
+    - title: "Honors & Awards"
+      url: /News/honor_award/
