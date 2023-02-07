@@ -281,7 +281,7 @@ defaults:
       share: true
       related: true
   - scope:
-      path: "/News/"
+      path: "/Previous-events/"
       type: posts
     values:
       layout: single
