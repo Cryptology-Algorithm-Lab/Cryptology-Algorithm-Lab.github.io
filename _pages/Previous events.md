@@ -4,16 +4,7 @@ layout: archive
 classes: wide
 author_profile: false
 sidebar:
-  - title: News
-    children:
-      - title: "Gallery"
-        url: /News/gallery/
-      - title: "C&A in Media"
-        url: /News/media/
-      - title: "Previous News"
-        url: /News/pre_news/
-      - title: "Honors & Awards"
-        url: /News/honor_award/
+  nav: "docs"
 permalink: /Previous-events/
 excerpt: 'previous events..'
 header:
