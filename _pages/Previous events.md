@@ -1,6 +1,6 @@
 ---
 title: "Previous events"
-layout: default
+layout: home
 classes: wide
 author_profile: true
 sidebar:
