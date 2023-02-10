@@ -3,6 +3,17 @@ title: "Previous events"
 layout: splash
 classes: wide
 author_profile: false
+sidebar:
+  - title: News
+    children:
+      - title: "Gallery"
+        url: /News/gallery/
+      - title: "C&A in Media"
+        url: /News/media/
+      - title: "Previous News"
+        url: /News/pre_news/
+      - title: "Honors & Awards"
+        url: /News/honor_award/
 permalink: /Previous-events/
 excerpt: 'previous events..'
 header:
