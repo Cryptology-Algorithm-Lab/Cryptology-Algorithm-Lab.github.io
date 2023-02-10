@@ -5,7 +5,7 @@ classes: wide
 author_profile: false
 sidebar:
   nav: "docs"
-permalink: /News/Gallery
+permalink: /News/Gallery/
 excerpt: 'previous events..'
 header:
   overlay_image: /assets/images/korea.jpg
