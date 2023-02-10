@@ -13,7 +13,7 @@ header:
 
 We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). Our main research interests are in cryptography especially zero-knowledge proof. Besides cryptography, we're interested in artificial intelligence using deep learning such as face recognition and speaker recognition.
 
-## News
+## Annual News
 
 <ul type="square">
    <li>
