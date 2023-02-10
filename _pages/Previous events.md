@@ -3,6 +3,8 @@ title: "Previous events"
 layout: splash
 classes: wide
 author_profile: false
+sidebar:
+  nav : "docs"
 permalink: /Previous-events/
 excerpt: 'previous events..'
 header:
