@@ -2,7 +2,7 @@
 title: "Previous events"
 layout: archive
 classes: wide
-author_profile: true
+author_profile: false
 sidebar:
   - title: News
     children:
