@@ -1,31 +1,16 @@
 ---
-docs:
-  - title: Getting Started
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-
-title: "Gallery"
-layout: splash
+title: "Previous events"
+layout: archive
 classes: wide
 author_profile: false
-permalink: /Gallery/
-excerpt: 'Interesting Cryptography!'
+sidebar:
+  nav: "docs"
+permalink: /News/Gallery
+excerpt: 'previous events..'
 header:
-  overlay_image: /assets/images/seoul.jpg
+  overlay_image: /assets/images/korea.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
-        
-# Gallery
 
-TBU
-
-# C&A in Media
-
+## Gallery
 TBU
