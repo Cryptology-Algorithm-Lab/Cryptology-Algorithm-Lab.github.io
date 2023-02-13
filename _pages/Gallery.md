@@ -34,8 +34,7 @@ gallery2:
     alt: "placeholder image 2"
     title: "Image 2 title caption" 
 ---
-
-## Gallery
+# Gallery
     
 {% include gallery id="gallery" class="full" caption="**Hyeonbum Lee's presentation at the ASIACRYPT 2022**" %}
 
