@@ -24,11 +24,25 @@ gallery1:
     image_path: /assets/Gallery/grad_bs_bora.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+gallery2:
+  - url: /assets/Gallery/banner_cna.png
+    image_path: /assets/Gallery/banner_cna.png
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+gallery3:
+  - url: /assets/Gallery/cryptoanalysis_paik.jpg
+    image_path: /assets/Gallery/cryptoanalysis_paik.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 ---
 
 ## Gallery
     
-{% include gallery id="gallery" class="full" caption="**Hyeonbum Lee presentation at the ASIACRYPT 2022**" %}
+{% include gallery id="gallery" class="full" caption="**Hyeonbum Lee's presentation at the ASIACRYPT 2022**" %}
+
+{% include gallery id="gallery2" caption="**Congratulations on the researchers' achievements**" %}
+
+{% include gallery id="gallery3" caption="**HUCC, Crypto Club of Hanyang University, won an award for excellence (우수상) in "Crypto Analysis Contest, 2022**" %}
 
 {% include gallery id="gallery1" caption="**Congratulations on Bora Jeong's graduation! Welcome to C&A Lab.**" %}
 
