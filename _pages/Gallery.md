@@ -23,4 +23,4 @@ gallery:
 
 ## Gallery
     
-{% include gallery class="full", caption="**Hyeonbum Lee presentation at the ASIACRYPT 2022**" %}
+{% include gallery class="full" caption="**Hyeonbum Lee presentation at the ASIACRYPT 2022**" %}
