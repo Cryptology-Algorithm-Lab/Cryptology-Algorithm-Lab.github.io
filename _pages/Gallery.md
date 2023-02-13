@@ -19,8 +19,17 @@ gallery:
     image_path: /assets/Gallery/asiacrypt_hyeonbum_1.png
     alt: "placeholder image 2"
     title: "Image 2 title caption"
+gallery1:
+  - url: /assets/Gallery/grad_bs_bora.png
+    image_path: /assets/Gallery/grad_bs_bora.png
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 ---
 
 ## Gallery
     
-{% include gallery class="full" caption="**Hyeonbum Lee presentation at the ASIACRYPT 2022**" %}
+{% include gallery id="gallery" class="full" caption="**Hyeonbum Lee presentation at the ASIACRYPT 2022**" %}
+
+{% include gallery id="gallery1" caption="**Congratulations on Bora Jeong's graduation! Welcome to C&A Lab.**" %}
+
+
