@@ -11,12 +11,12 @@ header:
   overlay_image: /assets/images/korea.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 gallery:
-  - url: /assets/images/Gallery/asiacrypt_hyeonbum.png
-    image_path: /assets/images/Gallery/asiacrypt_hyeonbum.png
+  - url: /assets/Gallery/asiacrypt_hyeonbum.png
+    image_path: /assets/Gallery/asiacrypt_hyeonbum.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/Gallery/asiacrypt_hyeonbum_1.png
-    image_path: /assets/images/Gallery/asiacrypt_hyeonbum_1.png
+  - url: /assets/Gallery/asiacrypt_hyeonbum_1.png
+    image_path: /assets/Gallery/asiacrypt_hyeonbum_1.png
     alt: "placeholder image 2"
     title: "Image 2 title caption"
 ---
