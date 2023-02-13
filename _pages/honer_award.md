@@ -14,7 +14,7 @@ header:
 
 <ul type="square">
     <li>
-        Top (2021), Excellence (2019, 2022), Participant (2021,2022) Prizes in the Academic Seminar, College of Natural Science, Hanyang University.
+        Top (2021), Excellence (2019, 2022), Participant (2021, 2022) Prizes in the Academic Seminar, College of Natural Science, Hanyang University.
     </li>
     <li>
         Excellent Young Researcher Award, NRF & Elsevier, 2018.
