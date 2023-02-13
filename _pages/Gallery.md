@@ -42,7 +42,7 @@ gallery3:
 
 {% include gallery id="gallery2" caption="**Congratulations on the researchers' achievements**" %}
 
-{% include gallery id="gallery3" caption="**HUCC, Crypto Club of Hanyang University, won an award for excellence (우수상) in "Crypto Analysis Contest, 2022**" %}
+{% include gallery id="gallery3" caption="**HUCC, Crypto Club of Hanyang University, won an award for excellence (우수상) in Crypto Analysis Contest, 2022**" %}
 
 {% include gallery id="gallery1" caption="**Congratulations on Bora Jeong's graduation! Welcome to C&A Lab.**" %}
 
