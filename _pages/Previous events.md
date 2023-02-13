@@ -5,7 +5,7 @@ classes: wide
 author_profile: false
 sidebar:
   nav: "docs"
-permalink: /Previous-events/
+permalink: /News/Previous-events/
 excerpt: 'previous events..'
 header:
   overlay_image: /assets/images/korea.jpg
@@ -14,7 +14,7 @@ header:
 
 
 ## Previous News
-<details>
+<details open>
     <summary style="font-size:1.2rem; font-weight:bold;">
             2022
     </summary>
@@ -153,7 +153,7 @@ Congrats Sunpill, who was the lead author of this submission.
 
 ## Seminar
 
-<details>
+<details open>
     <summary style="font-size:1.2rem; font-weight:bold;">
         2022
     </summary>
@@ -766,20 +766,3 @@ Congrats Sunpill, who was the lead author of this submission.
 </details>
         
 
-
-## Honors and Awards
-
-<ul type="square">
-    <li>
-        Top (2021), Excellence (2019, 2022), Participant (2021) Prizes in the Academic Seminar, College of Natural Science, Hanyang University.
-    </li>
-    <li>
-        Excellent Young Researcher Award, NRF & Elsevier, 2018.
-    </li>
-    <li>
-        Sang-San Young Mathematician Award, Korean Mathematical Society, 2012. 
-    </li>
-    <li>
-        Top (2012, 2022), Second (2013), Participant (2020, 2006), Special (2021, 2022) Prizes in the National Cryptographic Technology Contest, National Intelligence Service, Korea.
-    </li>
-</ul>
