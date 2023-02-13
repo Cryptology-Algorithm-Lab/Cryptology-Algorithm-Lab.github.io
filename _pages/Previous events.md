@@ -5,7 +5,7 @@ classes: wide
 author_profile: false
 sidebar:
   nav: "docs"
-permalink: /News/Previous-events/
+permalink: /News/pre_news/
 excerpt: 'previous events..'
 header:
   overlay_image: /assets/images/korea.jpg
@@ -151,7 +151,7 @@ Congrats Sunpill, who was the lead author of this submission.
     </ul>
 </details>
 
-## Seminar
+## Previous Seminar
 
 <details open>
     <summary style="font-size:1.2rem; font-weight:bold;">
