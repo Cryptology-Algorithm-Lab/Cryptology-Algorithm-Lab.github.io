@@ -152,6 +152,19 @@ header:
             </li>
           </ul>  
         </details>
+        <details>
+          <summary>
+            Awards
+          </summary>
+          <ul>
+            <li>
+              A*STAR Singapore International Pre-Graduate Award (SIPGA). Nov 2022 - Mar 2023. Agency for Science, Technology and Research (A*STAR), Singapore
+            </li>
+            <li>
+              Grand Prize, 2022 Best Research Paper Award for Graduate Students. Feb 2023. Research Institute for Natural Sciences, Hanyang University. “Analysis on Secure Triplet Loss”
+            </li>  
+          </ul>  
+        </details>  
       </li>
     </ul>
 </details>
