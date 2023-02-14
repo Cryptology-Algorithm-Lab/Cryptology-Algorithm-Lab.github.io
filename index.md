@@ -16,9 +16,17 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 ## Annual News
 
 <ul type="square">
-   <li>
+    <li>
+        (Feb 14, 2023) Bora Jeong won the best research paper award for graduate students by the Research Institute for Natural Sciences, Hanyang University.
+        <ul type="disc">
+          <li>
+            Research paper title: Analysis on Secure Triplet Loss
+          </li>  
+      </ul>
+    </li> 
+    <li>
         (Jan 5, 2023) Our student captain, Sunpill, visits A*STAR at Singapore, one of the world's leading research institutes, for a year-long collaborative research. We wish him success in his studies at A*STAR.
-    </li>   
+    </li>     
 </ul>    
 
 ## Seminar
