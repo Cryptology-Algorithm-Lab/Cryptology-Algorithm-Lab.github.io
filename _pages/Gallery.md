@@ -43,7 +43,7 @@ gallery2:
 ---
 # Gallery
     
-{% include gallery id="gallery" class="full" caption="**Hyeonbum Lee's presentation at the ASIACRYPT 2022**" %}
+{% include gallery id="gallery" caption="**Hyeonbum Lee's presentation at the ASIACRYPT 2022**" %}
 
 {% include gallery id="gallery2" caption="**Congratulations on the researchers' achievements**" %}
 
