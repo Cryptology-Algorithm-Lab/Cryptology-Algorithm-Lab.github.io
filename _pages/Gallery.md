@@ -31,6 +31,14 @@ gallery2:
   - url: /assets/Gallery/cryptoanalysis_paik.jpg
     image_path: /assets/Gallery/cryptoanalysis_paik.jpg
     alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/Gallery/h1.jpeg
+    image_path: /assets/Gallery/h1.jpeg
+    alt: "placeholder image 3"
+    title: "Image 2 title caption" 
+  - url: /assets/Gallery/h2.jpeg
+    image_path: /assets/Gallery/h2.jpeg
+    alt: "placeholder image 4"
     title: "Image 2 title caption" 
 ---
 # Gallery
