@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
-        (Feb 14, 2023) Bora Jeong won the best research paper award for graduate students by the Research Institute for Natural Sciences, Hanyang University.
+        (Feb 14, 2023) Bora Jeong won the Grand Prize in the best research paper award for graduate students by the Research Institute for Natural Sciences, Hanyang University.
         <ul type="disc">
           <li>
             Research paper title: Analysis on Secure Triplet Loss
