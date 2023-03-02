@@ -88,7 +88,7 @@ header:
             <li>
               Excellence Prize, Academic Seminar. Nov 2019 College of Natural Science, Hanyang University “Security of Biometric Authentication” $300
             </li>  
-          </ul>  
+          </ul>          
         </details>  
     </li>   
     <br>
@@ -166,7 +166,61 @@ header:
           </ul>  
         </details>  
       </li>
-    </ul>
+      <br>
+      <li><p style="text-align:left;"><b sytle="font-size:120%;">Chanwoo Hwang</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Chanwoo.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >To doubt is safer than to be secure.</span>
+        </p>       
+        <u>Research Interests</u>
+        <br>
+        Deep Learning Algorithm, Computer Vision
+        <br>
+        <br>  
+        <details>
+          <summary>
+            Awards
+          </summary>
+          <ul>
+            <li>
+              2021 Academic Seminar Hosted by College of Natural Science, Hanyang University Participation Prize
+            </li>
+          </ul>  
+        </details>  
+    </li>
+    <br>  
+    <li><p style="text-align:left;"><b sytle="font-size:120%;">Dongsu Kim</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Dongsu.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Kites rise highest against the wind - not with it. -Winston Churchill-</span>
+        </p>        
+        <u>Research Interests</u>
+        <br>
+        Deep Learning Algorithm, Computer Vision
+        <br>
+        <br>  
+        <details>
+          <summary>
+            Awards
+          </summary>
+          <ul>
+            <li>
+              2021 Academic Seminar Hosted by College of Natural Science, Hanyang University Participation Prize
+            </li>
+          </ul>  
+        </details>  
+    </li>
+    <br>  
+    <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyunjung Son</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hyunjung.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Study without desire spoils the memory, and it retains nothing that it takes in. -Leonardo da Vinci-</span>
+        </p>        
+        <u>Research Interests</u>
+        <br>
+        Cryptography          
+    </li>  
+    </ul>      
 </details>
 
 <br>
@@ -219,6 +273,29 @@ header:
           </ul>  
         </details>  
     </li>
+    <br>
+    <li><p style="text-align:left;"><b sytle="font-size:120%;">Seongae Baek</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Seongae.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Life is something that happens when you can't get to sleep. -Fran Lebowitz-</span>
+        </p>       
+        <u>Research Interests</u>
+        <br>
+        Error Correcting Code
+        <br>
+        <br>
+        <details>
+          <summary>
+            Awards
+          </summary>
+          <ul>
+            <li>
+              2022 Academic Seminar Hosted by College of Natural Science, Hanyang University Excellence Prize
+            </li>
+          </ul>  
+        </details>  
+    </li>    
+    <br>  
     </ul>
 </details>
 
@@ -229,50 +306,6 @@ header:
         Undergraduate student
     </summary>
     <ul type="square">
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Chanwoo Hwang</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Chanwoo.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >To doubt is safer than to be secure.</span>
-        </p>       
-        <u>Research Interests</u>
-        <br>
-        Deep Learning Algorithm, Computer Vision
-        <br>
-        <br>  
-        <details>
-          <summary>
-            Awards
-          </summary>
-          <ul>
-            <li>
-              2021 Academic Seminar Hosted by College of Natural Science, Hanyang University Participation Prize
-            </li>
-          </ul>  
-        </details>  
-    </li>
-    <br>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Dongsu Kim</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Dongsu.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Kites rise highest against the wind - not with it. -Winston Churchill-</span>
-        </p>        
-        <u>Research Interests</u>
-        <br>
-        Deep Learning Algorithm, Computer Vision
-        <br>
-        <br>  
-        <details>
-          <summary>
-            Awards
-          </summary>
-          <ul>
-            <li>
-              2021 Academic Seminar Hosted by College of Natural Science, Hanyang University Participation Prize
-            </li>
-          </ul>  
-        </details>  
-    </li>    
-    <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Seunghun Paik</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Seunghun.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
@@ -335,29 +368,7 @@ header:
           </ul>  
         </details>  
     </li>
-    <br>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Seongae Baek</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Seongae.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Life is something that happens when you can't get to sleep. -Fran Lebowitz-</span>
-        </p>       
-        <u>Research Interests</u>
-        <br>
-        Error Correcting Code
-        <br>
-        <br>
-        <details>
-          <summary>
-            Awards
-          </summary>
-          <ul>
-            <li>
-              2022 Academic Seminar Hosted by College of Natural Science, Hanyang University Excellence Prize
-            </li>
-          </ul>  
-        </details>  
-    </li>    
-    <br>
+    <br>        
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Sangyoon Shin</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sangyoon.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
@@ -366,17 +377,7 @@ header:
         <u>Research Interests</u>
         <br>
         Deep Learning Algorithm
-    </li>
-    <br>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyunjung Son</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hyunjung.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Study without desire spoils the memory, and it retains nothing that it takes in. -Leonardo da Vinci-</span>
-        </p>        
-        <u>Research Interests</u>
-        <br>
-        Cryptography          
-    </li>
+      </li>        
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Yunjeong Heo</b>
         <br>
