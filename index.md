@@ -71,8 +71,11 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <td class="tg-c3ow" rowspan="2">ITBT Buildind 510</td>
         <td class="tg-c3ow">Ph.D Heewon Chung (Desilo)</td>
         <td class="tg-c3ow"><A href="https://dl.acm.org/doi/pdf/10.1145/3548606.3560653">Succinct Zero Knowledge for Floating Point Computations</A></td>
-      </tr>  
+      </tr>
+      </tbody>
+      </table>
 </details>
+  
 <br>
 <details> 
     <br>
