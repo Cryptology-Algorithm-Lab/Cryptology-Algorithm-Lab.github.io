@@ -50,8 +50,8 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <col style="width: 60px">
     <col style="width: 90px">
     <col style="width: 180px">
-    <col style="width: 200px">
-    <col style="width: 640px">
+    <col style="width: 300px">
+    <col style="width: 550px">
     </colgroup>
     <thead>
       <tr>
