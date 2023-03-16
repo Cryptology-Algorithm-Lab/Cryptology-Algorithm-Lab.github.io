@@ -30,7 +30,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 </ul>    
 
 ## Seminar
-
+<!--
 <details open>
     <summary style="font-size:1rem; font-weight:bold;">
         Invited Talks
@@ -76,6 +76,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </tbody>
       </table>
 </details>
+-->
 <details> 
     <br>
     <summary style="font-size:1rem; font-weight:bold;">
