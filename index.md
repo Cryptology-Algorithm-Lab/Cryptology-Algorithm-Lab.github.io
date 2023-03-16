@@ -35,6 +35,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <summary style="font-size:1rem; font-weight:bold;">
         Invited Talks
     </summary>
+    <br>
     <style type="text/css">
     .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
     .tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
@@ -48,7 +49,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <colgroup>
     <col style="width: 60px">
     <col style="width: 90px">
-    <col style="width: 120px">
+    <col style="width: 180px">
     <col style="width: 200px">
     <col style="width: 640px">
     </colgroup>
@@ -75,8 +76,6 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </tbody>
       </table>
 </details>
-  
-<br>
 <details> 
     <br>
     <summary style="font-size:1rem; font-weight:bold;">
