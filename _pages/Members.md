@@ -367,17 +367,7 @@ header:
             </li>
           </ul>  
         </details>  
-    </li>
-    <br>        
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Sangyoon Shin</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sangyoon.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >You will face many defeats in life, but never let yourself be defeated. -Maya Angelou-</span>
-        </p>        
-        <u>Research Interests</u>
-        <br>
-        Deep Learning Algorithm
-      </li>        
+    </li>   
     <br>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Yunjeong Heo</b>
         <br>
@@ -479,6 +469,8 @@ header:
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyunjung Son</b><span style="float:right;"> <i></i></span></p>
     </li>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Seongae Baek</b><span style="float:right;"> <i></i></span></p>
+    </li>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Sangyoon Shin</b><span style="float:right;"> <i></i></span></p>
     </li>
     </ul>
 </details>
