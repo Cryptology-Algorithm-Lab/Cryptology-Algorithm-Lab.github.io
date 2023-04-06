@@ -24,7 +24,7 @@ header:
 </li>  
   
 <li>
-[J24]  <b>Heewon Chung</b>, Kyoohyung Han, Chanyang Ju, Myungsun Kim, and <b>Jae Hong Seo</b>
+[J24]  <b>Heewon Chung</b>, Kyoohyung Han, Chanyang Ju, Myungsun Kim, and <b>Jae Hong Seo*</b>
     <p>
         <i>Bulletproofs+: Shorter Proofs for a Privacy-Enhanced Distributed Ledger.</i> 
         <br>
@@ -33,7 +33,7 @@ header:
 </li>
   
 <li>
-[J23]  Chanyang Ju, <b>Hyeonbum Lee</b>, <b>Heewon Chung</b>, <b>Jae Hong Seo</b>, and Sungwook Kim
+[J23]  Chanyang Ju, <b>Hyeonbum Lee</b>, <b>Heewon Chung</b>, <b>Jae Hong Seo</b>, and Sungwook Kim*
     <p>
         <i>Efficient Sum-Check Protocol for Convolution.</i> 
         <br>
@@ -42,7 +42,7 @@ header:
 </li>
 
 <li>
-[J22]  Chanyang Ju, <b>Hyeonbum Lee</b>, <b>Heewon Chung</b>, and <b>Jae Hong Seo</b>
+[J22]  Chanyang Ju, <b>Hyeonbum Lee</b>, <b>Heewon Chung</b>, and <b>Jae Hong Seo*</b>
     <p>
         <i>Analysis of Zero-Knowledge Protocols for Verifiable Computation and Its Applications(연산을 검증하기 위한 영지식 증명 프로토콜의 기법 및 응용 사례 분석).</i> 
         <br>
@@ -51,7 +51,7 @@ header:
 </li>  
   
 <li>
-[J21]  Keita Emura, <b>Jae Hong Seo</b>, and Yohei Watanabe
+[J21]  Keita Emura, <b>Jae Hong Seo</b>, and Yohei Watanabe*
     <p>
         <i>Efficient revocable identity-based encryption with short public parameters.</i> 
         <br>
@@ -244,7 +244,7 @@ header:
 
 <ul type="none">
 <li>
-    [C17] Sungwook Kim, <b>Hyeonbum Lee</b>, and <b>Jae Hong Seo</b>
+    [C17] Sungwook Kim, <b>Hyeonbum Lee</b>, and <b>Jae Hong Seo*</b>
     <p>
         <i>Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier</i> 
         <br>
