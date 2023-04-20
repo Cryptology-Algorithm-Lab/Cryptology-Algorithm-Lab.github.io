@@ -17,15 +17,26 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
-        (Feb 14, 2023) Bora Jeong won the Grand Prize in the best research paper award for graduate students by the Research Institute for Natural Sciences, Hanyang University.
+      (Apr 20, 2023) The following paper has been accepted for publication in <b>Designs, Codes and Cryptography</b>
+      <ul type="disc">
+          <li>
+            Hyung Tae Lee and <b>Jae Hong Seo*</b>, "<i>On the Security of Functional Encryption in the Generic Group Model</i>"
+          </li>  
+      </ul>
+    </li>  
+    <li>
+      (Apr 20, 2023) Prof. <b>Jae Hong Seo</b> joins in the program committees of ASIACRYPT 2023 and PQCrypto 2023.
+    </li>
+    <li>
+        (Feb 14, 2023) <b>Bora Jeong</b> won the Grand Prize in the best research paper award for graduate students by the Research Institute for Natural Sciences, Hanyang University.
         <ul type="disc">
           <li>
-            Research paper title: Analysis on Secure Triplet Loss
+            <b>Bora Jeong</b>, <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, and <b>Jae Hong Seo*</b>, "<i>Analysis on Secure Triplet Loss.</i>"
           </li>  
       </ul>
     </li> 
     <li>
-        (Jan 5, 2023) Our student captain, Sunpill, visits A*STAR at Singapore, one of the world's leading research institutes, for a year-long collaborative research. We wish him success in his studies at A*STAR.
+        (Jan 5, 2023) Our student captain, <b>Sunpill Kim</b>, visits A*STAR at Singapore, one of the world's leading research institutes, for a year-long collaborative research. We wish him success in his studies at A*STAR.
     </li>     
 </ul>    
 
