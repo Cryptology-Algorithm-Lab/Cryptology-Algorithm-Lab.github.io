@@ -25,7 +25,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </ul>
     </li>  
     <li>
-      (Apr 20, 2023) Prof. <b>Jae Hong Seo</b> joins in the program committees of ASIACRYPT 2023 and PQCrypto 2023.
+      (Apr 20, 2023) Prof. <b>Jae Hong Seo</b> joins in the program committees of <b>ASIACRYPT 2023</b> and <b>PQCrypto 2023</b>.
     </li>
     <li>
         (Feb 14, 2023) <b>Bora Jeong</b> won the Grand Prize in the best research paper award for graduate students by the Research Institute for Natural Sciences, Hanyang University.
