@@ -20,57 +20,75 @@ header:
     </summary>
     <ul type="square">
     <li>
-        (Dec 10, 2022) Our paper (<A href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9965373">Analysis on Secure Triplet Loss.</A>) is accepted at IEEE Access.
+        (Dec 10, 2022) The following paper has been accepted in <b>IEEE Access</b>
+        <ul type="disc">
+          <li>
+             <b>Bora Jeong</b>, <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, and <b>Jae Hong Seo*</b>, "<i>Analysis on Secure Triplet Loss.</i>" (<A href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9965373">DOI</A>)
+          </li>  
+        </ul>
     </li>
     <li>
-        (Nov 11, 2022) Bora Jeong visits in the Singapore A*STAR to participate short-term research for top international students during four months. We wish her a successful journey to become good researchers!
+        (Nov 11, 2022) <b>Bora Jeong</b> visits in the Singapore A*STAR to participate short-term research for top international students during four months. We wish her a successful journey to become good researchers!
     </li>
     <li>
-        (Sep 27, 2022) The following paper won the grand prize at "National Cryptographic Technology Contest, 2022".<br>	
+        (Sep 27, 2022) The following paper won the grand prize at "<b>National Cryptographic Technology Contest, 2022</b>".Congrats <b>Hyeonbum Lee</b>, who was the lead author of this submission.
 <ul type="circle">
-    <li>Title : Non-Pairing Sublinear Verifiable Zero-Knowledge Arguments in Discrete Logarithm Setting</li>
-    <li>Participant : Hyeonbum Lee (C&A Lab, Hanyang University), Sungwook Kim (Seoul Women's University), and Jae Hong Seo (C&A Lab, Hanyang University)</li></ul>
-Congrats Hyeonbum, who was the lead author of this submission.
-    </li>
+    <li> <b>Hyeonbum Lee</b>, Sungwook Kim, and <b>Jae Hong Seo</b>, "<i>Non-Pairing Sublinear Verifiable Zero-Knowledge Arguments in Discrete Logarithm Setting"</i></li>
+    </ul>
+    </li>  
     <li>
-        (Sep 27, 2022) The following paper won the special prize at "National Cryptographic Technology Contest, 2022".<br>
+        (Sep 27, 2022) The following paper won the special prize at "<b>National Cryptographic Technology Contest, 2022</b>". Congrats <b>Sunpill Kim</b>, who was the lead author of this submission.
 <ul type="circle">
-    <li>Title : Deep Face Template Protection in the Wild</li>
-    <li>Participant : Sunpill Kim (C&A Lab, Hanyang University), Hoyong Shin (Hankuk University of Foreign Studies), and Jae Hong Seo (C&A Lab, Hanyang University)</li></ul>
-Congrats Sunpill, who was the lead author of this submission.
+    <li><b>Sunpill Kim</b>, Hoyong Shin, and <b>Jae Hong Seo</b> "<i>Deep Face Template Protection in the Wild</i>"</li>
+    </ul>
     </li>
     <li>
-        (Sep 20, 2022) HUCC, Crypto Club of Hanyang University, won an award for excellence (우수상) in "Crypto Analysis Contest, 2022", hosted by Military Crypto Research Center. Congrats two of C&A members, Seunghun Paik and Minsu Kim, who are a leader and a member of HUCC.
+        (Sep 20, 2022) HUCC, Crypto Club of Hanyang University, won an award for excellence (우수상) in "<b>Crypto Analysis Contest, 2022</b>", hosted by Military Crypto Research Center. Congrats two of C&A members, <b>Seunghun Paik</b> and <b>Minsu Kim</b>, who are a leader and a member of HUCC.
     </li>
     <li>
-        (Sep 13, 2022) Yunjeong Heo (undergraduate student) joined our Cryptology & Algorithm Lab!
+        (Sep 13, 2022) <b>Yunjeong Heo</b> (undergraduate student) joined our Cryptology & Algorithm Lab!
     </li>
     <li>
-        (Sep 1, 2022) Hyunjung Son (undergraduate student) joined our Cryptology & Algorithm Lab!
+        (Sep 1, 2022) <b>Hyunjung Son</b> (undergraduate student) joined our Cryptology & Algorithm Lab!
     </li>
     <li>
-        (Sep 1, 2022) Hyeonbum Lee and Kyuhwan Lee visit the Data Security and Privacy lab (led by Prof. Taeho Jung) in the CSE at the University of Notre Dame to collaborate with DSP-lab for six months. We wish them a successful journey to become good researchers!
+        (Sep 1, 2022) <b>Hyeonbum Lee</b> and <b>Kyuhwan Lee</b> visit the Data Security and Privacy lab (led by Prof. Taeho Jung) in the CSE at the University of Notre Dame to collaborate with DSP-lab for six months. We wish them a successful journey to become good researchers!
     </li>
     <li>
-        (Aug 25, 2022) Our paper (Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier) is accepted for presentation at the ASIACRYPT 2022.
+        (Aug 25, 2022)  The following paper has been accepted for presentation at the <b>ASIACRYPT 2022</b>.
+      <ul type="disc">
+          <li>
+            Sungwook Kim, <b>Hyeonbum Lee</b>, and <b>Jae Hong Seo</b>, "<i>Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier</i>"
+          </li>  
+      </ul>
     </li>  
     <li>
         (Jul 11, 2022) A new project supported by CRYPTOLAB (Title : Development of Encrypted Face Template DB Search Technology) has started.
     </li> 
     <li>
-        (Jul 1, 2022) Sangyoon Shin (undergraduate student) joined in our Cryptology & Algorithm Lab!
+        (Jul 1, 2022) <b>Sangyoon Shin</b> (undergraduate student) joined in our Cryptology & Algorithm Lab!
     </li> 
     <li>
-        (Jun 10, 2022) Our paper (Monitoring Provenance of Delegated Personal Data With Blockchain.) is accepted at IEEE Blockchain.
+        (Jun 10, 2022) The following paper has been accepted in <b>IEEE Blockchain</b>.
+        <ul type="disc">
+        <li>
+            <b>Chanyang Ju</b>, Wenyi Tang, Changhao Chenli, <b>Gwangwoon Lee</b>, <b>Jae Hong Seo</b>, and Taeho Jung "<i>Monitoring Provenance of Delegated Personal Data With Blockchain</i>"
+        </li>
+        </ul>  
     </li>
     <li>
-        (May 1, 2022) Minsu Kim (undergraduate student) and Seongae Baik (undergraduate student) joined in our Cryptology & Algorithm Lab!
+        (May 1, 2022) <b>Minsu Kim</b> (undergraduate student) and <b>Seongae Baik</b> (undergraduate student) joined in our Cryptology & Algorithm Lab!
     </li>
     <li>
         (May 1, 2022) A new project supported by Institute for Information and Communications Technology Promotion, IITP (Title: "Logging and Zero-knowledge Proof based on Hierarchical Blockchain") has started.
     </li>
     <li>
-        (Apr 18, 2022) Our paper (<A href="https://ieeexplore.ieee.org/document/9758733">Bulletproofs+: Shorter Proofs for a Privacy-Enhanced Distributed Ledger.</A>) is accepted at IEEE Access.
+        (Apr 18, 2022)  The following paper has been accepted at <b>IEEE Access</b>.
+        <ul type="disc">
+        <li>
+            <b>Heewon Chung</b>, Kyoohyung Han, <b>Chanyang Ju</b>, Myungsun Kim, and <b>Jae Hong Seo</b> "<i>Bulletproofs+: Shorter Proofs for a Privacy-Enhanced Distributed Ledger</i>" (<A href="https://ieeexplore.ieee.org/document/9758733">DOI</A>)
+        </li>
+        </ul>
     </li>
     <li>
         (Apr 1, 2022) A new project supported by National Security Research Institute, NSR (Title: "Research on the design technology of a cryptographic proof system suitable for Proof-Carrying Data") has started.
@@ -79,7 +97,7 @@ Congrats Sunpill, who was the lead author of this submission.
         (Feb 22, 2022) A new project supported by Korea Institute of Information Security & Crytology, KIISC (Title: "A study on biometric information extraction threats and countermeasures in deep learning-based face recognition system") has started.
     </li>
     <li>
-        (Jan 3, 2022) Bora Jeong (undergraduate student) and Seunghun Paik (undergraduate student) joined in our Cryptology & Algorithm Lab!
+        (Jan 3, 2022) <b>Bora Jeong</b> (undergraduate student) and <b>Seunghun Paik</b> (undergraduate student) joined in our Cryptology & Algorithm Lab!
     </li>  
     </ul>
 </details>
