@@ -17,6 +17,9 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
+      (May 13, 2023) Two of our members, Seunghun Paik and Minsu Kim, received the "한양학업 최우수상 (Top Academic Excellence Award)" from the President of Hanyang University.
+    </li>  
+    <li>
       (Apr 20, 2023) The following paper has been accepted for publication in <b>Designs, Codes and Cryptography</b>
       <ul type="disc">
           <li>
