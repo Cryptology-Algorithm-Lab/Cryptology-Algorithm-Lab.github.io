@@ -39,10 +39,21 @@ gallery2:
   - url: /assets/Gallery/h2.jpeg
     image_path: /assets/Gallery/h2.jpeg
     alt: "placeholder image 4"
-    title: "Image 2 title caption" 
+    title: "Image 2 title caption"
+gallery3:
+  - url: /assets/Gallery/teachersday23_1.png
+    image_path: /assets/Gallery/teachersday23_1.png
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/Gallery/teachersday23_2.png
+    image_path: /assets/Gallery/teachersday23_2.png
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"    
 ---
 # Gallery
-    
+
+{% include gallery id="gallery3" caption="**Thank you, professor, for celebrating Teacher's Day.**" %}
+
 {% include gallery id="gallery" caption="**Hyeonbum Lee's presentation at the ASIACRYPT 2022**" %}
 
 {% include gallery id="gallery2" layout="half" caption="**Congratulations on the researchers' achievements**" %}
