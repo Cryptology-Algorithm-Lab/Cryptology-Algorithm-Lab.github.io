@@ -108,6 +108,9 @@ header:
           </summary>
           <ul>
             <li>
+              Hyeonbum Lee, Jae Hong Seo, "TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup Accepted in IWSEC" 2023
+            </li>  
+            <li>
               Sungwook Kim, Hyeonbum Lee, Jae Hong Seo, [alphabetical order] Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier Accepted in Asiacrypt 2022   
             </li>
             <li>
