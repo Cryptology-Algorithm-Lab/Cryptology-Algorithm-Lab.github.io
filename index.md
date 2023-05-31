@@ -20,7 +20,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         (May 31, 2023)  The following paper has been accepted for publication in <b>IWSEC 2023</b>
         <ul type="disc">
             <li>
-              <b>Hyeonbum Lee</b>, <b>Jae Hong Seo*</b>, "<i>TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup</i>"
+              <b>Hyeonbum Lee</b> and <b>Jae Hong Seo*</b>, "<i>TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup</i>"
             </li>  
         </ul>
     </li> 
