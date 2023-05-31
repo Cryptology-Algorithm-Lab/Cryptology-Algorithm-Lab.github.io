@@ -17,6 +17,14 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
+        (May 31, 2023)  The following paper has been accepted for publication in <b>IWSEC 2023</b>
+        <ul type="disc">
+            <li>
+              <b>Hyeonbum Lee</b>, <b>Jae Hong Seo*</b>, "<i>TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup</i>"
+            </li>  
+        </ul>
+    </li> 
+    <li>
       (May 13, 2023) Two of our members, <b>Seunghun Paik</b> and <b>Minsu Kim</b>, received the "한양학업 최우수상 (Top Academic Excellence Award)" from the President of Hanyang University.
     </li>  
     <li>
