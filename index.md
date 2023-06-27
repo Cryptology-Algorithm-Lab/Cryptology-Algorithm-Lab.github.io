@@ -20,9 +20,17 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         (July 13, 2023)  There will be an invited lecture by Prof. Taeho Jeong, Notre Dame. 
         <ul type="disc">
             <li>
-              Title : <i>Cryptography and Blockchain for Secure and Private Web3 Ecosystem</i>
-              Detail : DOI  
-            </li>  
+              Date & Place : 10:30 AM, Jul 13 / Natural Science building 702
+            </li>
+            <li>
+              Title : <i>Cryptography and Blockchain for Secure and Private Web3 Ecosystem</i>              
+            </li>
+            <details>
+                <summary>
+                    (For more information, click the arrow)
+                </summary>
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/seminar_poster(07.13.23.).jpeg">
+            </details>
         </ul>
     </li>
     <li>
