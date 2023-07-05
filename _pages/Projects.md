@@ -12,12 +12,7 @@ header:
 
 ## Ongoing
 
-<ul type="square">
-     <li>
-        Jul 2022 - Jun 2023, 암호화 얼굴 템플릿 DB 검색 기술 개발, CRYPTOLAB
-        <br>
-        Development of Encrypted Face Template DB Search Technology, CRYPTOLAB
-    </li>  
+<ul type="square">      
     <li>
         Sep 2021 - Aug 2024, 다자간 근사계산 암호 원천기술 개발, 삼성미래기술육성재단
         <br>
@@ -38,6 +33,11 @@ header:
 
 ## Finished
 <ul type="square">
+    <li>
+        Jul 2022 - Jun 2023, 암호화 얼굴 템플릿 DB 검색 기술 개발, CRYPTOLAB
+        <br>
+        Development of Encrypted Face Template DB Search Technology, CRYPTOLAB
+    </li> 
     <li>
         May 2022 - Apr 2023, 다중 계층 블록체인 기반의 로그 저장 및 영지식 증명 방법, 정보통신기획평가원 (IITP)
         <br>
