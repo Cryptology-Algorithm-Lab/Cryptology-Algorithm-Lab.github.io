@@ -260,7 +260,7 @@ header:
 
 <ul type="none">
 <li> 
-  [C18]  <b>Hyeonbum Lee</b>, and <b>Jae Hong Seo*</b></b>
+  [C18]  <b>Hyeonbum Lee</b>, and <b>Jae Hong Seo*</b>
       <p>
           <i>TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup.</i> 
           <br>
