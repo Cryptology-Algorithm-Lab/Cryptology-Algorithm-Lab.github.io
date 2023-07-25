@@ -13,6 +13,14 @@ header:
 ## Journal
 
 <ul type="none">  
+<li>
+[J26]  Sungwook Kim, <b>Hyeonbum Lee</b>, <b>Gwangwoon Lee</b>, and <b>Jae Hong Seo*</b>
+    <p>
+        <i>Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption.</i> 
+        <br>
+        IEEE Transactions on Information Forensics and Security, TBU
+    </p>
+</li> 
   
 <li>
 [J25]  <b>Bora Jeong</b>, <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, and <b>Jae Hong Seo*</b>
