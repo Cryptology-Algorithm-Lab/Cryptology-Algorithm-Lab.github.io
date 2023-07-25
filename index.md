@@ -17,6 +17,14 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
+      (Jul 25, 2023) The following paper has been accepted for publication in <b>IEEE TIFS</b>
+      <ul type="disc">
+          <li>
+            Sungwook Kim, <b>Hyeonbum Lee</b>, <b>Gwangwoon Lee</b>, and <b>Jae Hong Seo</b>b, <i>"Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption"</i>
+          </li>  
+      </ul>
+    </li>   
+    <li>
         (July 13, 2023)  There will be an invited lecture by Prof. Taeho Jeong, Notre Dame. 
         <ul type="disc">
             <li>
