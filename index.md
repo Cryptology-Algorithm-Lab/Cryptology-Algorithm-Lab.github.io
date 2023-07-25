@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
     <li>
-      (Jul 25, 2023) The following paper has been accepted for publication in <b>IEEE TIFS</b>
+      (Jul 25, 2023) The following paper has been accepted for publication in <b>IEEE TIFS(Transactions on Information Forensics and Security)</b>
       <ul type="disc">
           <li>
             Sungwook Kim, <b>Hyeonbum Lee</b>, <b>Gwangwoon Lee</b>, and <b>Jae Hong Seo</b>b, <i>"Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption"</i>
