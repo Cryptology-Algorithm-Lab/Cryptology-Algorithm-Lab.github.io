@@ -14,15 +14,23 @@ header:
 
 <ul type="none">  
 <li>
-[J26]  Sungwook Kim, <b>Hyeonbum Lee</b>, <b>Gwangwoon Lee</b>, and <b>Jae Hong Seo*</b>
+[J27]  Sungwook Kim, <b>Hyeonbum Lee</b>, <b>Gwangwoon Lee</b>, and <b>Jae Hong Seo*</b>
     <p>
         <i>Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption.</i> 
         <br>
         IEEE Transactions on Information Forensics and Security, TBU
     </p>
-</li> 
-  
+</li>
+<li>  
+[J26]  Hyung Tae Lee and <b>Jae Hong Seo*</b>
+    <p>
+        <i>On the Security of Functional Encryption in the Generic Group Model.</i> 
+        <br>
+        Designs, Codes and Cryptography, May 2023.  (<A href="https://doi.org/10.1007/s10623-023-01237-1">DOI</A>)
+    </p>
+</li>   
 <li>
+  
 [J25]  <b>Bora Jeong</b>, <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, and <b>Jae Hong Seo*</b>
     <p>
         <i>Analysis on Secure Triplet Loss.</i> 
@@ -251,12 +259,20 @@ header:
 ## Conference
 
 <ul type="none">
+<li> 
+  [C18]  <b>Hyeonbum Lee</b>, and <b>Jae Hong Seo*</b></b>
+      <p>
+          <i>TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup.</i> 
+          <br>
+           <b>IWSEC</b> 2023, (<A href="https://link.springer.com/chapter/10.1007/978-3-031-22966-4_14">DOI</A>)
+      </p>
+  </li>   
 <li>
     [C17] Sungwook Kim, <b>Hyeonbum Lee</b>, and <b>Jae Hong Seo*</b>
     <p>
         <i>Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier</i> 
         <br>
-        <b>IACR-ASIACRYPT</b> 2022, (<A href="https://link.springer.com/chapter/10.1007/978-3-031-22966-4_14">DOI</A>)
+        <b>IACR-ASIACRYPT</b> 2022, (<A href="https://eprint.iacr.org/2023/478">DOI</A>)
     </p>
 </li>    
 <li>
