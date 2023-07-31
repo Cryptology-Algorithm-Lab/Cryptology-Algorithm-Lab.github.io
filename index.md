@@ -77,12 +77,17 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 </ul>    
 
 ## Seminar
-<!--
+
 <details open>
     <summary style="font-size:1rem; font-weight:bold;">
-        Invited Talks
+        <b>23 Summer</b>
     </summary>
     <br>
+    <details>
+      <br>
+    <summary style="font-size:1rem; font-weight:bold;">
+        Deep Learning
+    </summary>
     <style type="text/css">
     .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
     .tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
@@ -96,13 +101,13 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     <colgroup>
     <col style="width: 60px">
     <col style="width: 90px">
-    <col style="width: 180px">
-    <col style="width: 300px">
-    <col style="width: 550px">
+    <col style="width: 67px">
+    <col style="width: 150px">
+    <col style="width: 640px">
     </colgroup>
     <thead>
       <tr>
-        <th class="tg-5jts" colspan="5">Invited Talks</th>
+        <th class="tg-5jts" colspan="5">Seminar Schedule - Deep Learning Paper</th>
       </tr>
     </thead>
     <tbody>
@@ -114,16 +119,77 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <td class="tg-c3ow">Topic</td>
       </tr>
       <tr>
-        <td class="tg-c3ow" rowspan="2">3/30</td>
+        <td class="tg-c3ow" rowspan="2">7/12</td>
         <td class="tg-c3ow" rowspan="2">10:00AM</td>
-        <td class="tg-c3ow" rowspan="2">ITBT Building 510</td>
-        <td class="tg-c3ow">Ph.D Heewon Chung (Desilo)</td>
-        <td class="tg-c3ow"><A href="https://dl.acm.org/doi/pdf/10.1145/3548606.3560653">Succinct Zero Knowledge for Floating Point Computations</A></td>
+        <td class="tg-c3ow" rowspan="2">702</td>
+        <td class="tg-c3ow">Bora Jeong</td>
+        <td class="tg-c3ow">DeepFool: A simple and accurate method to fool deep neural networks  (CVPR'16)(<A href="https://arxiv.org/abs/1511.04599">DOI</A>)</td>
+      </tr>
+      <tr>     
+        <td class="tg-c3ow">Seunghun Paik</td>
+        <td class="tg-c3ow">Adversarial Examples Are Not Bugs, They Are Features (NIPS'19 Spotlight)(<A href="https://arxiv.org/pdf/1905.02175.pdf">DOI</A>)</td>
+      </tr>   
+      <tr>
+        <td class="tg-c3ow" rowspan="2">7/19</td>
+        <td class="tg-c3ow" rowspan="2">10:00AM</td>
+        <td class="tg-c3ow" rowspan="2">702</td>
+        <td class="tg-c3ow">Chanwoo Hwang</td>
+        <td class="tg-c3ow">Adversarial Patch (arXiv'17)(<A href="https://arxiv.org/pdf/1905.02175.pdf">DOI</A>)</td>
+      </tr>
+      <tr>     
+        <td class="tg-c3ow">Dongsu Kim</td>
+        <td class="tg-c3ow">Efficient Decision-based Black-box Adversarial Attacks on Face Recognition (CVPR'19)(<A href="https://arxiv.org/pdf/1905.02175.pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dong_Efficient_Decision-Based_Black-Box_Adversarial_Attacks_on_Face_Recognition_CVPR_2019_paper.pdf)">DOI</A>)</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">7/26</td>
+        <td class="tg-c3ow">10:00AM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow">Minsu Kim</td>
+        <td class="tg-c3ow">Universal adversarial perturbations (CVPR'17)(<A href="https://arxiv.org/abs/1610.08401">DOI</A>)</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow" rowspan="2">8/2</td>
+        <td class="tg-c3ow" rowspan="2">10:00AM</td>
+        <td class="tg-c3ow" rowspan="2">702</td>
+        <td class="tg-c3ow">Bora Jeong</td>
+        <td class="tg-c3ow">Iris Recognition</td>
+      </tr>
+      <tr>     
+        <td class="tg-c3ow">Seunghun Paik</td>
+        <td class="tg-c3ow">Understanding Adversarial Examples</td>
+      </tr>
+       <tr>
+        <td class="tg-c3ow" rowspan="2">8/9</td>
+        <td class="tg-c3ow" rowspan="2">10:00AM</td>
+        <td class="tg-c3ow" rowspan="2">702</td>
+        <td class="tg-c3ow">Chanwoo Hwang</td>
+        <td class="tg-c3ow">What is Data Distillation?</td>
+      </tr>
+      <tr>     
+        <td class="tg-c3ow">Dongsu Kim</td>
+        <td class="tg-c3ow">TBU</td>
+      </tr>
+       <tr>
+        <td class="tg-c3ow" rowspan="2">8/16</td>
+        <td class="tg-c3ow" rowspan="2">10:00AM</td>
+        <td class="tg-c3ow" rowspan="2">702</td>
+        <td class="tg-c3ow">Minsu Kim</td>
+        <td class="tg-c3ow">Fuzzy Extractor</td>
+      </tr>
+      <tr>     
+        <td class="tg-c3ow">Bora Jeong</td>
+        <td class="tg-c3ow">Iris Recognition perspective of Attack & Protection</td>
       </tr>
       </tbody>
       </table>
+    </details>
 </details>
--->
+<br>
+<details>
+    <summary style="font-size:1rem; font-weight:bold;">
+        <b>22-23 Winter</b>
+    </summary>
+<br>  
 <details> 
     <br>
     <summary style="font-size:1rem; font-weight:bold;">
@@ -400,7 +466,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     </tbody>
     </table>
 </details>
-
+</details>
 
 ## Contact
 
