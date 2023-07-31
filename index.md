@@ -242,7 +242,7 @@ We share information with each other through various seminars/studies that suppo
       </tr>
       <tr>     
         <td class="tg-c3ow">Dongsu Kim</td>
-        <td class="tg-c3ow">TBU</td>
+        <td class="tg-c3ow">Predictive Coding</td>
       </tr>
        <tr>
         <td class="tg-c3ow" rowspan="2">8/16</td>
