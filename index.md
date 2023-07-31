@@ -78,7 +78,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 ## Seminar (<A href ="https://forms.gle/woVGku15L9DFht8p7">Link to attend</A>)
 
-We share information with each other through various studies that support research capabilities every summer/winter vacation to enhance research and inquiry skills. Each season, the main topic changes and the schedule also changes accordingly. External personnel are also free to participate, and you can attend by filling out the form of above link.
+We share information with each other through various studies that support research capabilities every summer/winter vacation to enhance research and inquiry skills. Each season, the main topic changes and the schedule also changes accordingly. External personnel are also free to participate, and you can attend by filling out the form from above link.
 
 <details open>
     <summary style="font-size:1rem; font-weight:bold;">
@@ -157,6 +157,7 @@ We share information with each other through various studies that support resear
       </tbody>
       </table>
     </details>
+    <br>
     <details>
       <br>
     <summary style="font-size:1rem; font-weight:bold;">
@@ -257,8 +258,9 @@ We share information with each other through various studies that support resear
       </tbody>
       </table>
     </details>
+    <br>
     <details>
-      <br>
+    <br>
     <summary style="font-size:1rem; font-weight:bold;">
         ZKP Basic
     </summary>
@@ -296,14 +298,14 @@ We share information with each other through various studies that support resear
         <td class="tg-c3ow">7/07</td>
         <td class="tg-c3ow">02:00PM</td>
         <td class="tg-c3ow">702</td>
-        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">Junhee Cho</td>
         <td class="tg-c3ow">proofs, interactive proofs, schwarz-zippel lemma, multilinear extension</td>
       </tr>
       <tr>
         <td class="tg-c3ow">7/14</td>
         <td class="tg-c3ow">10:00AM</td>
         <td class="tg-c3ow">702</td>
-        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">Yunki Kim</td>
         <td class="tg-c3ow">sumcheck protocol</td>
       </tr>
       <tr>
@@ -324,15 +326,15 @@ We share information with each other through various studies that support resear
         <td class="tg-c3ow">8/04</td>
         <td class="tg-c3ow">02:00PM</td>
         <td class="tg-c3ow">702</td>
-        <td class="tg-c3ow"></td>
-        <td class="tg-c3ow">"non-interactive proofs, random oracle model, fiat-shamir heuristic
-argument of knowledge, knowledge soundness"</td>
+        <td class="tg-c3ow">Junhee Cho<br>Yunki Kim</td>
+        <td class="tg-c3ow">non-interactive proofs, random oracle model, fiat-shamir heuristic
+argument of knowledge, knowledge soundness</td>
       </tr>
       <tr>
         <td class="tg-c3ow">8/10</td>
         <td class="tg-c3ow">02:00PM</td>
         <td class="tg-c3ow">702</td>
-        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">Yunki Kim</td>
         <td class="tg-c3ow">zero-knowledge, sigma protocol</td>
       </tr>
       </tbody>
@@ -622,6 +624,9 @@ argument of knowledge, knowledge soundness"</td>
     </table>
 </details>
 </details>
+
+### Blog (<a href ="https://crypto-algorithm-lab.blogspot.com/">accessible link</a>)
+Note that the contents of the seminar will be shared through the following blog post.
 
 ## Contact
 
