@@ -76,13 +76,87 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     </li>     
 </ul>    
 
-## Seminar
+## Seminar (<A href ="https://forms.gle/woVGku15L9DFht8p7">Link to attend</A>)
+
+We share information with each other through various studies that support research capabilities every summer/winter vacation to enhance research and inquiry skills. Each season, the main topic changes and the schedule also changes accordingly. External personnel are also free to participate, and you can attend by filling out the form of above link.
 
 <details open>
     <summary style="font-size:1rem; font-weight:bold;">
         <b>23 Summer</b>
     </summary>
     <br>
+    <details>
+      <br>
+    <summary style="font-size:1rem; font-weight:bold;">
+        IVC
+    </summary>
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
+    .tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
+      font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
+      font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:middle}
+    .tg .tg-5jts{border-color:inherit;font-size:18px;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg" style="undefined;table-layout: fixed; width: 1082px; margin-left: auto; margin-right: auto;">
+    <colgroup>
+    <col style="width: 60px">
+    <col style="width: 90px">
+    <col style="width: 67px">
+    <col style="width: 150px">
+    <col style="width: 640px">
+    </colgroup>
+    <thead>
+      <tr>
+        <th class="tg-5jts" colspan="5">Seminar Schedule - IVC</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow">Date</td>
+        <td class="tg-c3ow">Time</td>
+        <td class="tg-c3ow">Place</td>
+        <td class="tg-c3ow">Presenter</td>
+        <td class="tg-c3ow">Topic</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">6/27</td>
+        <td class="tg-c3ow" rowspan="2">01:00PM</td>
+        <td class="tg-c3ow" rowspan="2">701</td>
+        <td class="tg-c3ow" rowspan="2">Hyeonbum Lee</td>
+        <td class="tg-c3ow" rowspan="2">Nova : Recursive Zero Knowledge Arguments from Folding Schemes(<A href="https://eprint.iacr.org/2021/370.pdf">DOI</A>)</td>
+      </tr>
+      <tr>     
+        <td class="tg-c3ow">7/6</td>
+      </tr>   
+      <tr>
+        <td class="tg-c3ow">7/11</td>
+        <td class="tg-c3ow">07:00PM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow">Hyunjung Son</td>
+        <td class="tg-c3ow">SuperNova: Proving universal machine executions without universal circuits(<A href="https://eprint.iacr.org/2022/1758.pdf">DOI</A>)</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">7/18</td>
+        <td class="tg-c3ow" rowspan="2">01:00PM</td>
+        <td class="tg-c3ow" rowspan="2">701</td>
+        <td class="tg-c3ow" rowspan="2">Seongae Baek</td>
+        <td class="tg-c3ow" rowspan="2">Customizable constraint systems for succinct arguments(<A href="https://eprint.iacr.org/2023/552.pdf">DOI</A>)</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">7/25</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">8/1</td>
+        <td class="tg-c3ow">01:00PM</td>
+        <td class="tg-c3ow">TBD</td>
+        <td class="tg-c3ow">Hyeonbum Lee</td>
+        <td class="tg-c3ow">Hypernova : Recursive arguments for customizable constraint systems(<A href="https://eprint.iacr.org/2023/573.pdf">DOI</A>)</td>
+      </tr>
+      </tbody>
+      </table>
+    </details>
     <details>
       <br>
     <summary style="font-size:1rem; font-weight:bold;">
