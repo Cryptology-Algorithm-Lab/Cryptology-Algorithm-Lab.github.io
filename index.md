@@ -76,7 +76,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     </li>     
 </ul>    
 
-## Seminar (<A href ="https://forms.gle/woVGku15L9DFht8p7">Link to attend</A>)
+## Seminar (<A href ="https://forms.gle/woVGku15L9DFht8p7" target = "_blank">Link to applicate</A>)
 
 We share information with each other through various studies that support research capabilities every summer/winter vacation to enhance research and inquiry skills. Each season, the main topic changes and the schedule also changes accordingly. External personnel are also free to participate, and you can attend by filling out the form from above link.
 
@@ -625,7 +625,7 @@ argument of knowledge, knowledge soundness</td>
 </details>
 </details>
 
-### Blog (<a href ="https://crypto-algorithm-lab.blogspot.com/">accessible link</a>)
+### Blog (<a href ="https://crypto-algorithm-lab.blogspot.com/" target = "_blank">Accessible link</a>)
 Note that the contents of the seminar will be shared through the following blog post.
 
 ## Contact
