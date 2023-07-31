@@ -183,6 +183,87 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </tbody>
       </table>
     </details>
+    <details>
+      <br>
+    <summary style="font-size:1rem; font-weight:bold;">
+        ZKP Basic
+    </summary>
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
+    .tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
+      font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
+      font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:middle}
+    .tg .tg-5jts{border-color:inherit;font-size:18px;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg" style="undefined;table-layout: fixed; width: 1082px; margin-left: auto; margin-right: auto;">
+    <colgroup>
+    <col style="width: 60px">
+    <col style="width: 90px">
+    <col style="width: 67px">
+    <col style="width: 150px">
+    <col style="width: 640px">
+    </colgroup>
+    <thead>
+      <tr>
+        <th class="tg-5jts" colspan="5">Seminar Schedule - ZKP Basic</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow">Date</td>
+        <td class="tg-c3ow">Time</td>
+        <td class="tg-c3ow">Place</td>
+        <td class="tg-c3ow">Presenter</td>
+        <td class="tg-c3ow">Topic</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">7/07</td>
+        <td class="tg-c3ow">02:00PM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">proofs, interactive proofs, schwarz-zippel lemma, multilinear extension</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">7/14</td>
+        <td class="tg-c3ow">10:00AM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">sumcheck protocol</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">7/21</td>
+        <td class="tg-c3ow">02:00PM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow">Seongae Baek</td>
+        <td class="tg-c3ow">application of sum-check protocol</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">7/28</td>
+        <td class="tg-c3ow">02:00PM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow">Seongae Baek</td>
+        <td class="tg-c3ow">GKR protocol</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">8/04</td>
+        <td class="tg-c3ow">02:00PM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">"non-interactive proofs, random oracle model, fiat-shamir heuristic
+argument of knowledge, knowledge soundness"</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">8/10</td>
+        <td class="tg-c3ow">02:00PM</td>
+        <td class="tg-c3ow">702</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">zero-knowledge, sigma protocol</td>
+      </tr>
+      </tbody>
+      </table>
+    </details>
 </details>
 <br>
 <details>
