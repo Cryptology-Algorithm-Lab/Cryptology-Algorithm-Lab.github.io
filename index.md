@@ -149,11 +149,14 @@ We share information with each other through various seminars/studies that suppo
       </tr>
       <tr>
         <td class="tg-c3ow">8/1</td>
-        <td class="tg-c3ow">01:00PM</td>
-        <td class="tg-c3ow">TBD</td>
-        <td class="tg-c3ow">Hyeonbum Lee</td>
-        <td class="tg-c3ow">Hypernova : Recursive arguments for customizable constraint systems(<A href="https://eprint.iacr.org/2023/573.pdf">DOI</A>)</td>
+        <td class="tg-c3ow" rowspan="2">01:00PM</td>
+        <td class="tg-c3ow">751</td>
+        <td class="tg-c3ow" rowspan="2">Hyeonbum Lee</td>
+        <td class="tg-c3ow" rowspan="2">Hypernova : Recursive arguments for customizable constraint systems(<A href="https://eprint.iacr.org/2023/573.pdf">DOI</A>)</td>
       </tr>
+      <tr>
+        <td class="tg-c3ow">8/8</td>
+        <td class="tg-c3ow">TBD</td>
       </tbody>
       </table>
     </details>
