@@ -157,6 +157,7 @@ We share information with each other through various seminars/studies that suppo
       <tr>
         <td class="tg-c3ow">8/8</td>
         <td class="tg-c3ow">TBD</td>
+      </tr>  
       </tbody>
       </table>
     </details>
