@@ -264,8 +264,8 @@ We share information with each other through various seminars/studies that suppo
       <tr>     
         <td class="tg-c3ow">Seunghun Paik</td>
         <td class="tg-c3ow">Understanding Adversarial Examples</td>
-        <td class="tg-c3ow">(<A href="https://drive.google.com/file/d/1XJoMJjMt2eLpl36BZhRNa0sR4pQu1ynu/view?usp=drive_link">LINK</A>)</td>
-        <td class="tg-c3ow">(<A href="https://crypto-algorithm-lab.blogspot.com/2023/08/dl-adversarial-example-understanding.html">LINK</A>)</td>
+        <td class="tg-c3ow">(<A href="https://drive.google.com/file/d/1XJoMJjMt2eLpl36BZhRNa0sR4pQu1ynu/view?usp=drive_link" target = "_blank">LINK</A>)</td>
+        <td class="tg-c3ow">(<A href="https://crypto-algorithm-lab.blogspot.com/2023/08/dl-adversarial-example-understanding.html" target = "_blank">LINK</A>)</td>
       </tr>
        <tr>
         <td class="tg-c3ow" rowspan="2">8/9</td>
