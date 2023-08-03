@@ -16,9 +16,9 @@ header:
 <li>
 [J27]  Sungwook Kim, <b>Hyeonbum Lee</b>, <b>Gwangwoon Lee</b>, and <b>Jae Hong Seo*</b>
     <p>
-        <i>Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption.</i> 
+        <i>Leopard: Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption.</i> 
         <br>
-        IEEE Transactions on Information Forensics and Security, TBU
+        IEEE Transactions on Information Forensics and Security, August 2023. (<A href="https://ieeexplore.ieee.org/document/10198341">DOI</A>)
     </p>
 </li>
 <li>  
@@ -53,7 +53,7 @@ header:
     <p>
         <i>Efficient Sum-Check Protocol for Convolution.</i> 
         <br>
-        IEEE Access,  Vol. 9, pp 164047--164059, Dec 2021. (<A href="https://ieeexplore.ieee.org/document/9638642">DOI</A>)
+        IEEE Access,  Vol. 9, pp 164047--164059, December 2021. (<A href="https://ieeexplore.ieee.org/document/9638642">DOI</A>)
     </p>
 </li>
 
