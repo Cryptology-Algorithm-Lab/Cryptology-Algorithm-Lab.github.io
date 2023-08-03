@@ -106,10 +106,12 @@ We share information with each other through various seminars/studies that suppo
     <col style="width: 67px">
     <col style="width: 150px">
     <col style="width: 640px">
+    <col style="width: 67px">
+    <col style="width: 75px">
     </colgroup>
     <thead>
       <tr>
-        <th class="tg-5jts" colspan="5">Seminar Schedule - IVC</th>
+        <th class="tg-5jts" colspan="7">Seminar Schedule - IVC</th>
       </tr>
     </thead>
     <tbody>
@@ -119,6 +121,8 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow">Place</td>
         <td class="tg-c3ow">Presenter</td>
         <td class="tg-c3ow">Topic</td>
+        <td class="tg-c3ow">Material</td>
+        <td class="tg-c3ow">Blog Post</td>
       </tr>
       <tr>
         <td class="tg-c3ow">6/27</td>
