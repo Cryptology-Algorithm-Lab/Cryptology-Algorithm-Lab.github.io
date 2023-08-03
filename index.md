@@ -130,6 +130,8 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow" rowspan="2">701</td>
         <td class="tg-c3ow" rowspan="2">Hyeonbum Lee</td>
         <td class="tg-c3ow" rowspan="2">Nova : Recursive Zero Knowledge Arguments from Folding Schemes(<A href="https://eprint.iacr.org/2021/370.pdf">DOI</A>)</td>
+        <td class="tg-c3ow" rowspan="2"></td>
+        <td class="tg-c3ow" rowspan="2"></td>
       </tr>
       <tr>     
         <td class="tg-c3ow">7/6</td>
@@ -140,6 +142,8 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow">702</td>
         <td class="tg-c3ow">Hyunjung Son</td>
         <td class="tg-c3ow">SuperNova: Proving universal machine executions without universal circuits(<A href="https://eprint.iacr.org/2022/1758.pdf">DOI</A>)</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
       </tr>
       <tr>
         <td class="tg-c3ow">7/18</td>
@@ -147,6 +151,8 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow" rowspan="2">701</td>
         <td class="tg-c3ow" rowspan="2">Seongae Baek</td>
         <td class="tg-c3ow" rowspan="2">Customizable constraint systems for succinct arguments(<A href="https://eprint.iacr.org/2023/552.pdf">DOI</A>)</td>
+        <td class="tg-c3ow" rowspan="2"></td>
+        <td class="tg-c3ow" rowspan="2"></td>
       </tr>
       <tr>
         <td class="tg-c3ow">7/25</td>
@@ -157,6 +163,8 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow">751</td>
         <td class="tg-c3ow" rowspan="2">Hyeonbum Lee</td>
         <td class="tg-c3ow" rowspan="2">Hypernova : Recursive arguments for customizable constraint systems(<A href="https://eprint.iacr.org/2023/573.pdf">DOI</A>)</td>
+        <td class="tg-c3ow" rowspan="2"></td>
+        <td class="tg-c3ow" rowspan="2"></td>
       </tr>
       <tr>
         <td class="tg-c3ow">8/8</td>
@@ -187,10 +195,12 @@ We share information with each other through various seminars/studies that suppo
     <col style="width: 67px">
     <col style="width: 150px">
     <col style="width: 640px">
+    <col style="width: 67px">
+    <col style="width: 75px">
     </colgroup>
     <thead>
       <tr>
-        <th class="tg-5jts" colspan="5">Seminar Schedule - Deep Learning Paper</th>
+        <th class="tg-5jts" colspan="7">Seminar Schedule - Deep Learning Paper</th>
       </tr>
     </thead>
     <tbody>
@@ -200,6 +210,8 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow">Place</td>
         <td class="tg-c3ow">Presenter</td>
         <td class="tg-c3ow">Topic</td>
+        <td class="tg-c3ow">Material</td>
+        <td class="tg-c3ow">Blog Post</td>
       </tr>
       <tr>
         <td class="tg-c3ow" rowspan="2">7/12</td>
@@ -207,10 +219,14 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow" rowspan="2">702</td>
         <td class="tg-c3ow">Bora Jeong</td>
         <td class="tg-c3ow">DeepFool: A simple and accurate method to fool deep neural networks  (CVPR'16)(<A href="https://arxiv.org/abs/1511.04599">DOI</A>)</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
       </tr>
       <tr>     
         <td class="tg-c3ow">Seunghun Paik</td>
         <td class="tg-c3ow">Adversarial Examples Are Not Bugs, They Are Features (NIPS'19 Spotlight)(<A href="https://arxiv.org/pdf/1905.02175.pdf">DOI</A>)</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
       </tr>   
       <tr>
         <td class="tg-c3ow" rowspan="2">7/19</td>
@@ -218,10 +234,14 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow" rowspan="2">702</td>
         <td class="tg-c3ow">Chanwoo Hwang</td>
         <td class="tg-c3ow">Adversarial Patch (arXiv'17)(<A href="https://arxiv.org/pdf/1905.02175.pdf">DOI</A>)</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
       </tr>
       <tr>     
         <td class="tg-c3ow">Dongsu Kim</td>
         <td class="tg-c3ow">Efficient Decision-based Black-box Adversarial Attacks on Face Recognition (CVPR'19)(<A href="https://arxiv.org/pdf/1905.02175.pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dong_Efficient_Decision-Based_Black-Box_Adversarial_Attacks_on_Face_Recognition_CVPR_2019_paper.pdf)">DOI</A>)</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
       </tr>
       <tr>
         <td class="tg-c3ow">7/26</td>
@@ -229,6 +249,8 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow">702</td>
         <td class="tg-c3ow">Minsu Kim</td>
         <td class="tg-c3ow">Universal adversarial perturbations (CVPR'17)(<A href="https://arxiv.org/abs/1610.08401">DOI</A>)</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
       </tr>
       <tr>
         <td class="tg-c3ow" rowspan="2">8/2</td>
@@ -236,10 +258,14 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow" rowspan="2">702</td>
         <td class="tg-c3ow">Bora Jeong</td>
         <td class="tg-c3ow">Iris Recognition</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
       </tr>
       <tr>     
         <td class="tg-c3ow">Seunghun Paik</td>
         <td class="tg-c3ow">Understanding Adversarial Examples</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
       </tr>
        <tr>
         <td class="tg-c3ow" rowspan="2">8/9</td>
@@ -247,10 +273,14 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow" rowspan="2">702</td>
         <td class="tg-c3ow">Chanwoo Hwang</td>
         <td class="tg-c3ow">What is Data Distillation?</td>
+         <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
       </tr>
       <tr>     
         <td class="tg-c3ow">Dongsu Kim</td>
         <td class="tg-c3ow">Predictive Coding</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
       </tr>
        <tr>
         <td class="tg-c3ow" rowspan="2">8/16</td>
@@ -258,10 +288,14 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow" rowspan="2">702</td>
         <td class="tg-c3ow">Minsu Kim</td>
         <td class="tg-c3ow">Fuzzy Extractor</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
       </tr>
       <tr>     
         <td class="tg-c3ow">Bora Jeong</td>
         <td class="tg-c3ow">Iris Recognition perspective of Attack & Protection</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
       </tr>
       </tbody>
       </table>
@@ -288,6 +322,8 @@ We share information with each other through various seminars/studies that suppo
     <col style="width: 67px">
     <col style="width: 150px">
     <col style="width: 640px">
+    <col style="width: 67px">
+    <col style="width: 75px">  
     </colgroup>
     <thead>
       <tr>
@@ -301,6 +337,8 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow">Place</td>
         <td class="tg-c3ow">Presenter</td>
         <td class="tg-c3ow">Topic</td>
+        <td class="tg-c3ow">Material</td>
+        <td class="tg-c3ow">Blog Post</td>
       </tr>
       <tr>
         <td class="tg-c3ow">7/07</td>
@@ -308,6 +346,8 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow">702</td>
         <td class="tg-c3ow">Junhee Cho</td>
         <td class="tg-c3ow">proofs, interactive proofs, schwarz-zippel lemma, multilinear extension</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
       </tr>
       <tr>
         <td class="tg-c3ow">7/14</td>
@@ -315,6 +355,8 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow">702</td>
         <td class="tg-c3ow">Yunki Kim</td>
         <td class="tg-c3ow">sumcheck protocol</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
       </tr>
       <tr>
         <td class="tg-c3ow">7/21</td>
@@ -322,6 +364,8 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow">702</td>
         <td class="tg-c3ow">Seongae Baek</td>
         <td class="tg-c3ow">application of sum-check protocol</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
       </tr>
       <tr>
         <td class="tg-c3ow">7/28</td>
@@ -329,6 +373,8 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow">702</td>
         <td class="tg-c3ow">Seongae Baek</td>
         <td class="tg-c3ow">GKR protocol</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
       </tr>
       <tr>
         <td class="tg-c3ow">8/04</td>
@@ -337,6 +383,8 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow">Junhee Cho<br>Yunki Kim</td>
         <td class="tg-c3ow">non-interactive proofs, random oracle model, fiat-shamir heuristic
 argument of knowledge, knowledge soundness</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
       </tr>
       <tr>
         <td class="tg-c3ow">8/10</td>
@@ -344,6 +392,8 @@ argument of knowledge, knowledge soundness</td>
         <td class="tg-c3ow">702</td>
         <td class="tg-c3ow">Yunki Kim</td>
         <td class="tg-c3ow">zero-knowledge, sigma protocol</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
       </tr>
       </tbody>
       </table>
