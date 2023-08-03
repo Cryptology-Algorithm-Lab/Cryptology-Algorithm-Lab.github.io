@@ -327,7 +327,7 @@ We share information with each other through various seminars/studies that suppo
     </colgroup>
     <thead>
       <tr>
-        <th class="tg-5jts" colspan="5">Seminar Schedule - ZKP Basic</th>
+        <th class="tg-5jts" colspan="7">Seminar Schedule - ZKP Basic</th>
       </tr>
     </thead>
     <tbody>
