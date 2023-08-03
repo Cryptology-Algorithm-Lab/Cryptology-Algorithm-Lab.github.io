@@ -81,8 +81,8 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 We share information with each other through various seminars/studies that support research capabilities every summer/winter vacation to enhance research and inquiry skills. Each season, the main topic changes and the schedule also changes accordingly. External personnel are also free to participate, and you can attend by filling out the form from above link.
 
 <details open>
-    <summary style="font-size:1rem; font-weight:bold;">
-        <b>23 Summer</b>
+    <summary style="font-size:1.5rem; font-weight:bold;">
+       <b>23 Summer</b>
     </summary>
     <br>
     <details>
@@ -347,7 +347,7 @@ argument of knowledge, knowledge soundness</td>
 </details>
 <br>
 <details>
-    <summary style="font-size:1rem; font-weight:bold;">
+    <summary style="font-size:1.5rem; font-weight:bold;">
         <b>22-23 Winter</b>
     </summary>
 <br>  
