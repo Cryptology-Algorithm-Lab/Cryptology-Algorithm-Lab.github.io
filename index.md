@@ -272,7 +272,7 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow" rowspan="2">10:00AM</td>
         <td class="tg-c3ow" rowspan="2">702</td>
         <td class="tg-c3ow">Chanwoo Hwang</td>
-        <td class="tg-c3ow">What is Data Distillation?</td>
+        <td class="tg-c3ow">What is Dataset Distillation?</td>
          <td class="tg-c3ow"></td>
         <td class="tg-c3ow"></td>
       </tr>
