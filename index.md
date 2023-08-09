@@ -304,11 +304,11 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow"></td>
       </tr>
       <tr>     
-        <td class="tg-c3ow" rowspan = "2">8/30 </td>
+        <td class="tg-c3ow" rowspan = "2">8/30</td>
         <td class="tg-c3ow" rowspan = "2">10:00AM</td>
         <td class="tg-c3ow" rowspan = "2">TBA</td>
-        <td class="tg-c3ow">Minsu Kim</td>
-        <td class="tg-c3ow">Fuzzy Extractor</td>
+        <td class="tg-c3ow">Bora Jeong</td>
+        <td class="tg-c3ow">Iris Recognition (Perspective of Attack & Protection) </td>
         <td class="tg-c3ow"></td>
         <td class="tg-c3ow"></td>
       </tr>
