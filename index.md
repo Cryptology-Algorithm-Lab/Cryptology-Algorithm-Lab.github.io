@@ -277,35 +277,47 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow">(<A href="https://crypto-algorithm-lab.blogspot.com/2023/08/dl-adversarial-example-understanding.html" target = "_blank">LINK</A>)</td>
       </tr>
        <tr>
-        <td class="tg-c3ow" rowspan="2">8/9</td>
-        <td class="tg-c3ow" rowspan="2">10:00AM</td>
-        <td class="tg-c3ow" rowspan="2">702</td>
+        <td class="tg-c3ow">8/9</td>
+        <td class="tg-c3ow">10:00AM</td>
+        <td class="tg-c3ow">702</td>
         <td class="tg-c3ow">Chanwoo Hwang</td>
         <td class="tg-c3ow">What is Dataset Distillation?</td>
          <td class="tg-c3ow"></td>
         <td class="tg-c3ow"></td>
       </tr>
-      <tr>     
+      <tr>
+        <td class="tg-c3ow">8/16</td>
+        <td class="tg-c3ow">10:00AM</td>
+        <td class="tg-c3ow">702</td>
         <td class="tg-c3ow">Dongsu Kim</td>
         <td class="tg-c3ow">Predictive Coding</td>
         <td class="tg-c3ow"></td>
         <td class="tg-c3ow"></td>
       </tr>
        <tr>
-        <td class="tg-c3ow" rowspan="2">8/16</td>
-        <td class="tg-c3ow" rowspan="2">10:00AM</td>
-        <td class="tg-c3ow" rowspan="2">702</td>
+        <td class="tg-c3ow">8/23</td>
+        <td class="tg-c3ow">10:00AM</td>
+        <td class="tg-c3ow">TBA</td>
         <td class="tg-c3ow">Minsu Kim</td>
         <td class="tg-c3ow">Fuzzy Extractor</td>
         <td class="tg-c3ow"></td>
         <td class="tg-c3ow"></td>
       </tr>
       <tr>     
-        <td class="tg-c3ow">Bora Jeong</td>
-        <td class="tg-c3ow">Iris Recognition perspective of Attack & Protection</td>
+        <td class="tg-c3ow" rowspan = "2">8/30 </td>
+        <td class="tg-c3ow" rowspan = "2">10:00AM</td>
+        <td class="tg-c3ow" rowspan = "2">TBA</td>
+        <td class="tg-c3ow">Minsu Kim</td>
+        <td class="tg-c3ow">Fuzzy Extractor</td>
         <td class="tg-c3ow"></td>
         <td class="tg-c3ow"></td>
       </tr>
+      <tr>
+        <td class="tg-c3ow">Seunghun Paik</td>
+        <td class="tg-c3ow">On the discrepancy between the visual and perceptual similarity in face recognition systems</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+      </tr>  
       </tbody>
       </table>
     </details>
