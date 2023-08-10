@@ -282,7 +282,7 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow">702</td>
         <td class="tg-c3ow">Chanwoo Hwang</td>
         <td class="tg-c3ow">What is Dataset Distillation?</td>
-         <td class="tg-c3ow"></td>
+         <td class="tg-c3ow">(<A href="https://drive.google.com/file/d/1S9kC57d5g-psBJxS7qVjYT_inM8xfgl-/view?usp=drive_link" target = "_blank">LINK</A>)</td>
         <td class="tg-c3ow"></td>
       </tr>
       <tr>
