@@ -173,11 +173,11 @@ We share information with each other through various seminars/studies that suppo
       <tr>
         <td class="tg-c3ow">8/14</td>
         <td class="tg-c3ow">01:00PM</td>
-        <td class="tg-c3ow">TBD</td>
+        <td class="tg-c3ow">701</td>
         <td class="tg-c3ow">Hyunjung Son</td>
         <td class="tg-c3ow">Protostar : Generic Efficient Accumulation/Folding for Special-sound Protocols(<A href="https://eprint.iacr.org/2023/620.pdf">DOI</A>)</td>
-        <td class="tg-c3ow" rowspan="2"></td>
-        <td class="tg-c3ow" rowspan="2"></td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
       </tr>
       </tbody>
       </table>
