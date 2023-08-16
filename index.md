@@ -171,11 +171,16 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow">702</td>
       </tr>
       <tr>
-        <td class="tg-c3ow">8/14</td>
-        <td class="tg-c3ow">01:00PM</td>
+        <td class="tg-c3ow" rowspan="2">8/14</td>
+        <td class="tg-c3ow" rowspan="2">01:00PM</td>
         <td class="tg-c3ow">701</td>
-        <td class="tg-c3ow">Hyunjung Son</td>
-        <td class="tg-c3ow">Protostar : Generic Efficient Accumulation/Folding for Special-sound Protocols(<A href="https://eprint.iacr.org/2023/620.pdf">DOI</A>)</td>
+        <td class="tg-c3ow" rowspan="2">Hyunjung Son</td>
+        <td class="tg-c3ow" rowspan="2">Protostar : Generic Efficient Accumulation/Folding for Special-sound Protocols(<A href="https://eprint.iacr.org/2023/620.pdf">DOI</A>)</td>
+        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow"></td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">TBD</td>
         <td class="tg-c3ow"></td>
         <td class="tg-c3ow"></td>
       </tr>
@@ -267,8 +272,8 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow" rowspan="2">702</td>
         <td class="tg-c3ow">Bora Jeong</td>
         <td class="tg-c3ow">Iris Recognition</td>
-        <td class="tg-c3ow"></td>
-        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">(<A href="https://drive.google.com/file/d/1vo1CsLA-qk4vnqp5Sn1JcrqgJMqAtlR2/view?usp=drive_link" target = "_blank">LINK</A>)</td>
+        <td class="tg-c3ow">(<A href="https://crypto-algorithm-lab.blogspot.com/2023/08/dl-iris-recognition-iriscode.html" target = "_blank">LINK</A>)</td>
       </tr>
       <tr>     
         <td class="tg-c3ow">Seunghun Paik</td>
