@@ -288,7 +288,7 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow">Chanwoo Hwang</td>
         <td class="tg-c3ow">What is Dataset Distillation?</td>
          <td class="tg-c3ow">(<A href="https://drive.google.com/file/d/1S9kC57d5g-psBJxS7qVjYT_inM8xfgl-/view?usp=drive_link" target = "_blank">LINK</A>)</td>
-        <td class="tg-c3ow"></td>
+        <td class="tg-c3ow">(<A href="https://crypto-algorithm-lab.blogspot.com/2023/08/dl-dataset-distillation-dataset.html" target = "_blank">LINK</A>)</td>
       </tr>
       <tr>
         <td class="tg-c3ow">8/16</td>
@@ -312,14 +312,14 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow" rowspan = "2">8/30</td>
         <td class="tg-c3ow" rowspan = "2">10:00AM</td>
         <td class="tg-c3ow" rowspan = "2">TBA</td>
-        <td class="tg-c3ow">Bora Jeong</td>
-        <td class="tg-c3ow">Iris Recognition (Perspective of Attack & Protection) </td>
+        <td class="tg-c3ow">Hyeonkyu Kim</td>
+        <td class="tg-c3ow">Recurrent Neural Network</td>
         <td class="tg-c3ow"></td>
         <td class="tg-c3ow"></td>
       </tr>
       <tr>
-        <td class="tg-c3ow">Seunghun Paik</td>
-        <td class="tg-c3ow">On the discrepancy between the visual and perceptual similarity in face recognition systems</td>
+        <td class="tg-c3ow">Bora Jeong</td>
+        <td class="tg-c3ow">Iris Recognition (Perspective of Attack & Protection) </td>
         <td class="tg-c3ow"></td>
         <td class="tg-c3ow"></td>
       </tr>  
