@@ -260,6 +260,13 @@ header:
 
 <ul type="none">
 <li> 
+[C19]  <b>Seunghun Paik</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*</b>
+    <p>
+        <i>Security Analysis on Locality-Sensitive Hashing-Based Biometric Template Protection Schemes.</i> 
+        <br>
+         <b>BMVC</b> 2023, (TBA)
+</li> 
+<li> 
   [C18]  <b>Hyeonbum Lee</b>, and <b>Jae Hong Seo*</b>
       <p>
           <i>TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup.</i> 
