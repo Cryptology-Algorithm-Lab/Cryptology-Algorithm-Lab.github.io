@@ -16,6 +16,14 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 ## Annual News
 
 <ul type="square">
+   <li>
+      (Aug 22, 2023) The following paper has been accepted for presentation at the <b>BMVC 2023</b>.
+      <ul type="disc">
+          <li>
+             <b>Seunghun Paik</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*</b>, <i>"Security Analysis on Locality-Sensitive Hashing-Based Biometric Template Protection Schemes"</i>
+          </li>  
+      </ul>
+    </li>
     <li>
       (Jul 25, 2023) The following paper has been accepted for publication in <b>IEEE TIFS</b>
       <ul type="disc">
