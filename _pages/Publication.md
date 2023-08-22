@@ -260,11 +260,12 @@ header:
 
 <ul type="none">
 <li> 
-[C19]  <b>Seunghun Paik</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*</b>
-    <p>
-        <i>Security Analysis on Locality-Sensitive Hashing-Based Biometric Template Protection Schemes.</i> 
-        <br>
-         <b>BMVC</b> 2023, (TBA)
+  [C19]  <b>Seunghun Paik</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*</b>
+      <p>
+          <i>Security Analysis on Locality-Sensitive Hashing-Based Biometric Template Protection Schemes.</i> 
+          <br>
+          <b>BMVC</b> 2023, (TBA)
+      </p>  
 </li> 
 <li> 
   [C18]  <b>Hyeonbum Lee</b>, and <b>Jae Hong Seo*</b>
