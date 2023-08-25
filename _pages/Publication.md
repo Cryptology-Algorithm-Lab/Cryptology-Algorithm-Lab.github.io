@@ -272,7 +272,7 @@ header:
       <p>
           <i>TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup.</i> 
           <br>
-           <b>IWSEC</b> 2023, (<A href="https://eprint.iacr.org/2023/478">DOI</A>)
+           <b>IWSEC</b> 2023, (<A href="https://link.springer.com/chapter/10.1007/978-3-031-41326-1_12">DOI</A>)
       </p>
   </li>   
 <li>
