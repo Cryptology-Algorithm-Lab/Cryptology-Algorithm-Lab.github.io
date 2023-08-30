@@ -317,8 +317,8 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow"></td>
       </tr>
       <tr>
-        <td class="tg-c3ow">9/6</td>
-        <td class="tg-c3ow">10:00AM</td>
+        <td class="tg-c3ow">9/1</td>
+        <td class="tg-c3ow">03:00PM</td>
         <td class="tg-c3ow">TBA</td>
         <td class="tg-c3ow">Minsu Kim</td>
         <td class="tg-c3ow">Fuzzy Extractor</td>
