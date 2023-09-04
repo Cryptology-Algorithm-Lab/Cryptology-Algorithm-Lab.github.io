@@ -222,7 +222,44 @@ header:
         <u>Research Interests</u>
         <br>
         Cryptography          
-    </li>  
+    </li>
+    <li><p style="text-align:left;"><b sytle="font-size:120%;">Seunghun Paik</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Seunghun.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Be professional; be sceptical on your work. -Terrence Tao-</span>
+        </p>        
+        <u>Research Interests</u>
+        <br>
+        Privacy Preserving Machine Learning
+        <br>  
+        <br>
+        <details>
+          <summary>
+            Publication
+          </summary>
+          <ul>
+            <li>
+              Analysis on Secure Triplet Loss Bora Jeong, Sunpill Kim, Seunghun Paik and Jae Hong Seo IEEE Access, 2022
+            </li>
+            <li>
+              Analysis on Locality Sensitive Hashing-based Biometric Template Protection Schemes Seunghun Paik, Sunpill Kim and Jae Hong Seo Manuscript, Under Review
+            </li>
+          </ul>  
+        </details> 
+        <details>
+          <summary>
+            Awards
+          </summary>
+          <ul>
+            <li>
+              2022 Cryptanalysis Contest Hosted by Millitary Cryptography Research Center Excellence Award
+            </li>
+            <li>
+              2019 Academic Seminar Hosted by College of Natural Science, Hanyang University Excellence Prize
+            </li>
+          </ul>  
+        </details>  
+      </li> 
     </ul>      
 </details>
 
@@ -308,45 +345,7 @@ header:
     <summary style="font-size:1.2rem; font-weight:bold;">
         Undergraduate student
     </summary>
-    <ul type="square">
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Seunghun Paik</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Seunghun.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Be professional; be sceptical on your work. -Terrence Tao-</span>
-        </p>        
-        <u>Research Interests</u>
-        <br>
-        Privacy Preserving Machine Learning
-        <br>  
-        <br>
-        <details>
-          <summary>
-            Publication
-          </summary>
-          <ul>
-            <li>
-              Analysis on Secure Triplet Loss Bora Jeong, Sunpill Kim, Seunghun Paik and Jae Hong Seo IEEE Access, 2022
-            </li>
-            <li>
-              Analysis on Locality Sensitive Hashing-based Biometric Template Protection Schemes Seunghun Paik, Sunpill Kim and Jae Hong Seo Manuscript, Under Review
-            </li>
-          </ul>  
-        </details> 
-        <details>
-          <summary>
-            Awards
-          </summary>
-          <ul>
-            <li>
-              2022 Cryptanalysis Contest Hosted by Millitary Cryptography Research Center Excellence Award
-            </li>
-            <li>
-              2019 Academic Seminar Hosted by College of Natural Science, Hanyang University Excellence Prize
-            </li>
-          </ul>  
-        </details>  
-      </li>  
-    <br>
+    <ul type="square">        
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Minsu Kim</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/minsu.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
