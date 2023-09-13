@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
    <li>
-      (Aug 22, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #0000CD">BMVC 2023 (Oral)</span></b>.
+      (Aug 22, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #4169E1">BMVC 2023 (Oral)</span></b>.
       <ul type="disc">
           <li>
              <b>Seunghun Paik</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*</b>, <i>"Security Analysis on Locality-Sensitive Hashing-Based Biometric Template Protection Schemes"</i>
@@ -50,7 +50,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         </ul>
     </li>
     <li>
-        (May 31, 2023)  The following paper has been accepted for publication in <b><span style = "color : #0000CD">IWSEC 2023</span></b>
+        (May 31, 2023)  The following paper has been accepted for publication in <b><span style = "color : #4169E1">IWSEC 2023</span></b>
         <ul type="disc">
             <li>
               <b>Hyeonbum Lee</b> and <b>Jae Hong Seo*</b>, "<i>TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup</i>"
@@ -69,7 +69,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </ul>
     </li>  
     <li>
-      (Apr 20, 2023) Prof. <b>Jae Hong Seo</b> joins in the program committees of <b><span style = "color : #0000CD">ASIACRYPT 2023</span></b> and <b><span style = "color : #0000CD">PQCrypto 2023</span></b>.
+      (Apr 20, 2023) Prof. <b>Jae Hong Seo</b> joins in the program committees of <b><span style = "color : #4169E1">ASIACRYPT 2023</span></b> and <b><span style = "color : #4169E1">PQCrypto 2023</span></b>.
     </li>
     <li>
         (Feb 14, 2023) <b>Bora Jeong</b> won the Grand Prize in the best research paper award for graduate students by the Research Institute for Natural Sciences, Hanyang University.
