@@ -64,7 +64,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       (Apr 20, 2023) The following paper has been accepted for publication in <b><span style = "color : #DC143C">Designs, Codes and Cryptography</span></b>.
       <ul type="disc">
           <li>
-            Hyung Tae Lee and <b>Jae Hong Seo*</b>, "<i>On the Security of Functional Encryption in the Generic Group Model</i>"
+            Hyung Tae Lee and <b>Jae Hong Seo*</b><br><i>On the Security of Functional Encryption in the Generic Group Model</i>
           </li>  
       </ul>
     </li>  
