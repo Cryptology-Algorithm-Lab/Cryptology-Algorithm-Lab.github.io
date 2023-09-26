@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
    <li>
-        (Sep 26, 2023) HUCC, Crypto Club of Hanyang University, won the <b>Top Excellence Awards(최우수상)</b> in <b>Cryptanalysis Contest, 2023</b>, hosted by Military Crypto Research Center. Congrats three of C&A members, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, and <b>Minsu Kim</b>, who are a leader and two members of HUCC.
+        (Sep 26, 2023) HUCC, Crypto Club of Hanyang University, won the <b>Top Excellence Awards (최우수상)</b> in <b>Cryptanalysis Contest, 2023</b>, hosted by Military Crypto Research Center. Congrats three of C&A members, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, and <b>Minsu Kim</b>, who are a leader and two members of HUCC.
     </li>
    <li>
       (Aug 22, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #4169E1">BMVC </span></b>2023 <b>(Oral)</b>.
@@ -61,7 +61,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         </ul>
     </li> 
     <li>
-      (May 13, 2023) Two of our members, <b>Seunghun Paik</b> and <b>Minsu Kim</b>, received the <b>한양학업최우수상 (Top Academic Excellence Award)</b> from the President of Hanyang University.
+      (May 13, 2023) Two of our members, <b>Seunghun Paik</b> and <b>Minsu Kim</b>, received the <b>Top Academic Excellence Award (한양학업최우수상)</b> from the President of Hanyang University.
     </li>  
     <li>
       (Apr 20, 2023) The following paper has been accepted for publication in <b><span style = "color : #DC143C">Designs, Codes and Cryptography</span></b>.
