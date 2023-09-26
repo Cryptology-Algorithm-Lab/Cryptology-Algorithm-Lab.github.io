@@ -23,7 +23,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       (Aug 22, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #4169E1">BMVC </span></b>2023 <b>(Oral)</b>.
       <ul type="disc">
           <li>
-             <b>Seunghun Paik</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*</b><br><i>Security Analysis on Locality-Sensitive Hashing-Based Biometric Template Protection Schemes</i>
+             <b>Seunghun Paik</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b><br><i>Security Analysis on Locality-Sensitive Hashing-Based Biometric Template Protection Schemes</i>
           </li>  
       </ul>
     </li>
@@ -31,7 +31,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       (Jul 25, 2023) The following paper has been accepted for publication in <b><span style = "color : #DC143C">IEEE TIFS</span></b>.
       <ul type="disc">
           <li>
-            Sungwook Kim, <b>Hyeonbum Lee</b>, <b>Gwangwoon Lee</b>, and <b>Jae Hong Seo*</b><br><i>Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption</i>
+            Sungwook Kim, <b>Hyeonbum Lee</b>, <b>Gwangwoon Lee</b>, and <b>Jae Hong Seo</b><br><i>Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption</i>
           </li>  
       </ul>
     </li>   
@@ -56,7 +56,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         (May 31, 2023)  The following paper has been accepted for publication in <b><span style = "color : #4169E1">IWSEC </span></b> 2023.
         <ul type="disc">
             <li>
-              <b>Hyeonbum Lee</b> and <b>Jae Hong Seo*</b><br><i>TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup</i>
+              <b>Hyeonbum Lee</b> and <b>Jae Hong Seo</b><br><i>TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup</i>
             </li>  
         </ul>
     </li> 
@@ -67,7 +67,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       (Apr 20, 2023) The following paper has been accepted for publication in <b><span style = "color : #DC143C">Designs, Codes and Cryptography</span></b>.
       <ul type="disc">
           <li>
-            Hyung Tae Lee and <b>Jae Hong Seo*</b><br><i>On the Security of Functional Encryption in the Generic Group Model</i>
+            Hyung Tae Lee and <b>Jae Hong Seo</b><br><i>On the Security of Functional Encryption in the Generic Group Model</i>
           </li>  
       </ul>
     </li>  
@@ -78,7 +78,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         (Feb 14, 2023) <b>Bora Jeong</b> won the Grand Prize in the best research paper award for graduate students by the Research Institute for Natural Sciences, Hanyang University.
         <ul type="disc">
           <li>
-            <b>Bora Jeong</b>, <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, and <b>Jae Hong Seo*</b><br><i>Analysis on Secure Triplet Loss.</i>
+            <b>Bora Jeong</b>, <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, and <b>Jae Hong Seo</b><br><i>Analysis on Secure Triplet Loss.</i>
           </li>  
       </ul>
     </li> 
