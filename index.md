@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
    <li>
-        (Oct 4, 2023) Papers led by C&A members won several awards at the <span style = "color : #1AF11D"><b>National Cryptographic Technology Contest</span></b>, 2023.
+        (Oct 4, 2023) Papers led by C&A members won several awards at the <b><span style = "color : #07BB09">National Cryptographic Technology Contest</span></b>, 2023.
         <ul type="disc">
           <li>
             The following paper won the Excellence Award. Congrats all authors who participated in this submission.
@@ -52,10 +52,10 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         </ul>
    </li>
    <li>
-        (Sep 26, 2023) HUCC, Crypto Club of Hanyang University, won the Top Excellence Award (최우수상) in <b><span style = "color : #1AF11D">Cryptanalysis Contest</span></b>, 2023, hosted by Military Crypto Research Center. Congrats three of C&A members, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, and <b>Minsu Kim</b>, who are a leader and two members of HUCC.
+        (Sep 26, 2023) HUCC, Crypto Club of Hanyang University, won the Top Excellence Award (최우수상) in <b><span style = "color : #07BB09">Cryptanalysis Contest</span></b>, 2023, hosted by Military Crypto Research Center. Congrats three of C&A members, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, and <b>Minsu Kim</b>, who are a leader and two members of HUCC.
     </li>
    <li>
-      (Aug 22, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #1AF11D">BMVC </span></b>2023 <b>(Oral)</b>.
+      (Aug 22, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #4169E1">BMVC </span></b>2023 <b>(Oral)</b>.
       <ul type="disc">
           <li>
              <b>Seunghun Paik</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b><br><i>Security Analysis on Locality-Sensitive Hashing-Based Biometric Template Protection Schemes</i>
@@ -110,7 +110,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       (Apr 20, 2023) Prof. <b>Jae Hong Seo</b> joins in the program committees of <b><span style = "color : #4169E1">ASIACRYPT</span></b> 2023 and <b><span style = "color : #4169E1">PQCrypto</span></b> 2023.
     </li>
     <li>
-        (Feb 14, 2023) <b>Bora Jeong</b> won the Grand Prize in the <b><span style = "color : #1AF11D">Best Research Paper Award</span></b> for graduate students by the Research Institute for Natural Sciences, Hanyang University.
+        (Feb 14, 2023) <b>Bora Jeong</b> won the Grand Prize in the <b><span style = "color : #07BB09">Best Research Paper Award</span></b> for graduate students by the Research Institute for Natural Sciences, Hanyang University.
         <ul type="disc">
           <li>
             <b>Bora Jeong</b>, <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, and <b>Jae Hong Seo</b><br><i>Analysis on Secure Triplet Loss.</i>
