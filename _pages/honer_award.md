@@ -26,6 +26,6 @@ header:
         Sang-San Young Mathematician Award, Korean Mathematical Society, 2012. 
     </li>
     <li>
-        Top (2012, 2022), Second (2013), Participant (2020, 2006), Special (2021, 2022) Prizes in the National Cryptographic Technology Contest, National Intelligence Service, Korea.
+        Top (2012, 2022), Second (2013, 2023), Participant (2006, 2020, 2023), Special (2021, 2022, 2023) Prizes in the National Cryptographic Technology Contest, National Intelligence Service, Korea.
     </li>
 </ul>
