@@ -23,7 +23,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
             The following paper won the Excellence Awards. Congrats <b>Seunghun Paik</b>, who was the lead author of this submission.
           <ul type="circle">
             <li>             
-              <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Dongsu Kim</b>, Junbum Shin, <b>Jae Hong Seo</b> 
+              <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Dongsu Kim</b>, Junbum Shin, and <b>Jae Hong Seo</b> 
             <br>
               <i>IDFace: Efficient and Secure Identification for Face Images</i>
             </li> 
@@ -33,7 +33,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
             The following paper won the Encouragement Award. Congrats <b>Sunpill Kim</b>, who was the lead author of this submission.
             <ul type="circle">
             <li>             
-              <b>Sunpill Kim</b>, Yong Kiam Tan, <b>Bora Jeong</b>, Soumik Mondal, Khin Mi Mi Aung and <b>Jae Hong Seo</b> 
+              <b>Sunpill Kim</b>, Yong Kiam Tan, <b>Bora Jeong</b>, Soumik Mondal, Khin Mi Mi Aung, and <b>Jae Hong Seo</b> 
             <br>
               <i>Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems</i>
             </li> 
@@ -43,7 +43,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
             The following paper won the Special Awards. Congrats <b>Hyeonbum Lee</b>, who was the lead author of this submission.
             <ul type="circle">
             <li>             
-              <b>Hyeonbum Lee</b>, <b>Kyuhwan Lee</b>, <b>Jae Hong Seo</b>, Taeho Jung, Wenyi Tang and Shankha Shubhra Mukherjee
+              <b>Hyeonbum Lee</b>, <b>Kyuhwan Lee</b>, <b>Jae Hong Seo</b>, Taeho Jung, Wenyi Tang, and Shankha Shubhra Mukherjee
             <br>
               <i>PrivHChain: Monitoring the Supply Chain of Controlled Substances with Privacy-Preserving Hierarchical Blockchain</i>
             </li> 
