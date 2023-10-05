@@ -17,10 +17,10 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
    <li>
-        (Oct 4, 2023) Papers led by C&A members won several awards at the "National Cryptographic Technology Contest, 2023".
+        (Oct 4, 2023) Papers led by C&A members won several awards at the <span style = "color : #1AF11D"><b>National Cryptographic Technology Contest</span></b>, 2023.
         <ul type="disc">
           <li>
-            The following paper won the Excellence Award. Congrats <b>Seunghun Paik</b>, who was the lead author of this submission.
+            The following paper won the Excellence Award. Congrats all authors who participated in this submission.
           <ul type="circle">
             <li>             
               <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Dongsu Kim</b>, Junbum Shin, and <b>Jae Hong Seo</b> 
@@ -30,7 +30,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
           </ul>  
           </li>
           <li>
-            The following paper won the Encouragement Award. Congrats <b>Sunpill Kim</b>, who was the lead author of this submission.
+            The following paper won the Encouragement Award. Congrats all authors who participated in this submission.
             <ul type="circle">
             <li>             
               <b>Sunpill Kim</b>, Yong Kiam Tan, <b>Bora Jeong</b>, Soumik Mondal, Khin Mi Mi Aung, and <b>Jae Hong Seo</b> 
@@ -40,10 +40,10 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
             </ul>   
           </li>
           <li>
-            The following paper won the Special Award. Congrats <b>Hyeonbum Lee</b>, who was the lead author of this submission.
+            The following paper won the Special Award. Congrats all authors who participated in this submission.
             <ul type="circle">
             <li>             
-              <b>Hyeonbum Lee</b>, <b>Kyuhwan Lee</b>, <b>Jae Hong Seo</b>, Taeho Jung, Wenyi Tang, and Shankha Shubhra Mukherjee
+              <b>Hyeonbum Lee</b>, <b>Kyuhwan Lee</b>, <b>Jae Hong Seo</b>, Wenyi Tang, Shankha Shubhra Mukherjee, and Taeho Jung
             <br>
               <i>PrivHChain: Monitoring the Supply Chain of Controlled Substances with Privacy-Preserving Hierarchical Blockchain</i>
             </li> 
@@ -52,10 +52,10 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         </ul>
    </li>
    <li>
-        (Sep 26, 2023) HUCC, Crypto Club of Hanyang University, won the Top Excellence Award (최우수상) in <b>Cryptanalysis Contest</b>, 2023, hosted by Military Crypto Research Center. Congrats three of C&A members, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, and <b>Minsu Kim</b>, who are a leader and two members of HUCC.
+        (Sep 26, 2023) HUCC, Crypto Club of Hanyang University, won the Top Excellence Award (최우수상) in <b><span style = "color : #1AF11D">Cryptanalysis Contest</span></b>, 2023, hosted by Military Crypto Research Center. Congrats three of C&A members, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, and <b>Minsu Kim</b>, who are a leader and two members of HUCC.
     </li>
    <li>
-      (Aug 22, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #4169E1">BMVC </span></b>2023 <b>(Oral)</b>.
+      (Aug 22, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #1AF11D">BMVC </span></b>2023 <b>(Oral)</b>.
       <ul type="disc">
           <li>
              <b>Seunghun Paik</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b><br><i>Security Analysis on Locality-Sensitive Hashing-Based Biometric Template Protection Schemes</i>
@@ -110,7 +110,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       (Apr 20, 2023) Prof. <b>Jae Hong Seo</b> joins in the program committees of <b><span style = "color : #4169E1">ASIACRYPT</span></b> 2023 and <b><span style = "color : #4169E1">PQCrypto</span></b> 2023.
     </li>
     <li>
-        (Feb 14, 2023) <b>Bora Jeong</b> won the Grand Prize in the best research paper award for graduate students by the Research Institute for Natural Sciences, Hanyang University.
+        (Feb 14, 2023) <b>Bora Jeong</b> won the Grand Prize in the <b><span style = "color : #1AF11D">Best Research Paper Award</span></b> for graduate students by the Research Institute for Natural Sciences, Hanyang University.
         <ul type="disc">
           <li>
             <b>Bora Jeong</b>, <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, and <b>Jae Hong Seo</b><br><i>Analysis on Secure Triplet Loss.</i>
