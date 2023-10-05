@@ -20,7 +20,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         (Oct 4, 2023) Papers led by C&A members won several awards at the "National Cryptographic Technology Contest, 2023".
         <ul type="disc">
           <li>
-            The following paper won the Excellence Awards. Congrats <b>Seunghun Paik</b>, who was the lead author of this submission.
+            The following paper won the Excellence Award. Congrats <b>Seunghun Paik</b>, who was the lead author of this submission.
           <ul type="circle">
             <li>             
               <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Dongsu Kim</b>, Junbum Shin, and <b>Jae Hong Seo</b> 
@@ -40,7 +40,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
             </ul>   
           </li>
           <li>
-            The following paper won the Special Awards. Congrats <b>Hyeonbum Lee</b>, who was the lead author of this submission.
+            The following paper won the Special Award. Congrats <b>Hyeonbum Lee</b>, who was the lead author of this submission.
             <ul type="circle">
             <li>             
               <b>Hyeonbum Lee</b>, <b>Kyuhwan Lee</b>, <b>Jae Hong Seo</b>, Taeho Jung, Wenyi Tang, and Shankha Shubhra Mukherjee
