@@ -71,7 +71,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </ul>
     </li>   
     <li>
-        (July 13, 2023)  There will be an invited lecture by Prof. Taeho Jeong, Notre Dame. 
+        (July 13, 2023)  There will be an invited lecture by Prof. Taeho Jung, Notre Dame. 
         <ul type="disc">
             <li>
               Date & Place : 10:30 AM, Jul 13 / Natural Science building 702
