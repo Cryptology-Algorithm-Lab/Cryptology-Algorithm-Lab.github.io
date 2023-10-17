@@ -223,6 +223,7 @@ header:
         <br>
         Cryptography          
     </li>
+    <br>  
     <li><p style="text-align:left;"><b sytle="font-size:120%;">Seunghun Paik</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Seunghun.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
