@@ -59,7 +59,7 @@ gallery3:
     title: "Image 2 title caption"        
 ---
 # Gallery
-{% include gallery id="gallery4" caption="**Congratulations sevaral awards on the National Cryptographic Technology Contest and Cryptanalysis Contest.**" %}
+{% include gallery id="gallery4" caption="**Congratulations on sevaral awards in the National Cryptographic Technology Contest and Cryptanalysis Contest.**" %}
 
 {% include gallery id="gallery3" caption="**Thank you, professor, for celebrating Teacher's Day.**" %}
 
