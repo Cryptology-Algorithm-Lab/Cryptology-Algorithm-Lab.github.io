@@ -40,13 +40,22 @@ gallery2:
     image_path: /assets/Gallery/h2.jpeg
     alt: "placeholder image 4"
     title: "Image 2 title caption"
+gallery3:
+  - url: /assets/Gallery/teachersday23_1.png
+    image_path: /assets/Gallery/teachersday23_1.png
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/Gallery/teachersday23_2.png
+    image_path: /assets/Gallery/teachersday23_2.png
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"    
 gallery4:
   - url: /assets/Gallery/23_10_1.jpg
     image_path: /assets/Gallery/23_10_1.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/Gallery/23_10_3.jpg
-    image_path: /assets/Gallery/23_10_3.jpg
+    image_path: /assets/Gallery/23_10_4.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: /assets/Gallery/23_10_2.jpg
@@ -54,7 +63,7 @@ gallery4:
     alt: "placeholder image 3"
     title: "Image 2 title caption"
   - url: /assets/Gallery/23_10_4.jpg
-    image_path: /assets/Gallery/23_10_4.jpg
+    image_path: /assets/Gallery/23_10_3.jpg
     alt: "placeholder image 4"
     title: "Image 2 title caption"        
 ---
