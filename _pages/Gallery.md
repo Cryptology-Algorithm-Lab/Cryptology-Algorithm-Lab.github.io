@@ -41,16 +41,25 @@ gallery2:
     alt: "placeholder image 4"
     title: "Image 2 title caption"
 gallery3:
-  - url: /assets/Gallery/teachersday23_1.png
-    image_path: /assets/Gallery/teachersday23_1.png
+  - url: /assets/Gallery/23_10_1.jpg
+    image_path: /assets/Gallery/23_10_1.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/Gallery/teachersday23_2.png
-    image_path: /assets/Gallery/teachersday23_2.png
+  - url: /assets/Gallery/23_10_2.jpg
+    image_path: /assets/Gallery/23_10_2.jpg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"    
+    title: "Image 2 title caption"
+  - url: /assets/Gallery/23_10_3.jpg
+    image_path: /assets/Gallery/23_10_3.jpg
+    alt: "placeholder image 3"
+    title: "Image 2 title caption"
+  - url: /assets/Gallery/23_10_4.jpg
+    image_path: /assets/Gallery/23_10_4.jpg
+    alt: "placeholder image 4"
+    title: "Image 2 title caption"        
 ---
 # Gallery
+{% include gallery id="gallery4" caption="**Congratulations on sevaral awards on the National Cryptographic Technology Contest and Cryptanalysis Contest.**" %}
 
 {% include gallery id="gallery3" caption="**Thank you, professor, for celebrating Teacher's Day.**" %}
 
