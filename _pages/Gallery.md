@@ -40,7 +40,7 @@ gallery2:
     image_path: /assets/Gallery/h2.jpeg
     alt: "placeholder image 4"
     title: "Image 2 title caption"
-gallery3:
+gallery4:
   - url: /assets/Gallery/23_10_1.jpg
     image_path: /assets/Gallery/23_10_1.jpg
     alt: "placeholder image 1"
