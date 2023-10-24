@@ -45,12 +45,12 @@ gallery3:
     image_path: /assets/Gallery/23_10_1.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/Gallery/23_10_2.jpg
-    image_path: /assets/Gallery/23_10_2.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
   - url: /assets/Gallery/23_10_3.jpg
     image_path: /assets/Gallery/23_10_3.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/Gallery/23_10_2.jpg
+    image_path: /assets/Gallery/23_10_2.jpg
     alt: "placeholder image 3"
     title: "Image 2 title caption"
   - url: /assets/Gallery/23_10_4.jpg
