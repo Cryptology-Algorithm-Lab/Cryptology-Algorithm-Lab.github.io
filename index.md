@@ -17,6 +17,14 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
    <li>
+      (Oct 29, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #4169E1">IEEE S&P</span></b> 2024.
+      <ul type="disc">
+          <li>
+             <b>Sunpill Kim</b>, Yong Kiam Tan, <b>Bora Jeong</b>, Soumik Mondal, Khin Mi Mi Aung, and <b>Jae Hong Seo</b><br><i>Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems</i>
+          </li>  
+      </ul>
+   </li>
+   <li>
         (Oct 4, 2023) Papers led by C&A members won several awards at the <b><span style = "color : #08A709">National Cryptographic Technology Contest</span></b>, 2023.
         <ul type="disc">
           <li>
