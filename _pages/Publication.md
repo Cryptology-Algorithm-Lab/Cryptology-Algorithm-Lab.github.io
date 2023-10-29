@@ -260,6 +260,14 @@ header:
 
 <ul type="none">
 <li> 
+  [C20]  <b>Sunpill Kim</b>, Yong Kiam Tan, <b>Bora Jeong</b>, Soumik Mondal, Khin Mi Mi Aung, and <b>Jae Hong Seo*</b>
+      <p>
+          <i>Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems</i> 
+          <br>
+          <b>IEEE S&P</b> 2024, (TBA)
+      </p>  
+</li>  
+<li> 
   [C19]  <b>Seunghun Paik</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*</b>
       <p>
           <i>Security Analysis on Locality-Sensitive Hashing-Based Biometric Template Protection Schemes.</i> 
