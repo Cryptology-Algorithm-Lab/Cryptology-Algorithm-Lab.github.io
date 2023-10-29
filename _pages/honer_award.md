@@ -100,13 +100,12 @@ header:
 </ul>   
 </ul>
 
-## 2013
-<ul type = "square">
-<li>Top Exellence Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
-</ul>
-
 ## 2012
 <ul type = "square">
+<li>Top Exellence Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
+<ul type="-">
+    <li><b>Jae Hong Seo</b></li>
+</ul>    
 <li>Sang-San Young Mathematician Award, Korean Mathematical Society.</li>
 <ul type="-">
     <li><b>Jae Hong Seo</b></li>
