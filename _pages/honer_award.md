@@ -91,29 +91,3 @@ header:
     <li><b>Sunpill Kim</b>, and <b>Seunghun Paik</b></li>
 </ul>  
 </ul>
-
-## 2018
-<ul type = "square">
-<li>Excellent Young Researcher Award, NRF & Elsevier.</li>
-<ul type="-">
-    <li><b>Jae Hong Seo</b></li>
-</ul>   
-</ul>
-
-## 2012
-<ul type = "square">
-<li>Top Exellence Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
-<ul type="-">
-    <li><b>Jae Hong Seo</b></li>
-</ul>    
-<li>Sang-San Young Mathematician Award, Korean Mathematical Society.</li>
-<ul type="-">
-    <li><b>Jae Hong Seo</b></li>
-</ul>    
-</ul>
-
-## 2006
-<ul type = "square">
-<li>Participant Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
-</ul>
-
