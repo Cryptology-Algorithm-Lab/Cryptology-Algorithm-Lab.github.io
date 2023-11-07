@@ -452,8 +452,10 @@ header:
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Seongae Baek</b><span style="float:right;"> <i></i></span></p>
     </li>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Sangyoon Shin</b><span style="float:right;"> <i></i></span></p>
-    </li>
+    </li>      
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Yunjeong Heo</b><span style="float:right;"> <i></i></span></p>
+    </li>
+      <li><p style="text-align:left;"><b sytle="font-size:120%;">Seunghun Paik</b><span style="float:right;"> <i></i></span></p>
     </li>
     </ul>
 </details>
