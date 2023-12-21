@@ -381,11 +381,11 @@ header:
         Staff
     </summary>
     <ul type="square">
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Bomin Kwon</b>
+<!--         <li><p style="text-align:left;"><b sytle="font-size:120%;">Bomin Kwon</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/kbm.jpg" alt="" height="160" width="120">
         </p>
-    </li>
+    </li> -->
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Jiyeong Min</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jiyeong.png" alt="" height="160" width="120">
