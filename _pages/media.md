@@ -39,7 +39,7 @@ header:
 ## Video
 <ul type="disc">
     <li>
-        Security Analysis on Locality-Sensitive Hashing-based Biometric Template Protection Schemes 
+        Security Analysis on Locality-Sensitive Hashing-based Biometric Template Protection Schemes (Presenter : Seunghun Paik)
     </li>
     <iframe src="https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0535_video.mp4"></iframe>
     <li>
@@ -51,7 +51,7 @@ header:
     </li>
     {% include video id="V6_3YWusRH4" provider="youtube" %}  
     <li>
-        Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier
+        Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier (Presenter : Hyeonbum Lee)
     </li>
     {% include video id="60au1ngMrVc" provider="youtube" %}  
     <li>
