@@ -272,7 +272,7 @@ header:
       <p>
           <i>Security Analysis on Locality-Sensitive Hashing-Based Biometric Template Protection Schemes.</i> 
           <br>
-          <b>BMVC</b> 2023 (Oral), (TBA)
+          <b>BMVC</b> 2023 (Oral), (<A href="https://papers.bmvc2023.org/0535.pdf">DOI</A>)
       </p>  
 </li> 
 <li> 
