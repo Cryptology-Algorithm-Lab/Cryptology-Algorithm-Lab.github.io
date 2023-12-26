@@ -374,7 +374,7 @@ header:
     <li><p style="text-align:left;"><b sytle="font-size:120%;">Yunki Kim</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/yunki.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >The foolish man seeks happiness in the distance, the wise man grows It under his feet. (James Oppenheim)</span>
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >The foolish man seeks happiness in the distance, the wise man grows It under his feet. -James Oppenheim-</span>
         </p>        
         <u>Research Interests</u>
         <br>
