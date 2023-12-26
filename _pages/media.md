@@ -41,7 +41,7 @@ header:
     <li>
         Security Analysis on Locality-Sensitive Hashing-based Biometric Template Protection Schemes (Presenter : Seunghun Paik)
     </li>
-    <iframe src="https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0535_video.mp4"></iframe>
+    <iframe width="560" height="315" src="https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0535_video.mp4"></iframe>
     <li>
         교수님, 수학이 뭐라고 생각하세요? | 서재홍 교수님 인터뷰 | 한양대 수학과 
     </li>
