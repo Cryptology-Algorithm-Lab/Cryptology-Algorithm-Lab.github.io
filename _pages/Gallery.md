@@ -82,7 +82,7 @@ gallery5:
 
 {% include gallery id="gallery4_1"%}
 
-{% include gallery id="gallery4" caption="**Congrats on sevaral awards in the National Cryptographic Technology Contest and Cryptanalysis Contest.** (<A href= "https://drive.google.com/file/d/1dho6VmgdUOeKF9FS8ncBCPTAJ-nwzEsz/view?usp=sharing">Presentation Video Link</A>)" %}
+{% include gallery id="gallery4" caption="**Congrats on sevaral awards in the National Cryptographic Technology Contest and Cryptanalysis Contest.**" %}
 
 {% include gallery id="gallery3" caption="**Thank you, professor, for celebrating Teacher's Day.**" %}
 
