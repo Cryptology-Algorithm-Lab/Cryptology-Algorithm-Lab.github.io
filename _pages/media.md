@@ -36,8 +36,11 @@ header:
     </li>  
 </ul>
 
-## Youtube
+## Video
 <ul type="disc">
+    <li>
+        Seunghun Paik’s presentation at the BMVC 2023 (<A href= "https://drive.google.com/file/d/1dho6VmgdUOeKF9FS8ncBCPTAJ-nwzEsz/view">Link</A>)
+    </li>
     <li>
         교수님, 수학이 뭐라고 생각하세요? | 서재홍 교수님 인터뷰 | 한양대 수학과 
     </li>
