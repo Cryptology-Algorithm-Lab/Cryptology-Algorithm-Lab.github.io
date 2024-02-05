@@ -17,6 +17,14 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
    <li>
+      (Feb 5, 2024) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE TDSC</span></b>.
+      <ul type="disc">
+          <li>
+             Changhao Chenli, Wenyi Tang, <b>Hyeonbum Lee</b>, and Taeho Jung<br><i>Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness</i>
+          </li>  
+      </ul>
+   </li> 
+   <li>
       (Oct 29, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #4169E1">IEEE S&P</span></b> 2024.
       <ul type="disc">
           <li>
