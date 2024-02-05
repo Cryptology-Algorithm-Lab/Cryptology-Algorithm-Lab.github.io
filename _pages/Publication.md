@@ -12,7 +12,15 @@ header:
 
 ## Journal
 
-<ul type="none">  
+<ul type="none">
+<li>
+[J28]  Changhao Chenli, Wenyi Tang, <b>Hyeonbum Lee</b>, and Taeho Jung
+    <p>
+        <i>Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness</i> 
+        <br>
+        IEEE Transactions on Dependable and Secure Computing, Feb 2024. (TBU)
+    </p>
+</li>  
 <li>
 [J27]  Sungwook Kim, <b>Hyeonbum Lee</b>, <b>Gwangwoon Lee</b>, and <b>Jae Hong Seo*</b>
     <p>
