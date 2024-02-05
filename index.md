@@ -23,7 +23,119 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
              Changhao Chenli, Wenyi Tang, <b>Hyeonbum Lee</b>, and Taeho Jung<br><i>Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness</i>
           </li>  
       </ul>
-   </li>      
+   </li>
+  <li>
+      (Oct 29, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #4169E1">IEEE S&P</span></b> 2024.
+      <ul type="disc">
+          <li>
+             <b>Sunpill Kim</b>, Yong Kiam Tan, <b>Bora Jeong</b>, Soumik Mondal, Khin Mi Mi Aung, and <b>Jae Hong Seo</b><br><i>Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems</i>
+          </li>  
+      </ul>
+   </li>
+   <li>
+        (Oct 4, 2023) Papers led by C&A members won several awards at the <b><span style = "color : #08A709">National Cryptographic Technology Contest</span></b>, 2023.
+        <ul type="disc">
+          <li>
+            The following paper won the Excellence Award. Congrats all authors who participated in this submission.
+          <ul type="circle">
+            <li>             
+              <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Dongsu Kim</b>, Junbum Shin, and <b>Jae Hong Seo</b> 
+            <br>
+              <i>IDFace: Efficient and Secure Identification for Face Images</i>
+            </li> 
+          </ul>  
+          </li>
+          <li>
+            The following paper won the Encouragement Award. Congrats all authors who participated in this submission.
+            <ul type="circle">
+            <li>             
+              <b>Sunpill Kim</b>, Yong Kiam Tan, <b>Bora Jeong</b>, Soumik Mondal, Khin Mi Mi Aung, and <b>Jae Hong Seo</b> 
+            <br>
+              <i>Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems</i>
+            </li> 
+            </ul>   
+          </li>
+          <li>
+            The following paper won the Special Award. Congrats all authors who participated in this submission.
+            <ul type="circle">
+            <li>             
+              <b>Hyeonbum Lee</b>, <b>Kyuhwan Lee</b>, <b>Jae Hong Seo</b>, Wenyi Tang, Shankha Shubhra Mukherjee, and Taeho Jung
+            <br>
+              <i>PrivHChain: Monitoring the Supply Chain of Controlled Substances with Privacy-Preserving Hierarchical Blockchain</i>
+            </li> 
+            </ul>
+          </li>
+        </ul>
+   </li>
+   <li>
+        (Sep 26, 2023) HUCC, Crypto Club of Hanyang University, won the Top Excellence Award (최우수상) in <b><span style = "color : #08A709">Cryptanalysis Contest</span></b>, 2023, hosted by Military Crypto Research Center. Congrats three of C&A members, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, and <b>Minsu Kim</b>, who are a leader and two members of HUCC.
+    </li>
+   <li>
+      (Aug 22, 2023) The following paper has been accepted for presentation at the <b><span style = "color : #4169E1">BMVC </span></b>2023 <b>(Oral)</b>.
+      <ul type="disc">
+          <li>
+             <b>Seunghun Paik</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b><br><i>Security Analysis on Locality-Sensitive Hashing-Based Biometric Template Protection Schemes</i>
+          </li>  
+      </ul>
+    </li>
+    <li>
+      (Jul 25, 2023) The following paper has been accepted for publication in <b><span style = "color : #DC143C">IEEE TIFS</span></b>.
+      <ul type="disc">
+          <li>
+            Sungwook Kim, <b>Hyeonbum Lee</b>, <b>Gwangwoon Lee</b>, and <b>Jae Hong Seo</b><br><i>Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption</i>
+          </li>  
+      </ul>
+    </li>   
+    <li>
+        (July 13, 2023)  There will be an invited lecture by Prof. Taeho Jung, Notre Dame. 
+        <ul type="disc">
+            <li>
+              Date & Place : 10:30 AM, Jul 13 / Natural Science building 702
+            </li>
+            <li>
+              Title : <i>Cryptography and Blockchain for Secure and Private Web3 Ecosystem</i>              
+            </li>
+            <details>
+                <summary>
+                    (For more information, click the arrow)
+                </summary>
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/seminar_poster(07.13.23.).jpeg">
+            </details>
+        </ul>
+    </li>
+    <li>
+        (May 31, 2023)  The following paper has been accepted for publication in <b><span style = "color : #4169E1">IWSEC </span></b> 2023.
+        <ul type="disc">
+            <li>
+              <b>Hyeonbum Lee</b> and <b>Jae Hong Seo</b><br><i>TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup</i>
+            </li>  
+        </ul>
+    </li> 
+    <li>
+      (May 13, 2023) Two of our members, <b>Seunghun Paik</b> and <b>Minsu Kim</b>, received the Top Academic Excellence Award (한양학업최우수상) from the President of Hanyang University.
+    </li>  
+    <li>
+      (Apr 20, 2023) The following paper has been accepted for publication in <b><span style = "color : #DC143C">Designs, Codes and Cryptography</span></b>.
+      <ul type="disc">
+          <li>
+            Hyung Tae Lee and <b>Jae Hong Seo</b><br><i>On the Security of Functional Encryption in the Generic Group Model</i>
+          </li>  
+      </ul>
+    </li>  
+    <li>
+      (Apr 20, 2023) Prof. <b>Jae Hong Seo</b> joins in the program committees of <b><span style = "color : #4169E1">ASIACRYPT</span></b> 2023 and <b><span style = "color : #4169E1">PQCrypto</span></b> 2023.
+    </li>
+    <li>
+        (Feb 14, 2023) <b>Bora Jeong</b> won the Grand Prize in the <b><span style = "color : #08A709">Best Research Paper Award</span></b> for graduate students by the Research Institute for Natural Sciences, Hanyang University.
+        <ul type="disc">
+          <li>
+            <b>Bora Jeong</b>, <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, and <b>Jae Hong Seo</b><br><i>Analysis on Secure Triplet Loss.</i>
+          </li>  
+      </ul>
+    </li> 
+    <li>
+        (Jan 5, 2023) Our student captain, <b>Sunpill Kim</b>, visits A*STAR at Singapore, one of the world's leading research institutes, for a year-long collaborative research. We wish him success in his studies at A*STAR.
+    </li>
 </ul>    
 
 ## Seminar (<A href ="https://forms.gle/woVGku15L9DFht8p7" target = "_blank">Link to applicate</A>)
