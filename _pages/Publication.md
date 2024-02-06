@@ -18,7 +18,7 @@ header:
     <p>
         <i>Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness</i> 
         <br>
-        IEEE Transactions on Dependable and Secure Computing, Feb 2024. (TBU)
+        IEEE Transactions on Dependable and Secure Computing, Feb 2024. (<A href="https://ieeexplore.ieee.org/document/10420492">DOI</A>)
     </p>
 </li>  
 <li>
