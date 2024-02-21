@@ -133,42 +133,7 @@ header:
               Special Prize, National Cryptographic Technology Contest. Oct 2021 Korea Cryptography Forum
             </li> 
           </ul>  
-        </details>
-      <br>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Bora.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Life is a series of the moment.</span>
-        </p>        
-        <u>Research Interests</u>
-        <br>
-        Deep learning algorithm, Secure machine learning
-        <br>
-        <br>
-        <details>
-          <summary>
-            Publication
-          </summary>
-          <ul>
-            <li>
-              B. Jeong, S. Kim, S. Paik and J. H. Seo, "Analysis on Secure Triplet Loss," in IEEE Access, vol. 10, pp. 124355-124362, 2022, doi: 10.1109/ACCESS.2022.3225430.
-            </li>
-          </ul>  
-        </details>
-        <details>
-          <summary>
-            Awards
-          </summary>
-          <ul>
-            <li>
-              A*STAR Singapore International Pre-Graduate Award (SIPGA). Nov 2022 - Mar 2023. Agency for Science, Technology and Research (A*STAR), Singapore
-            </li>
-            <li>
-              Grand Prize, 2022 Best Research Paper Award for Graduate Students. Feb 2023. Research Institute for Natural Sciences, Hanyang University. “Analysis on Secure Triplet Loss”
-            </li>  
-          </ul>  
-        </details>  
-      </li>
+        </details>     
       <br>
       <li><p style="text-align:left;"><b sytle="font-size:120%;">Chanwoo Hwang</b>
         <br>
@@ -315,28 +280,40 @@ header:
         </details>  
     </li>
     <br>
-    <li><p style="text-align:left;"><b sytle="font-size:120%;">Seongae Baek</b>
+    <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b>
         <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Seongae.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Life is something that happens when you can't get to sleep. -Fran Lebowitz-</span>
-        </p>       
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Bora.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Life is a series of the moment.</span>
+        </p>        
         <u>Research Interests</u>
         <br>
-        Error Correcting Code
+        Deep learning algorithm, Secure machine learning
         <br>
         <br>
+        <details>
+          <summary>
+            Publication
+          </summary>
+          <ul>
+            <li>
+              B. Jeong, S. Kim, S. Paik and J. H. Seo, "Analysis on Secure Triplet Loss," in IEEE Access, vol. 10, pp. 124355-124362, 2022, doi: 10.1109/ACCESS.2022.3225430.
+            </li>
+          </ul>  
+        </details>
         <details>
           <summary>
             Awards
           </summary>
           <ul>
             <li>
-              2022 Academic Seminar Hosted by College of Natural Science, Hanyang University Excellence Prize
+              A*STAR Singapore International Pre-Graduate Award (SIPGA). Nov 2022 - Mar 2023. Agency for Science, Technology and Research (A*STAR), Singapore
             </li>
+            <li>
+              Grand Prize, 2022 Best Research Paper Award for Graduate Students. Feb 2023. Research Institute for Natural Sciences, Hanyang University. “Analysis on Secure Triplet Loss”
+            </li>  
           </ul>  
         </details>  
-    </li>    
-    <br>  
+      </li>    
     </ul>
 </details>
 
