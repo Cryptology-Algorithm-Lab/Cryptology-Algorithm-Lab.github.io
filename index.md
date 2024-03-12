@@ -204,7 +204,7 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow"></td>
       </tr>
       <tr>     
-        <td class="tg-c3ow">Dongsu Kim</td>
+        <td class="tg-c3ow">Dongsoo Kim</td>
         <td class="tg-c3ow">Efficient Decision-based Black-box Adversarial Attacks on Face Recognition (CVPR'19)(<A href="https://arxiv.org/pdf/1905.02175.pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dong_Efficient_Decision-Based_Black-Box_Adversarial_Attacks_on_Face_Recognition_CVPR_2019_paper.pdf)">DOI</A>)</td>
         <td class="tg-c3ow"></td>
         <td class="tg-c3ow"></td>
@@ -246,7 +246,7 @@ We share information with each other through various seminars/studies that suppo
         <td class="tg-c3ow">8/16</td>
         <td class="tg-c3ow">10:00AM</td>
         <td class="tg-c3ow">702</td>
-        <td class="tg-c3ow">Dongsu Kim</td>
+        <td class="tg-c3ow">Dongsoo Kim</td>
         <td class="tg-c3ow">Predictive Coding</td>
         <td class="tg-c3ow"></td>
         <td class="tg-c3ow"></td>
@@ -420,7 +420,7 @@ argument of knowledge, knowledge soundness</td>
         <td class="tg-c3ow"><A href="https://arxiv.org/pdf/2202.04557.pdf">Universal Hopfield Networks: A General Framework for Single-Shot Associative Memory Models</A></td>
       </tr>
       <tr>     
-        <td class="tg-c3ow">Dongsu</td>
+        <td class="tg-c3ow">Dongsoo</td>
         <td class="tg-c3ow"><A href="https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Towards_Face_Encryption_by_Generating_Adversarial_Identity_Masks_ICCV_2021_paper.pdf">Towards Face Encryption by Generating Adversarial Identity Masks</A></td>
       </tr>      
       <tr>
@@ -445,7 +445,7 @@ argument of knowledge, knowledge soundness</td>
         <td class="tg-c3ow" rowspan="2">1/30</td>
         <td class="tg-c3ow" rowspan="2">01:00PM</td>
         <td class="tg-c3ow" rowspan="2">702</td>
-        <td class="tg-c3ow">Dongsu</td>
+        <td class="tg-c3ow">Dongsoo</td>
         <td class="tg-c3ow"><A href="https://aaai-2022.virtualchair.net/poster_aaai88">AnchorFace: Boosting TAR@FAR for Practical Face Recognition</A></td>
       </tr>
       <tr>
@@ -460,7 +460,7 @@ argument of knowledge, knowledge soundness</td>
         <td class="tg-c3ow"><A href="https://openaccess.thecvf.com/content/CVPR2022/html/Tan_Hyperspherical_Consistency_Regularization_CVPR_2022_paper.html">Hyperspherical Consistency Regularization</A></td>
       </tr>
       <tr>
-        <td class="tg-c3ow">Dongsu</td>
+        <td class="tg-c3ow">Dongsoo</td>
         <td class="tg-c3ow"><A href="https://arxiv.org/abs/2204.05502">CoupleFace: Relation Matters for Face Recognition Distillation</A></td>
       </tr>
       <tr>
@@ -478,7 +478,7 @@ argument of knowledge, knowledge soundness</td>
         <td class="tg-c3ow" rowspan="2">TBD</td>
         <td class="tg-c3ow" rowspan="2">TBD</td>
         <td class="tg-c3ow" rowspan="2">TBD</td>
-        <td class="tg-c3ow">Dongsu</td>
+        <td class="tg-c3ow">Dongsoo</td>
         <td class="tg-c3ow"><A href="https://www.mdpi.com/2079-9292/11/23/3909">UFace: An Unsupervised Deep Learning Face Verification System</A></td>
       </tr>
       <tr>
