@@ -34,7 +34,7 @@ header:
             The following paper won the Excellence Award. Congrats all authors who participated in this submission.
           <ul type="circle">
             <li>             
-              <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Dongsu Kim</b>, Junbum Shin, and <b>Jae Hong Seo</b> 
+              <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Dongsoo Kim</b>, Junbum Shin, and <b>Jae Hong Seo</b> 
             <br>
               <i>IDFace: Efficient and Secure Identification for Face Images</i>
             </li> 
@@ -231,7 +231,7 @@ header:
         (Dec 8, 2021) Our paper (<A href="https://ieeexplore.ieee.org/document/9638642">Efficient Sum-Check Protocol for Convolution</A>) is accepted at IEEE Access
     </li>
     <li>
-        (Nov 29, 2021) Three undergraduate students (Kyuhwan Lee, Dongsu Kim, Chanwoo Hwang) joined our Crypto & Algorithms Lab!
+        (Nov 29, 2021) Three undergraduate students (Kyuhwan Lee, Dongsoo Kim, Chanwoo Hwang) joined our Crypto & Algorithms Lab!
     </li>
     <li>
         (Nov 26, 2021) Taesam Kim (Undergraduate student) and Gyuhwan (Undergraduate student) receive a Top Prize from College of Natural Science (Hanyang University), due to their academic paper entitled "Proof of dot product using ZK-SNARK: Groth16" submitted in Academic Seminar. Congrat. Taesam and Gyuhwan!
@@ -360,7 +360,7 @@ header:
         <td class="tg-c3ow">1/20</td>
         <td class="tg-c3ow">10:00AM</td>
         <td class="tg-c3ow">701</td>
-        <td class="tg-c3ow">Dongsu</td>
+        <td class="tg-c3ow">Dongsoo</td>
         <td class="tg-c3ow"><A href="https://thesai.org/Downloads/Volume12No4/Paper_36-PlexNet_An_Ensemble_of_Deep_Neural_Networks.pdf">PlexNet: An Ensemble of Deep Neural Networks for Biometric Template Protection</A></td>
       </tr>  
       <tr>
@@ -402,7 +402,7 @@ header:
         <td class="tg-c3ow">7/20</td>
         <td class="tg-c3ow">11:00AM</td>
         <td class="tg-c3ow">702</td>
-        <td class="tg-c3ow">Dongsu</td>
+        <td class="tg-c3ow">Dongsoo</td>
         <td class="tg-c3ow"><A href="https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Variational_Prototype_Learning_for_Deep_Face_Recognition_CVPR_2021_paper.pdf">Variational Prototype Learning for Deep Face Recognition</A></td>
       </tr>
       <tr>
