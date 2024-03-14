@@ -225,7 +225,31 @@ header:
             </li>
           </ul>  
         </details>  
-      </li> 
+      </li>
+      <li><p style="text-align:left;"><b sytle="font-size:120%;">Minsu Kim</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/minsu.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Better than yesterday</span>
+        </p>        
+        <u>Research Interests</u>
+        <br>
+        BTP(Biometric Template Protection)
+        <br>
+        <br>
+        <details>
+          <summary>
+            Awards
+          </summary>
+          <ul>
+            <li>
+              2022 Cryptanalysis Contest Hosted by Millitary Cryptography Research Center Excellence Award
+            </li>
+            <li>
+              2022 Academic Seminar Hosted by College of Natural Science, Hanyang University Excellence Prize
+            </li>
+          </ul>  
+        </details>  
+    </li>
     </ul>      
 </details>
 
@@ -324,30 +348,6 @@ header:
         Undergraduate student
     </summary>
     <ul type="square">        
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Minsu Kim</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/minsu.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Better than yesterday</span>
-        </p>        
-        <u>Research Interests</u>
-        <br>
-        BTP(Biometric Template Protection)
-        <br>
-        <br>
-        <details>
-          <summary>
-            Awards
-          </summary>
-          <ul>
-            <li>
-              2022 Cryptanalysis Contest Hosted by Millitary Cryptography Research Center Excellence Award
-            </li>
-            <li>
-              2022 Academic Seminar Hosted by College of Natural Science, Hanyang University Excellence Prize
-            </li>
-          </ul>  
-        </details>  
-    </li>
     <li><p style="text-align:left;"><b sytle="font-size:120%;">Yunki Kim</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/yunki.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
