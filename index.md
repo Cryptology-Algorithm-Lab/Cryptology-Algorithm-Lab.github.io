@@ -16,6 +16,8 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 ## Annual News
 
 <ul type="square">
+   <li>(Apr 11, 2024) <b>Sunpill Kim</b> is selected as the 1st Graduate Presidential Science Scholarship recipient. (Ph.D. student in the Department of Mathematics, 2 finalists selected)
+   </li>
    <li>(Feb 5, 2024) <b>Chanwoo Hwang</b> and <b>Dongsoo Kim</b> visit in the Singapore A*STAR to participate short-term research for top international students during five months. We wish their successful journeys to become good researchers!
    </li>
    <li>
