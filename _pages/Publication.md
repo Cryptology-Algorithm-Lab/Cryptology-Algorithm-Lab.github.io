@@ -268,6 +268,14 @@ header:
 
 <ul type="none">
 <li> 
+  [C21] <b>Hyeonbum Lee</b>, <b>Kyuhwan Lee</b>, Wenyi Tang, Shankha Shubhra Mukherjee, <b>Jae Hong Seo</b>, and Taeho Jung
+      <p>
+          <i>PrivHChain: Monitoring the Supply Chain of Controlled Substances with Privacy-Preserving Hierarchical Blockchain</i> 
+          <br>
+          <b>IEEE ICBC</b> 2024, (TBA)
+      </p>  
+</li> 
+<li> 
   [C20]  <b>Sunpill Kim</b>, Yong Kiam Tan, <b>Bora Jeong</b>, Soumik Mondal, Khin Mi Mi Aung, and <b>Jae Hong Seo*</b>
       <p>
           <i>Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems</i> 
