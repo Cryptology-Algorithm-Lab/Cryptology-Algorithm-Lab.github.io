@@ -16,7 +16,17 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 ## Annual News
 
 <ul type="square">
+  <li>(Apr 19, 2024) <b>Hyeonbum Lee</b></b> has been selected as a speaker for the submission proposal in the 6th ZKProof workshop in Berlin.
+   </li>
    <li>(Apr 11, 2024) <b>Sunpill Kim</b> is selected as the 1st Graduate Presidential Science Scholarship recipient. (Ph.D. student in the Department of Mathematics, 2 finalists selected)
+   </li>
+   <li>
+      (Mar 1, 2024) The following paper has been accepted as a poster at <b><span style = "color : #4169E1">IEEE ICBC</span></b> 2024.
+      <ul type="disc">
+          <li>
+             <b>Hyeonbum Lee</b>, <b>Kyuhwan Lee</b>, Wenyi Tang, Shankha Shubhra Mukherjee, <b>Jae Hong Seo</b>, and Taeho Jung<br><i>PrivHChain: Monitoring the Supply Chain of Controlled Substances with Privacy-Preserving Hierarchical Blockchain</i>
+          </li>  
+      </ul>
    </li>
    <li>(Feb 5, 2024) <b>Chanwoo Hwang</b> and <b>Dongsoo Kim</b> visit in the Singapore A*STAR to participate short-term research for top international students during five months. We wish their successful journeys to become good researchers!
    </li>
