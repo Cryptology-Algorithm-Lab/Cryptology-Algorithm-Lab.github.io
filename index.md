@@ -16,7 +16,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 ## Annual News
 
 <ul type="square">
-  <li>(Apr 19, 2024) <b>Hyeonbum Lee</b> has been selected as a speaker for the submission proposal in the 6th ZKProof workshop in Berlin.
+  <li>(Apr 19, 2024) <b>Hyeonbum Lee</b> has been selected as a speaker for the submission proposal in the 6th <b><span style = "color : #4169E1">ZKProof workshop</span></b> in Berlin.
    </li>
    <li>(Apr 11, 2024) <b>Sunpill Kim</b> is selected as the 1st Graduate Presidential Science Scholarship recipient. (Ph.D. student in the Department of Mathematics, 2 finalists selected)
    </li>
