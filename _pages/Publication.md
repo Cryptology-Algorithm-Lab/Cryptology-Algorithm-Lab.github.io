@@ -280,7 +280,7 @@ header:
       <p>
           <i>Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems</i> 
           <br>
-          <b>IEEE S&P</b> 2024, (TBA)
+          <b>IEEE S&P</b> 2024, (<A href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a161/1Ub24A2RzHi">DOI</A>)
       </p>  
 </li>  
 <li> 
