@@ -16,6 +16,31 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 ## Annual News
 
 <ul type="square">
+  <li>
+        (June 5, 2024)  Professor Taeho Jung from the University of Notre Dame will visit C&A lab. He will give a lecture and discuss joint research.
+        <ul type="disc">
+            <li>
+              Date & Place : 04:00 PM, June 5 / Natural Science building 702
+            </li>
+            <li>
+              Title : <i>A Scalable Variant of Private Set Intersection</i>              
+            </li>
+            <details>
+                <summary>
+                    (For lecture abstract, click the arrow)
+                </summary>
+               Abstract: Private Set Intersection (PSI) is a primitive that allows a querier to learn whether there is an intersection between a query set and another set held by a server. This is a privacy-preserving protocol because the querier does not learn anything about the server’s set, and the server does not learn anything about the querier’s set either. FHE-based protocols have advantages such as post-quantum security and asynchrony, but they have the downside of low scalability. The scalability bottleneck lies in the multiplicative nature of the homomorphic circuit evaluated during the PSI protocol. We present an addition-based variant of PSI that overcomes this scalability limit such that the PSI can be run against hundreds of thousands of servers.
+            </details>
+        </ul>
+    </li>
+    <li>
+        (May 31, 2023)  The following paper has been accepted for publication in <b><span style = "color : #4169E1">IWSEC </span></b> 2023.
+        <ul type="disc">
+            <li>
+              <b>Hyeonbum Lee</b> and <b>Jae Hong Seo</b><br><i>TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup</i>
+            </li>  
+        </ul>
+  </li>
   <li>(Apr 19, 2024) <b>Hyeonbum Lee</b> has been selected as a speaker for the submission proposal in the 6th <b><span style = "color : #4169E1">ZKProof workshop</span></b> in Berlin.
    </li>
    <li>(Apr 11, 2024) <b>Sunpill Kim</b> is selected as the 1st Graduate Presidential Science Scholarship recipient. (Ph.D. student in the Department of Mathematics, 2 finalists selected)
