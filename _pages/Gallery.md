@@ -84,9 +84,20 @@ gallery6:
   - url: /assets/Gallery/sp2.jpeg
     image_path: /assets/Gallery/sp2.jpeg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"                         
+    title: "Image 2 title caption"
+gallery7:
+  - url: /assets/Gallery/hb_1.JPG
+    image_path: /assets/Gallery/hb_1.JPG
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/Gallery/hb_2.jpg
+    image_path: /assets/Gallery/hb_2.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"                             
 ---
 # Gallery
+{% include gallery id="gallery7" caption="**Hyeonbum Lee's presentation at the ZKProof6 & ICBC'24**" %}
+
 {% include gallery id="gallery6" caption="**Sunpill Kim's presentation at the IEEE S&P 2024**" %}
 
 {% include gallery id="gallery5" caption="**Seunghun Paik's presentation at the BMVC 2023**" %}
