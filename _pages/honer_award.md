@@ -12,6 +12,14 @@ header:
 ---
 # Honors & Awards
 
+## 2024
+<ul type="square">
+  <li> Excellence Paper Award, CISC-S'24, National Security Research Institute, Korea.</li>
+  <ul type="-">
+    <li><b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b> and <b>Jae Hong Seo</b></li>
+  </ul>  
+</ul>
+
 ## 2023
 <ul type="square">
 <li>Excellence Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
