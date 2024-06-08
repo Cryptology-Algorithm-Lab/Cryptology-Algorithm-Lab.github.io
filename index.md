@@ -17,7 +17,15 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
-        (June 5, 2024)  Professor Taeho Jung from the University of Notre Dame will visit C&A lab. He will give a lecture and discuss joint research.
+      (Jun 7, 2024) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">CISC-S</span></b> 2024. Also, this paper won the Excellenct Paper Award. 
+      <ul type="disc">
+          <li>
+             <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b> and <b>Jae Hong Seo</b><br><i>On the Certifiable Robustness of Face Recognition Systems</i>
+          </li>  
+      </ul>
+   </li>
+  <li>
+        (Jun 5, 2024)  Professor Taeho Jung from the University of Notre Dame will visit C&A lab. He will give a lecture and discuss joint research.
         <ul type="disc">
             <li>
               Date & Place : 04:00 PM, June 5 / Natural Science building 702
