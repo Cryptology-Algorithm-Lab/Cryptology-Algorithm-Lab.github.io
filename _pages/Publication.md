@@ -268,6 +268,14 @@ header:
 
 <ul type="none">
 <li> 
+  [C21] <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b> and <b>Jae Hong Seo</b>
+      <p>
+          <i>On the Certifiable Robustness of Face Recognition Systems</i> 
+          <br>
+          <b>CISC-S</b> 2024, (TBA)
+      </p>  
+</li>   
+<li> 
   [C21] <b>Hyeonbum Lee</b>, <b>Kyuhwan Lee</b>, Wenyi Tang, Shankha Shubhra Mukherjee, <b>Jae Hong Seo</b>, and Taeho Jung
       <p>
           <i>PrivHChain: Monitoring the Supply Chain of Controlled Substances with Privacy-Preserving Hierarchical Blockchain</i> 
