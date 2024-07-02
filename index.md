@@ -25,7 +25,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </ul>
   </li>
   <li>
-      (Jun 24, 2024) The following 2 projects supported by <b><span style = "color : #003f4e">National Research Foundation of Korea (NRF)</span></b> have started.
+      (Jun 24, 2024) The following 2 projects supported by <b><span style = "color : #071952">National Research Foundation of Korea (NRF)</span></b> have started.
       <ul type="disc">
           <li>
              <i>Secure Authentication System using Deep Learning-based Biometric Recognition System</i>
@@ -73,7 +73,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </ul>
   </li>
   <li>
-      (Apr 1, 2024) The following project supported by <b><span style = "color : #003f4e">Korea Creative Content Agency (KOCCA)</span></b> has started.
+      (Apr 1, 2024) The following project supported by <b><span style = "color : #071952">Korea Creative Content Agency (KOCCA)</span></b> has started.
       <ul type="disc">
           <li>
              <i>International Joint Research to Develop Next-generation Copyright Infringement Prevention Technology and Safe Content Distribution Technology</i>
