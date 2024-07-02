@@ -24,7 +24,7 @@ header:
         Secure Authentication System using Deep Learning-based Biometric Recognition System, National Research Foundation of Korea (NRF)
     </li> 
     <li>
-        Apr 2024 - Dec 2027, 차세대 저작권 침해 방지 기술 및 콘텐츠 안전한 유통 기술 개발을 위한 국제 공동 연구, 한국콘텐츠진흥원
+        Apr 2024 - Dec 2027, 차세대 저작권 침해 방지 기술 및 안전한 콘텐츠 유통 기술 개발을 위한 국제 공동 연구, 한국콘텐츠진흥원
         <br>
         International Joint Research to Develop Next-generation Copyright Infringement Prevention Technology and Safe Content Distribution Technology, Korea Creative Content Agency (KOCCA)
     </li> 
