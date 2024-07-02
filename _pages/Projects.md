@@ -12,7 +12,22 @@ header:
 
 ## Ongoing
 
-<ul type="square">      
+<ul type="square">
+    <li>
+        Sep 2024 - Aug 2025, 영지식증명을 통한 증분적으로 검증 가능한 연산에 관한 연구, 한국연구재단 (NRF)
+        <br>
+        A Study on Incremetally Verifiable Computation through Zero-Knowledge Proof, National Research Foundation of Korea
+    </li> 
+    <li>
+        Sep 2024 - Aug 2025, 딥러닝 기반 생체인식 시스템을 이용한 안전한 인증 시스템, 한국연구재단 (NRF)
+        <br>
+        Secure Authentication System using Deep Learning-based Biometric Recognition System, National Research Foundation of Korea
+    </li> 
+    <li>
+        Apr 2024 - Dec 2027, 차세대 저작권 침해 방지 기술 및 콘텐츠 안전한 유통 기술 개발을 위한 국제 공동 연구, 한국콘텐츠진흥원 (KOCCA)
+        <br>
+        International Joint Research to Develop Next-generation Copyright Infringement Prevention Technology and Safe Content Distribution Technology, Korea Creative Content Agency 
+    </li> 
     <li>
         Sep 2021 - Aug 2024, 다자간 근사계산 암호 원천기술 개발, 삼성미래기술육성재단
         <br>
