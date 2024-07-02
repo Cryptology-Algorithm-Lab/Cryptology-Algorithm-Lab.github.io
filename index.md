@@ -62,7 +62,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </ul>
   </li>
   <li>
-      (Apr 1, 2024) The following project supported by <b><span style = "color : #FE6D3D">Korea Creative Content Agency (KOCCA)</span></b> has started.
+      (Apr 1, 2024) The following project supported by <b><span style = "color : #003f4e">Korea Creative Content Agency (KOCCA)</span></b> has started.
       <ul type="disc">
           <li>
              Title : <i>International Joint Research to Develop Next-generation Copyright Infringement Prevention Technology and Safe Content Distribution Technology</i>
