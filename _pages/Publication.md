@@ -268,7 +268,15 @@ header:
 
 <ul type="none">
 <li> 
-  [C21] <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b> and <b>Jae Hong Seo</b>
+  [C23] <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b> and <b>Jae Hong Seo</b>
+      <p>
+          <i>Towards Certifiably Robust Face Recognition</i> 
+          <br>
+          <b>ECCV</b> 2024, (TBA)
+      </p>  
+</li>  
+<li> 
+  [C22] <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b> and <b>Jae Hong Seo</b>
       <p>
           <i>On the Certifiable Robustness of Face Recognition Systems</i> 
           <br>
