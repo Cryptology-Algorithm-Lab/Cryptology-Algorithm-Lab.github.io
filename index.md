@@ -60,6 +60,14 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
              <b>Hyeonbum Lee</b>, <b>Kyuhwan Lee</b>, Wenyi Tang, Shankha Shubhra Mukherjee, <b>Jae Hong Seo</b>, and Taeho Jung<br><i>PrivHChain: Monitoring the Supply Chain of Controlled Substances with Privacy-Preserving Hierarchical Blockchain</i>
           </li>  
       </ul>
+  </li>
+  <li>
+      (Apr 1, 2024) The following project supported by <b><span style = "color : #FE6D3D">Korea Creative Content Agency (KOCCA)</span></b> has started.
+      <ul type="disc">
+          <li>
+             Title : <i>International Joint Research to Develop Next-generation Copyright Infringement Prevention Technology and Safe Content Distribution Technology</i>
+          </li>  
+      </ul>
    </li>
    <li>(Feb 5, 2024) <b>Chanwoo Hwang</b> and <b>Dongsoo Kim</b> visit in the Singapore A*STAR to participate short-term research for top international students during five months. We wish their successful journeys to become good researchers!
    </li>
