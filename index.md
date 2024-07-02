@@ -23,7 +23,18 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
              <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b> and <b>Jae Hong Seo</b><br><i>Towards Certifiably Robust Face Recognition</i>
           </li>  
       </ul>
-   </li>
+  </li>
+  <li>
+      (Jun 24, 2024) The following 2 projects supported by <b><span style = "color : #003f4e">National Research Foundation of Korea (NRF)</span></b> have started.
+      <ul type="disc">
+          <li>
+             <i>Secure Authentication System using Deep Learning-based Biometric Recognition System</i>
+          </li>
+          <li>
+             <i>A Study on Incremetally Verifiable Computation through Zero-Knowledge Proof</i>
+          </li> 
+      </ul>
+  </li>
   <li>
       (Jun 7, 2024) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">CISC-S</span></b> 2024. Also, this paper won the Excellenct Paper Award. 
       <ul type="disc">
@@ -65,7 +76,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       (Apr 1, 2024) The following project supported by <b><span style = "color : #003f4e">Korea Creative Content Agency (KOCCA)</span></b> has started.
       <ul type="disc">
           <li>
-             Title : <i>International Joint Research to Develop Next-generation Copyright Infringement Prevention Technology and Safe Content Distribution Technology</i>
+             <i>International Joint Research to Develop Next-generation Copyright Infringement Prevention Technology and Safe Content Distribution Technology</i>
           </li>  
       </ul>
    </li>
