@@ -14,7 +14,7 @@ header:
 
 <ul type="square">
     <li>
-        Sep 2024 - Aug 2025, 영지식증명을 통한 증분적으로 검증 가능한 연산에 관한 연구, 한국연구재단 (NRF)
+        Sep 2024 - Aug 2025, 영지식증명을 통한 점진적으로 검증 가능한 연산에 관한 연구, 한국연구재단 (NRF)
         <br>
         A Study on Incremetally Verifiable Computation through Zero-Knowledge Proof, National Research Foundation of Korea
     </li> 
