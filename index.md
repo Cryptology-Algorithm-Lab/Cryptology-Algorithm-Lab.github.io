@@ -17,6 +17,14 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
+      (Jul 1, 2024) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ECCV</span></b> 2024.
+      <ul type="disc">
+          <li>
+             <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b> and <b>Jae Hong Seo</b><br><i>Towards Certifiably Robust Face Recognition</i>
+          </li>  
+      </ul>
+   </li>
+  <li>
       (Jun 7, 2024) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">CISC-S</span></b> 2024. Also, this paper won the Excellenct Paper Award. 
       <ul type="disc">
           <li>
