@@ -14,27 +14,27 @@ header:
 
 <ul type="square">
     <li>
-        Sep 2024 - Aug 2025, 영지식증명을 통한 점진적으로 검증 가능한 연산에 관한 연구, 한국연구재단 (NRF)
+        Sep 2024 - Aug 2025, 영지식증명을 통한 점진적으로 검증 가능한 연산에 관한 연구, 한국연구재단
         <br>
-        A Study on Incremetally Verifiable Computation through Zero-Knowledge Proof, National Research Foundation of Korea
+        A Study on Incremetally Verifiable Computation through Zero-Knowledge Proof, National Research Foundation of Korea (NRF)
     </li> 
     <li>
-        Sep 2024 - Aug 2025, 딥러닝 기반 생체인식 시스템을 이용한 안전한 인증 시스템, 한국연구재단 (NRF)
+        Sep 2024 - Aug 2025, 딥러닝 기반 생체인식 시스템을 이용한 안전한 인증 시스템, 한국연구재단
         <br>
-        Secure Authentication System using Deep Learning-based Biometric Recognition System, National Research Foundation of Korea
+        Secure Authentication System using Deep Learning-based Biometric Recognition System, National Research Foundation of Korea (NRF)
     </li> 
     <li>
-        Apr 2024 - Dec 2027, 차세대 저작권 침해 방지 기술 및 콘텐츠 안전한 유통 기술 개발을 위한 국제 공동 연구, 한국콘텐츠진흥원 (KOCCA)
+        Apr 2024 - Dec 2027, 차세대 저작권 침해 방지 기술 및 콘텐츠 안전한 유통 기술 개발을 위한 국제 공동 연구, 한국콘텐츠진흥원
         <br>
-        International Joint Research to Develop Next-generation Copyright Infringement Prevention Technology and Safe Content Distribution Technology, Korea Creative Content Agency 
+        International Joint Research to Develop Next-generation Copyright Infringement Prevention Technology and Safe Content Distribution Technology, Korea Creative Content Agency (KOCCA)
     </li> 
     <li>
         Sep 2021 - Aug 2024, 다자간 근사계산 암호 원천기술 개발, 삼성미래기술육성재단
         <br>
-        Secure Multi-party Approximate Computation, Samsung Science & Technology Foundation
+        Secure Multi-party Approximate Computation, Samsung Science & Technology Foundation (SSTF)
     </li>    
     <li>
-        Apr 2021 - Dec 2026, 간결한 비대화형 연산 증명 시스템(SNARK)를 위한 암호 원천 기술 개발, 정보통신기획평가원 (IITP)
+        Apr 2021 - Dec 2026, 간결한 비대화형 연산 증명 시스템(SNARK)를 위한 암호 원천 기술 개발, 정보통신기획평가원
         <br>
         A Study on Cryptographic Primitives for SNARK, Institute for Information and Communications Technology Promotion (IITP)
     </li>
