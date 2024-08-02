@@ -14,12 +14,6 @@ header:
 ## Newspaper Article 
 <ul type="disc">
     <li>
-        <A href= "https://economist.co.kr/article/view/ecn202212060004 ">원태영, "위메이드, 국내외 석학들과 영지식 증명(ZK) 글로벌 리서치 센터 설립".</A> 이코노미스트. 2022년 12월 6일 https://economist.co.kr/article/view/ecn202212060004 
-    </li>
-    <li>
-        <A href= "https://biz.newdaily.co.kr/site/data/html/2022/12/06/2022120600094.html">김동준, "위메이드, 영지식 증명(ZK) 글로벌 리서치 센터 설립".</A> 뉴데일리경제. 2022년 12월 6일 https://biz.newdaily.co.kr/site/data/html/2022/12/06/2022120600094.html
-    </li>
-    <li>
         <A href= "https://www.newshyu.com/news/articleView.html?idxno=1007599">한수연, "이현범 학생, 국가암호공모전 대상 수상과 함께 세계적 암호 학회에서 인정 받아".</A> NewsH. 2022년 10월 20일 https://www.newshyu.com/news/articleView.html?idxno=1007599
     </li>  
     <li>
