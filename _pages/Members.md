@@ -48,7 +48,7 @@ header:
         <li><p style="text-align:left;"><A href="https://sunpill.github.io"><b sytle="font-size:120%;">Sunpill Kim</b></A>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill1.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Good words and good people are usually opposites.</span>
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Our life is stochastic gradient ascent.</span>
         </p>
         <u>Research Interests</u>
         <br>  
@@ -61,16 +61,22 @@ header:
           </summary>
           <ul>
             <li>
-              Sunpill Kim, Yunseong Jeong, Jinsu Kim, Jungkon Kim, Hyung Tae Lee, and Jae Hong Seo, IronMask: Modular Architecture for Protecting Deep Face Template, In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pages 16125-16134, 2021.(acceptance rate 23.4%)
+              Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, Sunpill Kim and Jae Hong Seo, Towards Certifiably Robust Face Recognition, The 18th European Conference on Computer Vision ECCV 2024</b> 2024, (TBA) (<b>Top-tier conference in computer vision</b>, acceptance rate: 27.9%)
+            </li>
+            <li>
+              Sunpill Kim, Yong Kiam Tan, Bora Jeong, Soumik Mondal, Khin Mi Mi Aung, and Jae Hong Seo, Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems, IEEE Symposium on Security and Privacy (S&P) 2024, (<A href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a161/1Ub24A2RzHi">DOI</A>) (<b>Top-tier conference in cybersecurity</b>, acceptance rate: 14.9%)
+            </li>
+            <li>
+              Sunpill Kim and Yong Kiam Tan, Formalization of the Schwartz-Zippel Lemma, Archive of Formal Proofs, April 2023.
+            </li>
+            <li>
+              Seunghun Paik, Sunpill Kim, and Jae Hong Seo ,Analysis on Locality Sensitive Hashing-based Biometric Template Protection Schemes, 34rd British Machine Vision Conference (BMVC) 2023
             </li>
             <li>
               Bora Jeong, Sunpill Kim, Seunghun Paik, and Jae Hong Seo, Attack on Secure Triplet Loss, IEEE Access.
             </li>
             <li>
-              Seunghun Paik, Sunpill Kim, and Jae Hong Seo, Analysis on Locality Sensitive HashingBased Biometric Template Protection Schemes, IEEE Transactions on Information Forensics & Security. (submitted)
-            </li>
-            <li>
-              Sunpill Kim, Hoyong Shin, and Jae Hong Seo, Deep Face Template Protection in the Wild, Pattern Recognition. (submitted)
+              Sunpill Kim, Yunseong Jeong, Jinsu Kim, Jungkon Kim, Hyung Tae Lee, and Jae Hong Seo, IronMask: Modular Architecture for Protecting Deep Face Template, In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pages 16125-16134, 2021.(acceptance rate 23.4%)
             </li>
           </ul>  
         </details> 
