@@ -16,6 +16,9 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 ## Annual News
 
 <ul type="square">
+   <li>
+        (Aug 1, 2024) HUCC, Crypto Club of Hanyang University, won the Encouragement Award (장려상) in <b><span style = "color : #08A709">Cryptanalysis Contest</span></b>, 2024, hosted by Military Crypto Research Center. Congrats two of C&A members, <b>Yunki Kim</b>, and <b>Minsu Kim</b>, who are a leader and a member of HUCC.
+  </li>
   <li>
       (Jul 1, 2024) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ECCV</span></b> 2024.
       <ul type="disc">
