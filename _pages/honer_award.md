@@ -14,6 +14,11 @@ header:
 
 ## 2024
 <ul type="square">
+  <li>Encouragement Award, Crypto Analysis Contest, 777th Intelligence Command, Korea.</li>
+    <ul type="-">
+        <li><b>Yunki Kim</b>, and <b>Minsu Kim</b></li>
+    </ul>
+  <li>
   <li> Excellent Paper Award, CISC-S'24, National Security Research Institute, Korea.</li>
   <ul type="-">
     <li><b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b> and <b>Jae Hong Seo</b></li>
