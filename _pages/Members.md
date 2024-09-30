@@ -195,7 +195,7 @@ header:
         Cryptography          
     </li>
     <br>  
-    <li><p style="text-align:left;"><b sytle="font-size:120%;">Seunghun Paik</b>
+    <li><p style="text-align:left;"><A href="https://sites.google.com/site/jhsbhs/"><b sytle="font-size:120%;">Seunghun Paik</b></A>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Seunghun.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
           <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Be professional; be sceptical on your work. -Terrence Tao-</span>
