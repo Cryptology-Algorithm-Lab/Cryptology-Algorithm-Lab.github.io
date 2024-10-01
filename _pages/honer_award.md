@@ -16,7 +16,7 @@ header:
 <ul type="square">
   <li>Encouragement Award, Crypto Analysis Contest, 777th Intelligence Command, Korea.</li>
     <ul type="-">
-        <li><b>Yunki Kim</b>, and <b>Minsu Kim</b></li>
+        <li><b>Yunki Kim</b>, and <b>Minsu Kim</b>, Wanki Kim, Seonjae Kim</li> 
     </ul>
   <li> Excellent Paper Award, CISC-S'24, National Security Research Institute, Korea.</li>
   <ul type="-">
