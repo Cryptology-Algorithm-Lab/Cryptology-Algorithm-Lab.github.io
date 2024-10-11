@@ -102,9 +102,20 @@ gallery8:
   - url: /assets/Gallery/hb_2.jpg
     image_path: /assets/Gallery/workshop'24_1.jpg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"                                           
+    title: "Image 2 title caption"
+gallery9:
+  - url: /assets/Gallery/
+    image_path: /assets/Gallery/cryptanalysis_2024.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/Gallery/hb_2.jpg
+    image_path: /assets/Gallery/cryptanalysis_2024_1.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"                                                
 ---
 # Gallery
+{% include gallery id="gallery9" caption="**Congrats the award in Cryptanalysis Contest.**" %}
+
 {% include gallery id="gallery8" caption="**MPC & SNARK Workshop 2024**" %}
 
 {% include gallery id="gallery7" caption="**Hyeonbum Lee's presentation at the ZKProof6 & ICBC 2024**" %}
