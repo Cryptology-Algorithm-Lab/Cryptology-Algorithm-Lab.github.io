@@ -288,7 +288,7 @@ header:
       <p>
           <i>PrivHChain: Monitoring the Supply Chain of Controlled Substances with Privacy-Preserving Hierarchical Blockchain</i> 
           <br>
-          <b>IEEE ICBC</b> 2024, (TBA)
+          <b>IEEE ICBC</b> 2024, (<A href="https://ieeexplore.ieee.org/document/10634378">DOI</A>)
       </p>  
 </li> 
 <li> 
