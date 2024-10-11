@@ -14,6 +14,14 @@ header:
 
 ## 2024
 <ul type="square">
+  <li>Excellence Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
+    <ul type="-">
+      <li><b>Hyeonbum Lee</b>, Jaehwan Park, Junbeom Hur, <b>Jae Hong Seo</b>, and Doowon Kim</li>
+    </ul>  
+  <li>Encouragement Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
+    <ul type="-">
+      <li><b>Seunghun Paik</b>, <b>Minsu Kim</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b></li>
+    </ul>
   <li>Encouragement Award, Crypto Analysis Contest, 777th Intelligence Command, Korea.</li>
     <ul type="-">
         <li><b>Yunki Kim</b>, and <b>Minsu Kim</b>, Wanki Kim, Seonjae Kim</li> 
