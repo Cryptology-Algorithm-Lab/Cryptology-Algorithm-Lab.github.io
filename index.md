@@ -17,6 +17,31 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
    <li>
+        (Aug 11, 2024) Papers led by C&A members won several awards at the <b><span style = "color : #08A709">National Cryptographic Technology Contest</span></b>, 2024.
+        <ul type="disc">
+          <li>
+            The following paper won the Excellence Award. Congrats all authors who participated in this submission.
+          <ul type="circle">
+            <li>             
+              <b>Hyeonbum Lee</b>, Jaehwan Park, Junbeom Hur, <b>Jae Hong Seo</b>, and Doowon Kim
+            <br>
+              <i>UTRA: Universe Token Reusability Attack and Verifiable Delegatable Order-Revealing Encryption</i>
+            </li> 
+          </ul>  
+          </li>
+          <li>
+            The following paper won the Encouragement Award. Congrats all authors who participated in this submission.
+            <ul type="circle">
+            <li>             
+              <b>Seunghun Paik</b>, <b>Minsu Kim</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b>
+            <br>
+              <i>On the Security-Accuracy Trade-off of Hash-based Face Template Protections</i>
+            </li> 
+            </ul>   
+          </li>
+        </ul>
+  </li>
+  <li>
         (Aug 1, 2024) HUCC, Crypto Club of Hanyang University, won the Encouragement Award (장려상) in <b><span style = "color : #08A709">Cryptanalysis Contest</span></b>, 2024, hosted by Military Crypto Research Center. Congrats two of C&A members, <b>Yunki Kim</b>, and <b>Minsu Kim</b>, who are a leader and a member of HUCC.
   </li>
   <li>
