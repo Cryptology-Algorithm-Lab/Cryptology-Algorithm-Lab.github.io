@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
-    (Oct 15, 2024) Seunghun Paik (MS-PhD Integrated Student) was selected as an excellent trainee in the National Cryptography Expert Training course (암호전문인력양성교육) conducted by the National Security Research Institute. Congrats Seunghun!
+    (Oct 15, 2024) <b>Seunghun Paik</b> (MS-PhD Integrated Student) was selected as an excellent trainee in the National Cryptography Expert Training course (암호전문인력양성교육) conducted by the National Security Research Institute. Congrats Seunghun!
   </li>
    <li>
         (Oct 11, 2024) Papers led by C&A members won several awards at the <b><span style = "color : #08A709">National Cryptographic Technology Contest</span></b>, 2024.
