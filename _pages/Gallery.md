@@ -111,9 +111,20 @@ gallery9:
   - url: /assets/Gallery/hb_2.jpg
     image_path: /assets/Gallery/cryptanalysis_2024_1.jpg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"                                                
+    title: "Image 2 title caption"
+gallery10:
+  - url: /assets/Gallery/nation24_1.png
+    image_path: /assets/Gallery/nation24_1.png
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/Gallery/nation24_2.jpeg
+    image_path: /assets/Gallery/nation24_2.jpeg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"                                         
 ---
 # Gallery
+{% include gallery id="gallery10" caption="**Congrats on sevaral awards in the National Cryptographic Technology Contest 2024.**" %}
+
 {% include gallery id="gallery9" caption="**Congrats the award in Cryptanalysis Contest.**" %}
 
 {% include gallery id="gallery8" caption="**MPC & SNARK Workshop 2024**" %}
@@ -126,7 +137,7 @@ gallery9:
 
 {% include gallery id="gallery4_1"%}
 
-{% include gallery id="gallery4" caption="**Congrats on sevaral awards in the National Cryptographic Technology Contest and Cryptanalysis Contest.**" %}
+{% include gallery id="gallery4" caption="**Congrats on sevaral awards in the National Cryptographic Technology Contest and Cryptanalysis Contest 2023.**" %}
 
 {% include gallery id="gallery3" caption="**Thank you, professor, for celebrating Teacher's Day.**" %}
 
