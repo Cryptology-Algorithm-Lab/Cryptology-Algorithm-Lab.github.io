@@ -27,12 +27,7 @@ header:
         Apr 2024 - Dec 2027, 차세대 저작권 침해 방지 기술 및 안전한 콘텐츠 유통 기술 개발을 위한 국제 공동 연구, 한국콘텐츠진흥원
         <br>
         International Joint Research to Develop Next-generation Copyright Infringement Prevention Technology and Safe Content Distribution Technology, Korea Creative Content Agency (KOCCA)
-    </li> 
-    <li>
-        Sep 2021 - Aug 2024, 다자간 근사계산 암호 원천기술 개발, 삼성미래기술육성재단
-        <br>
-        Secure Multi-party Approximate Computation, Samsung Science & Technology Foundation (SSTF)
-    </li>    
+    </li>   
     <li>
         Apr 2021 - Dec 2026, 간결한 비대화형 연산 증명 시스템(SNARK)를 위한 암호 원천 기술 개발, 정보통신기획평가원
         <br>
@@ -48,6 +43,11 @@ header:
 
 ## Finished
 <ul type="square">
+    <li>
+        Sep 2021 - Aug 2024, 다자간 근사계산 암호 원천기술 개발, 삼성미래기술육성재단
+        <br>
+        Secure Multi-party Approximate Computation, Samsung Science & Technology Foundation (SSTF)
+    </li>  
     <li>
         Jul 2022 - Jun 2023, 암호화 얼굴 템플릿 DB 검색 기술 개발, CRYPTOLAB
         <br>
