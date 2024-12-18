@@ -272,7 +272,7 @@ header:
       <p>
           <i>Towards Certifiably Robust Face Recognition</i> 
           <br>
-          <b>ECCV</b> 2024, (TBA)
+          <b>ECCV</b> 2024, (<A href="https://doi.org/10.1007/978-3-031-73013-9_9">DOI</A>)
       </p>  
 </li>  
 <li> 
