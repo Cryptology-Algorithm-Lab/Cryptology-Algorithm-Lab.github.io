@@ -14,6 +14,15 @@ header:
 
 <ul type="none">
 <li>
+[J28]  <b>Sunpill Kim</b>, Hoyong Shin and <b>Jae Hong Seo*</b>
+    <p>
+        <i>Deep Face Template Protection in the Wild</i> 
+        <br>
+        Pattern Recognition, TBA
+    </p>
+</li>  
+<li>
+<li>
 [J28]  Changhao Chenli, Wenyi Tang, <b>Hyeonbum Lee</b>, and Taeho Jung
     <p>
         <i>Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness</i> 
