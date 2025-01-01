@@ -14,7 +14,7 @@ header:
 
 <ul type="none">
 <li>
-[J28]  <b>Sunpill Kim</b>, Hoyong Shin and <b>Jae Hong Seo*</b>
+[J29]  <b>Sunpill Kim</b>, Hoyong Shin and <b>Jae Hong Seo*</b>
     <p>
         <i>Deep Face Template Protection in the Wild</i> 
         <br>
