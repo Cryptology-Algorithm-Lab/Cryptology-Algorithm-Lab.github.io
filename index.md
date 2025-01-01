@@ -17,6 +17,14 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
+      (Jan 1, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">Pattern Recognition</span></b>.
+      <ul type="disc">
+          <li>
+             <b>Sunpill Kim</b>, Hoyong Shin, and <b>Jae Hong Seo</b><br><i>Deep Face Template Protection in the Wild</i>
+          </li>  
+      </ul>
+   </li>
+  <li>
     (Oct 15, 2024) <b>Seunghun Paik</b> (MS-PhD Integrated Student) was selected as an excellent trainee in the National Cryptography Expert Training course (암호전문인력양성교육) conducted by the National Security Research Institute. Congrats Seunghun!
   </li>
    <li>
