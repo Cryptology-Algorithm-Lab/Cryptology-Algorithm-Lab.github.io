@@ -48,11 +48,11 @@ header:
         <li><p style="text-align:left;"><A href="https://sunpill.github.io"><b sytle="font-size:120%;">Sunpill Kim</b></A>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill1.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Our life is stochastic gradient ascent.</span>
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Freedom is not free.</span>
         </p>
         <u>Research Interests</u>
         <br>  
-        Deep Learning-Based Biometric(Face, Speaker), Zero-Knowledge Proofs & Verifiable Computing
+        AI Security, Deep Learning, and Cryptography
         <br>
         <br>  
         <details>
