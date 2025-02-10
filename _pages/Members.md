@@ -405,7 +405,7 @@ header:
         Alumni (PostDoc)
     </summary>
     <ul type="square">
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Heewon Chung (Desilo)</b><span style="float:right;"> <i>Dec 2021</i></span></p>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Heewon Chung (Assistant Professor, Jeonbuk National University)</b><span style="float:right;"> <i>Dec 2021</i></span></p>
     </li>
     </ul>
 </details>
