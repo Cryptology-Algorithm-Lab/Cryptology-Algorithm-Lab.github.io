@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
-    (Feb 10, 2025) Ph.D. <b>Heewon Chung</b>, a former postdoctoral researcher from our lab, has been appointed as a Assistant Professor in the Department of Software Engineering at Jeonbuk National University (전북대학교 소프트웨어공학과) in South Korea.
+    (Feb 10, 2025) Ph.D. <b>Heewon Chung</b>, a former postdoctoral researcher from our lab, has been appointed as an Assistant Professor in the Department of Software Engineering at Jeonbuk National University (전북대학교 소프트웨어공학과) in South Korea.
   </li>
   <li>
       (Jan 1, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">Pattern Recognition</span></b>.
