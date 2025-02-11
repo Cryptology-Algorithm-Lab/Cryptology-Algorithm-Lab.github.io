@@ -16,6 +16,118 @@ header:
 ## Previous News
 <details open>
     <summary style="font-size:1.2rem; font-weight:bold;">
+      2024
+    </summary>
+    <ul type="square">
+  <li>
+    (Oct 15, 2024) <b>Seunghun Paik</b> (MS-PhD Integrated Student) was selected as an excellent trainee in the National Cryptography Expert Training course (암호전문인력양성교육) conducted by the National Security Research Institute. Congrats Seunghun!
+  </li>
+   <li>
+        (Oct 11, 2024) Papers led by C&A members won several awards at the <b><span style = "color : #08A709">National Cryptographic Technology Contest</span></b>, 2024.
+        <ul type="disc">
+          <li>
+            The following paper won the Excellence Award. Congrats all authors who participated in this submission.
+          <ul type="circle">
+            <li>             
+              <b>Hyeonbum Lee</b>, Jaehwan Park, Junbeom Hur, <b>Jae Hong Seo</b>, and Doowon Kim
+            <br>
+              <i>UTRA: Universe Token Reusability Attack and Verifiable Delegatable Order-Revealing Encryption</i>
+            </li> 
+          </ul>  
+          </li>
+          <li>
+            The following paper won the Encouragement Award. Congrats all authors who participated in this submission.
+            <ul type="circle">
+            <li>             
+              <b>Seunghun Paik</b>, <b>Minsu Kim</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b>
+            <br>
+              <i>On the Security-Accuracy Trade-off of Hash-based Face Template Protections</i>
+            </li> 
+            </ul>   
+          </li>
+        </ul>
+  </li>
+  <li>
+        (Oct 1, 2024) HUCC, Crypto Club of Hanyang University, won the Encouragement Award (장려상) in <b><span style = "color : #08A709">Cryptanalysis Contest</span></b>, 2024, hosted by Military Crypto Research Center. Congrats two of C&A members, <b>Yunki Kim</b>, and <b>Minsu Kim</b>, who are a leader and a member of HUCC.
+  </li>
+  <li>
+      (Jul 1, 2024) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ECCV</span></b> 2024.
+      <ul type="disc">
+          <li>
+             <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b> and <b>Jae Hong Seo</b><br><i>Towards Certifiably Robust Face Recognition</i>
+          </li>  
+      </ul>
+  </li>
+  <li>
+      (Jun 24, 2024) The following 2 projects supported by <b><span style = "color : #E8751A">National Research Foundation of Korea (NRF)</span></b> have started.
+      <ul type="disc">
+          <li>
+             <i>Secure Authentication System using Deep Learning-based Biometric Recognition System</i>
+          </li>
+          <li>
+             <i>A Study on Incremetally Verifiable Computation through Zero-Knowledge Proof</i>
+          </li> 
+      </ul>
+  </li>
+  <li>
+      (Jun 7, 2024) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">CISC-S</span></b> 2024. Also, this paper won the Excellenct Paper Award. 
+      <ul type="disc">
+          <li>
+             <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b> and <b>Jae Hong Seo</b><br><i>On the Certifiable Robustness of Face Recognition Systems</i>
+          </li>  
+      </ul>
+   </li>
+  <li>
+        (Jun 5, 2024)  Professor Taeho Jung from the University of Notre Dame will visit C&A lab. He will give a lecture and discuss joint research.
+        <ul type="disc">
+            <li>
+              Date & Place : 04:00 PM, June 5 / Natural Science building 702
+            </li>
+            <li>
+              Title : <i>A Scalable Variant of Private Set Intersection</i>              
+            </li>
+            <details>
+                <summary>
+                    (For lecture abstract, click the arrow)
+                </summary>
+               <b>Abstract</b>: Private Set Intersection (PSI) is a primitive that allows a querier to learn whether there is an intersection between a query set and another set held by a server. This is a privacy-preserving protocol because the querier does not learn anything about the server’s set, and the server does not learn anything about the querier’s set either. FHE-based protocols have advantages such as post-quantum security and asynchrony, but they have the downside of low scalability. The scalability bottleneck lies in the multiplicative nature of the homomorphic circuit evaluated during the PSI protocol. We present an addition-based variant of PSI that overcomes this scalability limit such that the PSI can be run against hundreds of thousands of servers.
+            </details>
+        </ul>
+    </li>
+  <li>(Apr 19, 2024) <b>Hyeonbum Lee</b> has been selected as a speaker for the submission proposal in the 6th <b><span style = "color : #4169E1">ZKProof workshop</span></b> in Berlin.
+   </li>
+   <li>(Apr 11, 2024) <b>Sunpill Kim</b> is selected as the 1st Graduate Presidential Science Scholarship recipient. (Ph.D. student in the Department of Mathematics, 2 finalists selected)
+   </li>
+   <li>
+      (Apr 1, 2024) The following project supported by <b><span style = "color : #E8751A">Korea Creative Content Agency (KOCCA)</span></b> has started.
+      <ul type="disc">
+          <li>
+             <i>International Joint Research to Develop Next-generation Copyright Infringement Prevention Technology and Safe Content Distribution Technology</i>
+          </li>  
+      </ul>
+   </li>
+   <li>
+      (Mar 1, 2024) The following paper has been accepted as a poster at <b><span style = "color : #4169E1">IEEE ICBC</span></b> 2024.
+      <ul type="disc">
+          <li>
+             <b>Hyeonbum Lee</b>, <b>Kyuhwan Lee</b>, Wenyi Tang, Shankha Shubhra Mukherjee, <b>Jae Hong Seo</b>, and Taeho Jung<br><i>PrivHChain: Monitoring the Supply Chain of Controlled Substances with Privacy-Preserving Hierarchical Blockchain</i>
+          </li>  
+      </ul>
+  </li>
+  <li>(Feb 5, 2024) <b>Chanwoo Hwang</b> and <b>Dongsoo Kim</b> visit in the Singapore A*STAR to participate short-term research for top international students during five months. We wish their successful journeys to become good researchers!
+   </li>
+   <li>
+      (Feb 5, 2024) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE TDSC</span></b>.
+      <ul type="disc">
+          <li>
+             Changhao Chenli, Wenyi Tang, <b>Hyeonbum Lee</b>, and Taeho Jung<br><i>Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness</i>
+          </li>  
+      </ul>
+   </li>
+</ul>   
+</details>
+<details>
+    <summary style="font-size:1.2rem; font-weight:bold;">
       2023
     </summary>
     <ul type="square">
