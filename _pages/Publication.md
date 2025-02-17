@@ -384,7 +384,6 @@ header:
         <b>CT-RSA</b> 2015, (<A href="https://link.springer.com/chapter/10.1007%2F978-3-319-16715-2_6">DOI</A>) (acceptance rate = 23.4%).
     </p>
 </li>
-
 <li>
     [C10] Jung Hee Cheon, Hyung Tae Lee, and <b>Jae Hong Seo</b>; [alphabetical order]
     <p>
@@ -420,7 +419,6 @@ header:
         <b>IACR-PKC</b> 2013, (<A href="https://eprint.iacr.org/2013/016">DOI</A>) (acceptance rate = 28%).
     </p>
 </li>
-
 <li>
     [C6]  <b>Jae Hong Seo</b> and Keita Emura
     <p>
@@ -429,7 +427,6 @@ header:
         <b>CT-RSA</b> 2013, (<A href="https://eprint.iacr.org/2013/018">DOI</A>) (acceptance rate = 28%).
     </p>
 </li>
-
 <li>
     [C5]  <b>Jae Hong Seo</b>
     <p>
@@ -447,7 +444,6 @@ header:
         <b>IACR-PKC</b> 2012, (<A href="https://link.springer.com/chapter/10.1007/978-3-642-30057-8_24">DOI</A>) (acceptance rate = 22%).
     </p>
 </li>
-
 <li>
     [C3]  <b>Jae Hong Seo</b> and Jung Hee Cheon
     <p>
@@ -456,7 +452,6 @@ header:
         <b>IACR-TCC</b> 2012, (<A href="https://eprint.iacr.org/2012/198">DOI</A>) (acceptance rate = 27%). 
     </p>
 </li>
-
 <li>
     [C2]  <b>Jae Hong Seo</b>
     <p>
@@ -465,7 +460,6 @@ header:
         <b>IACR-PKC</b> 2011, (<A href="https://link.springer.com/chapter/10.1007/978-3-642-19379-8_24">DOI</A>) (acceptance rate = 27%). 
     </p>
 </li>
-
 <li>
     [C1]  <b>Jae Hong Seo</b>, Tetsutaro Kobayashi, Miyako Ohkubo, and Koutarou Suzuki
     <p>
