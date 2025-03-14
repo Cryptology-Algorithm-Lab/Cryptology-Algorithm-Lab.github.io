@@ -14,6 +14,11 @@ header:
 
 <ul type="square">
     <li>
+        Feb 2025 - Dec 2025, 상용 얼굴인식 API의 적대적 공격 및 안전성 분석, 한국연구재단, 한국정보보호학회 암호연구회 (KIISC)
+        <br>
+        Adversarial Attacks and Security Analysis on Commercial Face Recognition APIs, Korea Institute of Information Security & Cryptology (KIISC)
+    </li> 
+    <li>
         Sep 2024 - Aug 2025, 영지식 증명을 통한 점진적으로 검증 가능한 연산에 관한 연구, 한국연구재단
         <br>
         A Study on Incremetally Verifiable Computation through Zero-Knowledge Proof, National Research Foundation of Korea (NRF)
