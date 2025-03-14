@@ -17,6 +17,14 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
+      (Feb 27, 2025) The following project supported by <b><span style = "color : #E8751A">Korea Institute of Information Security & Crytology (KIISC)</span></b> has started.
+      <ul type="disc">
+          <li>
+             <i>Adversarial Attacks and Security Analysis on Commercial Face Recognition APIs</i>
+          </li>  
+      </ul>
+  </li>
+  <li>
     (Feb 10, 2025) Ph.D. <b>Heewon Chung</b>, a former postdoctoral researcher from our lab, has been appointed as an Assistant Professor in the Department of Software Engineering at Jeonbuk National University (전북대학교 소프트웨어공학과) in South Korea.
   </li>
   <li>
