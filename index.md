@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
-      (Feb 27, 2025) The following project supported by <b><span style = "color : #E8751A">Korea Institute of Information Security & Crytology (KIISC)</span></b> has started.
+      (Feb 27, 2025) The following project supported by <b><span style = "color : #E8751A">Korea Institute of Information Security & Cryptology (KIISC)</span></b> has started.
       <ul type="disc">
           <li>
              <i>Adversarial Attacks and Security Analysis on Commercial Face Recognition APIs</i>
