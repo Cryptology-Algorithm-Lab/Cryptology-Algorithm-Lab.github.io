@@ -266,94 +266,6 @@ header:
         Master's student
     </summary>
     <ul type="square">
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Gwangwoon Lee</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/lgw.jpg" alt="" height="160" width="120"  style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Citius, Altius, Fortius.</span>
-        </p>        
-        <u>Research Interests</u>
-        <br>
-        Blockchain, Cryptography
-        <br>  
-        <br>
-        <details>
-          <summary>
-            Publication
-          </summary>
-          <ul>
-            <li>
-              Ju, Chanyang, et al. Monitoring Provenance of Delegated Personal Data with Blockchain. In: 2022 IEEE International Conference on Blockchain (Blockchain). IEEE, 2022. p. 11-20.
-            </li>
-          </ul>  
-        </details>   
-    </li>
-    <br>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Kyuhwan Lee</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Kyuhwan.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >To the mind that is still, the whole universe surrenders.  -Lao Tzu-</span>
-        </p>
-        <u>Research Interests</u>
-        <br>
-        Lattice-based cryptography, Zero-Knowledge Proof
-        <br>
-        <br>  
-        <details>
-          <summary>
-            Awards
-          </summary>
-          <ul>
-            <li>
-              2021 Academic Seminar Hosted by College of Natural Science, Hanyang University Top Prize
-            </li>
-          </ul>  
-        </details>  
-    </li>
-    <br>
-    <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Bora.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Life is a series of the moment.</span>
-        </p>        
-        <u>Research Interests</u>
-        <br>
-        Deep learning algorithm, Secure machine learning
-        <br>
-        <br>
-        <details>
-          <summary>
-            Publication
-          </summary>
-          <ul>
-            <li>
-              B. Jeong, S. Kim, S. Paik and J. H. Seo, "Analysis on Secure Triplet Loss," in IEEE Access, vol. 10, pp. 124355-124362, 2022, doi: 10.1109/ACCESS.2022.3225430.
-            </li>
-          </ul>  
-        </details>
-        <details>
-          <summary>
-            Awards
-          </summary>
-          <ul>
-            <li>
-              A*STAR Singapore International Pre-Graduate Award (SIPGA). Nov 2022 - Mar 2023. Agency for Science, Technology and Research (A*STAR), Singapore
-            </li>
-            <li>
-              Grand Prize, 2022 Best Research Paper Award for Graduate Students. Feb 2023. Research Institute for Natural Sciences, Hanyang University. “Analysis on Secure Triplet Loss”
-            </li>  
-          </ul>  
-        </details>  
-      </li>    
-    </ul>
-</details>
-
-<br>
-
-<details>
-    <summary style="font-size:1.2rem; font-weight:bold;">
-        Undergraduate student
-    </summary>
-    <ul type="square">        
     <li><p style="text-align:left;"><b sytle="font-size:120%;">Yunki Kim</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/yunki.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
@@ -374,7 +286,19 @@ header:
             </li>
           </ul>  
         </details>  
-    </li>  
+    </li>      
+    </ul>
+</details>
+
+<br>
+
+<details>
+    <summary style="font-size:1.2rem; font-weight:bold;">
+        Undergraduate student
+    </summary>
+    <ul type="square">        
+      <li><p style="text-align:left;"><b sytle="font-size:120%;">Heejin Kim</b> 
+      </li>
     </ul>
 </details>
 
@@ -384,18 +308,6 @@ header:
     <summary style="font-size:1.2rem; font-weight:bold;">
         Staff
     </summary>
-    <ul type="square">
-<!--         <li><p style="text-align:left;"><b sytle="font-size:120%;">Bomin Kwon</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/kbm.jpg" alt="" height="160" width="120">
-        </p>
-    </li> -->
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Jiyeong Min</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jiyeong.png" alt="" height="160" width="120">
-        </p>
-    </li>
-    </ul>
 </details>
 
 <br>
@@ -423,6 +335,12 @@ header:
     </li>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Chanyang Ju</b><span style="float:right;"> <i>Feb 2023</i></span></p>
     </li>  
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Gwangwoon Lee</b><span style="float:right;"></span></p>
+    </li>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Kyuhwan Lee</b><span style="float:right;"></span></p>
+    </li>
+      <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b><span style="float:right;"></span></p>
+    </li>
     </ul>
 </details>
 
