@@ -296,10 +296,10 @@ header:
     <summary style="font-size:1.2rem; font-weight:bold;">
         Undergraduate student
     </summary>
-    <ul type="square">        
-      <li><p style="text-align:left;"><b sytle="font-size:120%;">Heejin Kim</b> 
-      </li>
-    </ul>
+      <ul type="square">        
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Heejin Kim</b> 
+        </li>
+      </ul>
 </details>
 
 <br>
