@@ -22,7 +22,6 @@ header:
     </p>
 </li>  
 <li>
-<li>
 [J28]  Changhao Chenli, Wenyi Tang, <b>Hyeonbum Lee</b>, and Taeho Jung
     <p>
         <i>Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness</i> 
