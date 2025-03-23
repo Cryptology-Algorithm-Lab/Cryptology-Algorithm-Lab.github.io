@@ -297,7 +297,7 @@ header:
         Undergraduate student
     </summary>
       <ul type="square">        
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Heejin Kim</b> 
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Heejin Kim</b></p> 
         </li>
       </ul>
 </details>
