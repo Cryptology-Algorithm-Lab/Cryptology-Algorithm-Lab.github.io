@@ -14,6 +14,28 @@ header:
 ## Newspaper Article 
 <ul type="disc">
     <li>
+        <A href= "https://www.kfenews.co.kr/news/articleView.html?idxno=632418">"정혜인, 한양대 서재홍 교수팀, 딥러닝 기반 얼굴 인증 시스템 보안 취약점 입증".</A>한국금융경제신문. 2025년 3월 25일 https://www.kfenews.co.kr/news/articleView.html?idxno=632418
+    </li> 
+    <li>
+        <A href= "https://www.m-i.kr/news/articleView.html?idxno=1220990">"김다니엘, 한양대 서재홍 교수팀, 딥러닝 기반 얼굴 인증 시스템의 보안 취약점 입증".</A>매일일보. 2025년 3월 25일 https://www.m-i.kr/news/articleView.html?idxno=1220990
+    </li> 
+    <li>
+        <A href= "https://news.nate.com/view/20250325n08007">"한양대, 얼굴 인증 시스템 취약성 실험으로 증명".</A>네이트뉴스. 2025년 3월 25일 https://news.nate.com/view/20250325n08007
+    </li> 
+    <li>
+        <A href= "https://www.fnnews.com/news/202503250927374259">"한양대, 얼굴 인증 시스템 취약성 실험으로 증명".</A>파이낸셜뉴스. 2025년 3월 25일 https://www.fnnews.com/news/202503250927374259
+    </li> 
+    <li>
+        <A href= "https://www.enewstoday.co.kr/news/articleView.html?idxno=2254419">"한양대 서재홍 교수팀, 얼굴 인증 API 공격 기법 발표".</A>이뉴스투데이. 2025년 3월 25일 https://www.enewstoday.co.kr/news/articleView.html?idxno=2254419
+    </li> 
+    <li>
+        <A href= "https://www.newsis.com/view/NISX20250325_0003111474">"한양대, 얼굴 인증 시스템 취약성 실험으로 증명".</A>뉴시스. 2025년 3월 25일 https://www.newsis.com/view/NISX20250325_0003111474
+    </li> 
+    <li>
+        <A href= "https://www.hani.co.kr/arti/economy/biznews/1188694.html">"한양대 서재홍 교수팀, 딥러닝 기반 얼굴 인증 시스템의 보안
+취약점 입증".</A>한겨레. 2025년 3월 25일 https://www.hani.co.kr/arti/economy/biznews/1188694.html
+    </li> 
+    <li>
         <A href= "https://www.newshyu.com/news/articleView.html?idxno=1007599">한수연, "이현범 학생, 국가암호공모전 대상 수상과 함께 세계적 암호 학회에서 인정 받아".</A> NewsH. 2022년 10월 20일 https://www.newshyu.com/news/articleView.html?idxno=1007599
     </li>  
     <li>
