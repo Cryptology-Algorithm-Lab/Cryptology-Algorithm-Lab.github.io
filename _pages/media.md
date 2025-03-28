@@ -41,10 +41,10 @@ header:
         <A href= "https://www.fnnews.com/news/202503250927374259">"한양대, 얼굴 인증 시스템 취약성 실험으로 증명".</A>파이낸셜뉴스. 2025년 3월 25일 https://www.fnnews.com/news/202503250927374259
     </li> 
     <li>
-        <A href= "https://www.enewstoday.co.kr/news/articleView.html?idxno=2254419">"한양대 서재홍 교수팀, 얼굴 인증 API 공격 기법 발표".</A>이뉴스투데이. 2025년 3월 25일 https://www.enewstoday.co.kr/news/articleView.html?idxno=2254419
+        <A href= "https://www.enewstoday.co.kr/news/articleView.html?idxno=2254419">"권오경, 한양대 서재홍 교수팀, 얼굴 인증 API 공격 기법 발표".</A>이뉴스투데이. 2025년 3월 25일 https://www.enewstoday.co.kr/news/articleView.html?idxno=2254419
     </li> 
     <li>
-        <A href= "https://www.newsis.com/view/NISX20250325_0003111474">"한양대, 얼굴 인증 시스템 취약성 실험으로 증명".</A>뉴시스. 2025년 3월 25일 https://www.newsis.com/view/NISX20250325_0003111474
+        <A href= "https://www.newsis.com/view/NISX20250325_0003111474">"윤신영, 한양대, 얼굴 인증 시스템 취약성 실험으로 증명".</A>뉴시스. 2025년 3월 25일 https://www.newsis.com/view/NISX20250325_0003111474
     </li> 
     <li>
         <A href= "https://www.hani.co.kr/arti/economy/biznews/1188694.html">"한양대 서재홍 교수팀, 딥러닝 기반 얼굴 인증 시스템의 보안
