@@ -14,6 +14,21 @@ header:
 ## Newspaper Article 
 <ul type="disc">
     <li>
+        <A href= "https://www.veritas-a.com/news/articleView.html?idxno=546987">"김하연, 한양대 서재홍 교수팀, 딥러닝 기반 얼굴 인증 시스템의 보안 취약점 입증".</A>베리타스알파. 2025년 3월 25일 https://www.veritas-a.com/news/articleView.html?idxno=546987
+    </li> 
+    <li>
+        <A href= "https://www.newstnt.com/news/articleView.html?idxno=471831">"성영희, 한양대 수학과 서재홍 교수 연구팀, 딥러닝 기반 얼굴 인증 시스템의 보안 취약점 입증".</A>뉴스티앤티. 2025년 3월 25일 https://www.newstnt.com/news/articleView.html?idxno=471831
+    </li> 
+    <li>
+        <A href= "https://www.joongangenews.com/news/articleView.html?idxno=414275">"김선정, 한양대 서재홍 교수팀, 딥러닝 기반 얼굴 인증 시스템의 보안 취약점 입증".</A>중앙이코노미뉴스. 2025년 3월 25일 https://www.joongangenews.com/news/articleView.html?idxno=414275
+    </li> 
+    <li>
+        <A href= "https://www.asiatime.co.kr/article/20250325500390#_enliple#_mobwcvr">"양혜랑, [25일 대학가] 중앙대·한양대·성신여대".</A>아시아타임즈. 2025년 3월 25일 https://www.asiatime.co.kr/article/20250325500390#_enliple#_mobwcvr
+    </li> 
+    <li>
+        <A href= "https://www.kyosu.net/news/articleView.html?idxno=132454">"배지우, 한양대 서재홍 교수팀, 딥러닝 기반 얼굴 인증 시스템의 보안 취약점 입증".</A>교수신문. 2025년 3월 25일 https://www.kyosu.net/news/articleView.html?idxno=132454
+    </li> 
+    <li>
         <A href= "https://www.kfenews.co.kr/news/articleView.html?idxno=632418">"정혜인, 한양대 서재홍 교수팀, 딥러닝 기반 얼굴 인증 시스템 보안 취약점 입증".</A>한국금융경제신문. 2025년 3월 25일 https://www.kfenews.co.kr/news/articleView.html?idxno=632418
     </li> 
     <li>
