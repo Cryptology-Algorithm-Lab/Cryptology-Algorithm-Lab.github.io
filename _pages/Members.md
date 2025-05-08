@@ -367,7 +367,7 @@ header:
     </li>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Chanwoo Hwang</b><span style="float:right;"> <i></i></span></p>
     </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Donsu Kim</b><span style="float:right;"> <i></i></span></p>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Dongsoo Kim</b><span style="float:right;"> <i></i></span></p>
     </li>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyunjung Son</b><span style="float:right;"> <i></i></span></p>
     </li>
