@@ -359,7 +359,7 @@ header:
     </li>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">SuRyun Ji</b><span style="float:right;"> <i></i></span></p>
     </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;"><A href="https://github.com/imeunu">Eunwoo Im </A><A href="https://sites.google.com/site/lliger9/?pli=1">(Visual Intelligence Lab @Hanyang University)</A></b><span style="float:right;"> <i></i></span></p>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Eunwoo Im</b><span style="float:right;"> <i></i></span></p>
     </li>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Taesam Kim (Hyundai Mobis)</b><span style="float:right;"> <i></i></span></p>
     </li>
@@ -380,6 +380,8 @@ header:
       <li><p style="text-align:left;"><b sytle="font-size:120%;">Seunghun Paik</b><span style="float:right;"> <i></i></span></p>
     </li>
       <li><p style="text-align:left;"><b sytle="font-size:120%;">Minsu Kim</b><span style="float:right;"> <i></i></span></p>
+    </li>
+      <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyeonkyu Kim</b><span style="float:right;"> <i></i></span></p>
     </li>
       <li><p style="text-align:left;"><b sytle="font-size:120%;">Yunki Kim</b><span style="float:right;"> <i></i></span></p>
     </li>
