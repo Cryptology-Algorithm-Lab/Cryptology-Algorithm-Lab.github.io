@@ -38,16 +38,16 @@ header:
         <br>
         A Study on Cryptographic Primitives for SNARK, Institute for Information and Communications Technology Promotion (IITP)
     </li>
-    <li>
-        Mar 2020 - Feb 2025, 양자내성을 가지는 효율적 단방향 영지식 증명 방법에 관한 연구, 한국연구재단
-        <br>
-        Research on Post-Quantum Non-Interactive Zero-Knowledge Proofs, National Research Foundation of KOREA (NRF)
-    </li>
 </ul>    
         
 
 ## Finished
 <ul type="square">
+    <li>
+        Mar 2020 - Feb 2025, 양자내성을 가지는 효율적 단방향 영지식 증명 방법에 관한 연구, 한국연구재단
+        <br>
+        Research on Post-Quantum Non-Interactive Zero-Knowledge Proofs, National Research Foundation of KOREA (NRF)
+    </li>
     <li>
         Sep 2021 - Aug 2024, 다자간 근사계산 암호 원천기술 개발, 삼성미래기술육성재단
         <br>
