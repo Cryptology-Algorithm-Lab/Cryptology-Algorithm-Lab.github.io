@@ -16,6 +16,14 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 ## Annual News
 
 <ul type="square">
+ <li>
+      (Jun 22, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ESORICS</span></b> 2025.
+      <ul type="disc">
+          <li>
+             <b>Jaehwan Park, <b>Hyeonbum Lee</b>, Junbeom Hur, <b>Jae Hong Seo</b> and Doowon Kim<br><i>UTRA: Universal Token Reusability Attack and Token Unforgeable Delegatable Order-Revealing Encryption</i>
+          </li>  
+      </ul>
+  </li>
   <li>
       (Feb 27, 2025) The following project supported by <b><span style = "color : #E8751A">Korea Institute of Information Security & Cryptology (KIISC)</span></b> has started.
       <ul type="disc">
