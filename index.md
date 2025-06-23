@@ -16,7 +16,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 ## Annual News
 
 <ul type="square">
- <li>
+  <li>
       (Jun 22, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ESORICS</span></b> 2025.
       <ul type="disc">
           <li>
