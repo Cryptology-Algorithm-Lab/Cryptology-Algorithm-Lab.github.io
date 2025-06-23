@@ -276,6 +276,14 @@ header:
 
 <ul type="none">
 <li> 
+  [C24] Jaehwan Park, <b>Hyeonbum Lee</b>, Junbeom Hur, <b>Jae Hong Seo</b> and Doowon Kim
+      <p>
+          <i>UTRA: Universal Token Reusability Attack and Token Unforgeable Delegatable Order-Revealing Encryption</i> 
+          <br>
+          <b>ESORICS</b> 2025, (TBA)
+      </p>  
+</li>  
+<li> 
   [C23] <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b> and <b>Jae Hong Seo</b>
       <p>
           <i>Towards Certifiably Robust Face Recognition</i> 
