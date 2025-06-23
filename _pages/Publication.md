@@ -18,7 +18,7 @@ header:
     <p>
         <i>Deep Face Template Protection in the Wild</i> 
         <br>
-        Pattern Recognition, TBA
+        Pattern Recognition, Apr 2025. (<A href="https://doi.org/10.1016/j.patcog.2024.111336">DOI</A>)
     </p>
 </li>  
 <li>
