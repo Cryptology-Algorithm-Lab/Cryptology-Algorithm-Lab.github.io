@@ -276,6 +276,14 @@ header:
 
 <ul type="none">
 <li> 
+  [C25] <b>Sunpill Kim &dagger;</b>, <b>Seunghun Paik &dagger;</b>, <b>Chanwoo Hwang</b>, <b>Dongsoo Kim</b>, Junbum Shin, and <b>Jae Hong Seo*</b>
+      <p>
+          <i>IDFace: Face Template Protection for Secure and Efficient Identification</i> 
+          <br>
+          <b>ICCV</b> 2025, (TBA)
+      </p>  
+</li>  
+<li> 
   [C24] Jaehwan Park, <b>Hyeonbum Lee</b>, Junbeom Hur, <b>Jae Hong Seo</b> and Doowon Kim
       <p>
           <i>UTRA: Universal Token Reusability Attack and Token Unforgeable Delegatable Order-Revealing Encryption</i> 
@@ -284,7 +292,7 @@ header:
       </p>  
 </li>  
 <li> 
-  [C23] <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b> and <b>Jae Hong Seo</b>
+  [C23] <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b> and <b>Jae Hong Seo*</b>
       <p>
           <i>Towards Certifiably Robust Face Recognition</i> 
           <br>
@@ -292,7 +300,7 @@ header:
       </p>  
 </li>  
 <li> 
-  [C22] <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b> and <b>Jae Hong Seo</b>
+  [C22] <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b> and <b>Jae Hong Seo*</b>
       <p>
           <i>On the Certifiable Robustness of Face Recognition Systems</i> 
           <br>
@@ -487,3 +495,4 @@ header:
 </ul>
 
 The corresponding author is marked with *.
+The equal contribution is marked with &dagger;.
