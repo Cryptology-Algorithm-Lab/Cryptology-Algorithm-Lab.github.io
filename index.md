@@ -17,6 +17,14 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
+      (Jun 26, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ICCV</span></b> 2025.
+      <ul type="disc">
+          <li>
+             <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Dongsoo Kim</b>, Junbum Shin, and <b>Jae Hong Seo</b><br><i>IDFace: Face Template Protection for Secure and Efficient Identification</i>
+          </li>  
+      </ul>
+  </li>
+  <li>
       (Jun 22, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ESORICS</span></b> 2025.
       <ul type="disc">
           <li>
