@@ -50,6 +50,17 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         </ul>
   </li>
   <li>
+        (Apr 8, 2024)  Dongsoo Kim, a member of our lab, will be giving a talk at the Hanyang University Mathematics Colloquium on the following topic.
+        <ul type="disc">
+            <li>
+              Date & Place : 04:00 PM, Apr 8 / Natural Science building B119
+            </li>
+            <li>
+              Title : <i>Certifiable robustness: Theoretically guaranted defence method against to adversarial attack on deep learning model</i>              
+            </li>
+        </ul>
+  </li>
+  <li>
       (Feb 27, 2025) The following project supported by <b><span style = "color : #E8751A">Korea Institute of Information Security & Cryptology (KIISC)</span></b> has started.
       <ul type="disc">
           <li>
