@@ -33,6 +33,23 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </ul>
   </li>
   <li>
+        (Jun 5, 2024)  Doctor Mahdi Sedaghat from COSIC, KU Leuven, and founder of Soundness Labs will visit C&A lab. He will give a lecture and discuss joint research.
+        <ul type="disc">
+            <li>
+              Date & Place : 01:00 PM, May 20 / Natural Science building 701
+            </li>
+            <li>
+              Title : <i>Translating Zero-Knowledge Research into Real-World Web3 Solutions: zkLogin and more</i>              
+            </li>
+            <details>
+                <summary>
+                    (For lecture abstract, click the arrow)
+                </summary>
+               <b>Abstract</b>: In this talk, I will share some of my recent works on bringing zk to real-world usecases. As the main part of the talk, I will discuss how zkLogin has simplified users' onboarding process by using identity tokens from platforms like Google or Facebook to authenticate transactions. Instead of managing new secrets, users can sign in with their existing accounts, and zero-knowledge proofs ensure that the link between a user’s off-chain and on-chain identity stays hidden. Since its launch on the Sui blockchain, zkLogin has processed over 7 million zkLogin-signed transactions, containing around 2.5 million unique Zero-Knowledge Proofs (as of March 17, 2025), making it one of the most widely used zkApp. Additionally I will cover some extra use-cases like targeted Airdrops.
+            </details>
+        </ul>
+  </li>
+  <li>
       (Feb 27, 2025) The following project supported by <b><span style = "color : #E8751A">Korea Institute of Information Security & Cryptology (KIISC)</span></b> has started.
       <ul type="disc">
           <li>
