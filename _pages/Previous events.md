@@ -20,6 +20,9 @@ header:
     </summary>
     <ul type="square">
   <li>
+    (Dec 24, 2024) <b>Seunghun Paik</b> visit in the University of Notre Dame to do research on private set intersection protocols and their applications during six months. We wish their successful journeys to become good researchers!
+  </li>    
+  <li>
     (Oct 15, 2024) <b>Seunghun Paik</b> (MS-PhD Integrated Student) was selected as an excellent trainee in the National Cryptography Expert Training course (암호전문인력양성교육) conducted by the National Security Research Institute. Congrats Seunghun!
   </li>
    <li>
