@@ -17,6 +17,14 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
+      (Jul 03, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ACM CCS</span></b> 2025.
+      <ul type="disc">
+          <li>
+             Intak Hwang, <b>Hyeonbum Lee</b>, Jinyeong Seo, Yongsoo Song<br><i>Practical Zero-Knowledge PIOP for Maliciously Secure Multiparty Homomorphic Encryption</i>
+          </li>  
+      </ul>
+  </li>
+  <li>
       (Jun 26, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ICCV</span></b> 2025.
       <ul type="disc">
           <li>
