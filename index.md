@@ -17,7 +17,10 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
-    (Jul 19, 2025) <b>Hyunjung Son</b> visit in the University of Notre Dame to do research on the security technologies to protect data copyright during one month. We wish their successful journeys to become good researchers!
+    (Jul 23, 2025) <b>Yunki Kim</b> visit in the University of Notre Dame to do research on private set intersection protocols and their applications during six months. We wish his successful journeys to become good researchers!
+  </li>   
+  <li>
+    (Jul 19, 2025) <b>Hyunjung Son</b> visit in the University of Notre Dame to do research on the security technologies to protect data copyright during one month. We wish her successful journeys to become good researchers!
   </li>   
   <li>
       (Jul 03, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ACM CCS</span></b> 2025.
