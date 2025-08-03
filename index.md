@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
-        (Aug 4, 2025)  <b>Seunghun Paik</b>, a member of our lab, will be giving a poster presentation at the <b><span style = "color : #4169E1">KCCV</span></b> 2025 about the following paper.
+        (Aug 4, 2025)  <b>Seunghun Paik</b>, will give a poster presentation at the <b><span style = "color : #4169E1">KCCV</span></b> 2025.
         <ul type="disc">
             <li>
               Date & Place : 02:30 PM, Aug 6 / BEXCO, Busan, Korea
