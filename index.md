@@ -17,6 +17,17 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
+        (Aug 4, 2025)  Seunghun Paik, a member of our lab, will be giving a poster presentation at the <b><span style = "color : #4169E1">KCCV</span></b> 2025 about the following paper.
+        <ul type="disc">
+            <li>
+              Date & Place : 02:30 PM, Aug 6 / BEXCO, Busan, Korea
+            </li>
+            <li>
+               <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b><br><i>Towards Certifiably Robust Face Recognition</i>
+            </li>  
+        </ul>
+  </li>
+  <li>
     (Jul 23, 2025) <b>Yunki Kim</b> visit in the University of Notre Dame to do research on private set intersection protocols and their applications during six months. We wish his successful journeys to become good researchers!
   </li>   
   <li>
@@ -47,7 +58,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </ul>
   </li>
   <li>
-        (Jun 5, 2024)  Doctor Mahdi Sedaghat from COSIC, KU Leuven, and founder of Soundness Labs will visit C&A lab. He will give a lecture and discuss joint research.
+        (Jun 5, 2025)  Doctor Mahdi Sedaghat from COSIC, KU Leuven, and founder of Soundness Labs will visit C&A lab. He will give a lecture and discuss joint research.
         <ul type="disc">
             <li>
               Date & Place : 01:00 PM, May 20 / Natural Science building 701
@@ -64,7 +75,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         </ul>
   </li>
   <li>
-        (Apr 8, 2024)  Dongsoo Kim, a member of our lab, will be giving a talk at the Hanyang University Mathematics Colloquium on the following topic.
+        (Apr 8, 2025)  Dongsoo Kim, a member of our lab, will be giving a talk at the Hanyang University Mathematics Colloquium on the following topic.
         <ul type="disc">
             <li>
               Date & Place : 04:00 PM, Apr 8 / Natural Science building B119
