@@ -275,14 +275,14 @@ header:
 ## Conference
 
 <ul type="none">
-<li> 
+<!-- <li> 
   [C26] Intak Hwang, <b>Hyeonbum Lee</b>, Jinyeong Seo, Yongsoo Song
       <p>
           <i>Practical Zero-Knowledge PIOP for Maliciously Secure Multiparty Homomorphic Encryption</i> 
           <br>
           <b>ACM CCS</b> 2025, (TBA)
       </p>  
-</li>  
+</li>   -->
 <li> 
   [C25] <b>Sunpill Kim &dagger;</b>, <b>Seunghun Paik &dagger;</b>, <b>Chanwoo Hwang</b>, <b>Dongsoo Kim</b>, Junbum Shin, and <b>Jae Hong Seo*</b>
       <p>
