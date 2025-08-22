@@ -328,7 +328,8 @@ header:
     </summary>
     <ul type="square">
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyeonbum Lee (Seoul National University)</b><span style="float:right;"> <i>Aug 2025</i></span></p>
-    </li>
+      </li>
+     </ul> 
 </details>
 
 <details>
