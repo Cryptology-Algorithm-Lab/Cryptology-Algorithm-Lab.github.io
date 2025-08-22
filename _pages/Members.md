@@ -345,11 +345,11 @@ header:
     </li>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Chanyang Ju</b><span style="float:right;"> <i>Feb 2023</i></span></p>
     </li>  
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Gwangwoon Lee (ArtygenSpace)</b><span style="float:right;">Aug 2024</span></p>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Gwangwoon Lee (ArtygenSpace)</b><span style="float:right;"><i>Aug 2024</i></span></p>
     </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Kyuhwan Lee (Korean National Police Agency)</b><span style="float:right;">Aug 2024</span></p>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Kyuhwan Lee (Korean National Police Agency)</b><span style="float:right;"><i>Aug 2024</i></span></p>
     </li>
-      <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b><span style="float:right;">Aug 2024</span></p>
+      <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b><span style="float:right;"><i>Aug 2024</i></span></p>
     </li>
     </ul>
 </details>
