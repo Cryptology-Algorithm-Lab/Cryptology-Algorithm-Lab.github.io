@@ -120,9 +120,39 @@ gallery10:
   - url: /assets/Gallery/nation24_2.jpeg
     image_path: /assets/Gallery/nation24_2.jpeg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"                                         
+    title: "Image 2 title caption"
+gallery11:
+  - url: /assets/Gallery/hb_cel1.jpg
+    image_path: /assets/Gallery/hb_cel1.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/Gallery/hb_cel2.jpg
+    image_path: /assets/Gallery/hb_cel2.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+gallery12:
+  - url: /assets/Gallery/kccv25_1.jpg
+    image_path: /assets/Gallery/kccv25_1.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/Gallery/kccv25_2.jpg
+    image_path: /assets/Gallery/kccv25_2.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/Gallery/kccv25_3.jpg
+    image_path: /assets/Gallery/kccv25_3.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/Gallery/kccv25_4.jpg
+    image_path: /assets/Gallery/kccv25_4.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"                                            
 ---
 # Gallery
+{% include gallery id="gallery12" caption="**Our lab at KCCV 2025 – a great time of academic exchange, with a special birthday celebration for Chanjin Kim.**" %}
+
+{% include gallery id="gallery11" caption="**Celebrating the graduation of Hyeonbum Lee – wishing him continued success ahead.**" %}
+
 {% include gallery id="gallery10" caption="**Congrats on sevaral awards in the National Cryptographic Technology Contest 2024.**" %}
 
 {% include gallery id="gallery9" caption="**Congrats the award in Cryptanalysis Contest.**" %}
