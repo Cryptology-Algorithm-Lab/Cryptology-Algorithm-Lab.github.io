@@ -367,7 +367,7 @@ header:
     </li>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Jungmin Kim</b><span style="float:right;"> <i></i></span></p>
     </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">SuRyun Ji</b><span style="float:right;"> <i></i></span></p>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Suryun Ji</b><span style="float:right;"> <i></i></span></p>
     </li>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Eunwoo Im</b><span style="float:right;"> <i></i></span></p>
     </li>
