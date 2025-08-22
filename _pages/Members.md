@@ -97,7 +97,7 @@ header:
           </ul>          
         </details>  
     </li>   
-    <br>
+<!--     <br>
         <li><p style="text-align:left;"><A href="https://hyeonbumlee.github.io"><b sytle="font-size:120%;">Hyeonbum Lee</b></A>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Hyeonbum.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
@@ -139,7 +139,7 @@ header:
               Special Prize, National Cryptographic Technology Contest. Oct 2021 Korea Cryptography Forum
             </li> 
           </ul>  
-        </details>     
+        </details>      -->
       <br>
       <li><p style="text-align:left;"><b sytle="font-size:120%;">Chanwoo Hwang</b>
         <br>
@@ -324,7 +324,16 @@ header:
 
 <details>
     <summary style="font-size:1.2rem; font-weight:bold;">
-        Alumni (Graduate Students)
+        Alumni (Ph.D)
+    </summary>
+    <ul type="square">
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyeonbum Lee (Seoul National University)</b><span style="float:right;"> <i>Aug 2025</i></span></p>
+    </li>
+</details>
+
+<details>
+    <summary style="font-size:1.2rem; font-weight:bold;">
+        Alumni (Master)
     </summary>
     <ul type="square">
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Hwamin Yoo</b><span style="float:right;"> <i>Feb 2017</i></span></p>
@@ -335,11 +344,11 @@ header:
     </li>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Chanyang Ju</b><span style="float:right;"> <i>Feb 2023</i></span></p>
     </li>  
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Gwangwoon Lee</b><span style="float:right;"></span></p>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Gwangwoon Lee (ArtygenSpace)</b><span style="float:right;">Aug 2024</span></p>
     </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Kyuhwan Lee</b><span style="float:right;"></span></p>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Kyuhwan Lee (Korean National Police Agency)</b><span style="float:right;">Aug 2024</span></p>
     </li>
-      <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b><span style="float:right;"></span></p>
+      <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b><span style="float:right;">Aug 2024</span></p>
     </li>
     </ul>
 </details>
