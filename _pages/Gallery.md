@@ -149,7 +149,7 @@ gallery12:
     title: "Image 4 title caption"                                            
 ---
 # Gallery
-{% include gallery id="gallery12" caption="**Our lab at KCCV 2025 – a great time of academic exchange, with a special birthday celebration for Chanjin Kim.**" %}
+{% include gallery id="gallery12" layout="half" caption="**Our lab at KCCV 2025 – a great time of academic exchange, with a special birthday celebration for Chanjin Kim.**" %}
 
 {% include gallery id="gallery11" caption="**Celebrating the graduation of Hyeonbum Lee – wishing him continued success ahead.**" %}
 
