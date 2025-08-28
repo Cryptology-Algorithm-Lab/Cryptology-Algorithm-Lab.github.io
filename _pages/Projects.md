@@ -14,7 +14,7 @@ header:
 
 <ul type="square">
     <li>
-        Sep 2025 - Aug 2026, 신원 보존 역모델 설계 화자 인식 시스템의 취약성 탐구, 한국연구재단
+        Sep 2025 - Aug 2026, 신원 보존 역모델 설계: 화자 인식 시스템의 취약성 탐구, 한국연구재단
         <br>
         Design Identity-Preserving Inverse Models: Exploring Vulnerabilities in Speaker Recognition Systems, National Research Foundation of Korea (NRF)
     </li> 
