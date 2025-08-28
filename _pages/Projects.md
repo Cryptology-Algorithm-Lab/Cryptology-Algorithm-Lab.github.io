@@ -24,7 +24,7 @@ header:
         A Study of Fuzzy Private Set Intersection, National Research Foundation of Korea (NRF)
     </li> 
     <li>
-        Feb 2025 - Dec 2025, 상용 얼굴인식 API의 적대적 공격 및 안전성 분석, 한국연구재단, 한국정보보호학회 암호연구회 (KIISC)
+        Feb 2025 - Dec 2025, 상용 얼굴인식 API의 적대적 공격 및 안전성 분석, 한국정보보호학회 암호연구회
         <br>
         Adversarial Attacks and Security Analysis on Commercial Face Recognition APIs, Korea Institute of Information Security & Cryptology (KIISC)
     </li> 
