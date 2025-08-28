@@ -14,6 +14,16 @@ header:
 
 <ul type="square">
     <li>
+        Sep 2025 - Aug 2026, 신원 보존 역모델 설계 화자 인식 시스템의 취약성 탐구, 한국연구재단
+        <br>
+        Design Identity-Preserving Inverse Models: Exploring Vulnerabilities in Speaker Recognition Systems, National Research Foundation of Korea (NRF)
+    </li> 
+    <li>
+        Sep 2025 - Aug 2026, 안전한 퍼지 교집합 연산 프로토콜 설계 기법 연구, 한국연구재단
+        <br>
+        A Study of Fuzzy Private Set Intersection, National Research Foundation of Korea (NRF)
+    </li> 
+    <li>
         Feb 2025 - Dec 2025, 상용 얼굴인식 API의 적대적 공격 및 안전성 분석, 한국연구재단, 한국정보보호학회 암호연구회 (KIISC)
         <br>
         Adversarial Attacks and Security Analysis on Commercial Face Recognition APIs, Korea Institute of Information Security & Cryptology (KIISC)
