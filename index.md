@@ -17,6 +17,17 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
+      (Aug 28, 2025) The following 2 projects supported by <b><span style = "color : #E8751A">National Research Foundation of Korea (NRF)</span></b> have started.
+      <ul type="disc">
+          <li>
+             <i>Design Identity-Preserving Inverse Models: Exploring Vulnerabilities in Speaker Recognition Systems</i>
+          </li>
+          <li>
+             <i>A Study of Fuzzy Private Set Intersection</i>
+          </li> 
+      </ul>
+  </li>
+  <li>
         (Aug 4, 2025) <b>Seunghun Paik</b> has been invited to give a poster presentation at the <b><span style="color:#4169E1">KCCV</span></b> 2025.
         <ul type="disc">
             <li>
