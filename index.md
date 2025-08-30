@@ -92,7 +92,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
               Date & Place : 04:00 PM, Apr 8 / Natural Science Building B119
             </li>
             <li>
-              Title : <i>Certifiable robustness: Theoretically guaranted defence method against to adversarial attack on deep learning models</i>              
+              Title : <i>Certifiable robustness: Theoretically guaranted defence method against adversarial attacks on deep learning models</i>              
             </li>
         </ul>
   </li>
