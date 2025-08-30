@@ -39,10 +39,10 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         </ul>
   </li>
   <li>
-    (Jul 23, 2025) <b>Yunki Kim</b> visited in the University of Notre Dame to do research on private set intersection protocols and their applications during six months. We wish his successful journeys to become a good researcher!
+    (Jul 23, 2025) <b>Yunki Kim</b> visited the University of Notre Dame to do research on private set intersection protocols and their applications for six months. We wish him successful journeys to become a good researcher!
   </li>   
   <li>
-    (Jul 19, 2025) <b>Hyunjung Son</b> visited in the University of Notre Dame to do research on the security technologies to protect data copyright during one month. We wish her successful journeys to become a good researcher!
+    (Jul 19, 2025) <b>Hyunjung Son</b> visited the University of Notre Dame to do research on the security technologies to protect data copyright for a month. We wish her successful journeys to become a good researcher!
   </li>   
 <!--   <li>
       (Jul 03, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ACM CCS</span></b> 2025.
@@ -75,11 +75,11 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
               Date & Place : 01:00 PM, May 20 / Natural Science Building 701
             </li>
             <li>
-              Title : <i>Translating Zero-Knowledge Research into Real-World Web3 Solutions: zkLogin and more</i>              
+              Title : <i>Translating Zero-Knowledge Research into Real-World Web3 Solutions: zkLogin and More</i>              
             </li>
             <details>
                 <summary>
-                    (For lecture abstract, click the arrow)
+                    (For the lecture abstract, click the arrow.)
                 </summary>
                <b>Abstract</b>: In this talk, I will share some of my recent works on bringing zk to real-world usecases. As the main part of the talk, I will discuss how zkLogin has simplified users' onboarding process by using identity tokens from platforms like Google or Facebook to authenticate transactions. Instead of managing new secrets, users can sign in with their existing accounts, and zero-knowledge proofs ensure that the link between a user’s off-chain and on-chain identity stays hidden. Since its launch on the Sui blockchain, zkLogin has processed over 7 million zkLogin-signed transactions, containing around 2.5 million unique Zero-Knowledge Proofs (as of March 17, 2025), making it one of the most widely used zkApp. Additionally I will cover some extra use-cases like targeted Airdrops.
             </details>
