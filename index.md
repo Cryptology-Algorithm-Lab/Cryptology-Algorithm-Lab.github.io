@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
-      (Aug 28, 2025) The following 2 projects supported by <b><span style = "color : #E8751A">National Research Foundation of Korea (NRF)</span></b> have started.
+      (Aug 28, 2025) The following 2 projects supported by the <b><span style = "color : #E8751A">National Research Foundation of Korea (NRF)</span></b> have started.
       <ul type="disc">
           <li>
              <i>Design Identity-Preserving Inverse Models: Exploring Vulnerabilities in Speaker Recognition Systems</i>
@@ -39,10 +39,10 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         </ul>
   </li>
   <li>
-    (Jul 23, 2025) <b>Yunki Kim</b> visit in the University of Notre Dame to do research on private set intersection protocols and their applications during six months. We wish his successful journeys to become good researchers!
+    (Jul 23, 2025) <b>Yunki Kim</b> visited in the University of Notre Dame to do research on private set intersection protocols and their applications during six months. We wish his successful journeys to become a good researcher!
   </li>   
   <li>
-    (Jul 19, 2025) <b>Hyunjung Son</b> visit in the University of Notre Dame to do research on the security technologies to protect data copyright during one month. We wish her successful journeys to become good researchers!
+    (Jul 19, 2025) <b>Hyunjung Son</b> visit in the University of Notre Dame to do research on the security technologies to protect data copyright during one month. We wish her successful journeys to become a good researcher!
   </li>   
 <!--   <li>
       (Jul 03, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ACM CCS</span></b> 2025.
@@ -64,15 +64,15 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       (Jun 22, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ESORICS</span></b> 2025.
       <ul type="disc">
           <li>
-             Jaehwan Park, <b>Hyeonbum Lee</b>, Junbeom Hur, <b>Jae Hong Seo</b> and Doowon Kim<br><i>UTRA: Universal Token Reusability Attack and Token Unforgeable Delegatable Order-Revealing Encryption</i>
+             Jaehwan Park, <b>Hyeonbum Lee</b>, Junbeom Hur, <b>Jae Hong Seo</b>, and Doowon Kim<br><i>UTRA: Universal Token Reusability Attack and Token Unforgeable Delegatable Order-Revealing Encryption</i>
           </li>  
       </ul>
   </li>
   <li>
-        (Jun 5, 2025)  Doctor Mahdi Sedaghat from COSIC, KU Leuven, and founder of Soundness Labs will visit C&A lab. He will give a lecture and discuss joint research.
+        (Jun 5, 2025)  Doctor Mahdi Sedaghat from COSIC, KU Leuven, and founder of Soundness Labs will visit the C&A lab. He will give a lecture and discuss joint research.
         <ul type="disc">
             <li>
-              Date & Place : 01:00 PM, May 20 / Natural Science building 701
+              Date & Place : 01:00 PM, May 20 / Natural Science Building 701
             </li>
             <li>
               Title : <i>Translating Zero-Knowledge Research into Real-World Web3 Solutions: zkLogin and more</i>              
@@ -89,15 +89,15 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         (Apr 8, 2025)  Dongsoo Kim, a member of our lab, will be giving a talk at the Hanyang University Mathematics Colloquium on the following topic.
         <ul type="disc">
             <li>
-              Date & Place : 04:00 PM, Apr 8 / Natural Science building B119
+              Date & Place : 04:00 PM, Apr 8 / Natural Science Building B119
             </li>
             <li>
-              Title : <i>Certifiable robustness: Theoretically guaranted defence method against to adversarial attack on deep learning model</i>              
+              Title : <i>Certifiable robustness: Theoretically guaranted defence method against to adversarial attack on deep learning models</i>              
             </li>
         </ul>
   </li>
   <li>
-      (Feb 27, 2025) The following project supported by <b><span style = "color : #E8751A">Korea Institute of Information Security & Cryptology (KIISC)</span></b> has started.
+      (Feb 27, 2025) The following project supported by the <b><span style = "color : #E8751A">Korea Institute of Information Security & Cryptology (KIISC)</span></b> has started.
       <ul type="disc">
           <li>
              <i>Adversarial Attacks and Security Analysis on Commercial Face Recognition APIs</i>
