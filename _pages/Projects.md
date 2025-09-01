@@ -27,17 +27,7 @@ header:
         Feb 2025 - Dec 2025, 상용 얼굴인식 API의 적대적 공격 및 안전성 분석, 한국정보보호학회 암호연구회
         <br>
         Adversarial Attacks and Security Analysis on Commercial Face Recognition APIs, Korea Institute of Information Security & Cryptology (KIISC)
-    </li> 
-    <li>
-        Sep 2024 - Aug 2025, 영지식 증명을 통한 점진적으로 검증 가능한 연산에 관한 연구, 한국연구재단
-        <br>
-        A Study on Incremetally Verifiable Computation through Zero-Knowledge Proof, National Research Foundation of Korea (NRF)
-    </li> 
-    <li>
-        Sep 2024 - Aug 2025, 딥러닝 기반 생체인식 시스템을 이용한 안전한 인증 시스템, 한국연구재단
-        <br>
-        Secure Authentication System using Deep Learning-based Biometric Recognition System, National Research Foundation of Korea (NRF)
-    </li> 
+    </li>
     <li>
         Apr 2024 - Dec 2027, 차세대 저작권 침해 방지 기술 및 안전한 콘텐츠 유통 기술 개발을 위한 국제 공동 연구, 한국콘텐츠진흥원
         <br>
@@ -53,6 +43,16 @@ header:
 
 ## Finished
 <ul type="square">
+    <li>
+        Sep 2024 - Aug 2025, 영지식 증명을 통한 점진적으로 검증 가능한 연산에 관한 연구, 한국연구재단
+        <br>
+        A Study on Incremetally Verifiable Computation through Zero-Knowledge Proof, National Research Foundation of Korea (NRF)
+    </li> 
+    <li>
+        Sep 2024 - Aug 2025, 딥러닝 기반 생체인식 시스템을 이용한 안전한 인증 시스템, 한국연구재단
+        <br>
+        Secure Authentication System using Deep Learning-based Biometric Recognition System, National Research Foundation of Korea (NRF)
+    </li> 
     <li>
         Mar 2020 - Feb 2025, 양자내성을 가지는 효율적 단방향 영지식 증명 방법에 관한 연구, 한국연구재단
         <br>
