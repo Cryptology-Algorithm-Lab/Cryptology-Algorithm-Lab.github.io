@@ -276,7 +276,7 @@ header:
 
 <ul type="none">
 <li> 
-  [C27] <b>Changjin Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*<b>
+  [C27] <b>Changjin Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*</b>
       <p>
           <i>A Survey of Model Inversion Attacks on Image Domain</i> 
           <br>
@@ -284,7 +284,7 @@ header:
       </p>  
 </li>
 <li> 
-  [C26] <b>Yunki Kim</b>, <b>Hyunjung Son</b>, <b>Seunghun Paik</b>, and <b>Jae Hong Seo</b>
+  [C26] <b>Yunki Kim</b>, <b>Hyunjung Son</b>, <b>Seunghun Paik</b>, and <b>Jae Hong Seo*</b>
       <p>
           <i>A Survey on Fuzzy Private Set Intersection Protocols</i> 
           <br>
