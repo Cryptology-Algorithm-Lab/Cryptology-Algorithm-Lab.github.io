@@ -17,6 +17,17 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
+      (Sep 07, 2025) The following 2 papers have been accepted for presentation at <b><span style = "color : #4169E1">IEEE ICTC</span></b> 2025.
+      <ul type="disc">
+          <li>
+             <b>Chanjin Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b><br><i>A Survey of Model Inversion Attacks on Image Domain</i>
+          </li>
+          <li>
+             <b>Yunki Kim</b>, <b>Hyunjung Son</b>, <b>Seunghun Paik</b>, and <b>Jae Hong Seo</b><br><i>A Survey on Fuzzy Private Set Intersection Protocols</i>
+          </li>  
+      </ul>
+  </li>
+  <li>
       (Aug 28, 2025) The following 2 projects supported by the <b><span style = "color : #E8751A">National Research Foundation of Korea (NRF)</span></b> have started.
       <ul type="disc">
           <li>
