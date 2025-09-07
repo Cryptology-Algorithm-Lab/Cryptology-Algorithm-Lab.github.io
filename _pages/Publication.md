@@ -275,14 +275,22 @@ header:
 ## Conference
 
 <ul type="none">
-<!-- <li> 
-  [C26] Intak Hwang, <b>Hyeonbum Lee</b>, Jinyeong Seo, Yongsoo Song
+<li> 
+  [C27] <b>Changjin Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*<b>
       <p>
-          <i>Practical Zero-Knowledge PIOP for Maliciously Secure Multiparty Homomorphic Encryption</i> 
+          <i>A Survey of Model Inversion Attacks on Image Domain</i> 
           <br>
-          <b>ACM CCS</b> 2025, (TBA)
+          <b>ICTC</b> 2025, (TBA)
       </p>  
-</li>   -->
+</li>
+<li> 
+  [C26] <b>Yunki Kim</b>, <b>Hyunjung Son</b>, <b>Seunghun Paik</b>, and <b>Jae Hong Seo</b>
+      <p>
+          <i>A Survey on Fuzzy Private Set Intersection Protocols</i> 
+          <br>
+          <b>ICTC</b> 2025, (TBA)
+      </p>  
+</li>
 <li> 
   [C25] <b>Sunpill Kim &dagger;</b>, <b>Seunghun Paik &dagger;</b>, <b>Chanwoo Hwang</b>, <b>Dongsoo Kim</b>, Junbum Shin, and <b>Jae Hong Seo*</b>
       <p>
