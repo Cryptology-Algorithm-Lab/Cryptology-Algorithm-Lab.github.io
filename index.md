@@ -17,6 +17,14 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
+      (Sep 19, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">NeurIPS</span></b> 2025.
+      <ul type="disc">
+          <li>
+            <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Minsu Kim</b>, and <b>Jae Hong Seo</b><br><i>Non-Adaptive Adversarial Face Generation</i>
+          </li>
+      </ul>
+  </li>
+  <li>
       (Sep 07, 2025) The following 2 papers have been accepted for presentation at <b><span style = "color : #4169E1">IEEE ICTC</span></b> 2025.
       <ul type="disc">
           <li>
