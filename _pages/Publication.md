@@ -276,6 +276,14 @@ header:
 
 <ul type="none">
 <li> 
+  [C28] <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Minsu Kim</b>, and <b>Jae Hong Seo*</b>
+      <p>
+          <i>Non-Adaptive Adversarial Face Generation</i> 
+          <br>
+          <b>NeurIPS</b> 2025, (TBA)
+      </p>  
+</li>
+<li> 
   [C27] <b>Changjin Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*</b>
       <p>
           <i>A Survey of Model Inversion Attacks on Image Domain</i> 
