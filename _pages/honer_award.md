@@ -12,6 +12,22 @@ header:
 ---
 # Honors & Awards
 
+## 2025
+<ul type="square">
+  <li>Excellence Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
+    <ul type="-">
+      <li><b>Seunghun Paik</b>, Nirajan Koirala, Jack Nero, <b>Hyunjung Son</b>, <b>Yunki Kim</b>, <b>Jae Hong Seo</b>, and Taeho Jung</li>
+    </ul>  
+  <li>Special Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
+    <ul type="-">
+      <li><b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Minsu Kim</b>, and <b>Jae Hong Seo</b></li>
+    </ul>
+  <li>Special Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
+    <ul type="-">
+      <li><b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, Yong Kiam Tan, Tianchi Liu, <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, Soumik Mondal, Khin Mi Mi Aung, and <b>Jae Hong Seo</b></li>
+    </ul>
+</ul>
+
 ## 2024
 <ul type="square">
   <li>Excellence Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
