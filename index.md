@@ -17,6 +17,32 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
+        (Sep 23, 2025) Papers led by C&A members won several awards at the <b><span style = "color : #08A709">National Cryptographic Technology Contest</span></b>, 2025.
+        <ul type="disc">
+          <li>
+            The following paper won the Excellence Award. Congrats all authors who participated in this submission.
+          <ul type="circle">
+            <li>             
+              <b>Seunghun Paik</b>, Nirajan Koirala, Jack Nero, <b>Hyunjung Son</b>, <b>Yunki Kim</b>, <b>Jae Hong Seo</b>, and Taeho Jung
+            <br>
+              <i>Scalable Private Membership Test over Distributed and Encrypted Data</i>
+            </li> 
+          </ul>  
+          </li>
+          <li>
+            The following 2 papers won the Special Award. Congrats all authors who participated in these submissions.
+            <ul type="circle">
+              <li>
+                 <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Minsu Kim</b>, and <b>Jae Hong Seo</b><br><i>Non-Adaptive Adversarial Face Generation</i>
+              </li>
+              <li>
+                 <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, Yong Kiam Tan, Tianchi Liu, <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, Soumik Mondal, Khin Mi Mi Aung, and <b>Jae Hong Seo</b><br><i>Scores Know Bob’s Voice: Non-Adaptive Speaker Impersonation Attack</i>
+              </li>
+            </ul>
+          </li>
+        </ul>
+   </li>
+  <li>
       (Sep 19, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">NeurIPS</span></b> 2025.
       <ul type="disc">
           <li>
