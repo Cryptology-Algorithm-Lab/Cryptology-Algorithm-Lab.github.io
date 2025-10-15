@@ -17,6 +17,20 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
+        (Oct 15, 2025)  Sunpill Kim and Chanwoo Hwang, members of our lab, will be giving a talk at the Hanyang University Mathematics Colloquium on the following topic.
+        <ul type="disc">
+            <li>
+              Date & Place : 04:00 PM, Oct 16 / Natural Science Building 206
+            </li>
+            <li>
+              Topic 1 : <i>Non-Adaptive Adversarial Face Generation</i>              
+            </li>
+            <li>
+              Topic 2 : <i>Scores Know Bob’s Voice: Non-Adaptive Speaker Impersonation Attack</i>              
+            </li>
+        </ul>
+  </li>
+  <li>
         (Sep 23, 2025) Papers led by C&A members won several awards at the <b><span style = "color : #08A709">National Cryptographic Technology Contest</span></b>, 2025.
         <ul type="disc">
           <li>
