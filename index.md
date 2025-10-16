@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
-        (Oct 15, 2025)  Sunpill Kim and Chanwoo Hwang, members of our lab, will be giving a talk at the Hanyang University Mathematics Colloquium on the following topic.
+        (Oct 15, 2025)  <b>Sunpill Kim</b> and <b>Chanwoo Hwang</b>, members of our lab, will be giving a talk at the Hanyang University Mathematics Colloquium on the following topics.
         <ul type="disc">
             <li>
               Date & Place : 04:00 PM, Oct 16 / Natural Science Building 206
