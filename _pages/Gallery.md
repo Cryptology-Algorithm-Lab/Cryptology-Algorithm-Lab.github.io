@@ -146,9 +146,20 @@ gallery12:
   - url: /assets/Gallery/kccv25_4.jpg
     image_path: /assets/Gallery/kccv25_4.jpg
     alt: "placeholder image 4"
-    title: "Image 4 title caption"                                            
+    title: "Image 4 title caption"
+gallery13:
+  - url: /assets/Gallery/contest25.jpeg
+    image_path: /assets/Gallery/contest25.jpeg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/Gallery/contest25_2.jpeg
+    image_path: /assets/Gallery/contest25_2.jpeg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"                                        
 ---
 # Gallery
+{% include gallery id="gallery13" caption="Congrats on sevaral awards in the National Cryptographic Technology Contest 2025." %}
+
 {% include gallery id="gallery12" layout="half" caption="**Our lab at KCCV 2025 – a great time of academic exchange, with a birthday celebration for Changjin Kim.**" %}
 
 {% include gallery id="gallery11" caption="**Celebrating the graduation of Hyeonbum Lee – wishing him continued success ahead.**" %}
