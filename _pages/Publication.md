@@ -276,6 +276,14 @@ header:
 
 <ul type="none">
 <li> 
+  [C29] Nirajan Koirala, <b>Seunghun Paik</b>, Sam Martin, Helena Berens, Tasha Januszewicz, Jonathan Takeshita, <b>Jae Hong Seo</b>, Taeho Jung
+      <p>
+          <i>Select-Then-Compute: Encrypted Label Selection and Analytics over Distributed Datasets using FHE</i> 
+          <br>
+          <b>NDSS</b> 2026, (TBA)
+      </p>  
+</li>
+<li> 
   [C28] <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Minsu Kim</b>, and <b>Jae Hong Seo*</b>
       <p>
           <i>Non-Adaptive Adversarial Face Generation</i> 
