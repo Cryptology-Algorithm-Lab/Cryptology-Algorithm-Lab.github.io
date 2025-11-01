@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
-      (Sep 19, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">NDSS</span></b> 2026.
+      (Oct 23, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">NDSS</span></b> 2026.
       <ul type="disc">
           <li>
              Nirajan Koirala, <b>Seunghun Paik</b>, Sam Martin, Helena Berens, Tasha Januszewicz, Jonathan Takeshita, <b>Jae Hong Seo</b>, Taeho Jung<br><i>Select-Then-Compute: Encrypted Label Selection and Analytics over Distributed Datasets using FHE</i>
