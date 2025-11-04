@@ -212,14 +212,14 @@ We share information with each other through various seminars/studies that suppo
     <td class="tg-baqh">Natural Building 702</td>
     <td class="tg-baqh"><span style="font-style:normal;text-decoration:none">Fuzzy Private Set Intersection from VOLE</span></td>
     <td class="tg-baqh">Yunki Kim</td>
-    <td class="tg-baqh">&lt;a href="https://docs.google.com/presentation/d/1QNgRDw9ERUpE5RE5WWAqn2EZQlDVYWGp/edit?usp=sharing&amp;ouid=100777603672304406865&amp;rtpof=true&amp;sd=true"target="_blank"&gt;Link&lt;/a&gt;</td>
+    <td class="tg-baqh"><a href="https://docs.google.com/presentation/d/1QNgRDw9ERUpE5RE5WWAqn2EZQlDVYWGp/edit?usp=sharing&ouid=100777603672304406865&rtpof=true&sd=true"target="_blank">Link</a></td>
   </tr>
   <tr>
     <td class="tg-baqh">11/4</td>
     <td class="tg-baqh"><span style="font-weight:400;font-style:normal">Natural Building 702</span></td>
     <td class="tg-baqh"><span style="font-weight:400;font-style:normal">Non-Interactive Multiplication and More</span></td>
     <td class="tg-baqh">Seunghun Paik</td>
-    <td class="tg-baqh"><span style="font-weight:400;font-style:normal">&lt;a href=""target="_blank"&gt;Link&lt;/a&gt;</span></td>
+    <td class="tg-baqh"></td>
   </tr>
 </tbody></table>
 ## Contact
