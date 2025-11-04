@@ -194,7 +194,7 @@ We share information with each other through various seminars/studies that suppo
   border-collapse: collapse;
   border-color: #aaa;
   border-spacing: 0;
-  margin: 0 auto; /* 테이블을 가로 중앙 정렬 */
+  margin: 0 auto; 
 }
 .tg td {
   background-color: #fff;
@@ -207,7 +207,7 @@ We share information with each other through various seminars/studies that suppo
   overflow: hidden;
   padding: 10px 5px;
   word-break: normal;
-  text-align: center; /* 셀 내용 가운데 정렬 */
+  text-align: center; 
 }
 .tg th {
   background-color: #f38630;
@@ -216,7 +216,7 @@ We share information with each other through various seminars/studies that suppo
   border-width: 1px;
   color: #fff;
   font-family: Arial, sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: normal;
   overflow: hidden;
   padding: 10px 5px;
