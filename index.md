@@ -190,38 +190,82 @@ We share information with each other through various seminars/studies that suppo
 
 ### 2025 Fall Seminar
 <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg  {
+  border-collapse: collapse;
+  border-color: #aaa;
+  border-spacing: 0;
+  margin: 0 auto; /* 테이블을 가로 중앙 정렬 */
+}
+.tg td {
+  background-color: #fff;
+  border-color: #aaa;
+  border-style: solid;
+  border-width: 1px;
+  color: #333;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+  text-align: center; /* 셀 내용 가운데 정렬 */
+}
+.tg th {
+  background-color: #f38630;
+  border-color: #aaa;
+  border-style: solid;
+  border-width: 1px;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+  text-align: center;
+}
+.tg .tg-baqh {
+  text-align: center;
+  vertical-align: top;
+}
+.tg .tg-amwm {
+  font-weight: bold;
+  text-align: center;
+  vertical-align: top;
+}
 </style>
-<table class="tg"><thead>
-  <tr>
-    <th class="tg-amwm">Date</th>
-    <th class="tg-amwm">Place</th>
-    <th class="tg-amwm">Title</th>
-    <th class="tg-amwm">Presenter</th>
-    <th class="tg-amwm">Material</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td class="tg-baqh">10/28</td>
-    <td class="tg-baqh">Natural Building 702</td>
-    <td class="tg-baqh"><span style="font-style:normal;text-decoration:none">Fuzzy Private Set Intersection from VOLE</span></td>
-    <td class="tg-baqh">Yunki Kim</td>
-    <td class="tg-baqh"></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">11/4</td>
-    <td class="tg-baqh"><span style="font-weight:400;font-style:normal">Natural Building 702</span></td>
-    <td class="tg-baqh"><span style="font-weight:400;font-style:normal">Non-Interactive Multiplication and More</span></td>
-    <td class="tg-baqh">Seunghun Paik</td>
-    <td class="tg-baqh"></td>
-  </tr>
-</tbody></table>
+
+<table class="tg">
+  <thead>
+    <tr>
+      <th class="tg-amwm">Date</th>
+      <th class="tg-amwm">Place</th>
+      <th class="tg-amwm">Title</th>
+      <th class="tg-amwm">Presenter</th>
+      <th class="tg-amwm">Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-baqh">10/28</td>
+      <td class="tg-baqh">Natural Building 702</td>
+      <td class="tg-baqh">Fuzzy Private Set Intersection from VOLE</td>
+      <td class="tg-baqh">Yunki Kim</td>
+      <td class="tg-baqh">
+        <a href="https://docs.google.com/presentation/d/1QNgRDw9ERUpE5RE5WWAqn2EZQlDVYWGp/edit?usp=sharing" target="_blank">Link</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="tg-baqh">11/4</td>
+      <td class="tg-baqh">Natural Building 702</td>
+      <td class="tg-baqh">Non-Interactive Multiplication and More</td>
+      <td class="tg-baqh">Seunghun Paik</td>
+      <td class="tg-baqh">
+        <a href="https://example.com" target="_blank">Link</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Contact
 
 <br>
