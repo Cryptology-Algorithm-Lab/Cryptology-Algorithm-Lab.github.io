@@ -212,7 +212,7 @@ We share information with each other through various seminars/studies that suppo
     <td class="tg-baqh">Natural Building 702</td>
     <td class="tg-baqh"><span style="font-style:normal;text-decoration:none">Fuzzy Private Set Intersection from VOLE</span></td>
     <td class="tg-baqh">Yunki Kim</td>
-    <td class="tg-baqh"><a href="https://docs.google.com/presentation/d/1QNgRDw9ERUpE5RE5WWAqn2EZQlDVYWGp/edit?usp=sharing&ouid=100777603672304406865&rtpof=true&sd=true "target="_blank">Link</a></td>
+    <td class="tg-baqh">[Link](https://docs.google.com/presentation/d/1QNgRDw9ERUpE5RE5WWAqn2EZQlDVYWGp/edit?usp=sharing&ouid=100777603672304406865&rtpof=true&sd=true)</td>
   </tr>
   <tr>
     <td class="tg-baqh">11/4</td>
