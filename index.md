@@ -269,34 +269,4 @@ We share information with each other through various seminars/studies that suppo
 
 ## Contact
 
-<br>
-
-For any inquires, you can reach us via email: **_[webmaster.cnalab@gmail.com](mailto:webmaster.cnalab@gmail.com)_**
-
-<div class='mo'><body><script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ajg80tj06y&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script></body></div>
-
-<div class='pc'><body><script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ajg80tj06y&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script></body></div>
-
-<script>
-
-var ratio = window.devicePixelRatio,
-
-     mo = document.querySelector('.mo'),
-
-     pc = document.querySelector('.pc');
-
-     
-
-console.log(ratio);
-
-if(ratio >= 2) {
-
-  pc.style.display = 'none';
-
-} else {
-
-  mo.style.display = 'none';
-
-}
-
-</script>
+For any inquires, you can reach us via email: **jaehongseo@hanyang.ac.kr**
