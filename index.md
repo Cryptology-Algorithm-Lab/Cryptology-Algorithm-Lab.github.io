@@ -188,6 +188,78 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 We share information with each other through various seminars/studies that support research capabilities every summer/winter vacation to enhance research and inquiry skills. Each season, the main topic changes and the schedule also changes accordingly. External personnel are also free to participate, and you can attend by filling out the form from above link.
 
+### 2025 Fall Semninar
+
+<style>
+.table_component {
+    overflow: auto;
+    width: 100%;
+}
+  
+.table_component table {
+    border: 1px solid #dededf;
+    height: 100%;
+    width: 100%;
+    table-layout: auto;
+    border-collapse: collapse;
+    border-spacing: 1px;
+    text-align: center;
+}
+
+.table_component caption {
+    caption-side: top;
+    text-align: left;
+}
+
+.table_component th {
+    border: 1px solid #dededf;
+    background-color: #eceff1;
+    color: #000000;
+    padding: 5px;
+}
+
+.table_component td {
+    border: 1px solid #dededf;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 5px;
+}
+</style>
+<div class="table_component" role="region" tabindex="0">
+<table>
+    <caption>Table 1</caption>
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Title</th>
+            <th>Presenter</th>
+            <th>Material Link</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>10/28</td>
+            <td>
+                <p>Fuzzy Private Set Intersection from VOLE</p>
+            </td>
+            <td>Yunki Kim</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11/4</td>
+            <td>Non-Interactive Multiplication and More​</td>
+            <td>Seunghun Paik</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11/11</td>
+            <td>About ICCV 2025</td>
+            <td>Changjin Kim</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
 ## Contact
 
 <br>
