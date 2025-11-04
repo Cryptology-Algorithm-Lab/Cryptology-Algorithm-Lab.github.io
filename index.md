@@ -188,78 +188,40 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 We share information with each other through various seminars/studies that support research capabilities every summer/winter vacation to enhance research and inquiry skills. Each season, the main topic changes and the schedule also changes accordingly. External personnel are also free to participate, and you can attend by filling out the form from above link.
 
-### 2025 Fall Semninar
-
-<style>
-.table_component {
-    overflow: auto;
-    width: 100%;
-}
-  
-.table_component table {
-    border: 1px solid #dededf;
-    height: 100%;
-    width: 100%;
-    table-layout: auto;
-    border-collapse: collapse;
-    border-spacing: 1px;
-    text-align: center;
-}
-
-.table_component caption {
-    caption-side: top;
-    text-align: left;
-}
-
-.table_component th {
-    border: 1px solid #dededf;
-    background-color: #eceff1;
-    color: #000000;
-    padding: 5px;
-}
-
-.table_component td {
-    border: 1px solid #dededf;
-    background-color: #ffffff;
-    color: #000000;
-    padding: 5px;
-}
+### 2025 Fall Seminar
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<div class="table_component" role="region" tabindex="0">
-<table>
-    <caption>Table 1</caption>
-    <thead>
-        <tr>
-            <th>Date</th>
-            <th>Title</th>
-            <th>Presenter</th>
-            <th>Material Link</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>10/28</td>
-            <td>
-                <p>Fuzzy Private Set Intersection from VOLE</p>
-            </td>
-            <td>Yunki Kim</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>11/4</td>
-            <td>Non-Interactive Multiplication and More​</td>
-            <td>Seunghun Paik</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>11/11</td>
-            <td>About ICCV 2025</td>
-            <td>Changjin Kim</td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-amwm">Date</th>
+    <th class="tg-amwm">Place</th>
+    <th class="tg-amwm">Title</th>
+    <th class="tg-amwm">Presenter</th>
+    <th class="tg-amwm">Material</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh">10/28</td>
+    <td class="tg-baqh">Natural Building 702</td>
+    <td class="tg-baqh"><span style="font-style:normal;text-decoration:none">Fuzzy Private Set Intersection from VOLE</span></td>
+    <td class="tg-baqh">Yunki Kim</td>
+    <td class="tg-baqh">&lt;a href="https://docs.google.com/presentation/d/1QNgRDw9ERUpE5RE5WWAqn2EZQlDVYWGp/edit?usp=sharing&amp;ouid=100777603672304406865&amp;rtpof=true&amp;sd=true"target="_blank"&gt;Link&lt;/a&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">11/4</td>
+    <td class="tg-baqh"><span style="font-weight:400;font-style:normal">Natural Building 702</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;font-style:normal">Non-Interactive Multiplication and More</span></td>
+    <td class="tg-baqh">Seunghun Paik</td>
+    <td class="tg-baqh"><span style="font-weight:400;font-style:normal">&lt;a href=""target="_blank"&gt;Link&lt;/a&gt;</span></td>
+  </tr>
+</tbody></table>
 ## Contact
 
 <br>
