@@ -203,7 +203,7 @@ We share information with each other through various seminars/studies that suppo
   border-width: 1px;
   color: #333;
   font-family: Arial, sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   overflow: hidden;
   padding: 10px 5px;
   word-break: normal;
@@ -216,7 +216,7 @@ We share information with each other through various seminars/studies that suppo
   border-width: 1px;
   color: #fff;
   font-family: Arial, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: normal;
   overflow: hidden;
   padding: 10px 5px;
