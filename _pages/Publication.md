@@ -14,6 +14,14 @@ header:
 
 <ul type="none">
 <li>
+[J30]  <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*</b>
+    <p>
+        <i>On the Reversibility of Locality-Sensitive Hashing-based Biometric Template Protections</i> 
+        <br>
+        IEEE Transactions on Dependable and Secure Computing, (TBU)
+    </p>
+</li> 
+<li>
 [J29]  <b>Sunpill Kim</b>, Hoyong Shin and <b>Jae Hong Seo*</b>
     <p>
         <i>Deep Face Template Protection in the Wild</i> 
