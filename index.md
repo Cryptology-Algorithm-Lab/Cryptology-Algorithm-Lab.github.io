@@ -272,6 +272,15 @@ We share information with each other through various seminars/studies that suppo
         <a href="https://drive.google.com/file/d/1YTHaWFmVZIUODyBws5ZfeZSj7nOdVRaC/view" target="_blank">Link</a>
       </td>
     </tr>
+        <tr>
+      <td class="tg-baqh">11/11</td>
+      <td class="tg-baqh">Natural Building 702</td>
+      <td class="tg-baqh">ICCV 2025</td>
+      <td class="tg-baqh">Changjin Kim</td>
+      <td class="tg-baqh">
+        <a href="https://docs.google.com/presentation/d/1fuBbp_Vz6FL0cPU3mr8BXZSwEv20WUxI/edit?usp=drive_link&ouid=109106126385728780931&rtpof=true&sd=true" target="_blank">Link</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
