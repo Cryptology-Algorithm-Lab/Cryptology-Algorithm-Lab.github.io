@@ -18,7 +18,7 @@ header:
     <p>
         <i>On the Reversibility of Locality-Sensitive Hashing-based Biometric Template Protections</i> 
         <br>
-        IEEE Transactions on Dependable and Secure Computing, (TBU)
+        IEEE Transactions on Dependable and Secure Computing, (TBA)
     </p>
 </li> 
 <li>
