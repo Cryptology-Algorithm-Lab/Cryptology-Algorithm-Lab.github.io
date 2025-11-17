@@ -278,7 +278,7 @@ We share information with each other through various seminars/studies that suppo
       <td class="tg-baqh">ICCV 2025</td>
       <td class="tg-baqh">Changjin Kim</td>
       <td class="tg-baqh">
-        <a href="https://docs.google.com/presentation/d/1fuBbp_Vz6FL0cPU3mr8BXZSwEv20WUxI/edit?usp=drive_link&ouid=109106126385728780931&rtpof=true&sd=true" target="_blank">Link</a>
+        <a href="https://drive.google.com/file/d/1NVu4nUIF6_u9aC36J4DEZlSTkwC2MPbs/view?usp=drive_link" target="_blank">Link</a>
       </td>
     </tr>
   </tbody>
