@@ -17,10 +17,18 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
-      (Nov 15, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">TDSC</span></b>.
+      (Nov 20, 2025) The following paper has been accepted for presentation at <b><span style = "color : #4169E1">ASIACCS</span></b> 2026.
       <ul type="disc">
           <li>
              <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b><br><i>On the Reversibility of Locality-Sensitive Hashing-based Biometric Template Protections</i>
+          </li>  
+      </ul>
+  </li>
+  <li>
+      (Nov 15, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">TDSC</span></b>.
+      <ul type="disc">
+          <li>
+             <b>Seunghun Paik</b>, Nirajan Koirala, Jack Nero, <b>Hyunjung Son</b>, <b>Yunki Kim</b>, <b>Jae Hong Seo</b>, and Taeho Jung <br><i>Scalable Private Set Intersection over Distributed Encrypted Data</i>
           </li>  
       </ul>
   </li>
