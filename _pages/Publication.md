@@ -284,6 +284,14 @@ header:
 
 <ul type="none">
 <li> 
+  [C30] <b>Seunghun Paik</b>, Nirajan Koirala, Jack Nero, <b>Hyunjung Son</b>, <b>Yunki Kim</b>, <b>Jae Hong Seo</b>, and Taeho Jung 
+      <p>
+          <i>Scalable Private Set Intersection over Distributed Encrypted Data</i> 
+          <br>
+          <b>ASIACCS</b> 2026, (TBA)
+      </p>  
+</li>
+<li> 
   [C29] Nirajan Koirala, <b>Seunghun Paik</b>, Sam Martin, Helena Berens, Tasha Januszewicz, Jonathan Takeshita, <b>Jae Hong Seo</b>, Taeho Jung
       <p>
           <i>Select-Then-Compute: Encrypted Label Selection and Analytics over Distributed Datasets using FHE</i> 
