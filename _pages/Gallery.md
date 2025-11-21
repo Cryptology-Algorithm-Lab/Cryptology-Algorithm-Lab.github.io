@@ -155,16 +155,27 @@ gallery13:
   - url: /assets/Gallery/contest25_2.jpeg
     image_path: /assets/Gallery/contest25_2.jpeg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"                                        
+    title: "Image 2 title caption"
+gallery14:
+  - url: /assets/Gallery/mathday1_sh.jpeg
+    image_path: /assets/Gallery/mathday1_sh.jpeg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/Gallery/mathday2_sh.jpeg
+    image_path: /assets/Gallery/mathday2_sh.jpeg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"                                     
 ---
 # Gallery
-{% include gallery id="gallery13" caption="Congrats on sevaral awards in the National Cryptographic Technology Contest 2025." %}
+{% include gallery id="gallery14" caption="Seunhun Paik's invited talk at The Day of Mathmatics 2025, Hanyang University" %}
+
+{% include gallery id="gallery13" caption="Congrats on several awards in the National Cryptographic Technology Contest 2025." %}
 
 {% include gallery id="gallery12" layout="half" caption="**Our lab at KCCV 2025 – a great time of academic exchange, with a birthday celebration for Changjin Kim.**" %}
 
 {% include gallery id="gallery11" caption="**Celebrating the graduation of Hyeonbum Lee – wishing him continued success ahead.**" %}
 
-{% include gallery id="gallery10" caption="**Congrats on sevaral awards in the National Cryptographic Technology Contest 2024.**" %}
+{% include gallery id="gallery10" caption="**Congrats on several awards in the National Cryptographic Technology Contest 2024.**" %}
 
 {% include gallery id="gallery9" caption="**Congrats the award in Cryptanalysis Contest.**" %}
 
