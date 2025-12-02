@@ -14,6 +14,14 @@ header:
 
 <ul type="none">
 <li>
+[J31]  <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*</b>
+    <p>
+        <i>Towards Certifiably Robust Face Recognition: Analyses and Improvements</i> 
+        <br>
+        IEEE Transactions on Biometrics, Behavior, and Identity Science, (TBA)
+    </p>
+</li> 
+<li>
 [J30]  <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*</b>
     <p>
         <i>On the Reversibility of Locality-Sensitive Hashing-based Biometric Template Protections</i> 
