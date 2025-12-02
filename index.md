@@ -20,8 +20,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       (Dec 03, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">T-BIOM</span></b>.
       <ul type="disc">
           <li>
-             <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b><br><i>Towards Certifiably Robust Face Recognition: Analyses and Improvements</i>
-            
+             <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b><br><i>Towards Certifiably Robust Face Recognition: Analyses and Improvements</i> 
           </li>
       </ul>
   </li>
