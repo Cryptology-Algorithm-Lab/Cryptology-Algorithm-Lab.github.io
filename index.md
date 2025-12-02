@@ -21,7 +21,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       <ul type="disc">
           <li>
              <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and Jae Hong Seo<br><i>Towards Certifiably Robust Face Recognition: Analyses and Improvements</i>
-          </li>  
+          </li>
       </ul>
   </li>
   <li>
