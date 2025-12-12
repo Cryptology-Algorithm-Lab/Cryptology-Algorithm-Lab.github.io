@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
-      (Dec 03, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">T-BIOM</span></b>.
+      (Dec 03, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE T-BIOM</span></b>.
       <ul type="disc">
           <li>
              <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b><br><i>Towards Certifiably Robust Face Recognition: Analyses and Improvements</i> 
@@ -33,7 +33,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </ul>
   </li>
   <li>
-      (Nov 15, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">TDSC</span></b>.
+      (Nov 15, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE TDSC</span></b>.
       <ul type="disc">
           <li>
             <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b><br><i>On the Reversibility of Locality-Sensitive Hashing-based Biometric Template Protections</i>
