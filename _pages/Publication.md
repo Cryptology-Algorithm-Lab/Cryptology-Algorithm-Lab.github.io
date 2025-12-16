@@ -18,7 +18,7 @@ header:
     <p>
         <i>Towards Certifiably Robust Face Recognition: Analyses and Improvements</i> 
         <br>
-        IEEE Transactions on Biometrics, Behavior, and Identity Science, (TBA)
+        IEEE Transactions on Biometrics, Behavior, and Identity Science, (<A href="https://doi.org/10.1109/TBIOM.2025.3644396">DOI</A>)
     </p>
 </li> 
 <li>
