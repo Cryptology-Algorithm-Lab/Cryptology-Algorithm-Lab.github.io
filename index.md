@@ -305,7 +305,6 @@ We share information with each other through various seminars/studies that suppo
         <a href="https://drive.google.com/file/d/1NVu4nUIF6_u9aC36J4DEZlSTkwC2MPbs/view?usp=drive_link" target="_blank">Link</a>
       </td>
     </tr>
-    </tr>
         <tr>
       <td class="tg-baqh">12/22 13:00 - 15:00(KST)</td>
       <td class="tg-baqh">Natural Building 701</td>
