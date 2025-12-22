@@ -307,7 +307,7 @@ We share information with each other through various seminars/studies that suppo
     </tr>
         <tr>
       <td class="tg-baqh">12/22 15:00 - 17:00(KST)</td>
-      <td class="tg-baqh">Natural Building 701</td>
+      <td class="tg-baqh">Natural Building 702</td>
       <td class="tg-baqh">NeurIPS 2025</td>
       <td class="tg-baqh">Minsu Kim</td>
       <td class="tg-baqh">
