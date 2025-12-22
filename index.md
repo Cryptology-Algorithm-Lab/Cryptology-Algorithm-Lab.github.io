@@ -17,6 +17,14 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
+      (Dec 22, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE ACCESS</span></b>.
+      <ul type="disc">
+          <li>
+             <b>Hyunjung Son</b>, <b>Seunghun Paik</b>, <b>Yunki Kim</b>, <b>Sunpill Kim</b>, Heewon Chung, <b>Jae Hong Seo</b><br><i>Doubly Efficient Fuzzy Private Set Intersection for High-dimensional Data with Cosine Similarity</i> 
+          </li>
+      </ul>
+  </li>
+  <li>
       (Dec 03, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE T-BIOM</span></b>.
       <ul type="disc">
           <li>
