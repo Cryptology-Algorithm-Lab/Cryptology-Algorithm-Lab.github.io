@@ -270,7 +270,7 @@ We share information with each other through various seminars/studies that suppo
 <table class="tg">
   <thead>
     <tr>
-      <th class="tg-amwm">Date</th>
+      <th class="tg-amwm">Date / Time</th>
       <th class="tg-amwm">Place</th>
       <th class="tg-amwm">Title</th>
       <th class="tg-amwm">Presenter</th>
@@ -279,7 +279,7 @@ We share information with each other through various seminars/studies that suppo
   </thead>
   <tbody>
     <tr>
-      <td class="tg-baqh">10/28</td>
+      <td class="tg-baqh">10/28 13:00 - 15:00(KST)</td>
       <td class="tg-baqh">Natural Building 702</td>
       <td class="tg-baqh">Fuzzy Private Set Intersection from VOLE</td>
       <td class="tg-baqh">Yunki Kim</td>
@@ -288,7 +288,7 @@ We share information with each other through various seminars/studies that suppo
       </td>
     </tr>
     <tr>
-      <td class="tg-baqh">11/4</td>
+      <td class="tg-baqh">11/4 13:00 - 15:00(KST)</td>
       <td class="tg-baqh">Natural Building 702</td>
       <td class="tg-baqh">Non-Interactive Multiplication and More</td>
       <td class="tg-baqh">Seunghun Paik</td>
@@ -297,12 +297,22 @@ We share information with each other through various seminars/studies that suppo
       </td>
     </tr>
         <tr>
-      <td class="tg-baqh">11/11</td>
+      <td class="tg-baqh">11/11 13:00 - 15:00(KST)</td>
       <td class="tg-baqh">Natural Building 702</td>
       <td class="tg-baqh">ICCV 2025</td>
       <td class="tg-baqh">Changjin Kim</td>
       <td class="tg-baqh">
         <a href="https://drive.google.com/file/d/1NVu4nUIF6_u9aC36J4DEZlSTkwC2MPbs/view?usp=drive_link" target="_blank">Link</a>
+      </td>
+    </tr>
+    </tr>
+        <tr>
+      <td class="tg-baqh">12/22 13:00 - 15:00(KST)</td>
+      <td class="tg-baqh">Natural Building 701</td>
+      <td class="tg-baqh">NeurIPS 2025</td>
+      <td class="tg-baqh">Minsu Kim</td>
+      <td class="tg-baqh">
+        TBA<!-- <a href="https://drive.google.com/file/d/1NVu4nUIF6_u9aC36J4DEZlSTkwC2MPbs/view?usp=drive_link" target="_blank">Link</a> -->
       </td>
     </tr>
   </tbody>
