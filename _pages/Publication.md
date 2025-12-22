@@ -14,6 +14,14 @@ header:
 
 <ul type="none">
 <li>
+[J32]  <b>Hyunjung Son</b>, <b>Seunghun Paik</b>, <b>Yunki Kim</b>, <b>Sunpill Kim</b>, Heewon Chung, <b>Jae Hong Seo*</b>
+    <p>
+        <i>Doubly Efficient Fuzzy Private Set Intersection for High-dimensional Data with Cosine Similarity</i> 
+        <br>
+        IEEE ACCESS, (TBU)
+    </p>
+</li> 
+<li>
 [J31]  <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*</b>
     <p>
         <i>Towards Certifiably Robust Face Recognition: Analyses and Improvements</i> 
