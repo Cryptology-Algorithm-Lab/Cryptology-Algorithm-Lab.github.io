@@ -18,7 +18,7 @@ header:
     <p>
         <i>Doubly Efficient Fuzzy Private Set Intersection for High-dimensional Data with Cosine Similarity</i> 
         <br>
-        IEEE ACCESS, (TBU)
+        IEEE Access, (TBU)
     </p>
 </li> 
 <li>
