@@ -220,7 +220,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 We share information with each other through various seminars/studies that support research capabilities every summer/winter vacation to enhance research and inquiry skills. Each season, the main topic changes and the schedule also changes accordingly. External personnel are also free to participate, and you can attend by filling out the form from above link.
 
-### 2025 Fall Seminar
+### 2025 Fall / Winter Seminar
 
 <style type="text/css">
 .tg  {
