@@ -306,12 +306,21 @@ We share information with each other through various seminars/studies that suppo
       </td>
     </tr>
         <tr>
-      <td class="tg-baqh">12/22 15:00 - 17:00(KST)</td>
+      <td class="tg-baqh">12/23 15:00 - 17:00(KST)</td>
       <td class="tg-baqh">Natural Building 702</td>
       <td class="tg-baqh">NeurIPS 2025</td>
       <td class="tg-baqh">Minsu Kim</td>
       <td class="tg-baqh">
-        TBA<!-- <a href="https://drive.google.com/file/d/1NVu4nUIF6_u9aC36J4DEZlSTkwC2MPbs/view?usp=drive_link" target="_blank">Link</a> -->
+        TBU<!-- <a href="https://drive.google.com/file/d/1NVu4nUIF6_u9aC36J4DEZlSTkwC2MPbs/view?usp=drive_link" target="_blank">Link</a> -->
+      </td>
+    </tr>
+    <tr>
+      <td class="tg-baqh">12/30 15:00 - 17:00(KST)</td>
+      <td class="tg-baqh">Natural Building 746</td>
+      <td class="tg-baqh">Introduction to Text-to-Image Models</td>
+      <td class="tg-baqh">Chanwoo Hwang</td>
+      <td class="tg-baqh">
+        TBU<!-- <a href="https://drive.google.com/file/d/1NVu4nUIF6_u9aC36J4DEZlSTkwC2MPbs/view?usp=drive_link" target="_blank">Link</a> -->
       </td>
     </tr>
   </tbody>
