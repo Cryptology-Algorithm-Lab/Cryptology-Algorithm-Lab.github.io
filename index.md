@@ -311,7 +311,7 @@ We share information with each other through various seminars/studies that suppo
       <td class="tg-baqh">NeurIPS 2025</td>
       <td class="tg-baqh">Minsu Kim</td>
       <td class="tg-baqh">
-        TBU<!-- <a href="https://drive.google.com/file/d/1NVu4nUIF6_u9aC36J4DEZlSTkwC2MPbs/view?usp=drive_link" target="_blank">Link</a> -->
+        <a href="https://drive.google.com/file/d/13gLW3crvea7GIHrpZY5iVTQqsRxHpwMM/view?usp=sharing" target="_blank">Link</a>
       </td>
     </tr>
     <tr>
