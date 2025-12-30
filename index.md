@@ -320,7 +320,7 @@ We share information with each other through various seminars/studies that suppo
       <td class="tg-baqh">Introduction to Text-to-Image Models</td>
       <td class="tg-baqh">Chanwoo Hwang</td>
       <td class="tg-baqh">
-        TBU<!-- <a href="https://drive.google.com/file/d/1NVu4nUIF6_u9aC36J4DEZlSTkwC2MPbs/view?usp=drive_link" target="_blank">Link</a> -->
+        <a href="https://drive.google.com/file/d/1sU9C-VqUJrCv3GKU2yzRUzehppl7dSqa/view?usp=drive_link" target="_blank">Link</a>
       </td>
     </tr>
   </tbody>
