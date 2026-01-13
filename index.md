@@ -16,6 +16,14 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 ## Annual News
 
 <ul type="square">
+    <li>
+      (Jan 13, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE Access</span></b>.
+      <ul type="disc">
+          <li>
+             <b>Hyeonbum Lee</b>, <b>Seunghun Paik</b>, <b>Hyunjung Son</b>, and <b>Jae Hong Seo</b><br><i>Cougar: Cubic Root Verifier Inner Product Argument under Discrete Logarithm Assumption</i> 
+          </li>
+      </ul>
+  </li>
   <li>
       (Dec 22, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE Access</span></b>.
       <ul type="disc">
