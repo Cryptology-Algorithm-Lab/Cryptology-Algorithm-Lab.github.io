@@ -14,6 +14,14 @@ header:
 
 <ul type="none">
 <li>
+[J33]  <b>Hyeonbum Lee</b>, <b>Seunghun Paik</b>, <b>Hyunjung Son</b>, and <b>Jae Hong Seo*</b>
+    <p>
+        <i>Cougar: Cubic Root Verifier Inner Product Argument under Discrete Logarithm Assumption</i> 
+        <br>
+        IEEE Access, (TBU)
+    </p>
+</li> 
+<li>
 [J32]  <b>Hyunjung Son</b>, <b>Seunghun Paik</b>, <b>Yunki Kim</b>, <b>Sunpill Kim</b>, Heewon Chung, <b>Jae Hong Seo*</b>
     <p>
         <i>Doubly Efficient Fuzzy Private Set Intersection for High-dimensional Data with Cosine Similarity</i> 
