@@ -228,7 +228,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 We share information with each other through various seminars/studies that support research capabilities every summer/winter vacation to enhance research and inquiry skills. Each season, the main topic changes and the schedule also changes accordingly. External personnel are also free to participate, and you can attend by filling out the form from above link.
 
-### 2025 Fall / Winter Seminar
+### 25 Fall / 26 Winter Seminar
 
 <style type="text/css">
 .tg  {
@@ -334,6 +334,76 @@ We share information with each other through various seminars/studies that suppo
   </tbody>
 </table>
 
+### 26 Winter Special Topic: Vision Language Models(VLM)
+
 ## Contact
+
+<style type="text/css">
+.tg  {
+  border-collapse: collapse;
+  border-color: #aaa;
+  border-spacing: 0;
+  margin: 0 auto; 
+}
+.tg td {
+  background-color: #fff;
+  border-color: #aaa;
+  border-style: solid;
+  border-width: 1px;
+  color: #333;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+  text-align: center; 
+}
+.tg th {
+  background-color: #208560;
+  border-color: #aaa;
+  border-style: solid;
+  border-width: 1px;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+  text-align: center;
+}
+.tg .tg-baqh {
+  text-align: center;
+  vertical-align: top;
+}
+.tg .tg-amwm {
+  font-weight: bold;
+  text-align: center;
+  vertical-align: top;
+}
+</style>
+
+<table class="tg">
+  <thead>
+    <tr>
+      <th class="tg-amwm">Date / Time</th>
+      <th class="tg-amwm">Place</th>
+      <th class="tg-amwm">Title</th>
+      <th class="tg-amwm">Presenter</th>
+      <th class="tg-amwm">Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-baqh">1/9 15:00 - 17:00(KST)</td>
+      <td class="tg-baqh">Natural Building 702</td>
+      <td class="tg-baqh">Introduction to LLM</td>
+      <td class="tg-baqh">Seunghun Paik</td>
+      <td class="tg-baqh">
+         TBU <!-- TBU<a href="https://docs.google.com/presentation/d/1QNgRDw9ERUpE5RE5WWAqn2EZQlDVYWGp/edit?usp=sharing" target="_blank">TBU</a> -->
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 For any inquires, you can reach us via email: **jaehongseo@hanyang.ac.kr**
