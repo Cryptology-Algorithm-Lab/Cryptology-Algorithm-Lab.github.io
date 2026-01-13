@@ -251,7 +251,7 @@ We share information with each other through various seminars/studies that suppo
   text-align: center; 
 }
 .tg th {
-  background-color: #f38630;
+  background-color: #e39309;
   border-color: #aaa;
   border-style: solid;
   border-width: 1px;
