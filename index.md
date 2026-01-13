@@ -335,9 +335,6 @@ We share information with each other through various seminars/studies that suppo
 </table>
 
 ### 26 Winter Special Topic: Vision Language Models(VLM)
-
-## Contact
-
 <style type="text/css">
 .tg  {
   border-collapse: collapse;
@@ -406,4 +403,5 @@ We share information with each other through various seminars/studies that suppo
   </tbody>
 </table>
 
+## Contact
 For any inquires, you can reach us via email: **jaehongseo@hanyang.ac.kr**
