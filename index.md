@@ -213,9 +213,18 @@ We share information with each other through various seminars/studies that suppo
     </tr>
     <tr>
       <td class="tg-baqh">1/16 15:00 - 17:00(KST)</td>
-      <td class="tg-baqh">TBD</td>
-      <td class="tg-baqh">About CLIP and Background</td>
+      <td class="tg-baqh">Natural Building B119</td>
+      <td class="tg-baqh">Learning Transferable Visual Models From Natural Language Supervision (CLIP)</td>
       <td class="tg-baqh">Changjin Kim</td>
+      <td class="tg-baqh">
+         TBU <!-- TBU<a href="https://docs.google.com/presentation/d/1QNgRDw9ERUpE5RE5WWAqn2EZQlDVYWGp/edit?usp=sharing" target="_blank">TBU</a> -->
+      </td>
+    </tr>
+    <tr>
+      <td class="tg-baqh">1/23 15:00 - 17:00(KST)</td>
+      <td class="tg-baqh">TBD</td>
+      <td class="tg-baqh">CLIP Varients and ALIGN</td>
+      <td class="tg-baqh">Minsu Kim</td>
       <td class="tg-baqh">
          TBU <!-- TBU<a href="https://docs.google.com/presentation/d/1QNgRDw9ERUpE5RE5WWAqn2EZQlDVYWGp/edit?usp=sharing" target="_blank">TBU</a> -->
       </td>
