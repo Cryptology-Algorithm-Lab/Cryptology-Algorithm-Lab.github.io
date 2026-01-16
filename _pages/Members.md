@@ -327,7 +327,7 @@ header:
         Alumni (Ph.D)
     </summary>
     <ul type="square">
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyeonbum Lee (Seoul National University)</b><span style="float:right;"> <i>Aug 2025</i></span></p>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyeonbum Lee (Postdoc, Seoul National University)</b><span style="float:right;"> <i>Aug 2025</i></span></p>
       </li>
      </ul> 
 </details>
@@ -339,7 +339,7 @@ header:
     <ul type="square">
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Hwamin Yoo</b><span style="float:right;"> <i>Feb 2017</i></span></p>
     </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Changjin Kim (Onther)</b><span style="float:right;"> <i>Feb 2017</i></span></p>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Changjin Kim</b><span style="float:right;"> <i>Feb 2017</i></span></p>
     </li>
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Gyumin Lim (KAIST Cyber Security Research Center)</b><span style="float:right;"> <i>Feb 2021</i></span></p>
     </li>
