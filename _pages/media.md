@@ -13,6 +13,48 @@ header:
 # C&A in Media
 ## Newspaper Article 
 <ul type="disc">
+      <li>
+        <A href="https://edu.donga.com/news/articleView.html?idxno=99515">
+            김재성, 한양대 서재홍 교수팀, 상용 얼굴 인식 시스템 ‘1회성 공격’ 가능성 최초 규명.
+        </A>
+        E동아. 2025년 12월 2일
+        https://edu.donga.com/news/articleView.html?idxno=99515
+    </li>
+    <li>
+        <A href="https://www.m-i.kr/news/articleView.html?idxno=1310090">
+            장원석, 한양대 서재홍 교수팀, 상용 얼굴 인식 시스템 ‘1회성 공격’ 가능성 최초 규명.
+        </A>
+        매일일보. 2025년 12월 2일
+        https://www.m-i.kr/news/articleView.html?idxno=1310090
+    </li>
+    <li>
+        <A href="https://news.unn.net/news/articleView.html?idxno=586959">
+            박인규, 한양대 서재홍 교수팀, 상용 얼굴 인식 시스템 ‘1회성 공격’ 가능성 최초 규명.
+        </A>
+        한국대학신문. 2025년 12월 2일
+        https://news.unn.net/news/articleView.html?idxno=586959
+    </li>
+    <li>
+        <A href="https://www.newstnt.com/news/articleView.html?idxno=561321">
+            성영희, 한양대 서재홍 연구팀, 상용 얼굴인식 시스템을 속이는 ‘1회성 비적응 공격’ 기법으로 NeurIPS 2025 채택.
+        </A>
+        뉴스티앤티. 2025년 12월 2일
+        https://www.newstnt.com/news/articleView.html?idxno=561321
+    </li>
+    <li>
+        <A href="https://www.kyosu.net/news/articleView.html?idxno=150951">
+            하영, 한양대 서재홍 교수팀, 상용 얼굴 인식 시스템 ‘1회성 공격’ 가능성 최초 규명... NeurIPS 2025서 발표.
+        </A>
+        교수신문. 2025년 12월 2일
+        https://www.kyosu.net/news/articleView.html?idxno=150951
+    </li>
+    <li>
+        <A href="https://www.veritas-a.com/news/articleView.html?idxno=586613">
+            김하연, 한양대 서재홍 교수팀, 상용 얼굴 인식 시스템 '1회성 공격' 가능성 최초 규명... NeurIPS 2025서 발표.
+        </A>
+        베리타스알파. 2025년 12월 2일
+        https://www.veritas-a.com/news/articleView.html?idxno=586613
+    </li>
     <li>
         <A href= "https://www.veritas-a.com/news/articleView.html?idxno=546987">"김하연, 한양대 서재홍 교수팀, 딥러닝 기반 얼굴 인증 시스템의 보안 취약점 입증".</A>베리타스알파. 2025년 3월 25일 https://www.veritas-a.com/news/articleView.html?idxno=546987
     </li> 
