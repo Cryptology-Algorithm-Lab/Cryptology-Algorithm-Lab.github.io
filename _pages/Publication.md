@@ -352,7 +352,7 @@ header:
       <p>
           <i>IDFace: Face Template Protection for Secure and Efficient Identification</i> 
           <br>
-          <b>ICCV</b> 2025, (TBA)
+          <b>ICCV</b> 2025, (<A href="https://openaccess.thecvf.com/content/ICCV2025/html/Kim_IDFace_Face_Template_Protection_for_Efficient_and_Secure_Identification_ICCV_2025_paper.html">DOI</A>)
       </p>  
 </li>  
 <li> 
@@ -360,7 +360,7 @@ header:
       <p>
           <i>UTRA: Universal Token Reusability Attack and Token Unforgeable Delegatable Order-Revealing Encryption</i> 
           <br>
-          <b>ESORICS</b> 2025, (TBA)
+          <b>ESORICS</b> 2025, (<A href="https://link.springer.com/chapter/10.1007/978-3-032-07891-9_17">DOI</A>)
       </p>  
 </li>  
 <li> 
@@ -376,7 +376,7 @@ header:
       <p>
           <i>On the Certifiable Robustness of Face Recognition Systems</i> 
           <br>
-          <b>CISC-S</b> 2024, (TBA)
+          <b>CISC-S</b> 2024
       </p>  
 </li>   
 <li> 
