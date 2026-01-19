@@ -40,6 +40,25 @@ header:
 <br>
 
 <details>
+  <summary style="font-size:1.2rem; font-weight:bold;">
+      Ph.D student
+  </summary>
+  <ul type = "square">
+    <li><b sytle="font-size:120%;">Changjin Kim</b></A>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/changjinkim.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Everything finds its place.</span>
+        </p>        
+        <u>Research Interests</u>
+        <br>
+          AI Security, Computer Vision
+      </li>
+  </ul>  
+</details>
+
+<br>
+
+<details>
     <summary style="font-size:1.2rem; font-weight:bold;">
         Ms & Ph.D Integrated Course student
     </summary>
