@@ -205,7 +205,7 @@ We share information with each other through various seminars/studies that suppo
     <tr>
       <td class="tg-baqh">1/9 15:00 - 17:00(KST)</td>
       <td class="tg-baqh">Natural Building 702</td>
-      <td class="tg-baqh">Introduction to LLM</td>
+      <td class="tg-baqh">Introduction to (Large) Languege Models</td>
       <td class="tg-baqh">Seunghun Paik</td>
       <td class="tg-baqh">
          <a href="https://drive.google.com/file/d/1BzkwDkWaLdJNY_iQfkgUrWzhFKjEbCup/view?usp=sharing" target="_blank">Link</a>
