@@ -217,7 +217,7 @@ We share information with each other through various seminars/studies that suppo
       <td class="tg-baqh">Learning Transferable Visual Models From Natural Language Supervision (CLIP)</td>
       <td class="tg-baqh">Changjin Kim</td>
       <td class="tg-baqh">
-         TBU <!-- TBU<a href="https://docs.google.com/presentation/d/1QNgRDw9ERUpE5RE5WWAqn2EZQlDVYWGp/edit?usp=sharing" target="_blank">TBU</a> -->
+         <a href="https://drive.google.com/file/d/1vODf9nSWAqCdwTNEwgGnq6wrFNUeC76G/view" target="_blank">Link</a>
       </td>
     </tr>
     <tr>
