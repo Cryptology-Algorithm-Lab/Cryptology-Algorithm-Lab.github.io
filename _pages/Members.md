@@ -44,7 +44,7 @@ header:
       Ph.D student
   </summary>
   <ul type = "square">
-    <li><b sytle="font-size:120%;">Changjin Kim</b></A>
+    <li><b sytle="font-size:120%;">Changjin Kim</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/changjinkim.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
           <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Everything finds its place.</span>
