@@ -24,11 +24,6 @@ header:
         A Study of Fuzzy Private Set Intersection, National Research Foundation of Korea (NRF)
     </li> 
     <li>
-        Feb 2025 - Dec 2025, 상용 얼굴인식 API의 적대적 공격 및 안전성 분석, 한국정보보호학회 암호연구회
-        <br>
-        Adversarial Attacks and Security Analysis on Commercial Face Recognition APIs, Korea Institute of Information Security & Cryptology (KIISC)
-    </li>
-    <li>
         Apr 2024 - Dec 2027, 차세대 저작권 침해 방지 기술 및 안전한 콘텐츠 유통 기술 개발을 위한 국제 공동 연구, 한국콘텐츠진흥원
         <br>
         International Joint Research to Develop Next-generation Copyright Infringement Prevention Technology and Safe Content Distribution Technology, Korea Creative Content Agency (KOCCA)
@@ -43,6 +38,11 @@ header:
 
 ## Finished
 <ul type="square">
+    <li>
+        Feb 2025 - Dec 2025, 상용 얼굴인식 API의 적대적 공격 및 안전성 분석, 한국정보보호학회 암호연구회
+        <br>
+        Adversarial Attacks and Security Analysis on Commercial Face Recognition APIs, Korea Institute of Information Security & Cryptology (KIISC)
+    </li>
     <li>
         Sep 2024 - Aug 2025, 영지식 증명을 통한 점진적으로 검증 가능한 연산에 관한 연구, 한국연구재단
         <br>
