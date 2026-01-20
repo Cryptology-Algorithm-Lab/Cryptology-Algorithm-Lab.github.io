@@ -135,7 +135,7 @@ We share information with each other through various seminars/studies that suppo
     </tr>
     <tr>
       <td class="tg-baqh">1/20 15:00 - 17:00(KST)</td>
-      <td class="tg-baqh">TBD</td>
+      <td class="tg-baqh">Natural Building B119</td>
       <td class="tg-baqh">Implicit bias of SGD in L2-regularized linear DNNs: One-way jumps from high to low rank</td>
       <td class="tg-baqh">Dongsoo Kim</td>
       <td class="tg-baqh">
