@@ -232,10 +232,10 @@ We share information with each other through various seminars/studies that suppo
     <tr>
       <td class="tg-baqh">1/23 15:00 - 17:00(KST)</td>
       <td class="tg-baqh">Natural Building B119</td>
-      <td class="tg-baqh">EVA: Exploring the Limits of Masked Visual Representation Learning at Scale</td>
+      <td class="tg-baqh">CLIP Variants</td>
       <td class="tg-baqh">Minsu Kim</td>
       <td class="tg-baqh">
-         TBU <!-- TBU<a href="https://docs.google.com/presentation/d/1QNgRDw9ERUpE5RE5WWAqn2EZQlDVYWGp/edit?usp=sharing" target="_blank">TBU</a> -->
+         <a href="https://drive.google.com/file/d/1eMt4R282vJZm3DY4M8eu18tS1IOE16xL/view" target="_blank">Link</a>
       </td>
     </tr>
     <tr>
