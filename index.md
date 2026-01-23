@@ -142,6 +142,15 @@ We share information with each other through various seminars/studies that suppo
         TBU
       </td>
     </tr>
+    <tr>
+      <td class="tg-baqh">1/27 15:00 - 17:00(KST)</td>
+      <td class="tg-baqh">Online-Zoom</td>
+      <td class="tg-baqh">Mamba: Linear-Time Sequence Modeling with Selective State Spaces</td>
+      <td class="tg-baqh">Hyunjung Son</td>
+      <td class="tg-baqh">
+        TBU
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -222,9 +231,18 @@ We share information with each other through various seminars/studies that suppo
     </tr>
     <tr>
       <td class="tg-baqh">1/23 15:00 - 17:00(KST)</td>
-      <td class="tg-baqh">TBD</td>
-      <td class="tg-baqh">CLIP Varients and ALIGN</td>
+      <td class="tg-baqh">Natural Building B119</td>
+      <td class="tg-baqh">EVA: Exploring the Limits of Masked Visual Representation Learning at Scale</td>
       <td class="tg-baqh">Minsu Kim</td>
+      <td class="tg-baqh">
+         TBU <!-- TBU<a href="https://docs.google.com/presentation/d/1QNgRDw9ERUpE5RE5WWAqn2EZQlDVYWGp/edit?usp=sharing" target="_blank">TBU</a> -->
+      </td>
+    </tr>
+    <tr>
+      <td class="tg-baqh">1/30 15:00 - 17:00(KST)</td>
+      <td class="tg-baqh">TBD</td>
+      <td class="tg-baqh">Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning</td>
+      <td class="tg-baqh">Chanwoo Hwang</td>
       <td class="tg-baqh">
          TBU <!-- TBU<a href="https://docs.google.com/presentation/d/1QNgRDw9ERUpE5RE5WWAqn2EZQlDVYWGp/edit?usp=sharing" target="_blank">TBU</a> -->
       </td>
