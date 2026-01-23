@@ -240,7 +240,7 @@ We share information with each other through various seminars/studies that suppo
     </tr>
     <tr>
       <td class="tg-baqh">1/30 15:00 - 17:00(KST)</td>
-      <td class="tg-baqh">TBD</td>
+      <td class="tg-baqh">Natural Building 702</td>
       <td class="tg-baqh">Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning</td>
       <td class="tg-baqh">Chanwoo Hwang</td>
       <td class="tg-baqh">
