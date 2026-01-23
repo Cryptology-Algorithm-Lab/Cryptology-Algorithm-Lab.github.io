@@ -168,7 +168,7 @@ header:
         </p>       
         <u>Research Interests</u>
         <br>
-        Deep Learning Algorithm, Computer Vision
+        AI Security, Deep Learning Algorithm, Computer Vision
         <br>
         <br>  
         <details>
@@ -316,10 +316,18 @@ header:
     <summary style="font-size:1.2rem; font-weight:bold;">
         Undergraduate student
     </summary>
-<!--       <ul type="square">        
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Heejin Kim</b></p> 
-        </li>
-      </ul> -->
+    <ul type="square">
+    <li><p style="text-align:left;"><b sytle="font-size:120%;">Insoo Kim</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/insookim.jpeg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >No pain, No gain.</span>
+        </p>        
+        <u>Research Interests</u>
+        <br>
+        AI security, Computer Vision
+        <br>
+    </li>      
+    </ul>
 </details>
 
 <br>
