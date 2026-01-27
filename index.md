@@ -143,8 +143,8 @@ We share information with each other through various seminars/studies that suppo
       </td>
     </tr>
     <tr>
-      <td class="tg-baqh">1/27 15:00 - 17:00(KST)</td>
-      <td class="tg-baqh">Online-Zoom</td>
+      <td class="tg-baqh">1/27 13:00 - 15:00(KST)</td>
+      <td class="tg-baqh">Natural Building 702</td>
       <td class="tg-baqh">Mamba: Linear-Time Sequence Modeling with Selective State Spaces</td>
       <td class="tg-baqh">Hyunjung Son</td>
       <td class="tg-baqh">
