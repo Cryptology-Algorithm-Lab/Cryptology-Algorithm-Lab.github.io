@@ -139,7 +139,7 @@ We share information with each other through various seminars/studies that suppo
       <td class="tg-baqh">Implicit bias of SGD in L2-regularized linear DNNs: One-way jumps from high to low rank</td>
       <td class="tg-baqh">Dongsoo Kim</td>
       <td class="tg-baqh">
-        TBU
+        <a href="https://drive.google.com/file/d/1qrZLVDSDH1Jnz786wxLPAKgzevVDES4g/view" target="_blank">Link</a>
       </td>
     </tr>
     <tr>
@@ -148,7 +148,7 @@ We share information with each other through various seminars/studies that suppo
       <td class="tg-baqh">Mamba: Linear-Time Sequence Modeling with Selective State Spaces</td>
       <td class="tg-baqh">Hyunjung Son</td>
       <td class="tg-baqh">
-        TBU
+        <a href="https://drive.google.com/file/d/1ASTvISgJnNibQ7PfYpWzZB78NSYTlE9A/view" target="_blank">Link</a>
       </td>
     </tr>
   </tbody>
