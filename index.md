@@ -154,7 +154,7 @@ We share information with each other through various seminars/studies that suppo
   </tbody>
 </table>
 
-### 26 Winter Special Topic: Vision Language Models(VLM)
+### 26 Winter Special Topic: Vision Language Models (VLMs)
 <style type="text/css">
 .tg  {
   border-collapse: collapse;
