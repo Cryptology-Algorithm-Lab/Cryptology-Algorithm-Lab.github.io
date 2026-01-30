@@ -151,6 +151,16 @@ We share information with each other through various seminars/studies that suppo
         <a href="https://drive.google.com/file/d/1ASTvISgJnNibQ7PfYpWzZB78NSYTlE9A/view" target="_blank">Link</a>
       </td>
     </tr>
+    <tr>
+      <td class="tg-baqh">2/3 13:00 - 15:00(KST)</td>
+      <td class="tg-baqh">Natural Building 702</td>
+      <td class="tg-baqh">Back to Basics: Let Denoising Generative Models Denoise</td>
+      <td class="tg-baqh">Insoo Kim</td>
+      <td class="tg-baqh">
+        TBU
+        <!-- <a href="https://drive.google.com/file/d/1ASTvISgJnNibQ7PfYpWzZB78NSYTlE9A/view" target="_blank">Link</a> -->
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -241,10 +251,10 @@ We share information with each other through various seminars/studies that suppo
     <tr>
       <td class="tg-baqh">1/30 15:00 - 17:00(KST)</td>
       <td class="tg-baqh">Natural Building 702</td>
-      <td class="tg-baqh">Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning</td>
+      <td class="tg-baqh">Mind the Gap: About Modality Gap</td>
       <td class="tg-baqh">Chanwoo Hwang</td>
       <td class="tg-baqh">
-         TBU <!-- TBU<a href="https://docs.google.com/presentation/d/1QNgRDw9ERUpE5RE5WWAqn2EZQlDVYWGp/edit?usp=sharing" target="_blank">TBU</a> -->
+         <a href="https://drive.google.com/file/d/1UejcLgoOcDlwej9KvKEnra5H76WCTrIx/view?usp=sharing" target="_blank">Link</a>
       </td>
     </tr>
   </tbody>
