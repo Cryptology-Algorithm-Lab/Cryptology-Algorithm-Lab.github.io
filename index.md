@@ -257,6 +257,15 @@ We share information with each other through various seminars/studies that suppo
          <a href="https://drive.google.com/file/d/1UejcLgoOcDlwej9KvKEnra5H76WCTrIx/view?usp=sharing" target="_blank">Link</a>
       </td>
     </tr>
+    <tr>
+      <td class="tg-baqh">2/6 15:00 - 17:00(KST)</td>
+      <td class="tg-baqh">Natural Building 702</td>
+      <td class="tg-baqh">Attack Methods for CLIP and Vision–Language Pre-trained Models</td>
+      <td class="tg-baqh">Dongsoo Kim</td>
+      <td class="tg-baqh">
+         TBU<!-- <a href="https://drive.google.com/file/d/1UejcLgoOcDlwej9KvKEnra5H76WCTrIx/view?usp=sharing" target="_blank">Link</a> -->
+      </td>
+    </tr>
   </tbody>
 </table>
 
