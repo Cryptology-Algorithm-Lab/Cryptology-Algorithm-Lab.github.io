@@ -16,8 +16,16 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 ## Annual News
 
 <ul type="square">
+  <li>
+      (Feb 5, 2026) Sunpill Kim won the Excellent Paper Awards for Ph.d Thesis by the Research Institute for Natural Sciences, Hanyang University.
+      <ul type="disc">
+          <li>
+             <b>Sunpill Kim</b><br><i>Score-Based Non-Adaptive Attack Against Face Recognition Systems</i> 
+          </li>
+      </ul>
+  </li>
     <li>
-      (Jan 13, 2025) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE Access</span></b>.
+      (Jan 13, 2026) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE Access</span></b>.
       <ul type="disc">
           <li>
              <b>Hyeonbum Lee</b>, <b>Seunghun Paik</b>, <b>Hyunjung Son</b>, and <b>Jae Hong Seo</b><br><i>Cougar: Cubic Root Verifier Inner Product Argument under Discrete Logarithm Assumption</i> 
