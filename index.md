@@ -168,6 +168,15 @@ We share information with each other through various seminars/studies that suppo
         <a href="https://drive.google.com/file/d/1hcxGaG-8ti89eL0xT_usKV3KOE6bogPS/view" target="_blank">Link</a>
       </td>
     </tr>
+    <tr>
+      <td class="tg-baqh">2/10 13:00 - 15:00(KST)</td>
+      <td class="tg-baqh">Natural Building 701</td>
+      <td class="tg-baqh">Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search</td>
+      <td class="tg-baqh">Yunki Kim</td>
+      <td class="tg-baqh">
+        TBU<!-- <a href="https://drive.google.com/file/d/1hcxGaG-8ti89eL0xT_usKV3KOE6bogPS/view" target="_blank">Link</a> -->
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -265,7 +274,7 @@ We share information with each other through various seminars/studies that suppo
       </td>
     </tr>
     <tr>
-      <td class="tg-baqh">2/6 15:00 - 17:00(KST)</td>
+      <td class="tg-baqh">2/13 15:00 - 17:00(KST)</td>
       <td class="tg-baqh">Natural Building 702</td>
       <td class="tg-baqh">Attack Methods for CLIP and Vision–Language Pre-trained Models</td>
       <td class="tg-baqh">Dongsoo Kim</td>
