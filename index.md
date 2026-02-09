@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
-      (Feb 5, 2026) Sunpill Kim received the Outstanding Ph.D. Dissertation Award from Hanyang University.
+      (Feb 5, 2026) Sunpill Kim will receive the <b><span style = "color : #08A709">Outstanding Ph.D. Dissertation Award</span></b> from Hanyang University.
       <ul type="disc">
           <li>
              <b>Sunpill Kim</b><br><i>Score-Based Non-Adaptive Attack Against Face Recognition Systems</i> 
