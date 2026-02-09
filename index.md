@@ -282,6 +282,15 @@ We share information with each other through various seminars/studies that suppo
          TBU<!-- <a href="https://drive.google.com/file/d/1UejcLgoOcDlwej9KvKEnra5H76WCTrIx/view?usp=sharing" target="_blank">Link</a> -->
       </td>
     </tr>
+    <tr>
+      <td class="tg-baqh">2/13 15:00 - 17:00(KST)</td>
+      <td class="tg-baqh">Natural Building 702</td>
+      <td class="tg-baqh">BLIP, BLIP2, and Flamingo</td>
+      <td class="tg-baqh">Seunghun Paik</td>
+      <td class="tg-baqh">
+         TBU<!-- <a href="https://drive.google.com/file/d/1UejcLgoOcDlwej9KvKEnra5H76WCTrIx/view?usp=sharing" target="_blank">Link</a> -->
+      </td>
+    </tr>
   </tbody>
 </table>
 
