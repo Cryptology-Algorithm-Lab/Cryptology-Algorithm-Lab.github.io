@@ -283,7 +283,7 @@ We share information with each other through various seminars/studies that suppo
       </td>
     </tr>
     <tr>
-      <td class="tg-baqh">2/13 15:00 - 17:00(KST)</td>
+      <td class="tg-baqh">2/20 15:00 - 17:00(KST)</td>
       <td class="tg-baqh">Natural Building 702</td>
       <td class="tg-baqh">BLIP, BLIP2, and Flamingo</td>
       <td class="tg-baqh">Seunghun Paik</td>
