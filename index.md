@@ -174,7 +174,7 @@ We share information with each other through various seminars/studies that suppo
       <td class="tg-baqh">Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search</td>
       <td class="tg-baqh">Yunki Kim</td>
       <td class="tg-baqh">
-        TBU<!-- <a href="https://drive.google.com/file/d/1hcxGaG-8ti89eL0xT_usKV3KOE6bogPS/view" target="_blank">Link</a> -->
+        <a href="https://docs.google.com/presentation/d/1OopQk8i_0PNLCAc-yiRvX1ou0i0oL3Up/edit?usp=drive_link&ouid=100777603672304406865&rtpof=true&sd=true" target="_blank">Link</a>
       </td>
     </tr>
   </tbody>
