@@ -279,7 +279,7 @@ We share information with each other through various seminars/studies that suppo
       <td class="tg-baqh">Attack Methods for CLIP and Vision–Language Pre-trained Models</td>
       <td class="tg-baqh">Dongsoo Kim</td>
       <td class="tg-baqh">
-         TBU<!-- <a href="https://drive.google.com/file/d/1UejcLgoOcDlwej9KvKEnra5H76WCTrIx/view?usp=sharing" target="_blank">Link</a> -->
+         <a href="https://drive.google.com/file/d/1rYy2lJHrGeh2ph2CZpZ1M4YoL7gFsmHA/view" target="_blank">Link</a>
       </td>
     </tr>
     <tr>
@@ -288,7 +288,7 @@ We share information with each other through various seminars/studies that suppo
       <td class="tg-baqh">BLIP, BLIP2, and Flamingo</td>
       <td class="tg-baqh">Seunghun Paik</td>
       <td class="tg-baqh">
-         TBU<!-- <a href="https://drive.google.com/file/d/1UejcLgoOcDlwej9KvKEnra5H76WCTrIx/view?usp=sharing" target="_blank">Link</a> -->
+         <a href="https://drive.google.com/file/d/1bBP6nv34Sq8IGNBXLM4olqK7s9cxB0J4/view" target="_blank">Link</a>
       </td>
     </tr>
   </tbody>
