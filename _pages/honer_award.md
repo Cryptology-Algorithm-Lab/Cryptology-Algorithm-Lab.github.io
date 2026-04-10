@@ -17,6 +17,7 @@ header:
   <li>Outstanding Paper of the Week, Hanyang University.</li>
     <ul type="-">
   <li><b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, <b>Jae Hong Seo</b></li>
+    </ul>
 </ul>
 
 ## 2025
