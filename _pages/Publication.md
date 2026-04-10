@@ -18,7 +18,7 @@ header:
     <p>
         <i>Cougar: Cubic Root Verifier Inner Product Argument under Discrete Logarithm Assumption</i> 
         <br>
-        IEEE Access, (TBU)
+        IEEE Access, (TBA)
     </p>
 </li> 
 <li>
@@ -26,7 +26,7 @@ header:
     <p>
         <i>Doubly Efficient Fuzzy Private Set Intersection for High-dimensional Data with Cosine Similarity</i> 
         <br>
-        IEEE Access, (TBU)
+        IEEE Access, (<A href="https://ieeexplore.ieee.org/abstract/document/11316118">DOI</A>)
     </p>
 </li> 
 <li>
@@ -316,7 +316,7 @@ header:
       </p>  
 </li>
 <li> 
-  [C30] <b>Seunghun Paik</b>, Nirajan Koirala, Jack Nero, <b>Hyunjung Son</b>, <b>Yunki Kim</b>, <b>Jae Hong Seo</b>, and Taeho Jung 
+  [C30] <b>Seunghun Paik</b>, Nirajan Koirala, Jack Nero, <b>Hyunjung Son</b>, <b>Yunki Kim</b>, <b>Jae Hong Seo*</b>, and Taeho Jung* 
       <p>
           <i>Scalable Private Set Intersection over Distributed Encrypted Data</i> 
           <br>
@@ -344,7 +344,7 @@ header:
       <p>
           <i>A Survey of Model Inversion Attacks on Image Domain</i> 
           <br>
-          <b>ICTC</b> 2025, (TBA)
+          <b>ICTC</b> 2025, (<A href="https://ieeexplore.ieee.org/abstract/document/11388195">DOI</A>)
       </p>  
 </li>
 <li> 
@@ -352,7 +352,7 @@ header:
       <p>
           <i>A Survey on Fuzzy Private Set Intersection Protocols</i> 
           <br>
-          <b>ICTC</b> 2025, (TBA)
+          <b>ICTC</b> 2025, (<A href="https://ieeexplore.ieee.org/abstract/document/11388448">DOI</A>)
       </p>  
 </li>
 <li> 
@@ -364,7 +364,7 @@ header:
       </p>  
 </li>  
 <li> 
-  [C24] Jaehwan Park, <b>Hyeonbum Lee</b>, Junbeom Hur, <b>Jae Hong Seo</b> and Doowon Kim
+  [C24] Jaehwan Park&dagger;, <b>Hyeonbum Lee&dagger;</b>, Junbeom Hur, <b>Jae Hong Seo*</b> and Doowon Kim*
       <p>
           <i>UTRA: Universal Token Reusability Attack and Token Unforgeable Delegatable Order-Revealing Encryption</i> 
           <br>
