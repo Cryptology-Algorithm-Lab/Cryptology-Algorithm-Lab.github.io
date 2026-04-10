@@ -32,7 +32,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       <summary>
         Poster: 
       </summary>
-      <img src="./assets/Gallery/math_workshop.png" alt="MATH Workshop" style="width:100%; max-width:600px; border-radius:10px;">
+      <img src="./assets/Gallery/math_poster.png" alt="MATH Workshop" style="width:100%; max-width:600px; border-radius:10px;">
     </details>
   </li>
   <li>
