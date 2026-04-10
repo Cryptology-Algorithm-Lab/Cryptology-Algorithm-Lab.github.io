@@ -41,31 +41,11 @@ header:
 
 <details>
   <summary style="font-size:1.2rem; font-weight:bold;">
-      Ph.D student
+      Postdoc
   </summary>
   <ul type = "square">
     <br>
-    <li><p style="text-align:left;"><b sytle="font-size:120%;">Changjin Kim</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/changjinkim.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Everything finds its place.</span>
-        </p>        
-        <u>Research Interests</u>
-        <br>
-          AI Security, Computer Vision
-      </li>
-  </ul>  
-</details>
-
-<br>
-
-<details>
-    <summary style="font-size:1.2rem; font-weight:bold;">
-        Ms & Ph.D Integrated Course student
-    </summary>
-    <ul type="square">        
-        <br>
-        <li><p style="text-align:left;"><A href="https://sunpill.github.io"><b sytle="font-size:120%;">Sunpill Kim</b></A>
+    <li><p style="text-align:left;"><A href="https://sunpill.github.io"><b sytle="font-size:120%;">Sunpill Kim</b></A>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill1.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
           <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Freedom is not free.</span>
@@ -116,7 +96,38 @@ header:
             </li>  
           </ul>          
         </details>  
-    </li>   
+    </li>  
+  </ul>
+</details>
+
+<br>
+
+<details>
+  <summary style="font-size:1.2rem; font-weight:bold;">
+      Ph.D student
+  </summary>
+  <ul type = "square">
+    <br>
+    <li><p style="text-align:left;"><b sytle="font-size:120%;">Changjin Kim</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/changjinkim.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Everything finds its place.</span>
+        </p>        
+        <u>Research Interests</u>
+        <br>
+          AI Security, Computer Vision
+      </li>
+  </ul>  
+</details>
+
+<br>
+
+<details>
+    <summary style="font-size:1.2rem; font-weight:bold;">
+        Ms & Ph.D Integrated Course student
+    </summary>
+    <ul type="square">        
+        <br> 
 <!--     <br>
         <li><p style="text-align:left;"><A href="https://hyeonbumlee.github.io"><b sytle="font-size:120%;">Hyeonbum Lee</b></A>
         <br>
@@ -356,6 +367,8 @@ header:
     </summary>
     <ul type="square">
         <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyeonbum Lee (Postdoc, Seoul National University)</b><span style="float:right;"> <i>Aug 2025</i></span></p>
+      </li>
+        <li><p style="text-align:left;"><b sytle="font-size:120%;">Sunpill Kim (Postdoc, Hanyang University)</b><span style="float:right;"> <i>Feb 2026</i></span></p>
       </li>
      </ul> 
 </details>
