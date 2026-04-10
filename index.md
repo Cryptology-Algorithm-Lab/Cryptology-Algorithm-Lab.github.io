@@ -17,6 +17,14 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
+      (Apr 9, 2026) The following paper has been accepted for publication at <b><span style = "color : #4169E1">ACM CCS 2026</span></b>.
+      <ul type="disc">
+          <li>
+             <b>Seunghun Paik&dagger;</b>, <b>Sunpill Kim&dagger;</b>, <b>Chanwoo Hwang</b>, and <b>Jae Hong Seo</b><br><i>Casting the Net! Revisiting MasterFace Impersonation Attacks</i> 
+          </li>
+      </ul>
+  </li>
+  <li>
     (Apr 9, 2026) <b>Yunki Kim</b> has been selected for the National Cryptographic Expert Training Program (NACET) 12th cohort.
   </li>
   <li>
@@ -46,7 +54,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
           </li>
       </ul>
   </li>
-    <li>
+  <li>
       (Jan 13, 2026) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE Access</span></b>.
       <ul type="disc">
           <li>
