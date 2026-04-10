@@ -308,7 +308,7 @@ header:
 
 <ul type="none">
 <li> 
-  [C31] <b>Seunghun Paik&dagger;</b>, <b>Sunpill Kim&dagger;</b>, <b>Chanwoo Hwang</b>, and <b>Jae Hong Seo</b>
+  [C31] <b>Seunghun Paik&dagger;</b>, <b>Sunpill Kim&dagger;</b>, <b>Chanwoo Hwang</b>, and <b>Jae Hong Seo*</b>
       <p>
           <i>Casting the Net! Revisiting MasterFace Impersonation Attacks</i> 
           <br>
