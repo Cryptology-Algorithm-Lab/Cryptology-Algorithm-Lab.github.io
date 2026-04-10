@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
-      (Apr 9, 2026) The following paper has been accepted for publication at <b><span style = "color : #4169E1">ACM CCS 2026</span></b>.
+      (Apr 10, 2026) The following paper has been accepted for publication at <b><span style = "color : #4169E1">ACM CCS 2026</span></b>.
       <ul type="disc">
           <li>
              <b>Seunghun Paik&dagger;</b>, <b>Sunpill Kim&dagger;</b>, <b>Chanwoo Hwang</b>, and <b>Jae Hong Seo</b><br><i>Casting the Net! Revisiting MasterFace Impersonation Attacks</i> 
