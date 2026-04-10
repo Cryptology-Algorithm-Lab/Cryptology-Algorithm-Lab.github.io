@@ -20,7 +20,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       (Apr 10, 2026) The following paper has been accepted for publication at <b><span style = "color : #4169E1">ACM CCS 2026</span></b>.
       <ul type="disc">
           <li>
-             <b>Seunghun Paik&dagger;</b>, <b>Sunpill Kim&dagger;</b>, <b>Chanwoo Hwang</b>, and <b>Jae Hong Seo</b><br><i>Casting the Net! Revisiting MasterFace Impersonation Attacks</i> 
+             <b>Seunghun Paik&dagger;</b>, <b>Sunpill Kim&dagger;</b>, <b>Chanwoo Hwang</b>, and <b>Jae Hong Seo*</b><br><i>Casting the Net! Revisiting MasterFace Impersonation Attacks</i> 
           </li>
       </ul>
   </li>
@@ -58,7 +58,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       (Jan 13, 2026) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE Access</span></b>.
       <ul type="disc">
           <li>
-             <b>Hyeonbum Lee</b>, <b>Seunghun Paik</b>, <b>Hyunjung Son</b>, and <b>Jae Hong Seo</b><br><i>Cougar: Cubic Root Verifier Inner Product Argument under Discrete Logarithm Assumption</i> 
+             <b>Hyeonbum Lee</b>, <b>Seunghun Paik</b>, <b>Hyunjung Son</b>, and <b>Jae Hong Seo*</b><br><i>Cougar: Cubic Root Verifier Inner Product Argument under Discrete Logarithm Assumption</i> 
           </li>
       </ul>
   </li>
