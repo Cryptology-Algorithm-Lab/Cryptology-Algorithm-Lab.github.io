@@ -17,6 +17,16 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
+      (Apr 3, 2026) The following paper has been selected Outstanding Paper at Hanyang University.
+      <ul type="disc">
+          <li>
+              <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim,</b> and <b>Jae Hong Seo</b><br>
+              <i>On the Reversibility of Locality-Sensitive Hashing-Based Biometric Template Protections</i><br>
+              <b><span style = "color : #DC143C">IEEE Transactions on Dependable and Secure Computing</span></b><br>
+          </li>
+      </ul>
+  </li>
+  <li>
       (Feb 5, 2026) Sunpill Kim will receive the <b><span style = "color : #08A709">Outstanding Ph.D. Dissertation Award</span></b> from Hanyang University.
       <ul type="disc">
           <li>
