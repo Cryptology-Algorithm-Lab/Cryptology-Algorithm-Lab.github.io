@@ -12,6 +12,13 @@ header:
 ---
 # Honors & Awards
 
+## 2026
+<ul type="square">
+  <li>Outstanding Paper of the Week, Hanyang University.</li>
+    <ul type="-">
+  <li><b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, <b>Jae Hong Seo</b></li>
+</ul>
+
 ## 2025
 <ul type="square">
   <li>Excellence Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
