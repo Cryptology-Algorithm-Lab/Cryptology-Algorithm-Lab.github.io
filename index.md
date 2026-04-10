@@ -27,6 +27,15 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </ul>
   </li>
   <li>
+    (Mar 18, 2026) C&A Lab hosted the “MATH: Make AI Trust Higher” workshop at Hanyang University.
+    <details>
+      <summary>
+        Poster: 
+      </summary>
+      <img src="./assets/Gallery/math_workshop.png" alt="MATH Workshop" style="width:100%; max-width:600px; border-radius:10px;">
+    </details>
+  </li>
+  <li>
       (Feb 5, 2026) Sunpill Kim will receive the <b><span style = "color : #08A709">Outstanding Ph.D. Dissertation Award</span></b> from Hanyang University.
       <ul type="disc">
           <li>
