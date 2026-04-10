@@ -308,6 +308,14 @@ header:
 
 <ul type="none">
 <li> 
+  [C31] <b>Seunghun Paik&dagger;</b>, <b>Sunpill Kim&dagger;</b>, <b>Chanwoo Hwang</b>, and <b>Jae Hong Seo</b>
+      <p>
+          <i>Casting the Net! Revisiting MasterFace Impersonation Attacks</i> 
+          <br>
+          <b>CCS</b> 2026, (TBA)
+      </p>  
+</li>
+<li> 
   [C30] <b>Seunghun Paik</b>, Nirajan Koirala, Jack Nero, <b>Hyunjung Son</b>, <b>Yunki Kim</b>, <b>Jae Hong Seo</b>, and Taeho Jung 
       <p>
           <i>Scalable Private Set Intersection over Distributed Encrypted Data</i> 
