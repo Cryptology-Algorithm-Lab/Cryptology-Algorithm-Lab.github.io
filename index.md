@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
-    (Apr 9, 2026) <b>Yunki</b> Kim has been selected for the National Cryptographic Expert Training Program (NACET) 12th cohort.
+    (Apr 9, 2026) <b>Yunki Kim</b> has been selected for the National Cryptographic Expert Training Program (NACET) 12th cohort.
   </li>
   <li>
       (Apr 3, 2026) The following paper has been selected <b><span style = "color : #08A709">Outstanding Paper</span></b> at Hanyang University.
