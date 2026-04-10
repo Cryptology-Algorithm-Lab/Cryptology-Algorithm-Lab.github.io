@@ -183,8 +183,19 @@ gallery16:
     image_path: /assets/Gallery/math2.jpeg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
+gallery17:
+  - url: /assets/Gallery/best_paper_2603.png
+    image_path: /assets/Gallery/best_paper_2603.png
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/Gallery/best_paper_2603_1.jpeg
+    image_path: /assets/Gallery/best_paper_2603_1.jpeg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
 ---
 # Gallery
+{% include gallery id="gallery17" caption="**Congrats on Selection as Outstanding Paper, Hanyang University**" %}
+
 {% include gallery id="gallery16" caption="**MATH: Make AI Trust Higher” Workshop at Hanyang University – exploring the intersection of AI, mathematics, and cryptography.**" %}
 
 {% include gallery id="gallery15" caption="**Celebrating the graduation of Sunpill Kim – wishing him continued success ahead.**" %}
