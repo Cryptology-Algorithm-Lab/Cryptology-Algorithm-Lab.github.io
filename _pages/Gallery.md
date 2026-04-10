@@ -164,9 +164,31 @@ gallery14:
   - url: /assets/Gallery/mathday2_sh.jpeg
     image_path: /assets/Gallery/mathday2_sh.jpeg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"                                     
+    title: "Image 2 title caption"
+gallery15:
+  - url: /assets/Gallery/SP_grad1.jpeg
+    image_path: /assets/Gallery/SP_grad1.jpeg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/Gallery/SP_grad2.jpeg
+    image_path: /assets/Gallery/SP_grad2.jpeg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+gallery16:
+  - url: /assets/Gallery/math1.jpeg
+    image_path: /assets/Gallery/math1.jpeg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/Gallery/math2.jpeg
+    image_path: /assets/Gallery/math2.jpeg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
 ---
 # Gallery
+{% include gallery id="gallery16" caption="**MATH: Make AI Trust Higher” Workshop at Hanyang University – exploring the intersection of AI, mathematics, and cryptography.**" %}
+
+{% include gallery id="gallery15" caption="**Celebrating the graduation of Sunpill Kim – wishing him continued success ahead.**" %}
+
 {% include gallery id="gallery14" caption="Seunhun Paik's invited talk at The Day of Mathmatics 2025, Hanyang University" %}
 
 {% include gallery id="gallery13" caption="Congrats on several awards in the National Cryptographic Technology Contest 2025." %}
