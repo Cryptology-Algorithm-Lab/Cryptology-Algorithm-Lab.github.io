@@ -17,7 +17,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
-      (Apr 3, 2026) The following paper has been selected Outstanding Paper at Hanyang University.
+      (Apr 3, 2026) The following paper has been selected <b><span style = "color : #08A709">Outstanding Paper</span></b> at Hanyang University.
       <ul type="disc">
           <li>
               <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim,</b> and <b>Jae Hong Seo</b><br>
