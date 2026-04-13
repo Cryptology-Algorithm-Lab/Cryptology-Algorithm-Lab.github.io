@@ -39,7 +39,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       (Apr 3, 2026) The following paper has been selected <b><span style = "color : #08A709">Outstanding Paper</span></b> at Hanyang University.
       <ul type="disc">
           <li>
-              <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim,</b> and <b>Jae Hong Seo</b><br>
+              <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim,</b> and <b>Jae Hong Seo*</b><br>
               <i>On the Reversibility of Locality-Sensitive Hashing-Based Biometric Template Protections</i><br>
               <b><span style = "color : #DC143C">IEEE Transactions on Dependable and Secure Computing</span></b><br>
           </li>
@@ -47,7 +47,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
   </li>
   <li>
     (Mar 18, 2026) C&A Lab hosted the “MATH: Make AI Trust Higher” workshop at Hanyang University.
-    <details>
+    <details open>
       <summary>
         Poster: 
       </summary>
