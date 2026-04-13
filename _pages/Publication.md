@@ -14,6 +14,14 @@ header:
 
 <ul type="none">
 <li>
+[J34]  <b>Minsu Kim&dagger;</b>, <b>Seunghun Paik&dagger;</b>, <b>Seongae Baek</b>, <b>Sangyoon Shin</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*</b>
+    <p>
+        <i>SilverMask: Face Template Protection with Fine-Grained Noise Correction</i> 
+        <br>
+        IEEE Access, (TBA)
+    </p>
+</li> 
+<li>
 [J33]  <b>Hyeonbum Lee</b>, <b>Seunghun Paik</b>, <b>Hyunjung Son</b>, and <b>Jae Hong Seo*</b>
     <p>
         <i>Cougar: Cubic Root Verifier Inner Product Argument under Discrete Logarithm Assumption</i> 
