@@ -17,6 +17,14 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
+      (Apr 13, 2026) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE Access</span></b>.
+      <ul type="disc">
+          <li>
+             <b>Minsu Kim&dagger;</b>, <b>Seunghun Paik&dagger;</b>, <b>Seongae Baek</b>, <b>Sangyoon Shin</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*</b><br><i>SilverMask: Face Template Protection with Fine-Grained Noise Correction</i> 
+          </li>
+      </ul>
+  </li>
+  <li>
       (Apr 10, 2026) The following paper has been accepted for publication at <b><span style = "color : #4169E1">ACM CCS 2026</span></b>.
       <ul type="disc">
           <li>
