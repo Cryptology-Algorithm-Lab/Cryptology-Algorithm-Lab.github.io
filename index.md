@@ -17,6 +17,13 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
+      (Apr 20, 2026) Dr. Keewoo Lee from the Ethereum Foundation visited the C&A Lab and gave a talk.
+      <ul type="disc">  
+        <li>Date & Place: 01:00 PM, Apr 20 / Natural Science Building 702 </li>
+        <li>Title: Private Information Retrieval</li>
+      </ul>
+  </li>
+  <li>
       (Apr 13, 2026) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE Access</span></b>.
       <ul type="disc">
           <li>
