@@ -147,8 +147,7 @@ We share information with each other through various seminars/studies that suppo
       <td class="tg-baqh">Deep Neural Cryptography</td>
       <td class="tg-baqh">Seunghun Paik</td>
       <td class="tg-baqh">
-        TBU
-        <!-- <a href="https://docs.google.com/presentation/d/1QNgRDw9ERUpE5RE5WWAqn2EZQlDVYWGp/edit?usp=sharing" target="_blank">Link</a> -->
+        <a href="https://drive.google.com/file/d/1sM5iu_cBU5L2uL7pHeDBTwneX_Bg4jXQ/view?usp=sharing" target="_blank">Link</a>
       </td>
     </tr>
   </tbody>
