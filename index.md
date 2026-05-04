@@ -150,6 +150,15 @@ We share information with each other through various seminars/studies that suppo
         <a href="https://drive.google.com/file/d/1sM5iu_cBU5L2uL7pHeDBTwneX_Bg4jXQ/view?usp=sharing" target="_blank">Link</a>
       </td>
     </tr>
+    <tr>
+      <td class="tg-baqh">5/8 10:00 - 12:00(KST)</td>
+      <td class="tg-baqh">Natural Building 702</td>
+      <td class="tg-baqh">Towards Deep Conversational Recommendations</td>
+      <td class="tg-baqh">Changjin Kim</td>
+      <td class="tg-baqh">
+        TBU<!-- <a href="https://drive.google.com/file/d/1sM5iu_cBU5L2uL7pHeDBTwneX_Bg4jXQ/view?usp=sharing" target="_blank">Link</a> -->
+      </td>
+    </tr>
   </tbody>
 </table>
 
