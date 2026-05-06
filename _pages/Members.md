@@ -194,7 +194,7 @@ header:
         </details>  
     </li>
     <br>  
-    <li><p style="text-align:left;"><b sytle="font-size:120%;">Dongsoo Kim</b>
+    <!-- <li><p style="text-align:left;"><b sytle="font-size:120%;">Dongsoo Kim</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Dongsu.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
           <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Kites rise highest against the wind - not with it. -Winston Churchill-</span>
@@ -215,7 +215,7 @@ header:
           </ul>  
         </details>  
     </li>
-    <br>  
+    <br>   -->
     <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyunjung Son</b>
         <br>
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hyunjung.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
