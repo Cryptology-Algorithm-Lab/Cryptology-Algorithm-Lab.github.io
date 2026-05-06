@@ -81,7 +81,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       </ul>
   </li>
   <li>
-    (Jan 5, 2026) <b>Insoo Kim</b> (undergraduate student) joined our Cryptology & Algorithm Lab, and we are pleased to welcome him to our team.
+    (Jan 5, 2026) <b>Insoo Kim</b> (undergraduate student) joined our Cryptology & Algorithm Lab, and we are pleased to welcome him to our Lab.
   </li>
 </ul>    
 
