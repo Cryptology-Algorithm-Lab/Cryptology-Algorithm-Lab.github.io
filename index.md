@@ -16,9 +16,9 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 ## Annual News
 
 <ul type="square">
-  <!-- <li>
-     (May 6, 2026) Two undergraduate students <b></b> and <b></b> joined our Cryptology & Algorithm Lab. We are delighted to welcome them.
-  </li> -->
+  <li>
+     (May 4, 2026) Two undergraduate students <b>Hyeonmin Jang</b> and <b>Ingeun Yun</b> joined our Cryptology & Algorithm Lab. We are delighted to welcome them.
+  </li>
   <li>
       (Apr 20, 2026) Dr. Keewoo Lee from the Ethereum Foundation visited the C&A Lab and gave a lecture.
       <ul type="disc">  
