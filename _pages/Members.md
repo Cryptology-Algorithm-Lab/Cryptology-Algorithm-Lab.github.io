@@ -337,7 +337,29 @@ header:
         <br>
         AI security, Computer Vision
         <br>
-    </li>      
+    </li>
+    <br>  
+    <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyeonmin Jang</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hyeonminjang.jpeg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >If you do not change direction, you may end up where you were heading.</span>
+        </p>        
+        <u>Research Interests</u>
+        <br>
+          Cryptography
+        <br>
+    </li>
+    <br>
+    <li><p style="text-align:left;"><b sytle="font-size:120%;">Ingeun Yun</b>
+        <br>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ingeunyun.jpeg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
+          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >One day or day one, you decide.</span>
+        </p>        
+        <u>Research Interests</u>
+        <br>
+          Cryptography , Deep Learning Algorithms 
+        <br>
+    </li>
     </ul>
 </details>
 
