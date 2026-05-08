@@ -162,7 +162,7 @@ We share information with each other through various seminars/studies that suppo
       <td class="tg-baqh">Towards Deep Conversational Recommendations</td>
       <td class="tg-baqh">Changjin Kim</td>
       <td class="tg-baqh">
-        TBU<!-- <a href="https://drive.google.com/file/d/1sM5iu_cBU5L2uL7pHeDBTwneX_Bg4jXQ/view?usp=sharing" target="_blank">Link</a> -->
+        <a href="https://drive.google.com/file/d/13wY5T6epOOkcCL5_ssNvwXij1vV_PnOG/view?usp=drive_link" target="_blank">Link</a>
       </td>
     </tr>
   </tbody>
