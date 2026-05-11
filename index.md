@@ -165,6 +165,15 @@ We share information with each other through various seminars/studies that suppo
         <a href="https://drive.google.com/file/d/13wY5T6epOOkcCL5_ssNvwXij1vV_PnOG/view?usp=drive_link" target="_blank">Link</a>
       </td>
     </tr>
+    <tr>
+      <td class="tg-baqh">5/15 10:00 - 12:00(KST)</td>
+      <td class="tg-baqh">Natural Building 702</td>
+      <td class="tg-baqh">Denoising Diffusion Implicit Models</td>
+      <td class="tg-baqh">Minsu Kim</td>
+      <td class="tg-baqh">
+        TBU<!-- <a href="https://drive.google.com/file/d/13wY5T6epOOkcCL5_ssNvwXij1vV_PnOG/view?usp=drive_link" target="_blank">Link</a> -->
+      </td>
+    </tr>
   </tbody>
 </table>
 
