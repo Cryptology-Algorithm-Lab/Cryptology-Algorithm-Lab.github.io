@@ -171,7 +171,16 @@ We share information with each other through various seminars/studies that suppo
       <td class="tg-baqh">Denoising Diffusion Implicit Models</td>
       <td class="tg-baqh">Minsu Kim</td>
       <td class="tg-baqh">
-        TBU<!-- <a href="https://drive.google.com/file/d/13wY5T6epOOkcCL5_ssNvwXij1vV_PnOG/view?usp=drive_link" target="_blank">Link</a> -->
+        <a href="https://drive.google.com/file/d/1WkHs5Uy_McSIr7bRCPyiTmF3gE1I-wVC/view" target="_blank">Link</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="tg-baqh">5/22 10:00 - 12:00(KST)</td>
+      <td class="tg-baqh">Natural Building 702</td>
+      <td class="tg-baqh">Concept-based Adversarial Attack: a Probabilistic Perspective</td>
+      <td class="tg-baqh">Chanwoo Hwang</td>
+      <td class="tg-baqh">
+        TBU<!-- <a href="https://drive.google.com/file/d/1WkHs5Uy_McSIr7bRCPyiTmF3gE1I-wVC/view" target="_blank">Link</a> -->
       </td>
     </tr>
   </tbody>
