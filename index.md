@@ -17,6 +17,13 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 <ul type="square">
   <li>
+      (May 20, 2026) Prof. Yongha Son from Sungshin Women’s University will visit the C&A Lab and give a lecture.
+      <ul type="disc">  
+        <li>Date & Place: 01:30 PM, May 21 / Natural Science Building 102 </li>
+        <li>Title: Private Set Intersection</li>
+      </ul>
+  </li>
+  <li>
      (May 4, 2026) Two undergraduate students <b>Hyeonmin Jang</b> and <b>Ingeun Yun</b> joined our Cryptology & Algorithm Lab. We are delighted to welcome them.
   </li>
   <li>
