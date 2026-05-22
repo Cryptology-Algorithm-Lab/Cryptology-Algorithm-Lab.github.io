@@ -265,13 +265,13 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <div class="cna-when"><span class="cna-date">May 7</span><span class="cna-time">17:30–19:30 KST</span></div>
         <div><div class="cna-title">Linear Algebra &mdash; I <span class="cna-ch">(prerequisite)</span></div><div class="cna-place">Natural Building 742</div></div>
         <div class="cna-who"><span class="cna-name">Minsu Kim</span></div>
-        <div class="cna-mat"><span class="cna-tba">TBA</span></div>
+        <div class="cna-mat"><span class="cna-tba">--</span></div>
       </article>
       <article class="cna-session">
         <div class="cna-when"><span class="cna-date">May 14</span><span class="cna-time">17:30–19:30 KST</span></div>
         <div><div class="cna-title">Linear Algebra &mdash; II <span class="cna-ch">(prerequisite)</span></div><div class="cna-place">Natural Building 742</div></div>
         <div class="cna-who"><span class="cna-name">Minsu Kim</span></div>
-        <div class="cna-mat"><span class="cna-tba">TBA</span></div>
+        <div class="cna-mat"><span class="cna-tba">--</span></div>
       </article>
       <article class="cna-session">
         <div class="cna-when"><span class="cna-date">May 21</span><span class="cna-time">17:30–19:30 KST</span></div>
