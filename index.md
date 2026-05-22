@@ -187,7 +187,7 @@ We share information with each other through various seminars/studies that suppo
       <td class="tg-baqh">Concept-based Adversarial Attack: a Probabilistic Perspective</td>
       <td class="tg-baqh">Chanwoo Hwang</td>
       <td class="tg-baqh">
-        TBU<!-- <a href="https://drive.google.com/file/d/1WkHs5Uy_McSIr7bRCPyiTmF3gE1I-wVC/view" target="_blank">Link</a> -->
+        <a href="https://drive.google.com/file/d/1Wh3zIBRhfLKzUfu63uv_8mjjPbg0zH-n/view?usp=drive_link" target="_blank">Link</a>
       </td>
     </tr>
   </tbody>
