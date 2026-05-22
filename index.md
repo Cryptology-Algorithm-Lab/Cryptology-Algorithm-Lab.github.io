@@ -133,7 +133,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
   padding:5px 11px; border-radius:999px; white-space:nowrap;
 }
 .cna-seminars .cna-head h2{
-  font-weight:600; font-size:1.5rem; letter-spacing:-.01em; margin:0; flex:1 1 auto;
+  font-weight:600; font-size:1.05rem; letter-spacing:-.01em; margin:0; flex:1 1 auto;
   border:none; padding:0;
 }
 .cna-seminars .cna-count{ font-size:13px; color:var(--cna-faint); white-space:nowrap; }
