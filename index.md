@@ -265,13 +265,13 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
         <div class="cna-when"><span class="cna-date">May 7</span><span class="cna-time">17:30–19:30 KST</span></div>
         <div><div class="cna-title">Linear Algebra &mdash; I <span class="cna-ch">(prerequisite)</span></div><div class="cna-place">Natural Building 742</div></div>
         <div class="cna-who"><span class="cna-name">Minsu Kim</span></div>
-        <div class="cna-mat"><span class="cna-tba">--</span></div>
+        <div class="cna-mat"><a href="https://drive.google.com/file/d/12T2ylLOPioP-2JtE7tMk1RrBcj3HhM2Y/view?usp=share_link" target="_blank" rel="noopener">Slides<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M7 17L17 7M17 7H8M17 7v9"/></svg></a></div>
       </article>
       <article class="cna-session">
         <div class="cna-when"><span class="cna-date">May 14</span><span class="cna-time">17:30–19:30 KST</span></div>
         <div><div class="cna-title">Linear Algebra &mdash; II <span class="cna-ch">(prerequisite)</span></div><div class="cna-place">Natural Building 742</div></div>
         <div class="cna-who"><span class="cna-name">Minsu Kim</span></div>
-        <div class="cna-mat"><span class="cna-tba">--</span></div>
+        <div class="cna-mat"><a href="https://drive.google.com/file/d/12T2ylLOPioP-2JtE7tMk1RrBcj3HhM2Y/view?usp=share_link" target="_blank" rel="noopener">Slides<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M7 17L17 7M17 7H8M17 7v9"/></svg></a></div>
       </article>
       <article class="cna-session">
         <div class="cna-when"><span class="cna-date">May 21</span><span class="cna-time">17:30–19:30 KST</span></div>
