@@ -1,15 +1,39 @@
 <!-- start custom footer snippets -->
-<p align="right" style="display:flex; justify-content:flex-end; align-items:center; gap:18px; margin:0;">
+<p align="right" style="display:flex; justify-content:flex-end; align-items:center; gap:12px; margin:0;">
   <a href="https://github.com/Cryptology-Algorithm-Lab" target="_blank" rel="noopener noreferrer"
      title="Cryptology & Algorithm Lab on GitHub"
-     style="display:inline-flex; align-items:center; gap:8px; padding:8px 14px; border:1px solid var(--cna-line); border-radius:999px; color:var(--cna-ink); text-decoration:none; font-size:14px; font-weight:600; background:var(--cna-paper); transition:border-color .18s ease, color .18s ease;">
+     class="cna-footer-pill">
     <i class="fab fa-github" style="font-size:18px;"></i>
     <span>Cryptology-Algorithm-Lab</span>
   </a>
-  <a href="https://sites.google.com/view/hucc/" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/hucc.png">
+  <a href="https://sites.google.com/view/hucc/" target="_blank" rel="noopener noreferrer"
+     title="Hanyang University Cryptography Club"
+     class="cna-footer-pill">
+    <i class="fas fa-graduation-cap" style="font-size:18px;"></i>
+    <span>HUCC</span>
   </a>
 </p>
+
+<style>
+.cna-footer-pill{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 14px;
+  border: 1px solid var(--cna-line);
+  border-radius: 999px;
+  color: var(--cna-ink);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  background: var(--cna-paper);
+  transition: border-color .18s ease, color .18s ease;
+}
+.cna-footer-pill:hover{
+  border-color: var(--cna-indigo-line);
+  color: var(--cna-indigo);
+}
+</style>
 
 <script>
 (function () {
