@@ -526,6 +526,193 @@
   .cna-card{ padding: var(--cna-s-4); }
 }
 
+/* ──────────────────────────────────────────────────────────
+   12. THEME HARMONIZATION
+   Overrides minimal-mistakes chrome (body, masthead, hero,
+   content headings, links, footer) to harmonize with the
+   card design system. Scoped narrowly; no theme files touched.
+   ────────────────────────────────────────────────────────── */
+
+/* warm off-white page surface so cards visually separate */
+body{
+  background-color: var(--cna-bg);
+  color: var(--cna-ink);
+}
+.initial-content,
+.search-content{
+  background-color: var(--cna-bg);
+}
+.page__content{
+  background-color: transparent;
+}
+
+/* top nav (masthead) — thin warm rule, off-white surface */
+.masthead{
+  background-color: var(--cna-paper);
+  border-bottom: 1px solid var(--cna-line);
+  box-shadow: 0 1px 2px rgba(31,34,39,.03);
+}
+.masthead__inner-wrap{
+  padding-top: var(--cna-s-3);
+  padding-bottom: var(--cna-s-3);
+}
+.greedy-nav,
+.greedy-nav .visible-links a{
+  background: transparent;
+  color: var(--cna-ink);
+  font-weight: 500;
+}
+.greedy-nav .visible-links a:before{
+  background: var(--cna-indigo);
+  height: 2px;
+}
+.greedy-nav .site-title{
+  color: var(--cna-ink);
+  font-weight: 700;
+  letter-spacing: -.01em;
+}
+.greedy-nav button{
+  background: transparent;
+  color: var(--cna-ink);
+}
+.greedy-nav .hidden-links{
+  background: var(--cna-paper);
+  border: 1px solid var(--cna-line);
+  border-radius: var(--cna-radius-md);
+  box-shadow: var(--cna-shadow-sm);
+}
+.greedy-nav .hidden-links a{
+  color: var(--cna-ink);
+}
+.greedy-nav .hidden-links a:hover{
+  background: var(--cna-bg);
+  color: var(--cna-indigo);
+}
+
+/* hero overlay — keep the dark warm tint, but polish title typography */
+.page__hero--overlay{
+  padding: 4em 0 5em;
+}
+.page__hero--overlay .page__title{
+  font-size: 2.4rem !important;
+  font-weight: 800;
+  letter-spacing: -.02em;
+  margin-bottom: var(--cna-s-2);
+}
+.page__hero--overlay .page__lead{
+  font-size: var(--cna-fs-md);
+  font-weight: 400;
+  opacity: .92;
+  letter-spacing: .01em;
+}
+
+/* page content — top h1, in-body h2/h3, paragraphs, links */
+.page__content > h1:first-child{
+  font-size: var(--cna-fs-2xl);
+  font-weight: 800;
+  letter-spacing: -.015em;
+  color: var(--cna-ink);
+  border: none;
+  padding-bottom: 0;
+  margin: var(--cna-s-2) 0 var(--cna-s-5);
+}
+.page__content h2{
+  font-size: var(--cna-fs-xl);
+  font-weight: 700;
+  letter-spacing: -.005em;
+  color: var(--cna-ink);
+  border: none;
+  padding-bottom: var(--cna-s-2);
+  margin: var(--cna-s-8) 0 var(--cna-s-4);
+  border-bottom: 1px solid var(--cna-rule);
+}
+.page__content h3{
+  font-size: var(--cna-fs-lg);
+  font-weight: 700;
+  color: var(--cna-ink);
+  border: none;
+  margin: var(--cna-s-6) 0 var(--cna-s-3);
+}
+.page__content > p{
+  font-size: var(--cna-fs-base);
+  line-height: 1.7;
+  color: var(--cna-ink);
+}
+.page__content > p a,
+.page__content > ul a,
+.page__content > ol a{
+  color: var(--cna-indigo);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color var(--cna-dur) var(--cna-ease);
+}
+.page__content > p a:hover,
+.page__content > ul a:hover,
+.page__content > ol a:hover{
+  border-bottom-color: var(--cna-indigo);
+}
+
+/* strong / b inside flowing prose */
+.page__content > p strong,
+.page__content > p b{
+  font-weight: 700;
+  color: var(--cna-ink);
+}
+
+/* footer */
+.page__footer{
+  background-color: var(--cna-paper);
+  border-top: 1px solid var(--cna-line);
+  color: var(--cna-soft);
+}
+.page__footer-copyright{
+  font-size: var(--cna-fs-xs);
+  color: var(--cna-faint);
+  letter-spacing: .02em;
+}
+.page__footer-copyright a{
+  color: var(--cna-soft);
+}
+.page__footer-copyright a:hover{
+  color: var(--cna-ink);
+}
+.page__footer-follow{
+  padding-bottom: var(--cna-s-3);
+}
+.page__footer-follow .social-icons a{
+  color: var(--cna-soft);
+}
+.page__footer-follow .social-icons a:hover{
+  color: var(--cna-indigo);
+}
+
+/* breadcrumbs / nav rail / sidebar — subtle ink */
+.sidebar,
+.nav__list{
+  color: var(--cna-soft);
+  font-size: var(--cna-fs-sm);
+}
+.nav__list .nav__items a{
+  color: var(--cna-soft);
+}
+.nav__list .nav__items a:hover,
+.nav__list .nav__items .active{
+  color: var(--cna-indigo);
+}
+
+/* tighten splash layout body padding so cards sit closer to hero */
+.layout--splash .page__content{
+  padding-top: var(--cna-s-5);
+}
+
+/* mobile chrome */
+@media (max-width: 760px){
+  .page__hero--overlay{ padding: 3em 0 3.5em; }
+  .page__hero--overlay .page__title{ font-size: 1.9rem !important; }
+  .page__content h2{ font-size: var(--cna-fs-lg); margin-top: var(--cna-s-6); }
+  .page__content h3{ font-size: var(--cna-fs-md); }
+}
+
 </style>
 
 <!-- end custom head snippets -->

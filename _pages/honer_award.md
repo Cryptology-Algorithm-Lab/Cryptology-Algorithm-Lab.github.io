@@ -13,17 +13,6 @@ header:
 
 # Honors & Awards
 
-<div class="cna-tally" markdown="0">
-  <span class="cna-tally-label">By tier</span>
-  <span class="cna-tally-pill cna-tally-award">Top × 3</span>
-  <span class="cna-tally-pill cna-tally-award">Excellence × 6</span>
-  <span class="cna-tally-pill cna-tally-award">Special × 5</span>
-  <span class="cna-tally-pill cna-tally-award">Excellent Paper × 1</span>
-  <span class="cna-tally-pill cna-tally-award">Outstanding × 1</span>
-  <span class="cna-tally-pill cna-tally-award">Encouragement × 2</span>
-  <span class="cna-tally-pill cna-tally-award">Participant × 3</span>
-</div>
-
 <details class="cna-year" open markdown="0">
   <summary>
     <h3>2026</h3>

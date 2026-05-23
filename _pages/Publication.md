@@ -10,29 +10,6 @@ header:
   overlay_filter: "rgba(31, 25, 20, 0.55)" # warm-tinted overlay matching the card surfaces
 ---
 
-<div class="cna-tally" markdown="0">
-  <span class="cna-tally-label">Top conferences</span>
-  <span class="cna-tally-pill cna-tally-talk">CCS × 2</span>
-  <span class="cna-tally-pill cna-tally-talk">S&amp;P × 1</span>
-  <span class="cna-tally-pill cna-tally-talk">NDSS × 1</span>
-  <span class="cna-tally-pill cna-tally-talk">CVPR × 1</span>
-  <span class="cna-tally-pill cna-tally-talk">ICCV × 1</span>
-  <span class="cna-tally-pill cna-tally-talk">ECCV × 1</span>
-  <span class="cna-tally-pill cna-tally-talk">NeurIPS × 1</span>
-  <span class="cna-tally-pill cna-tally-talk">CRYPTO × 1</span>
-  <span class="cna-tally-pill cna-tally-talk">EUROCRYPT × 1</span>
-  <span class="cna-tally-pill cna-tally-talk">ASIACRYPT × 2</span>
-</div>
-
-<div class="cna-tally" markdown="0">
-  <span class="cna-tally-label">Top journals</span>
-  <span class="cna-tally-pill cna-tally-paper">J. Cryptology × 1</span>
-  <span class="cna-tally-pill cna-tally-paper">IEEE TIFS × 2</span>
-  <span class="cna-tally-pill cna-tally-paper">IEEE TDSC × 2</span>
-  <span class="cna-tally-pill cna-tally-paper">Pattern Recognition × 1</span>
-  <span class="cna-tally-pill cna-tally-paper">IEEE TBIOM × 1</span>
-</div>
-
 ## Journal
 
 <details class="cna-year" open markdown="0">

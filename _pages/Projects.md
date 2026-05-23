@@ -10,18 +10,6 @@ header:
   overlay_filter: "rgba(31, 25, 20, 0.55)" # warm-tinted overlay matching the card surfaces
 ---
 
-<div class="cna-tally" markdown="0">
-  <span class="cna-tally-label">By funder</span>
-  <span class="cna-tally-pill cna-tally-paper">NRF × 6</span>
-  <span class="cna-tally-pill cna-tally-talk">IITP × 4</span>
-  <span class="cna-tally-pill cna-tally-event">Industry × 6</span>
-  <span class="cna-tally-pill cna-tally-award">NSR × 4</span>
-  <span class="cna-tally-pill cna-tally-award">KIISC × 2</span>
-  <span class="cna-tally-pill cna-tally-award">ETRI × 2</span>
-  <span class="cna-tally-pill cna-tally-award">KOCCA × 1</span>
-  <span class="cna-tally-pill cna-tally-award">Other × 1</span>
-</div>
-
 ## Ongoing
 
 <div class="cna-card-grid" markdown="0">
