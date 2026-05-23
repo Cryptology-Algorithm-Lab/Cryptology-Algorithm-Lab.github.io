@@ -7,7 +7,7 @@ permalink: /Members/
 excerpt: 'Anyone interested in our C&A Lab is always welcome!'
 header:
   overlay_image: /assets/images/crypt1.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: "rgba(31, 25, 20, 0.55)" # warm-tinted overlay matching the card surfaces
 ---
 
 <section class="cna-roster cna-section" markdown="0">

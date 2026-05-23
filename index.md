@@ -6,7 +6,7 @@ author_profile: false
 excerpt: ''
 header:
   overlay_image: /assets/images/hyu1.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: "rgba(31, 25, 20, 0.55)" # warm-tinted overlay matching the card surfaces
 ---
 
 # About us

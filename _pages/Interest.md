@@ -7,7 +7,7 @@ permalink: /Interest/
 excerpt: 'Interesting Cryptography!'
 header:
   overlay_image: /assets/images/seoul.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: "rgba(31, 25, 20, 0.55)" # warm-tinted overlay matching the card surfaces
 ---
 
 <section class="cna-section cna-cat-talk" markdown="0">

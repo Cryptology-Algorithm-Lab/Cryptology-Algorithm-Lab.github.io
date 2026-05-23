@@ -7,7 +7,7 @@ permalink: /Projects/
 excerpt: 'If you have any questions, please feel free to email us.'
 header:
   overlay_image: /assets/images/Hanyang1.jfif
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: "rgba(31, 25, 20, 0.55)" # warm-tinted overlay matching the card surfaces
 ---
 
 <div class="cna-tally" markdown="0">
