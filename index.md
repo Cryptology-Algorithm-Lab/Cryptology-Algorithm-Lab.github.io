@@ -15,82 +15,179 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 ## Annual News
 
-<ul type="square">
-  <li>
-      (May 20, 2026) Prof. Yongha Son from Sungshin Women’s University will visit the C&A Lab and give a lecture.
-      <ul type="disc">  
-        <li>Date & Place: 01:30 PM, May 21 / Natural Science Building 102 </li>
+<style type="text/css">
+.cna-news{ display:grid; gap:14px; grid-template-columns:1fr; margin:8px 0 28px; }
+.cna-news-card{
+  background:#fff; border:1px solid #e6e2d8; border-radius:14px;
+  padding:16px 20px;
+  box-shadow:0 1px 2px rgba(31,34,39,.04), 0 6px 18px rgba(31,34,39,.05);
+  transition:transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+}
+.cna-news-card:hover{
+  transform:translateY(-2px);
+  box-shadow:0 4px 8px rgba(31,34,39,.06), 0 14px 34px rgba(31,34,39,.10);
+}
+.cna-news-head{
+  display:flex; align-items:baseline; justify-content:space-between;
+  gap:12px; margin-bottom:8px; flex-wrap:wrap;
+}
+.cna-news-chip{
+  font-size:11px; font-weight:600; letter-spacing:.12em;
+  text-transform:uppercase; padding:4px 10px; border-radius:999px; white-space:nowrap;
+}
+.cna-news-date{ font-size:12.5px; color:#8a909a; white-space:nowrap; font-weight:500; }
+.cna-news-body{ font-size:15px; color:#1f2227; line-height:1.6; }
+.cna-news-body ul{ margin:6px 0 0; padding-left:1.2em; }
+.cna-news-body details summary{ cursor:pointer; color:#52575f; font-size:13.5px; }
+
+.cna-red     .cna-news-chip{ background:#fbe7eb; color:#b6102d; }
+.cna-red:hover    { border-color:#DC143C; }
+.cna-blue    .cna-news-chip{ background:#eaf1fa; color:#2b5285; }
+.cna-blue:hover   { border-color:#4169E1; }
+.cna-green   .cna-news-chip{ background:#e8f4ee; color:#176549; }
+.cna-green:hover  { border-color:#08A709; }
+.cna-amber   .cna-news-chip{ background:#fdf4e3; color:#b8740a; }
+.cna-amber:hover  { border-color:#b8740a; }
+.cna-neutral .cna-news-chip{ background:#eeece7; color:#52575f; }
+.cna-neutral:hover{ border-color:#8a909a; }
+</style>
+
+<div class="cna-news" markdown="0">
+
+  <article class="cna-news-card cna-blue">
+    <header class="cna-news-head">
+      <span class="cna-news-chip">Seminar</span>
+      <span class="cna-news-date">May 20, 2026</span>
+    </header>
+    <div class="cna-news-body">
+      Prof. Yongha Son from Sungshin Women’s University will visit the C&amp;A Lab and give a lecture.
+      <ul type="disc">
+        <li>Date &amp; Place: 01:30 PM, May 21 / Natural Science Building 102</li>
         <li>Title: Private Set Intersection</li>
       </ul>
-  </li>
-  <li>
-     (May 4, 2026) Two undergraduate students <b>Hyeonmin Jang</b> and <b>Ingeun Yun</b> joined our Cryptology & Algorithm Lab. We are delighted to welcome them.
-  </li>
-  <li>
-      (Apr 20, 2026) Dr. Keewoo Lee from the Ethereum Foundation visited the C&A Lab and gave a lecture.
-      <ul type="disc">  
-        <li>Date & Place: 01:00 PM, Apr 20 / Natural Science Building 702 </li>
+    </div>
+  </article>
+
+  <article class="cna-news-card cna-neutral">
+    <header class="cna-news-head">
+      <span class="cna-news-chip">Member</span>
+      <span class="cna-news-date">May 4, 2026</span>
+    </header>
+    <div class="cna-news-body">
+      Two undergraduate students <b>Hyeonmin Jang</b> and <b>Ingeun Yun</b> joined our Cryptology &amp; Algorithm Lab. We are delighted to welcome them.
+    </div>
+  </article>
+
+  <article class="cna-news-card cna-blue">
+    <header class="cna-news-head">
+      <span class="cna-news-chip">Seminar</span>
+      <span class="cna-news-date">Apr 20, 2026</span>
+    </header>
+    <div class="cna-news-body">
+      Dr. Keewoo Lee from the Ethereum Foundation visited the C&amp;A Lab and gave a lecture.
+      <ul type="disc">
+        <li>Date &amp; Place: 01:00 PM, Apr 20 / Natural Science Building 702</li>
         <li>Title: Private Information Retrieval</li>
       </ul>
-  </li>
-  <li>
-      (Apr 13, 2026) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE Access</span></b>.
-      <ul type="disc">
-          <li>
-             <b>Minsu Kim&dagger;</b>, <b>Seunghun Paik&dagger;</b>, <b>Seongae Baek</b>, <b>Sangyoon Shin</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*</b><br><i>SilverMask: Face Template Protection with Fine-Grained Noise Correction</i> 
-          </li>
-      </ul>
-  </li>
-  <li>
-      (Apr 10, 2026) The following paper has been accepted for publication at <b><span style = "color : #4169E1">ACM CCS 2026</span></b>.
-      <ul type="disc">
-          <li>
-             <b>Seunghun Paik&dagger;</b>, <b>Sunpill Kim&dagger;</b>, <b>Chanwoo Hwang</b>, and <b>Jae Hong Seo*</b><br><i>Casting the Net! Revisiting MasterFace Impersonation Attacks</i> 
-          </li>
-      </ul>
-  </li>
-  <li>
-    (Apr 9, 2026) <b>Yunki Kim</b> has been selected for the National Cryptographic Expert Training Program (NACET) 12th cohort.
-  </li>
-  <li>
-      (Apr 3, 2026) The following paper has been selected <b><span style = "color : #08A709">Outstanding Paper</span></b> at Hanyang University.
-      <ul type="disc">
-          <li>
-              <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim,</b> and <b>Jae Hong Seo*</b><br>
-              <i>On the Reversibility of Locality-Sensitive Hashing-Based Biometric Template Protections</i><br>
-              <b><span style = "color : #DC143C">IEEE Transactions on Dependable and Secure Computing</span></b><br>
-          </li>
-      </ul>
-  </li>
-  <li>
-    (Mar 18, 2026) C&A Lab hosted the “MATH: Make AI Trust Higher” workshop at Hanyang University.
-    <details open>
-      <summary>
-        Poster: 
-      </summary>
-      <img src="./assets/Gallery/math_poster.png" alt="MATH Workshop" style="width:30%; max-width:600px; border-radius:10px;">
-    </details>
-  </li>
-  <li>
-      (Feb 5, 2026) Sunpill Kim will receive the <b><span style = "color : #08A709">Outstanding Ph.D. Dissertation Award</span></b> from Hanyang University.
-      <ul type="disc">
-          <li>
-             <b>Sunpill Kim</b><br><i>Score-Based Non-Adaptive Attack Against Face Recognition Systems</i> 
-          </li>
-      </ul>
-  </li>
-  <li>
-      (Jan 13, 2026) The following paper has been accepted for publication at <b><span style = "color : #DC143C">IEEE Access</span></b>.
-      <ul type="disc">
-          <li>
-             <b>Hyeonbum Lee</b>, <b>Seunghun Paik</b>, <b>Hyunjung Son</b>, and <b>Jae Hong Seo*</b><br><i>Cougar: Cubic Root Verifier Inner Product Argument under Discrete Logarithm Assumption</i> 
-          </li>
-      </ul>
-  </li>
-  <li>
-    (Jan 5, 2026) <b>Insoo Kim</b> (undergraduate student) joined Cryptology & Algorithm Lab, and we are pleased to welcome him to our Lab.
-  </li>
-</ul>    
+    </div>
+  </article>
+
+  <article class="cna-news-card cna-red">
+    <header class="cna-news-head">
+      <span class="cna-news-chip">Paper</span>
+      <span class="cna-news-date">Apr 13, 2026</span>
+    </header>
+    <div class="cna-news-body">
+      Accepted for publication at <b><span style = "color : #DC143C">IEEE Access</span></b>.<br>
+      <b>Minsu Kim&dagger;</b>, <b>Seunghun Paik&dagger;</b>, <b>Seongae Baek</b>, <b>Sangyoon Shin</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*</b><br>
+      <i>SilverMask: Face Template Protection with Fine-Grained Noise Correction</i>
+    </div>
+  </article>
+
+  <article class="cna-news-card cna-blue">
+    <header class="cna-news-head">
+      <span class="cna-news-chip">Paper</span>
+      <span class="cna-news-date">Apr 10, 2026</span>
+    </header>
+    <div class="cna-news-body">
+      Accepted for publication at <b><span style = "color : #4169E1">ACM CCS 2026</span></b>.<br>
+      <b>Seunghun Paik&dagger;</b>, <b>Sunpill Kim&dagger;</b>, <b>Chanwoo Hwang</b>, and <b>Jae Hong Seo*</b><br>
+      <i>Casting the Net! Revisiting MasterFace Impersonation Attacks</i>
+    </div>
+  </article>
+
+  <article class="cna-news-card cna-amber">
+    <header class="cna-news-head">
+      <span class="cna-news-chip">Program</span>
+      <span class="cna-news-date">Apr 9, 2026</span>
+    </header>
+    <div class="cna-news-body">
+      <b>Yunki Kim</b> has been selected for the National Cryptographic Expert Training Program (NACET) 12th cohort.
+    </div>
+  </article>
+
+  <article class="cna-news-card cna-green">
+    <header class="cna-news-head">
+      <span class="cna-news-chip">Award</span>
+      <span class="cna-news-date">Apr 3, 2026</span>
+    </header>
+    <div class="cna-news-body">
+      Selected <b><span style = "color : #08A709">Outstanding Paper</span></b> at Hanyang University.<br>
+      <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim,</b> and <b>Jae Hong Seo*</b><br>
+      <i>On the Reversibility of Locality-Sensitive Hashing-Based Biometric Template Protections</i><br>
+      <b><span style = "color : #DC143C">IEEE Transactions on Dependable and Secure Computing</span></b>
+    </div>
+  </article>
+
+  <article class="cna-news-card cna-green">
+    <header class="cna-news-head">
+      <span class="cna-news-chip">Workshop</span>
+      <span class="cna-news-date">Mar 18, 2026</span>
+    </header>
+    <div class="cna-news-body">
+      C&amp;A Lab hosted the “MATH: Make AI Trust Higher” workshop at Hanyang University.
+      <details open>
+        <summary>Poster</summary>
+        <img src="./assets/Gallery/math_poster.png" alt="MATH Workshop" style="width:30%; max-width:600px; border-radius:10px;">
+      </details>
+    </div>
+  </article>
+
+  <article class="cna-news-card cna-green">
+    <header class="cna-news-head">
+      <span class="cna-news-chip">Award</span>
+      <span class="cna-news-date">Feb 5, 2026</span>
+    </header>
+    <div class="cna-news-body">
+      Sunpill Kim will receive the <b><span style = "color : #08A709">Outstanding Ph.D. Dissertation Award</span></b> from Hanyang University.<br>
+      <b>Sunpill Kim</b><br>
+      <i>Score-Based Non-Adaptive Attack Against Face Recognition Systems</i>
+    </div>
+  </article>
+
+  <article class="cna-news-card cna-red">
+    <header class="cna-news-head">
+      <span class="cna-news-chip">Paper</span>
+      <span class="cna-news-date">Jan 13, 2026</span>
+    </header>
+    <div class="cna-news-body">
+      Accepted for publication at <b><span style = "color : #DC143C">IEEE Access</span></b>.<br>
+      <b>Hyeonbum Lee</b>, <b>Seunghun Paik</b>, <b>Hyunjung Son</b>, and <b>Jae Hong Seo*</b><br>
+      <i>Cougar: Cubic Root Verifier Inner Product Argument under Discrete Logarithm Assumption</i>
+    </div>
+  </article>
+
+  <article class="cna-news-card cna-neutral">
+    <header class="cna-news-head">
+      <span class="cna-news-chip">Member</span>
+      <span class="cna-news-date">Jan 5, 2026</span>
+    </header>
+    <div class="cna-news-body">
+      <b>Insoo Kim</b> (undergraduate student) joined Cryptology &amp; Algorithm Lab, and we are pleased to welcome him to our Lab.
+    </div>
+  </article>
+
+</div>
 
 ## Seminar
 
