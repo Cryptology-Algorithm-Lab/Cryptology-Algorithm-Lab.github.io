@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About us"
-    url: https://Cryptology-Algorithm-Lab.github.io
+    url: /
   - title: "Members"
     url: /Members/
   - title: "Projects"

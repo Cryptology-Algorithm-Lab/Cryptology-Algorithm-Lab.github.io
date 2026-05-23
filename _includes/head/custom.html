@@ -776,6 +776,30 @@ body{
   from{ opacity: 0; }
   to{   opacity: 1; }
 }
+
+/* round-8: non-Prof member cards have no bio. Clicking still triggers
+   <details> open — expand the card to span the full grid row so the
+   click feels meaningful (the "one-column effect" the user asked for). */
+.cna-member[open]:not(:only-child){
+  grid-column: 1 / -1;
+}
+/* When the spanned card has no bio, give the summary a touch more
+   horizontal breathing room so it doesn't look like a stretched
+   header-only block. */
+.cna-member[open]:not(:only-child) > summary{
+  padding: var(--cna-s-2) 0;
+}
+
+/* round-8: motto stays on one line whenever the card has full-row room
+   — either as the sole member of its roster (auto-fit single-col) or
+   after being clicked open (grid-column: 1 / -1). Otherwise wraps. */
+.cna-roster-grid > .cna-member:only-child .cna-member-motto,
+.cna-member[open] .cna-member-motto{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
 .cna-member-card{
   padding: var(--cna-s-5);
   gap: var(--cna-s-4);

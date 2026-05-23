@@ -152,7 +152,10 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
 </div>
 
-## Seminar
+<header class="cna-section-head" markdown="0" style="margin-top:var(--cna-s-8);">
+  <h2 style="margin:0;">Seminar</h2>
+  <a class="cna-section-action" href="mailto:jaehongseo@hanyang.ac.kr">Interested in joining the lab? ↗</a>
+</header>
 
 <details class="cna-year" open markdown="0">
   <summary>

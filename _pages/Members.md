@@ -62,23 +62,6 @@ header:
           </div>
         </div>
       </summary>
-      <div class="cna-member-bio">
-        <h4>Selected Publications</h4>
-        <ul>
-          <li>Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, Sunpill Kim and Jae Hong Seo, <i>Towards Certifiably Robust Face Recognition</i>, ECCV 2024 (acc. 27.9%)</li>
-          <li>Sunpill Kim et al., <i>Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems</i>, IEEE S&amp;P 2024 (<a href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a161/1Ub24A2RzHi">DOI</a>, acc. 14.9%)</li>
-          <li>Sunpill Kim and Yong Kiam Tan, <i>Formalization of the Schwartz-Zippel Lemma</i>, Archive of Formal Proofs, Apr 2023.</li>
-          <li>Seunghun Paik, Sunpill Kim, and Jae Hong Seo, <i>Analysis on Locality Sensitive Hashing-based Biometric Template Protection Schemes</i>, BMVC 2023.</li>
-          <li>Bora Jeong, Sunpill Kim, Seunghun Paik, and Jae Hong Seo, <i>Attack on Secure Triplet Loss</i>, IEEE Access.</li>
-          <li>Sunpill Kim et al., <i>IronMask: Modular Architecture for Protecting Deep Face Template</i>, CVPR 2021, pp. 16125–16134 (acc. 23.4%).</li>
-        </ul>
-        <h4>Awards</h4>
-        <ul>
-          <li>A*STAR Research Attachment Programme (ARAP), Jan 2023 – Jan 2024. A*STAR, Singapore (S$38,400).</li>
-          <li>Special Prize, National Cryptographic Technology Contest, Sep 2022. National Intelligence Service, Republic of Korea — “Deep Face Template Protection in the Wild” ($500).</li>
-          <li>Excellence Prize, Academic Seminar, Nov 2019. College of Natural Science, Hanyang University — “Security of Biometric Authentication” ($300).</li>
-        </ul>
-      </div>
     </details>
 
   </div>
@@ -103,10 +86,6 @@ header:
           </div>
         </div>
       </summary>
-      <div class="cna-member-bio">
-        <h4>Research Interests</h4>
-        <p>AI Security, Computer Vision</p>
-      </div>
     </details>
 
   </div>
@@ -131,12 +110,6 @@ header:
           </div>
         </div>
       </summary>
-      <div class="cna-member-bio">
-        <h4>Awards</h4>
-        <ul>
-          <li>2021 Academic Seminar, College of Natural Science, Hanyang University — Participation Prize.</li>
-        </ul>
-      </div>
     </details>
 
     <details class="cna-member">
@@ -151,10 +124,6 @@ header:
           </div>
         </div>
       </summary>
-      <div class="cna-member-bio">
-        <h4>Research Interests</h4>
-        <p>Cryptography</p>
-      </div>
     </details>
 
     <details class="cna-member">
@@ -169,18 +138,6 @@ header:
           </div>
         </div>
       </summary>
-      <div class="cna-member-bio">
-        <h4>Selected Publications</h4>
-        <ul>
-          <li>Bora Jeong, Sunpill Kim, Seunghun Paik, and Jae Hong Seo, <i>Analysis on Secure Triplet Loss</i>, IEEE Access, 2022.</li>
-          <li>Seunghun Paik, Sunpill Kim, and Jae Hong Seo, <i>Analysis on Locality Sensitive Hashing-based Biometric Template Protection Schemes</i>, BMVC 2023.</li>
-        </ul>
-        <h4>Awards</h4>
-        <ul>
-          <li>2022 Cryptanalysis Contest, Military Cryptography Research Center — Excellence Award.</li>
-          <li>2019 Academic Seminar, College of Natural Science, Hanyang University — Excellence Prize.</li>
-        </ul>
-      </div>
     </details>
 
     <details class="cna-member">
@@ -195,13 +152,6 @@ header:
           </div>
         </div>
       </summary>
-      <div class="cna-member-bio">
-        <h4>Awards</h4>
-        <ul>
-          <li>2022 Cryptanalysis Contest, Military Cryptography Research Center — Excellence Award.</li>
-          <li>2022 Academic Seminar, College of Natural Science, Hanyang University — Excellence Prize.</li>
-        </ul>
-      </div>
     </details>
 
   </div>
@@ -226,12 +176,6 @@ header:
           </div>
         </div>
       </summary>
-      <div class="cna-member-bio">
-        <h4>Awards</h4>
-        <ul>
-          <li>2023 Academic Seminar, College of Natural Science, Hanyang University — Encouragement Prize.</li>
-        </ul>
-      </div>
     </details>
 
   </div>
@@ -256,10 +200,6 @@ header:
           </div>
         </div>
       </summary>
-      <div class="cna-member-bio">
-        <h4>Research Interests</h4>
-        <p>AI Security, Computer Vision</p>
-      </div>
     </details>
 
     <details class="cna-member">
@@ -274,10 +214,6 @@ header:
           </div>
         </div>
       </summary>
-      <div class="cna-member-bio">
-        <h4>Research Interests</h4>
-        <p>Cryptography</p>
-      </div>
     </details>
 
     <details class="cna-member">
@@ -292,10 +228,6 @@ header:
           </div>
         </div>
       </summary>
-      <div class="cna-member-bio">
-        <h4>Research Interests</h4>
-        <p>Cryptography, Deep Learning Algorithms</p>
-      </div>
     </details>
 
   </div>

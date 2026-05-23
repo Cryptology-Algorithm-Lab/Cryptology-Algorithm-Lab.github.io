@@ -142,7 +142,7 @@ header:
     </div>
     <div class="cna-row-aside">
       <span class="cna-chip">CRYPTOLAB</span>
-      <span class="cna-row-aside-detail">Industry</span>
+      <span class="cna-row-aside-detail">(주)크립토랩</span>
     </div>
   </article>
 

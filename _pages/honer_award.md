@@ -11,13 +11,6 @@ header:
   overlay_filter: "rgba(31, 25, 20, 0.55)" # warm-tinted overlay matching the card surfaces
 ---
 
-<div class="cna-tally" markdown="0">
-  <span class="cna-tally-label">Summary</span>
-  <span class="cna-tally-pill cna-tally-award">23 awards</span>
-  <span class="cna-tally-pill">2019 – 2026</span>
-  <span class="cna-tally-pill">4 institutions</span>
-</div>
-
 <details class="cna-year" open markdown="0">
   <summary>
     <h3>2026</h3>
