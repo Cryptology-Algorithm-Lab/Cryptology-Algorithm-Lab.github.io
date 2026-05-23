@@ -725,10 +725,32 @@ body{
    period column, full-width prose on Interest.
    ────────────────────────────────────────────────────────── */
 
-/* Members — bigger cards, larger photos, larger fonts */
+/* Members — bigger cards, larger photos, larger fonts.
+   round-6: auto-fit instead of auto-fill — when a section has only one
+   member (Prof, Postdoc, PhD, Master), the single card stretches to
+   span the full row instead of sitting in a 360px column with empty
+   space beside it. */
 .cna-roster-grid{
-  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
   gap: var(--cna-s-5);
+}
+/* For an OPEN member card that's the only one in its grid (solo
+   section like Professor), split into a 2-column layout: summary on
+   the left, bio on the right — so the wider card breathes instead of
+   leaving its right half empty. */
+@media (min-width: 900px){
+  .cna-member[open]:only-child{
+    display: grid;
+    grid-template-columns: minmax(380px, 0.55fr) 1fr;
+    gap: 0;
+  }
+  .cna-member[open]:only-child > summary{
+    border-right: 1px solid var(--cna-rule);
+  }
+  .cna-member[open]:only-child > .cna-member-bio{
+    border-top: none;
+    padding: var(--cna-s-5);
+  }
 }
 .cna-member-card{
   padding: var(--cna-s-5);

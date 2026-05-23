@@ -29,7 +29,7 @@ header:
           <time class="cna-card-meta">Dec 22, 2025</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted for publication at <b style="color:var(--cna-crimson)">IEEE Access</b>.
+          The following paper has been accepted for publication at <b>IEEE Access</b>.
           <ul>
             <li><b>Hyunjung Son</b>, <b>Seunghun Paik</b>, <b>Yunki Kim</b>, <b>Sunpill Kim</b>, Heewon Chung, <b>Jae Hong Seo</b><br><i>Doubly Efficient Fuzzy Private Set Intersection for High-dimensional Data with Cosine Similarity</i></li>
           </ul>
@@ -42,7 +42,7 @@ header:
           <time class="cna-card-meta">Dec 03, 2025</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted for publication at <b style="color:var(--cna-crimson)">IEEE T-BIOM</b>.
+          The following paper has been accepted for publication at <b>IEEE T-BIOM</b>.
           <ul>
             <li><b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b><br><i>Towards Certifiably Robust Face Recognition: Analyses and Improvements</i></li>
           </ul>
@@ -55,7 +55,7 @@ header:
           <time class="cna-card-meta">Nov 20, 2025</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted for presentation at <b style="color:var(--cna-indigo)">ASIACCS</b> 2026.
+          The following paper has been accepted for presentation at <b>ASIACCS</b> 2026.
           <ul>
             <li><b>Seunghun Paik</b>, Nirajan Koirala, Jack Nero, <b>Hyunjung Son</b>, <b>Yunki Kim</b>, <b>Jae Hong Seo</b>, and Taeho Jung<br><i>Scalable Private Set Intersection over Distributed Encrypted Data</i></li>
           </ul>
@@ -68,7 +68,7 @@ header:
           <time class="cna-card-meta">Nov 15, 2025</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted for publication at <b style="color:var(--cna-crimson)">IEEE TDSC</b>.
+          The following paper has been accepted for publication at <b>IEEE TDSC</b>.
           <ul>
             <li><b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b><br><i>On the Reversibility of Locality-Sensitive Hashing-based Biometric Template Protections</i></li>
           </ul>
@@ -81,7 +81,7 @@ header:
           <time class="cna-card-meta">Oct 23, 2025</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted for presentation at <b style="color:var(--cna-indigo)">NDSS</b> 2026.
+          The following paper has been accepted for presentation at <b>NDSS</b> 2026.
           <ul>
             <li>Nirajan Koirala, <b>Seunghun Paik</b>, Sam Martin, Helena Berens, Tasha Januszewicz, Jonathan Takeshita, <b>Jae Hong Seo</b>, Taeho Jung<br><i>Select-Then-Compute: Encrypted Label Selection and Analytics over Distributed Datasets using FHE</i></li>
           </ul>
@@ -109,7 +109,7 @@ header:
           <time class="cna-card-meta">Sep 23, 2025</time>
         </header>
         <div class="cna-card-body">
-          Papers led by C&amp;A members won several awards at the <b style="color:var(--cna-forest)">National Cryptographic Technology Contest</b>, 2025.
+          Papers led by C&amp;A members won several awards at the <b>National Cryptographic Technology Contest</b>, 2025.
           <ul>
             <li>The following paper won the Excellence Award. Congrats all authors who participated in this submission.
               <ul>
@@ -132,7 +132,7 @@ header:
           <time class="cna-card-meta">Sep 19, 2025</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted for presentation at <b style="color:var(--cna-indigo)">NeurIPS</b> 2025.
+          The following paper has been accepted for presentation at <b>NeurIPS</b> 2025.
           <ul>
             <li><b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Minsu Kim</b>, and <b>Jae Hong Seo</b><br><i>Non-Adaptive Adversarial Face Generation</i></li>
           </ul>
@@ -145,7 +145,7 @@ header:
           <time class="cna-card-meta">Sep 07, 2025</time>
         </header>
         <div class="cna-card-body">
-          The following 2 papers have been accepted for presentation at <b style="color:var(--cna-indigo)">IEEE ICTC</b> 2025.
+          The following 2 papers have been accepted for presentation at <b>IEEE ICTC</b> 2025.
           <ul>
             <li><b>Changjin Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b><br><i>A Survey of Model Inversion Attacks on Image Domain</i></li>
             <li><b>Yunki Kim</b>, <b>Hyunjung Son</b>, <b>Seunghun Paik</b>, and <b>Jae Hong Seo</b><br><i>A Survey on Fuzzy Private Set Intersection Protocols</i></li>
@@ -159,7 +159,7 @@ header:
           <time class="cna-card-meta">Aug 28, 2025</time>
         </header>
         <div class="cna-card-body">
-          The following 2 projects supported by the <b style="color:var(--cna-amber)">National Research Foundation of Korea (NRF)</b> have started.
+          The following 2 projects supported by the <b>National Research Foundation of Korea (NRF)</b> have started.
           <ul>
             <li><i>Design Identity-Preserving Inverse Models: Exploring Vulnerabilities in Speaker Recognition Systems</i></li>
             <li><i>A Study of Fuzzy Private Set Intersection</i></li>
@@ -173,7 +173,7 @@ header:
           <time class="cna-card-meta">Aug 4, 2025</time>
         </header>
         <div class="cna-card-body">
-          <b>Seunghun Paik</b> has been invited to give a poster presentation at the <b style="color:var(--cna-indigo)">KCCV</b> 2025.
+          <b>Seunghun Paik</b> has been invited to give a poster presentation at the <b>KCCV</b> 2025.
           <ul>
             <li>Date &amp; Place : 02:30 PM, Aug 6 / BEXCO, Busan, Korea</li>
             <li><b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b><br><i>Towards Certifiably Robust Face Recognition</i></li>
@@ -207,7 +207,7 @@ header:
           <time class="cna-card-meta">Jun 26, 2025</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted for presentation at <b style="color:var(--cna-indigo)">ICCV</b> 2025.
+          The following paper has been accepted for presentation at <b>ICCV</b> 2025.
           <ul>
             <li><b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Dongsoo Kim</b>, Junbum Shin, and <b>Jae Hong Seo</b><br><i>IDFace: Face Template Protection for Efficient and Secure Identification</i></li>
           </ul>
@@ -220,7 +220,7 @@ header:
           <time class="cna-card-meta">Jun 22, 2025</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted for presentation at <b style="color:var(--cna-indigo)">ESORICS</b> 2025.
+          The following paper has been accepted for presentation at <b>ESORICS</b> 2025.
           <ul>
             <li>Jaehwan Park, <b>Hyeonbum Lee</b>, Junbeom Hur, <b>Jae Hong Seo</b>, and Doowon Kim<br><i>UTRA: Universal Token Reusability Attack and Token Unforgeable Delegatable Order-Revealing Encryption</i></li>
           </ul>
@@ -267,7 +267,7 @@ header:
           <time class="cna-card-meta">Feb 27, 2025</time>
         </header>
         <div class="cna-card-body">
-          The following project supported by the <b style="color:var(--cna-amber)">Korea Institute of Information Security &amp; Cryptology (KIISC)</b> has started.
+          The following project supported by the <b>Korea Institute of Information Security &amp; Cryptology (KIISC)</b> has started.
           <ul>
             <li><i>Adversarial Attacks and Security Analysis on Commercial Face Recognition APIs</i></li>
           </ul>
@@ -290,7 +290,7 @@ header:
           <time class="cna-card-meta">Jan 1, 2025</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted for publication at <b style="color:var(--cna-crimson)">Pattern Recognition</b>.
+          The following paper has been accepted for publication at <b>Pattern Recognition</b>.
           <ul>
             <li><b>Sunpill Kim</b>, Hoyong Shin, and <b>Jae Hong Seo</b><br><i>Deep Face Template Protection in the Wild</i></li>
           </ul>
@@ -336,7 +336,7 @@ header:
           <time class="cna-card-meta">Oct 11, 2024</time>
         </header>
         <div class="cna-card-body">
-          Papers led by C&amp;A members won several awards at the <b style="color:var(--cna-forest)">National Cryptographic Technology Contest</b>, 2024.
+          Papers led by C&amp;A members won several awards at the <b>National Cryptographic Technology Contest</b>, 2024.
           <ul>
             <li>The following paper won the Excellence Award. Congrats all authors who participated in this submission.
               <ul>
@@ -358,7 +358,7 @@ header:
           <time class="cna-card-meta">Oct 1, 2024</time>
         </header>
         <div class="cna-card-body">
-          HUCC, Crypto Club of Hanyang University, won the Encouragement Award (장려상) in <b style="color:var(--cna-forest)">Cryptanalysis Contest</b>, 2024, hosted by Military Crypto Research Center. Congrats two of C&amp;A members, <b>Yunki Kim</b>, and <b>Minsu Kim</b>, who are a leader and a member of HUCC.
+          HUCC, Crypto Club of Hanyang University, won the Encouragement Award (장려상) in <b>Cryptanalysis Contest</b>, 2024, hosted by Military Crypto Research Center. Congrats two of C&amp;A members, <b>Yunki Kim</b>, and <b>Minsu Kim</b>, who are a leader and a member of HUCC.
         </div>
       </article>
 
@@ -368,7 +368,7 @@ header:
           <time class="cna-card-meta">Jul 1, 2024</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted for presentation at <b style="color:var(--cna-indigo)">ECCV</b> 2024.
+          The following paper has been accepted for presentation at <b>ECCV</b> 2024.
           <ul>
             <li><b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b> and <b>Jae Hong Seo</b><br><i>Towards Certifiably Robust Face Recognition</i></li>
           </ul>
@@ -381,7 +381,7 @@ header:
           <time class="cna-card-meta">Jun 24, 2024</time>
         </header>
         <div class="cna-card-body">
-          The following 2 projects supported by <b style="color:var(--cna-amber)">National Research Foundation of Korea (NRF)</b> have started.
+          The following 2 projects supported by <b>National Research Foundation of Korea (NRF)</b> have started.
           <ul>
             <li><i>Secure Authentication System using Deep Learning-based Biometric Recognition System</i></li>
             <li><i>A Study on Incremetally Verifiable Computation through Zero-Knowledge Proof</i></li>
@@ -395,7 +395,7 @@ header:
           <time class="cna-card-meta">Jun 7, 2024</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted for presentation at <b style="color:var(--cna-indigo)">CISC-S</b> 2024. Also, this paper won the Excellenct Paper Award.
+          The following paper has been accepted for presentation at <b>CISC-S</b> 2024. Also, this paper won the Excellenct Paper Award.
           <ul>
             <li><b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b> and <b>Jae Hong Seo</b><br><i>On the Certifiable Robustness of Face Recognition Systems</i></li>
           </ul>
@@ -428,7 +428,7 @@ header:
           <time class="cna-card-meta">Apr 19, 2024</time>
         </header>
         <div class="cna-card-body">
-          <b>Hyeonbum Lee</b> has been selected as a speaker for the submission proposal in the 6th <b style="color:var(--cna-indigo)">ZKProof workshop</b> in Berlin.
+          <b>Hyeonbum Lee</b> has been selected as a speaker for the submission proposal in the 6th <b>ZKProof workshop</b> in Berlin.
         </div>
       </article>
 
@@ -448,7 +448,7 @@ header:
           <time class="cna-card-meta">Apr 1, 2024</time>
         </header>
         <div class="cna-card-body">
-          The following project supported by <b style="color:var(--cna-amber)">Korea Creative Content Agency (KOCCA)</b> has started.
+          The following project supported by <b>Korea Creative Content Agency (KOCCA)</b> has started.
           <ul>
             <li><i>International Joint Research to Develop Next-generation Copyright Infringement Prevention Technology and Safe Content Distribution Technology</i></li>
           </ul>
@@ -461,7 +461,7 @@ header:
           <time class="cna-card-meta">Mar 1, 2024</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted as a poster at <b style="color:var(--cna-indigo)">IEEE ICBC</b> 2024.
+          The following paper has been accepted as a poster at <b>IEEE ICBC</b> 2024.
           <ul>
             <li><b>Hyeonbum Lee</b>, <b>Kyuhwan Lee</b>, Wenyi Tang, Shankha Shubhra Mukherjee, <b>Jae Hong Seo</b>, and Taeho Jung<br><i>PrivHChain: Monitoring the Supply Chain of Controlled Substances with Privacy-Preserving Hierarchical Blockchain</i></li>
           </ul>
@@ -484,7 +484,7 @@ header:
           <time class="cna-card-meta">Feb 5, 2024</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted for publication at <b style="color:var(--cna-crimson)">IEEE TDSC</b>.
+          The following paper has been accepted for publication at <b>IEEE TDSC</b>.
           <ul>
             <li>Changhao Chenli, Wenyi Tang, <b>Hyeonbum Lee</b>, and Taeho Jung<br><i>Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness</i></li>
           </ul>
@@ -510,7 +510,7 @@ header:
           <time class="cna-card-meta">Oct 29, 2023</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted for presentation at the <b style="color:var(--cna-indigo)">IEEE S&amp;P</b> 2024.
+          The following paper has been accepted for presentation at the <b>IEEE S&amp;P</b> 2024.
           <ul>
             <li><b>Sunpill Kim</b>, Yong Kiam Tan, <b>Bora Jeong</b>, Soumik Mondal, Khin Mi Mi Aung, and <b>Jae Hong Seo</b><br><i>Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems</i></li>
           </ul>
@@ -523,7 +523,7 @@ header:
           <time class="cna-card-meta">Oct 4, 2023</time>
         </header>
         <div class="cna-card-body">
-          Papers led by C&amp;A members won several awards at the <b style="color:var(--cna-forest)">National Cryptographic Technology Contest</b>, 2023.
+          Papers led by C&amp;A members won several awards at the <b>National Cryptographic Technology Contest</b>, 2023.
           <ul>
             <li>The following paper won the Excellence Award. Congrats all authors who participated in this submission.
               <ul>
@@ -550,7 +550,7 @@ header:
           <time class="cna-card-meta">Sep 26, 2023</time>
         </header>
         <div class="cna-card-body">
-          HUCC, Crypto Club of Hanyang University, won the Top Excellence Award (최우수상) in <b style="color:var(--cna-forest)">Cryptanalysis Contest</b>, 2023, hosted by Military Crypto Research Center. Congrats three of C&amp;A members, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, and <b>Minsu Kim</b>, who are a leader and two members of HUCC.
+          HUCC, Crypto Club of Hanyang University, won the Top Excellence Award (최우수상) in <b>Cryptanalysis Contest</b>, 2023, hosted by Military Crypto Research Center. Congrats three of C&amp;A members, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, and <b>Minsu Kim</b>, who are a leader and two members of HUCC.
         </div>
       </article>
 
@@ -560,7 +560,7 @@ header:
           <time class="cna-card-meta">Aug 22, 2023</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted for presentation at the <b style="color:var(--cna-indigo)">BMVC</b> 2023 <b>(Oral)</b>.
+          The following paper has been accepted for presentation at the <b>BMVC</b> 2023 <b>(Oral)</b>.
           <ul>
             <li><b>Seunghun Paik</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b><br><i>Security Analysis on Locality-Sensitive Hashing-Based Biometric Template Protection Schemes</i></li>
           </ul>
@@ -573,7 +573,7 @@ header:
           <time class="cna-card-meta">Jul 25, 2023</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted for publication in <b style="color:var(--cna-crimson)">IEEE TIFS</b>.
+          The following paper has been accepted for publication in <b>IEEE TIFS</b>.
           <ul>
             <li>Sungwook Kim, <b>Hyeonbum Lee</b>, <b>Gwangwoon Lee</b>, and <b>Jae Hong Seo</b><br><i>Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption</i></li>
           </ul>
@@ -606,7 +606,7 @@ header:
           <time class="cna-card-meta">May 31, 2023</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted for publication in <b style="color:var(--cna-indigo)">IWSEC</b> 2023.
+          The following paper has been accepted for publication in <b>IWSEC</b> 2023.
           <ul>
             <li><b>Hyeonbum Lee</b> and <b>Jae Hong Seo</b><br><i>TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup</i></li>
           </ul>
@@ -629,7 +629,7 @@ header:
           <time class="cna-card-meta">Apr 20, 2023</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted for publication in <b style="color:var(--cna-crimson)">Designs, Codes and Cryptography</b>.
+          The following paper has been accepted for publication in <b>Designs, Codes and Cryptography</b>.
           <ul>
             <li>Hyung Tae Lee and <b>Jae Hong Seo</b><br><i>On the Security of Functional Encryption in the Generic Group Model</i></li>
           </ul>
@@ -642,7 +642,7 @@ header:
           <time class="cna-card-meta">Apr 20, 2023</time>
         </header>
         <div class="cna-card-body">
-          Prof. <b>Jae Hong Seo</b> joins in the program committees of <b style="color:var(--cna-indigo)">ASIACRYPT</b> 2023 and <b style="color:var(--cna-indigo)">PQCrypto</b> 2023.
+          Prof. <b>Jae Hong Seo</b> joins in the program committees of <b>ASIACRYPT</b> 2023 and <b>PQCrypto</b> 2023.
         </div>
       </article>
 
@@ -652,7 +652,7 @@ header:
           <time class="cna-card-meta">Feb 14, 2023</time>
         </header>
         <div class="cna-card-body">
-          <b>Bora Jeong</b> won the Grand Prize in the <b style="color:var(--cna-forest)">Best Research Paper Award</b> for graduate students by the Research Institute for Natural Sciences, Hanyang University.
+          <b>Bora Jeong</b> won the Grand Prize in the <b>Best Research Paper Award</b> for graduate students by the Research Institute for Natural Sciences, Hanyang University.
           <ul>
             <li><b>Bora Jeong</b>, <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, and <b>Jae Hong Seo</b><br><i>Analysis on Secure Triplet Loss.</i></li>
           </ul>
@@ -688,7 +688,7 @@ header:
           <time class="cna-card-meta">Dec 10, 2022</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted in <b style="color:var(--cna-crimson)">IEEE Access</b>.
+          The following paper has been accepted in <b>IEEE Access</b>.
           <ul>
             <li><b>Bora Jeong</b>, <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, and <b>Jae Hong Seo*</b>, "<i>Analysis on Secure Triplet Loss.</i>" (<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9965373">DOI</a>)</li>
           </ul>
@@ -711,7 +711,7 @@ header:
           <time class="cna-card-meta">Sep 27, 2022</time>
         </header>
         <div class="cna-card-body">
-          The following paper won the grand prize at "<b style="color:var(--cna-forest)">National Cryptographic Technology Contest, 2022</b>". Congrats <b>Hyeonbum Lee</b>, who was the lead author of this submission.
+          The following paper won the grand prize at "<b>National Cryptographic Technology Contest, 2022</b>". Congrats <b>Hyeonbum Lee</b>, who was the lead author of this submission.
           <ul>
             <li><b>Hyeonbum Lee</b>, Sungwook Kim, and <b>Jae Hong Seo</b>, "<i>Non-Pairing Sublinear Verifiable Zero-Knowledge Arguments in Discrete Logarithm Setting</i>"</li>
           </ul>
@@ -724,7 +724,7 @@ header:
           <time class="cna-card-meta">Sep 27, 2022</time>
         </header>
         <div class="cna-card-body">
-          The following paper won the special prize at "<b style="color:var(--cna-forest)">National Cryptographic Technology Contest, 2022</b>". Congrats <b>Sunpill Kim</b>, who was the lead author of this submission.
+          The following paper won the special prize at "<b>National Cryptographic Technology Contest, 2022</b>". Congrats <b>Sunpill Kim</b>, who was the lead author of this submission.
           <ul>
             <li><b>Sunpill Kim</b>, Hoyong Shin, and <b>Jae Hong Seo</b> "<i>Deep Face Template Protection in the Wild</i>"</li>
           </ul>
@@ -737,7 +737,7 @@ header:
           <time class="cna-card-meta">Sep 20, 2022</time>
         </header>
         <div class="cna-card-body">
-          HUCC, Crypto Club of Hanyang University, won an award for excellence (우수상) in "<b style="color:var(--cna-forest)">Crypto Analysis Contest, 2022</b>", hosted by Military Crypto Research Center. Congrats two of C&amp;A members, <b>Seunghun Paik</b> and <b>Minsu Kim</b>, who are a leader and a member of HUCC.
+          HUCC, Crypto Club of Hanyang University, won an award for excellence (우수상) in "<b>Crypto Analysis Contest, 2022</b>", hosted by Military Crypto Research Center. Congrats two of C&amp;A members, <b>Seunghun Paik</b> and <b>Minsu Kim</b>, who are a leader and a member of HUCC.
         </div>
       </article>
 
@@ -777,7 +777,7 @@ header:
           <time class="cna-card-meta">Aug 25, 2022</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted for presentation at the <b style="color:var(--cna-indigo)">ASIACRYPT</b> 2022.
+          The following paper has been accepted for presentation at the <b>ASIACRYPT</b> 2022.
           <ul>
             <li>Sungwook Kim, <b>Hyeonbum Lee</b>, and <b>Jae Hong Seo</b>, "<i>Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier</i>"</li>
           </ul>
@@ -810,7 +810,7 @@ header:
           <time class="cna-card-meta">Jun 10, 2022</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted in <b style="color:var(--cna-indigo)">IEEE Blockchain</b>.
+          The following paper has been accepted in <b>IEEE Blockchain</b>.
           <ul>
             <li><b>Chanyang Ju</b>, Wenyi Tang, Changhao Chenli, <b>Gwangwoon Lee</b>, <b>Jae Hong Seo</b>, and Taeho Jung "<i>Monitoring Provenance of Delegated Personal Data With Blockchain</i>"</li>
           </ul>
@@ -843,7 +843,7 @@ header:
           <time class="cna-card-meta">Apr 18, 2022</time>
         </header>
         <div class="cna-card-body">
-          The following paper has been accepted at <b style="color:var(--cna-crimson)">IEEE Access</b>.
+          The following paper has been accepted at <b>IEEE Access</b>.
           <ul>
             <li><b>Heewon Chung</b>, Kyoohyung Han, <b>Chanyang Ju</b>, Myungsun Kim, and <b>Jae Hong Seo</b> "<i>Bulletproofs+: Shorter Proofs for a Privacy-Enhanced Distributed Ledger</i>" (<a href="https://ieeexplore.ieee.org/document/9758733">DOI</a>)</li>
           </ul>
@@ -899,7 +899,7 @@ header:
           <time class="cna-card-meta">Dec 8, 2021</time>
         </header>
         <div class="cna-card-body">
-          Our paper (<a href="https://ieeexplore.ieee.org/document/9638642">Efficient Sum-Check Protocol for Convolution</a>) is accepted at <b style="color:var(--cna-crimson)">IEEE Access</b>.
+          Our paper (<a href="https://ieeexplore.ieee.org/document/9638642">Efficient Sum-Check Protocol for Convolution</a>) is accepted at <b>IEEE Access</b>.
         </div>
       </article>
 
@@ -1038,7 +1038,7 @@ header:
           <time class="cna-card-meta">2020</time>
         </header>
         <div class="cna-card-body">
-          Our paper (<a href="https://openaccess.thecvf.com/content/CVPR2021/html/Kim_IronMask_Modular_Architecture_for_Protecting_Deep_Face_Template_CVPR_2021_paper.html">IronMask: Modular Architecture for Protecting Deep Face Template</a>) is accepted at <a href="http://cvpr2021.thecvf.com/"><b style="color:var(--cna-indigo)">CVPR</b> 2021</a>.
+          Our paper (<a href="https://openaccess.thecvf.com/content/CVPR2021/html/Kim_IronMask_Modular_Architecture_for_Protecting_Deep_Face_Template_CVPR_2021_paper.html">IronMask: Modular Architecture for Protecting Deep Face Template</a>) is accepted at <a href="http://cvpr2021.thecvf.com/"><b>CVPR</b> 2021</a>.
         </div>
       </article>
 
@@ -1048,7 +1048,7 @@ header:
           <time class="cna-card-meta">2020</time>
         </header>
         <div class="cna-card-body">
-          [<a href="https://eprint.iacr.org/2020/735">Bulletproofs+</a>] Participant Prizes (2020) in the <b style="color:var(--cna-forest)">National Cryptographic Technology Contest</b>, National Intelligence Service, Korea.
+          [<a href="https://eprint.iacr.org/2020/735">Bulletproofs+</a>] Participant Prizes (2020) in the <b>National Cryptographic Technology Contest</b>, National Intelligence Service, Korea.
         </div>
       </article>
 

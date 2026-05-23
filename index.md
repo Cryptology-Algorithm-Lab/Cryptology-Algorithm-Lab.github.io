@@ -61,7 +61,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       <time class="cna-card-meta">Apr 13, 2026</time>
     </header>
     <div class="cna-card-body">
-      <p>Accepted for publication at <b style="color:var(--cna-crimson)">IEEE Access</b>.</p>
+      <p>Accepted for publication at <b>IEEE Access</b>.</p>
       <p><b>Minsu Kim&dagger;</b>, <b>Seunghun Paik&dagger;</b>, <b>Seongae Baek</b>, <b>Sangyoon Shin</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*</b><br>
       <i>SilverMask: Face Template Protection with Fine-Grained Noise Correction</i></p>
     </div>
@@ -73,7 +73,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       <time class="cna-card-meta">Apr 10, 2026</time>
     </header>
     <div class="cna-card-body">
-      <p>Accepted for publication at <b style="color:var(--cna-indigo)">ACM CCS 2026</b>.</p>
+      <p>Accepted for publication at <b>ACM CCS 2026</b>.</p>
       <p><b>Seunghun Paik&dagger;</b>, <b>Sunpill Kim&dagger;</b>, <b>Chanwoo Hwang</b>, and <b>Jae Hong Seo*</b><br>
       <i>Casting the Net! Revisiting MasterFace Impersonation Attacks</i></p>
     </div>
@@ -95,10 +95,10 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       <time class="cna-card-meta">Apr 3, 2026</time>
     </header>
     <div class="cna-card-body">
-      <p>Selected <b style="color:var(--cna-forest)">Outstanding Paper</b> at Hanyang University.</p>
+      <p>Selected <b>Outstanding Paper</b> at Hanyang University.</p>
       <p><b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim,</b> and <b>Jae Hong Seo*</b><br>
       <i>On the Reversibility of Locality-Sensitive Hashing-Based Biometric Template Protections</i><br>
-      <b style="color:var(--cna-crimson)">IEEE Transactions on Dependable and Secure Computing</b></p>
+      <b>IEEE Transactions on Dependable and Secure Computing</b></p>
     </div>
   </article>
 
@@ -122,7 +122,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       <time class="cna-card-meta">Feb 5, 2026</time>
     </header>
     <div class="cna-card-body">
-      <p>Sunpill Kim will receive the <b style="color:var(--cna-forest)">Outstanding Ph.D. Dissertation Award</b> from Hanyang University.</p>
+      <p>Sunpill Kim will receive the <b>Outstanding Ph.D. Dissertation Award</b> from Hanyang University.</p>
       <p><b>Sunpill Kim</b><br>
       <i>Score-Based Non-Adaptive Attack Against Face Recognition Systems</i></p>
     </div>
@@ -134,7 +134,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       <time class="cna-card-meta">Jan 13, 2026</time>
     </header>
     <div class="cna-card-body">
-      <p>Accepted for publication at <b style="color:var(--cna-crimson)">IEEE Access</b>.</p>
+      <p>Accepted for publication at <b>IEEE Access</b>.</p>
       <p><b>Hyeonbum Lee</b>, <b>Seunghun Paik</b>, <b>Hyunjung Son</b>, and <b>Jae Hong Seo*</b><br>
       <i>Cougar: Cubic Root Verifier Inner Product Argument under Discrete Logarithm Assumption</i></p>
     </div>
