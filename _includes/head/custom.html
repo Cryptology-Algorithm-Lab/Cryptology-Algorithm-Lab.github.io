@@ -808,13 +808,24 @@ body{
 
 /* round-8: motto stays on one line whenever the card has full-row room
    — either as the sole member of its roster (auto-fit single-col) or
-   after being clicked open (grid-column: 1 / -1). Otherwise wraps. */
-.cna-roster-grid > .cna-member:only-child .cna-member-motto,
-.cna-member[open] .cna-member-motto{
+   after being clicked open (grid-column: 1 / -1). Otherwise wraps.
+   round-9 fix: EXCLUDE the Prof case (:only-child with bio → 2-col
+   split layout puts the meta column at ~220px which is too narrow
+   for the 28px Caveat motto — it'd truncate with '...'). Let motto
+   wrap there so the full quote is always readable. */
+.cna-roster-grid > .cna-member:only-child:not(:has(.cna-member-bio)) .cna-member-motto,
+.cna-member[open]:not(:only-child) .cna-member-motto{
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
   max-width: 100%;
+}
+/* Prof case: allow motto to wrap, no ellipsis */
+.cna-member[open]:only-child:has(.cna-member-bio) .cna-member-motto{
+  white-space: normal;
+  overflow: visible;
+  text-overflow: clip;
+  line-height: 1.15;
 }
 
 /* ──────────────────────────────────────────────────────────
