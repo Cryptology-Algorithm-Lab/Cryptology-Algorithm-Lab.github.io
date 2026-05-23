@@ -11,10 +11,24 @@
           {{ site.masthead_title | default: site.title }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
+        {%- comment -%} Compute the current page's first-path-segment once. {%- endcomment -%}
+        {%- if page.url == "/" or page.url == "" or page.url == "/index.html" -%}
+          {%- assign page_section = "_home" -%}
+        {%- else -%}
+          {%- assign page_segs = page.url | split: "/" -%}
+          {%- assign page_section = page_segs[1] -%}
+        {%- endif -%}
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
-            <li class="masthead__menu-item">
-              <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+            {%- assign clean = link.url | replace: "https://Cryptology-Algorithm-Lab.github.io", "" -%}
+            {%- if clean == "" or clean == "/" -%}
+              {%- assign link_section = "_home" -%}
+            {%- else -%}
+              {%- assign link_segs = clean | split: "/" -%}
+              {%- assign link_section = link_segs[1] -%}
+            {%- endif -%}
+            <li class="masthead__menu-item{% if link_section == page_section %} masthead__menu-item--active{% endif %}">
+              <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}{% if link_section == page_section %} aria-current="page"{% endif %}>{{ link.title }}</a>
             </li>
           {%- endfor -%}
         </ul>
