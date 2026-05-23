@@ -10,9 +10,24 @@ header:
   overlay_filter: "rgba(31, 25, 20, 0.55)" # warm-tinted overlay matching the card surfaces
 ---
 
+<nav class="cna-page-toc" aria-label="Members navigation" markdown="0">
+  <span class="cna-page-toc-label">Members</span>
+  <a class="cna-page-toc-item" href="#professor">Professor</a>
+  <a class="cna-page-toc-item" href="#postdoc">Postdoc</a>
+  <a class="cna-page-toc-item" href="#phd-student">Ph.D</a>
+  <a class="cna-page-toc-item" href="#integrated-course">Integrated</a>
+  <a class="cna-page-toc-item" href="#masters-student">Master's</a>
+  <a class="cna-page-toc-item" href="#undergrad">Undergrad</a>
+  <span class="cna-page-toc-label">Alumni</span>
+  <a class="cna-page-toc-item" href="#alumni-postdoc">Postdoc</a>
+  <a class="cna-page-toc-item" href="#alumni-phd">Ph.D</a>
+  <a class="cna-page-toc-item" href="#alumni-master">Master</a>
+  <a class="cna-page-toc-item" href="#alumni-undergrad">Undergrad</a>
+</nav>
+
 <section class="cna-roster cna-section" markdown="0">
   <header class="cna-section-head">
-    <h2>Professor</h2>
+    <h2 id="professor">Professor</h2>
     <span class="cna-section-count">1</span>
   </header>
   <div class="cna-roster-grid">
@@ -45,7 +60,7 @@ header:
 
 <section class="cna-roster cna-section" markdown="0">
   <header class="cna-section-head">
-    <h2>Postdoc</h2>
+    <h2 id="postdoc">Postdoc</h2>
     <span class="cna-section-count">1</span>
   </header>
   <div class="cna-roster-grid">
@@ -69,7 +84,7 @@ header:
 
 <section class="cna-roster cna-section" markdown="0">
   <header class="cna-section-head">
-    <h2>Ph.D Student</h2>
+    <h2 id="phd-student">Ph.D Student</h2>
     <span class="cna-section-count">1</span>
   </header>
   <div class="cna-roster-grid">
@@ -93,7 +108,7 @@ header:
 
 <section class="cna-roster cna-section" markdown="0">
   <header class="cna-section-head">
-    <h2>Ms &amp; Ph.D Integrated Course</h2>
+    <h2 id="integrated-course">Ms &amp; Ph.D Integrated Course</h2>
     <span class="cna-section-count">4</span>
   </header>
   <div class="cna-roster-grid">
@@ -159,7 +174,7 @@ header:
 
 <section class="cna-roster cna-section" markdown="0">
   <header class="cna-section-head">
-    <h2>Master's Student</h2>
+    <h2 id="masters-student">Master's Student</h2>
     <span class="cna-section-count">1</span>
   </header>
   <div class="cna-roster-grid">
@@ -183,7 +198,7 @@ header:
 
 <section class="cna-roster cna-section" markdown="0">
   <header class="cna-section-head">
-    <h2>Undergraduate Student</h2>
+    <h2 id="undergrad">Undergraduate Student</h2>
     <span class="cna-section-count">3</span>
   </header>
   <div class="cna-roster-grid">
@@ -235,7 +250,7 @@ header:
 
 <details class="cna-year" markdown="0">
   <summary>
-    <h3>Alumni — PostDoc</h3>
+    <h3 id="alumni-postdoc">Alumni — PostDoc</h3>
     <span class="cna-year-count">1</span>
     <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
   </summary>
@@ -252,7 +267,7 @@ header:
 
 <details class="cna-year" markdown="0">
   <summary>
-    <h3>Alumni — Ph.D</h3>
+    <h3 id="alumni-phd">Alumni — Ph.D</h3>
     <span class="cna-year-count">2</span>
     <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
   </summary>
@@ -274,7 +289,7 @@ header:
 
 <details class="cna-year" markdown="0">
   <summary>
-    <h3>Alumni — Master</h3>
+    <h3 id="alumni-master">Alumni — Master</h3>
     <span class="cna-year-count">7</span>
     <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
   </summary>
@@ -293,7 +308,7 @@ header:
 
 <details class="cna-year" markdown="0">
   <summary>
-    <h3>Alumni — Undergraduate</h3>
+    <h3 id="alumni-undergrad">Alumni — Undergraduate</h3>
     <span class="cna-year-count">19</span>
     <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
   </summary>

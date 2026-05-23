@@ -722,14 +722,16 @@ body{
   background: var(--cna-bg);
 }
 /* round-9 #2: highlighted current sub-page in News sidebar (and any
-   sidebar nav using the docs collection). */
+   sidebar nav using the docs collection). round-11: simplified —
+   text color + weight only, no rectangle bg / border accent. */
 .nav__list .nav__items a.active,
 .nav__list .nav__items a[aria-current="page"]{
   color: var(--cna-indigo);
   font-weight: 700;
-  background: var(--cna-indigo-wash);
-  border-left: 3px solid var(--cna-indigo);
-  padding-left: 8px;
+}
+.nav__list .nav__items a.active:hover,
+.nav__list .nav__items a[aria-current="page"]:hover{
+  background: transparent;
 }
 
 /* tighten splash layout body padding so cards sit closer to hero */
