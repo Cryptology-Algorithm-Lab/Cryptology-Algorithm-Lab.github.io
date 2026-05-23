@@ -300,79 +300,91 @@ header:
   </div>
 </section>
 
-<section class="cna-roster cna-section" markdown="0">
-  <header class="cna-section-head">
-    <h2>Alumni — PostDoc</h2>
-    <span class="cna-section-count">1</span>
-  </header>
-  <div class="cna-alumni-grid">
-    <div class="cna-alum">
-      <span class="cna-alum-name">Heewon Chung</span>
-      <span class="cna-alum-affil">— Assistant Professor, Jeonbuk National University</span>
-      <span class="cna-alum-when">Left Dec 2021</span>
+<details class="cna-year" markdown="0">
+  <summary>
+    <h3>Alumni — PostDoc</h3>
+    <span class="cna-year-count">1</span>
+    <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+  </summary>
+  <div class="cna-year-body">
+    <div class="cna-alumni-grid">
+      <div class="cna-alum">
+        <span class="cna-alum-name">Heewon Chung</span>
+        <span class="cna-alum-affil">— Assistant Professor, Jeonbuk National University</span>
+        <span class="cna-alum-when">Left Dec 2021</span>
+      </div>
     </div>
   </div>
-</section>
+</details>
 
-<section class="cna-roster cna-section" markdown="0">
-  <header class="cna-section-head">
-    <h2>Alumni — Ph.D</h2>
-    <span class="cna-section-count">2</span>
-  </header>
-  <div class="cna-alumni-grid">
-    <div class="cna-alum">
-      <span class="cna-alum-name">Hyeonbum Lee</span>
-      <span class="cna-alum-affil">— Postdoc, Seoul National University</span>
-      <span class="cna-alum-when">Graduated Aug 2025</span>
+<details class="cna-year" markdown="0">
+  <summary>
+    <h3>Alumni — Ph.D</h3>
+    <span class="cna-year-count">2</span>
+    <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+  </summary>
+  <div class="cna-year-body">
+    <div class="cna-alumni-grid">
+      <div class="cna-alum">
+        <span class="cna-alum-name">Hyeonbum Lee</span>
+        <span class="cna-alum-affil">— Postdoc, Seoul National University</span>
+        <span class="cna-alum-when">Graduated Aug 2025</span>
+      </div>
+      <div class="cna-alum">
+        <span class="cna-alum-name">Sunpill Kim</span>
+        <span class="cna-alum-affil">— Postdoc, Hanyang University</span>
+        <span class="cna-alum-when">Graduated Feb 2026</span>
+      </div>
     </div>
-    <div class="cna-alum">
-      <span class="cna-alum-name">Sunpill Kim</span>
-      <span class="cna-alum-affil">— Postdoc, Hanyang University</span>
-      <span class="cna-alum-when">Graduated Feb 2026</span>
+  </div>
+</details>
+
+<details class="cna-year" markdown="0">
+  <summary>
+    <h3>Alumni — Master</h3>
+    <span class="cna-year-count">7</span>
+    <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+  </summary>
+  <div class="cna-year-body">
+    <div class="cna-alumni-grid">
+      <div class="cna-alum"><span class="cna-alum-name">Hwamin Yoo</span><span class="cna-alum-when">Feb 2017</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Changjin Kim</span><span class="cna-alum-when">Feb 2017</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Gyumin Lim</span><span class="cna-alum-affil">— KAIST Cyber Security Research Center</span><span class="cna-alum-when">Feb 2021</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Chanyang Ju</span><span class="cna-alum-when">Feb 2023</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Gwangwoon Lee</span><span class="cna-alum-affil">— ArtygenSpace</span><span class="cna-alum-when">Aug 2024</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Kyuhwan Lee</span><span class="cna-alum-affil">— Korean National Police Agency</span><span class="cna-alum-when">Aug 2024</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Bora Jeong</span><span class="cna-alum-when">Aug 2024</span></div>
     </div>
   </div>
-</section>
+</details>
 
-<section class="cna-roster cna-section" markdown="0">
-  <header class="cna-section-head">
-    <h2>Alumni — Master</h2>
-    <span class="cna-section-count">7</span>
-  </header>
-  <div class="cna-alumni-grid">
-    <div class="cna-alum"><span class="cna-alum-name">Hwamin Yoo</span><span class="cna-alum-when">Feb 2017</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Changjin Kim</span><span class="cna-alum-when">Feb 2017</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Gyumin Lim</span><span class="cna-alum-affil">— KAIST Cyber Security Research Center</span><span class="cna-alum-when">Feb 2021</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Chanyang Ju</span><span class="cna-alum-when">Feb 2023</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Gwangwoon Lee</span><span class="cna-alum-affil">— ArtygenSpace</span><span class="cna-alum-when">Aug 2024</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Kyuhwan Lee</span><span class="cna-alum-affil">— Korean National Police Agency</span><span class="cna-alum-when">Aug 2024</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Bora Jeong</span><span class="cna-alum-when">Aug 2024</span></div>
+<details class="cna-year" markdown="0">
+  <summary>
+    <h3>Alumni — Undergraduate</h3>
+    <span class="cna-year-count">19</span>
+    <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+  </summary>
+  <div class="cna-year-body">
+    <div class="cna-alumni-grid">
+      <div class="cna-alum"><span class="cna-alum-name">Sunpill Kim</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Dongyoung Kim</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Jaeyong Ahn</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Jungmin Kim</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Suryun Ji</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Eunwoo Im</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Taesam Kim</span><span class="cna-alum-affil">— Hyundai Mobis</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Bora Jeong</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Chanwoo Hwang</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Dongsoo Kim</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Hyunjung Son</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Seongae Baek</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Sangyoon Shin</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Yunjeong Heo</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Seunghun Paik</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Minsu Kim</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Hyeonkyu Kim</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Yunki Kim</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Heejin Kim</span></div>
+    </div>
   </div>
-</section>
-
-<section class="cna-roster cna-section" markdown="0">
-  <header class="cna-section-head">
-    <h2>Alumni — Undergraduate</h2>
-    <span class="cna-section-count">19</span>
-  </header>
-  <div class="cna-alumni-grid">
-    <div class="cna-alum"><span class="cna-alum-name">Sunpill Kim</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Dongyoung Kim</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Jaeyong Ahn</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Jungmin Kim</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Suryun Ji</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Eunwoo Im</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Taesam Kim</span><span class="cna-alum-affil">— Hyundai Mobis</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Bora Jeong</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Chanwoo Hwang</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Dongsoo Kim</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Hyunjung Son</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Seongae Baek</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Sangyoon Shin</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Yunjeong Heo</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Seunghun Paik</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Minsu Kim</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Hyeonkyu Kim</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Yunki Kim</span></div>
-    <div class="cna-alum"><span class="cna-alum-name">Heejin Kim</span></div>
-  </div>
-</section>
+</details>

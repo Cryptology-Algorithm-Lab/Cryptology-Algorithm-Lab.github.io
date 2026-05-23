@@ -713,6 +713,82 @@ body{
   .page__content h3{ font-size: var(--cna-fs-md); }
 }
 
+/* ──────────────────────────────────────────────────────────
+   13. READABILITY TUNING (Members, Projects, Interest)
+   Per round-3 feedback: bigger member cards, wider project
+   period column, full-width prose on Interest.
+   ────────────────────────────────────────────────────────── */
+
+/* Members — bigger cards, larger photos, larger fonts */
+.cna-roster-grid{
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  gap: var(--cna-s-5);
+}
+.cna-member-card{
+  padding: var(--cna-s-5);
+  gap: var(--cna-s-4);
+}
+.cna-member-photo{
+  width: 120px; height: 120px; flex: 0 0 120px;
+}
+.cna-member-name{
+  font-size: var(--cna-fs-xl);
+  font-weight: 700;
+}
+.cna-member-role{
+  font-size: var(--cna-fs-sm);
+  padding: 4px 10px;
+  margin-top: 6px;
+  letter-spacing: .06em;
+}
+.cna-member-motto{
+  font-size: var(--cna-fs-2xl);
+  line-height: 1.1;
+  margin-top: 10px;
+}
+.cna-member-interests{
+  font-size: var(--cna-fs-base);
+  margin-top: 10px;
+  line-height: 1.5;
+}
+.cna-member-bio{
+  padding: var(--cna-s-2) var(--cna-s-5) var(--cna-s-5);
+  font-size: var(--cna-fs-base);
+  line-height: 1.65;
+}
+.cna-member-bio h4{
+  font-size: var(--cna-fs-sm);
+  margin-top: var(--cna-s-5);
+}
+.cna-member-bio .cna-edu{ font-size: var(--cna-fs-base); }
+
+/* Projects — wider period column on one line, neutral chip override */
+.cna-projects .cna-row{
+  grid-template-columns: 160px 1fr 180px;
+}
+.cna-projects .cna-row-meta{
+  font-size: var(--cna-fs-sm);
+  font-weight: 600;
+  color: var(--cna-soft);
+  white-space: nowrap;
+  padding-top: 2px;
+  letter-spacing: 0;
+}
+@media (max-width: 760px){
+  .cna-projects .cna-row{ grid-template-columns: 1fr; }
+}
+
+/* Interest prose — use the full page content width */
+.cna-prose,
+.cna-prose p,
+.cna-prose ul,
+.cna-prose ol{
+  max-width: none;
+}
+.cna-prose img{
+  max-width: 100%;
+}
+
 </style>
 
 <!-- end custom head snippets -->
