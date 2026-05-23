@@ -12,224 +12,345 @@ header:
 gallery:
   - url: /assets/Gallery/asiacrypt_hyeonbum.png
     image_path: /assets/Gallery/asiacrypt_hyeonbum.png
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "ASIACRYPT 2022 — Hyeonbum Lee presentation"
   - url: /assets/Gallery/asiacrypt_hyeonbum_1.png
     image_path: /assets/Gallery/asiacrypt_hyeonbum_1.png
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "ASIACRYPT 2022 — Hyeonbum Lee presentation"
 gallery1:
   - url: /assets/Gallery/grad_bs_bora.png
     image_path: /assets/Gallery/grad_bs_bora.png
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Bora Jeong graduation"
 gallery2:
   - url: /assets/Gallery/banner_cna.png
     image_path: /assets/Gallery/banner_cna.png
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "C&A Lab banner"
   - url: /assets/Gallery/cryptoanalysis_paik.jpg
     image_path: /assets/Gallery/cryptoanalysis_paik.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Cryptanalysis"
   - url: /assets/Gallery/h1.jpeg
     image_path: /assets/Gallery/h1.jpeg
-    alt: "placeholder image 3"
-    title: "Image 2 title caption" 
+    alt: "Achievement"
   - url: /assets/Gallery/h2.jpeg
     image_path: /assets/Gallery/h2.jpeg
-    alt: "placeholder image 4"
-    title: "Image 2 title caption"
+    alt: "Achievement"
 gallery3:
   - url: /assets/Gallery/teachersday23_1.png
     image_path: /assets/Gallery/teachersday23_1.png
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Teacher's Day 2023"
   - url: /assets/Gallery/teachersday23_2.png
     image_path: /assets/Gallery/teachersday23_2.png
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"    
+    alt: "Teacher's Day 2023"
 gallery4:
   - url: /assets/Gallery/23_10_1.jpg
     image_path: /assets/Gallery/23_10_1.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Cryptographic Contests 2023"
   - url: /assets/Gallery/23_10_2.jpg
     image_path: /assets/Gallery/23_10_2.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Cryptographic Contests 2023"
 gallery4_1:
   - url: /assets/Gallery/23_10_3.jpg
     image_path: /assets/Gallery/23_10_3.jpg
-    alt: "placeholder image 3"
-    title: "Image 1 title caption"
+    alt: "Cryptographic Contests 2023"
   - url: /assets/Gallery/23_10_4.jpg
     image_path: /assets/Gallery/23_10_4.jpg
-    alt: "placeholder image 4"
-    title: "Image 2 title caption"
+    alt: "Cryptographic Contests 2023"
 gallery5:
   - url: /assets/Gallery/bmvc1.jpg
     image_path: /assets/Gallery/bmvc1.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "BMVC 2023"
   - url: /assets/Gallery/bmvc2.jpg
     image_path: /assets/Gallery/bmvc2.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "BMVC 2023"
 gallery6:
   - url: /assets/Gallery/sp1.jpeg
     image_path: /assets/Gallery/sp1.jpeg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "IEEE S&P 2024"
   - url: /assets/Gallery/sp2.jpeg
     image_path: /assets/Gallery/sp2.jpeg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "IEEE S&P 2024"
 gallery7:
   - url: /assets/Gallery/hb_1.JPG
     image_path: /assets/Gallery/hb_1.JPG
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "ZKProof6 & ICBC 2024"
   - url: /assets/Gallery/hb_2.jpg
     image_path: /assets/Gallery/hb_2.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "ZKProof6 & ICBC 2024"
 gallery8:
-  - url: /assets/Gallery/
+  - url: /assets/Gallery/workshop'24.JPEG
     image_path: /assets/Gallery/workshop'24.JPEG
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/Gallery/hb_2.jpg
+    alt: "MPC & SNARK Workshop 2024"
+  - url: /assets/Gallery/workshop'24_1.jpg
     image_path: /assets/Gallery/workshop'24_1.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "MPC & SNARK Workshop 2024"
 gallery9:
-  - url: /assets/Gallery/
+  - url: /assets/Gallery/cryptanalysis_2024.jpg
     image_path: /assets/Gallery/cryptanalysis_2024.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/Gallery/hb_2.jpg
+    alt: "Cryptanalysis Contest 2024"
+  - url: /assets/Gallery/cryptanalysis_2024_1.jpg
     image_path: /assets/Gallery/cryptanalysis_2024_1.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Cryptanalysis Contest 2024"
 gallery10:
   - url: /assets/Gallery/nation24_1.png
     image_path: /assets/Gallery/nation24_1.png
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Cryptographic Technology Contest 2024"
   - url: /assets/Gallery/nation24_2.jpeg
     image_path: /assets/Gallery/nation24_2.jpeg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Cryptographic Technology Contest 2024"
 gallery11:
   - url: /assets/Gallery/hb_cel1.jpg
     image_path: /assets/Gallery/hb_cel1.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Hyeonbum Lee graduation"
   - url: /assets/Gallery/hb_cel2.jpg
     image_path: /assets/Gallery/hb_cel2.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Hyeonbum Lee graduation"
 gallery12:
   - url: /assets/Gallery/kccv25_1.jpg
     image_path: /assets/Gallery/kccv25_1.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "KCCV 2025"
   - url: /assets/Gallery/kccv25_2.jpg
     image_path: /assets/Gallery/kccv25_2.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "KCCV 2025"
   - url: /assets/Gallery/kccv25_3.jpg
     image_path: /assets/Gallery/kccv25_3.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    alt: "KCCV 2025"
   - url: /assets/Gallery/kccv25_4.jpg
     image_path: /assets/Gallery/kccv25_4.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
+    alt: "KCCV 2025"
 gallery13:
   - url: /assets/Gallery/contest25.jpeg
     image_path: /assets/Gallery/contest25.jpeg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Cryptographic Technology Contest 2025"
   - url: /assets/Gallery/contest25_2.jpeg
     image_path: /assets/Gallery/contest25_2.jpeg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Cryptographic Technology Contest 2025"
 gallery14:
   - url: /assets/Gallery/mathday1_sh.jpeg
     image_path: /assets/Gallery/mathday1_sh.jpeg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Day of Mathematics 2025"
   - url: /assets/Gallery/mathday2_sh.jpeg
     image_path: /assets/Gallery/mathday2_sh.jpeg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Day of Mathematics 2025"
 gallery15:
   - url: /assets/Gallery/SP_grad1.jpeg
     image_path: /assets/Gallery/SP_grad1.jpeg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Sunpill Kim graduation"
   - url: /assets/Gallery/SP_grad2.jpeg
     image_path: /assets/Gallery/SP_grad2.jpeg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Sunpill Kim graduation"
 gallery16:
   - url: /assets/Gallery/math1.jpeg
     image_path: /assets/Gallery/math1.jpeg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "MATH Workshop"
   - url: /assets/Gallery/math2.jpeg
     image_path: /assets/Gallery/math2.jpeg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "MATH Workshop"
 gallery17:
   - url: /assets/Gallery/best_paper_2603.png
     image_path: /assets/Gallery/best_paper_2603.png
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Outstanding Paper, Hanyang University"
   - url: /assets/Gallery/best_paper_2603_1.jpeg
     image_path: /assets/Gallery/best_paper_2603_1.jpeg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Outstanding Paper, Hanyang University"
 ---
+
 # Gallery
-{% include gallery id="gallery17" caption="**Congrats on Selection as Outstanding Paper, Hanyang University**" %}
 
-{% include gallery id="gallery16" caption="**MATH: Make AI Trust Higher” Workshop at Hanyang University – exploring the intersection of AI, mathematics, and cryptography.**" %}
+<details class="cna-year" open markdown="0">
+  <summary>
+    <h3>2026</h3>
+    <span class="cna-year-count">3 events</span>
+    <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+  </summary>
+  <div class="cna-year-body">
 
-{% include gallery id="gallery15" caption="**Celebrating the graduation of Sunpill Kim – wishing him continued success ahead.**" %}
+  <section class="cna-section cna-cat-award" markdown="0">
+    <header class="cna-section-head">
+      <h3>Outstanding Paper, Hanyang University</h3>
+      <span class="cna-chip cna-chip-award">Award</span>
+    </header>
+    {% include gallery id="gallery17" %}
+  </section>
 
-{% include gallery id="gallery14" caption="Seunhun Paik's invited talk at The Day of Mathmatics 2025, Hanyang University" %}
+  <section class="cna-section cna-cat-event" markdown="0">
+    <header class="cna-section-head">
+      <h3>MATH: Make AI Trust Higher — Workshop at Hanyang University</h3>
+      <span class="cna-chip cna-chip-event">Workshop</span>
+    </header>
+    {% include gallery id="gallery16" %}
+  </section>
 
-{% include gallery id="gallery13" caption="Congrats on several awards in the National Cryptographic Technology Contest 2025." %}
+  <section class="cna-section cna-cat-people" markdown="0">
+    <header class="cna-section-head">
+      <h3>Celebrating Sunpill Kim’s graduation</h3>
+      <span class="cna-chip cna-chip-people">Member</span>
+    </header>
+    {% include gallery id="gallery15" %}
+  </section>
 
-{% include gallery id="gallery12" layout="half" caption="**Our lab at KCCV 2025 – a great time of academic exchange, with a birthday celebration for Changjin Kim.**" %}
+  </div>
+</details>
 
-{% include gallery id="gallery11" caption="**Celebrating the graduation of Hyeonbum Lee – wishing him continued success ahead.**" %}
+<details class="cna-year" open markdown="0">
+  <summary>
+    <h3>2025</h3>
+    <span class="cna-year-count">4 events</span>
+    <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+  </summary>
+  <div class="cna-year-body">
 
-{% include gallery id="gallery10" caption="**Congrats on several awards in the National Cryptographic Technology Contest 2024.**" %}
+  <section class="cna-section cna-cat-talk" markdown="0">
+    <header class="cna-section-head">
+      <h3>Seunghun Paik’s invited talk — Day of Mathematics 2025</h3>
+      <span class="cna-chip cna-chip-talk">Invited Talk</span>
+    </header>
+    {% include gallery id="gallery14" %}
+  </section>
 
-{% include gallery id="gallery9" caption="**Congrats the award in Cryptanalysis Contest.**" %}
+  <section class="cna-section cna-cat-award" markdown="0">
+    <header class="cna-section-head">
+      <h3>National Cryptographic Technology Contest 2025</h3>
+      <span class="cna-chip cna-chip-award">Award</span>
+    </header>
+    {% include gallery id="gallery13" %}
+  </section>
 
-{% include gallery id="gallery8" caption="**MPC & SNARK Workshop 2024**" %}
+  <section class="cna-section cna-cat-talk" markdown="0">
+    <header class="cna-section-head">
+      <h3>KCCV 2025 — and a birthday celebration for Changjin Kim</h3>
+      <span class="cna-chip cna-chip-talk">Conference</span>
+    </header>
+    {% include gallery id="gallery12" layout="half" %}
+  </section>
 
-{% include gallery id="gallery7" caption="**Hyeonbum Lee's presentation at the ZKProof6 & ICBC 2024**" %}
+  <section class="cna-section cna-cat-people" markdown="0">
+    <header class="cna-section-head">
+      <h3>Celebrating Hyeonbum Lee’s graduation</h3>
+      <span class="cna-chip cna-chip-people">Member</span>
+    </header>
+    {% include gallery id="gallery11" %}
+  </section>
 
-{% include gallery id="gallery6" caption="**Sunpill Kim's presentation at the IEEE S&P 2024**" %}
+  </div>
+</details>
 
-{% include gallery id="gallery5" caption="**Seunghun Paik's presentation at the BMVC 2023**" %}
+<details class="cna-year" markdown="0">
+  <summary>
+    <h3>2024</h3>
+    <span class="cna-year-count">5 events</span>
+    <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+  </summary>
+  <div class="cna-year-body">
 
-{% include gallery id="gallery4_1"%}
+  <section class="cna-section cna-cat-award" markdown="0">
+    <header class="cna-section-head">
+      <h3>National Cryptographic Technology Contest 2024</h3>
+      <span class="cna-chip cna-chip-award">Award</span>
+    </header>
+    {% include gallery id="gallery10" %}
+  </section>
 
-{% include gallery id="gallery4" caption="**Congrats on sevaral awards in the National Cryptographic Technology Contest and Cryptanalysis Contest 2023.**" %}
+  <section class="cna-section cna-cat-award" markdown="0">
+    <header class="cna-section-head">
+      <h3>Cryptanalysis Contest 2024</h3>
+      <span class="cna-chip cna-chip-award">Award</span>
+    </header>
+    {% include gallery id="gallery9" %}
+  </section>
 
-{% include gallery id="gallery3" caption="**Thank you, professor, for celebrating Teacher's Day.**" %}
+  <section class="cna-section cna-cat-event" markdown="0">
+    <header class="cna-section-head">
+      <h3>MPC &amp; SNARK Workshop 2024</h3>
+      <span class="cna-chip cna-chip-event">Workshop</span>
+    </header>
+    {% include gallery id="gallery8" %}
+  </section>
 
-{% include gallery id="gallery" caption="**Hyeonbum Lee's presentation at the ASIACRYPT 2022**" %}
+  <section class="cna-section cna-cat-talk" markdown="0">
+    <header class="cna-section-head">
+      <h3>Hyeonbum Lee — ZKProof6 &amp; IEEE ICBC 2024</h3>
+      <span class="cna-chip cna-chip-talk">Conference</span>
+    </header>
+    {% include gallery id="gallery7" %}
+  </section>
 
-{% include gallery id="gallery2" layout="half" caption="**Congratulations on the researchers' achievements**" %}
+  <section class="cna-section cna-cat-talk" markdown="0">
+    <header class="cna-section-head">
+      <h3>Sunpill Kim — IEEE S&amp;P 2024</h3>
+      <span class="cna-chip cna-chip-talk">Conference</span>
+    </header>
+    {% include gallery id="gallery6" %}
+  </section>
 
-{% include gallery id="gallery1" caption="**Congratulations on Bora Jeong's graduation! Welcome to C&A Lab.**" %}
+  </div>
+</details>
 
+<details class="cna-year" markdown="0">
+  <summary>
+    <h3>2023</h3>
+    <span class="cna-year-count">3 events</span>
+    <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+  </summary>
+  <div class="cna-year-body">
 
+  <section class="cna-section cna-cat-talk" markdown="0">
+    <header class="cna-section-head">
+      <h3>Seunghun Paik — BMVC 2023</h3>
+      <span class="cna-chip cna-chip-talk">Conference</span>
+    </header>
+    {% include gallery id="gallery5" %}
+  </section>
+
+  <section class="cna-section cna-cat-award" markdown="0">
+    <header class="cna-section-head">
+      <h3>National Cryptographic Technology &amp; Cryptanalysis Contests 2023</h3>
+      <span class="cna-chip cna-chip-award">Award</span>
+    </header>
+    {% include gallery id="gallery4" %}
+    {% include gallery id="gallery4_1" %}
+  </section>
+
+  <section class="cna-section cna-cat-people" markdown="0">
+    <header class="cna-section-head">
+      <h3>Teacher’s Day with the lab</h3>
+      <span class="cna-chip cna-chip-people">Lab Life</span>
+    </header>
+    {% include gallery id="gallery3" %}
+  </section>
+
+  </div>
+</details>
+
+<details class="cna-year" markdown="0">
+  <summary>
+    <h3>2022 &amp; earlier</h3>
+    <span class="cna-year-count">3 events</span>
+    <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+  </summary>
+  <div class="cna-year-body">
+
+  <section class="cna-section cna-cat-talk" markdown="0">
+    <header class="cna-section-head">
+      <h3>Hyeonbum Lee — ASIACRYPT 2022</h3>
+      <span class="cna-chip cna-chip-talk">Conference</span>
+    </header>
+    {% include gallery id="gallery" %}
+  </section>
+
+  <section class="cna-section cna-cat-award" markdown="0">
+    <header class="cna-section-head">
+      <h3>Researcher achievements</h3>
+      <span class="cna-chip cna-chip-award">Award</span>
+    </header>
+    {% include gallery id="gallery2" layout="half" %}
+  </section>
+
+  <section class="cna-section cna-cat-people" markdown="0">
+    <header class="cna-section-head">
+      <h3>Welcome — Bora Jeong</h3>
+      <span class="cna-chip cna-chip-people">Member</span>
+    </header>
+    {% include gallery id="gallery1" %}
+  </section>
+
+  </div>
+</details>
