@@ -11,7 +11,6 @@ header:
   overlay_image: /assets/images/korea.jpg
   overlay_filter: "rgba(31, 25, 20, 0.55)" # warm-tinted overlay matching the card surfaces
 ---
-# Previous Events
 
 ## Previous News
 

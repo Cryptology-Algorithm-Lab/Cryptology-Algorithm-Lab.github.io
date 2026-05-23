@@ -11,8 +11,6 @@ header:
   overlay_filter: "rgba(31, 25, 20, 0.55)" # warm-tinted overlay matching the card surfaces
 ---
 
-# C&A in Media
-
 ## Newspaper Article
 
 <details class="cna-year" open markdown="0">
@@ -23,8 +21,8 @@ header:
   </summary>
   <div class="cna-year-body">
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://edu.donga.com/news/articleView.html?idxno=99515">한양대 서재홍 교수팀, 상용 얼굴 인식 시스템 ‘1회성 공격’ 가능성 최초 규명.</a></div>
       <div class="cna-row-sub">김재성</div>
@@ -35,8 +33,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://www.m-i.kr/news/articleView.html?idxno=1310090">한양대 서재홍 교수팀, 상용 얼굴 인식 시스템 ‘1회성 공격’ 가능성 최초 규명.</a></div>
       <div class="cna-row-sub">장원석</div>
@@ -47,8 +45,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://news.unn.net/news/articleView.html?idxno=586959">한양대 서재홍 교수팀, 상용 얼굴 인식 시스템 ‘1회성 공격’ 가능성 최초 규명.</a></div>
       <div class="cna-row-sub">박인규</div>
@@ -59,8 +57,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://www.newstnt.com/news/articleView.html?idxno=561321">한양대 서재홍 연구팀, 상용 얼굴인식 시스템을 속이는 ‘1회성 비적응 공격’ 기법으로 NeurIPS 2025 채택.</a></div>
       <div class="cna-row-sub">성영희</div>
@@ -71,8 +69,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://www.kyosu.net/news/articleView.html?idxno=150951">한양대 서재홍 교수팀, 상용 얼굴 인식 시스템 ‘1회성 공격’ 가능성 최초 규명… NeurIPS 2025서 발표.</a></div>
       <div class="cna-row-sub">하영</div>
@@ -83,8 +81,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://www.veritas-a.com/news/articleView.html?idxno=586613">한양대 서재홍 교수팀, 상용 얼굴 인식 시스템 '1회성 공격' 가능성 최초 규명… NeurIPS 2025서 발표.</a></div>
       <div class="cna-row-sub">김하연</div>
@@ -95,8 +93,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://www.veritas-a.com/news/articleView.html?idxno=546987">한양대 서재홍 교수팀, 딥러닝 기반 얼굴 인증 시스템의 보안 취약점 입증.</a></div>
       <div class="cna-row-sub">김하연</div>
@@ -107,8 +105,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://www.newstnt.com/news/articleView.html?idxno=471831">한양대 수학과 서재홍 교수 연구팀, 딥러닝 기반 얼굴 인증 시스템의 보안 취약점 입증.</a></div>
       <div class="cna-row-sub">성영희</div>
@@ -119,8 +117,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://www.joongangenews.com/news/articleView.html?idxno=414275">한양대 서재홍 교수팀, 딥러닝 기반 얼굴 인증 시스템의 보안 취약점 입증.</a></div>
       <div class="cna-row-sub">김선정</div>
@@ -131,8 +129,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://www.asiatime.co.kr/article/20250325500390">[25일 대학가] 중앙대·한양대·성신여대.</a></div>
       <div class="cna-row-sub">양혜랑</div>
@@ -143,8 +141,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://www.kyosu.net/news/articleView.html?idxno=132454">한양대 서재홍 교수팀, 딥러닝 기반 얼굴 인증 시스템의 보안 취약점 입증.</a></div>
       <div class="cna-row-sub">배지우</div>
@@ -155,8 +153,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://www.kfenews.co.kr/news/articleView.html?idxno=632418">한양대 서재홍 교수팀, 딥러닝 기반 얼굴 인증 시스템 보안 취약점 입증.</a></div>
       <div class="cna-row-sub">정혜인</div>
@@ -167,8 +165,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://www.m-i.kr/news/articleView.html?idxno=1220990">한양대 서재홍 교수팀, 딥러닝 기반 얼굴 인증 시스템의 보안 취약점 입증.</a></div>
       <div class="cna-row-sub">김다니엘</div>
@@ -179,8 +177,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://news.nate.com/view/20250325n08007">한양대, 얼굴 인증 시스템 취약성 실험으로 증명.</a></div>
     </div>
@@ -190,8 +188,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://www.fnnews.com/news/202503250927374259">한양대, 얼굴 인증 시스템 취약성 실험으로 증명.</a></div>
     </div>
@@ -201,8 +199,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://www.enewstoday.co.kr/news/articleView.html?idxno=2254419">한양대 서재홍 교수팀, 얼굴 인증 API 공격 기법 발표.</a></div>
       <div class="cna-row-sub">권오경</div>
@@ -213,8 +211,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://www.newsis.com/view/NISX20250325_0003111474">한양대, 얼굴 인증 시스템 취약성 실험으로 증명.</a></div>
       <div class="cna-row-sub">윤신영</div>
@@ -225,8 +223,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://www.hani.co.kr/arti/economy/biznews/1188694.html">한양대 서재홍 교수팀, 딥러닝 기반 얼굴 인증 시스템의 보안 취약점 입증.</a></div>
     </div>
@@ -247,8 +245,8 @@ header:
   </summary>
   <div class="cna-year-body">
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://www.newshyu.com/news/articleView.html?idxno=1007599">이현범 학생, 국가암호공모전 대상 수상과 함께 세계적 암호 학회에서 인정 받아.</a></div>
       <div class="cna-row-sub">한수연</div>
@@ -259,8 +257,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="http://www.newshyu.com/news/articleView.html?idxno=1007644">한양대 학생팀, 한국암호포럼 주관 ‘2022 국가암호공모전’에서 대상 수상.</a></div>
       <div class="cna-row-sub">이해울</div>
@@ -282,8 +280,8 @@ header:
   </summary>
   <div class="cna-year-body">
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="http://www.newshyu.com/news/articleView.html?idxno=414743">서재홍 교수 ‘올해의 신진 연구자’ 선정.</a></div>
       <div class="cna-row-sub">디지털뉴스팀</div>
@@ -294,8 +292,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="http://www.popsci.co.kr/news/articleView.html?idxno=8202">한국연구재단, ‘올해의 신진연구자’ 10인 선정 시상식 개최.</a></div>
       <div class="cna-row-sub">이고운</div>
@@ -306,8 +304,8 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta"></span>
+  <article class="cna-row cna-row--no-meta">
+
     <div class="cna-row-main">
       <div class="cna-row-title"><a href="https://www.hellodd.com/news/articleView.html?idxno=66660">세계서 인정한 한국 ‘젊은 연구자’ 10인.</a></div>
       <div class="cna-row-sub">길애경</div>

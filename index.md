@@ -246,7 +246,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
           <span class="cna-chip cna-chip-talk">May 21 · 17:30–19:30</span>
-          <span class="cna-card-meta" style="color:var(--cna-faint)">TBA</span>
+          <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
           <b>Ch 2 &amp; 3 · Probability: Univariate &amp; Multivariate Models</b><br>
@@ -257,7 +257,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
           <span class="cna-chip cna-chip-talk">May 28 · 17:30–19:30</span>
-          <span class="cna-card-meta" style="color:var(--cna-faint)">TBA</span>
+          <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
           <b>Ch 4 &amp; 6 · Statistics &amp; Information Theory</b><br>
@@ -268,7 +268,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
           <span class="cna-chip cna-chip-talk">Jun 4 · 17:30–19:30</span>
-          <span class="cna-card-meta" style="color:var(--cna-faint)">TBA</span>
+          <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
           <b>Ch 9 &amp; 10 · Linear Discriminant Analysis &amp; Logistic Regression</b><br>
@@ -279,7 +279,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
           <span class="cna-chip cna-chip-talk">Jun 11 · 17:30–19:30</span>
-          <span class="cna-card-meta" style="color:var(--cna-faint)">TBA</span>
+          <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
           <b>Ch 11 · Linear Regression</b><br>
@@ -290,7 +290,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
           <span class="cna-chip cna-chip-talk">Jun 18 · 17:30–19:30</span>
-          <span class="cna-card-meta" style="color:var(--cna-faint)">TBA</span>
+          <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
           <b>Ch 13 · Neural Networks for Tabular Data</b><br>
@@ -301,7 +301,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
           <span class="cna-chip cna-chip-talk">Jun 25 · 17:30–19:30</span>
-          <span class="cna-card-meta" style="color:var(--cna-faint)">TBA</span>
+          <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
           <b>Ch 14 · Neural Networks for Images</b><br>
@@ -312,7 +312,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
           <span class="cna-chip cna-chip-talk">Jul 2 · 17:30–19:30</span>
-          <span class="cna-card-meta" style="color:var(--cna-faint)">TBA</span>
+          <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
           <b>Ch 15 · Neural Networks for Sequences</b><br>
@@ -323,7 +323,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
           <span class="cna-chip cna-chip-talk">Jul 9 · 17:30–19:30</span>
-          <span class="cna-card-meta" style="color:var(--cna-faint)">TBA</span>
+          <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
           <b>Ch 17 · Kernel Methods</b><br>
@@ -334,7 +334,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
           <span class="cna-chip cna-chip-talk">Jul 16 · 17:30–19:30</span>
-          <span class="cna-card-meta" style="color:var(--cna-faint)">TBA</span>
+          <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
           <b>Ch 19 · Learning with Fewer Labeled Examples</b><br>
@@ -345,7 +345,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
       <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
           <span class="cna-chip cna-chip-talk">Jul 23 · 17:30–19:30</span>
-          <span class="cna-card-meta" style="color:var(--cna-faint)">TBA</span>
+          <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
           <b>Ch 20 &amp; 21 · Dimensionality Reduction &amp; Clustering</b><br>

@@ -46,7 +46,7 @@
   --cna-faint:         #8A909A;
   --cna-paper:         #FFFFFF;
   --cna-bg:            #FAFAF6;
-  --cna-line:          #E6E2D8;
+  --cna-line:          #DDD7C8;   /* round-4: bump from #E6E2D8 for stronger card edge contrast vs --cna-bg */
   --cna-rule:          #F0ECDF;
 
   /* typography */
@@ -787,6 +787,114 @@ body{
 }
 .cna-prose img{
   max-width: 100%;
+}
+
+/* ──────────────────────────────────────────────────────────
+   14. AUDIT ROUND 4 — punch-list refinements
+   Per design review (2026-05-23): hero/eyebrow, motto color,
+   member open-state, empty-meta row variant, award-tier muted
+   chips, publication aside widen, seminar TBA cleanup.
+   ────────────────────────────────────────────────────────── */
+
+/* (#2) Hero — pull title size down, add an uppercase eyebrow above */
+.page__hero--overlay .page__title{
+  font-size: 2rem !important;
+  font-weight: 800;
+  letter-spacing: -.01em;
+  position: relative;
+  padding-top: var(--cna-s-5);
+}
+.page__hero--overlay .page__title::before{
+  content: "Cryptology & Algorithm Lab · Hanyang University";
+  display: block;
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .2em;
+  text-transform: uppercase;
+  opacity: .85;
+}
+/* (#3) Yesteryear motto — soften the amber to a desaturated warm gray so it stops shouting */
+.cna-member-motto{
+  color: #8C6B3A;
+}
+
+/* (#4) Member open-state — drop amber alarm border, use stone */
+.cna-member[open]{
+  border-color: var(--cna-stone-line);
+}
+
+/* (#5) Animation consistency — remove hover lift on member <details> so click→expand feels coherent.
+   (Browsers can't smoothly animate <details> expand cross-browser; better to drop the conflicting lift.) */
+.cna-member:hover{
+  transform: none;
+  border-color: var(--cna-stone-line);
+}
+
+/* (#6) .cna-row no-meta variant — for award/press rows that don't carry an id column */
+.cna-row.cna-row--no-meta{
+  grid-template-columns: 1fr 200px;
+}
+@media (max-width: 760px){
+  .cna-row.cna-row--no-meta{ grid-template-columns: 1fr; }
+}
+
+/* (#7) chip-muted — outline-only chip for lower-tier awards (already declared earlier,
+   but tighten the look so it reads as a real "minor" tag) */
+.cna-chip-muted{
+  background: transparent;
+  color: var(--cna-faint);
+  border: 1px solid var(--cna-line);
+  font-weight: 600;
+  letter-spacing: .08em;
+}
+
+/* (#8) Publication aside slightly wider so "year · acc % · DOI" doesn't squeeze */
+.cna-row{
+  grid-template-columns: 56px 1fr 240px;
+}
+/* Projects override stays narrower thanks to its earlier rule; explicit re-declare for clarity */
+.cna-projects .cna-row{
+  grid-template-columns: 160px 1fr 180px;
+}
+@media (max-width: 760px){
+  .cna-row{ grid-template-columns: 1fr; }
+}
+
+/* (#9) Seminar TBA placeholders — tone down the .cna-card-meta when it carries only "TBA" */
+.cna-card-meta[data-tba],
+.cna-card-meta.cna-tba{
+  font-style: italic;
+  opacity: .55;
+  font-weight: 400;
+}
+
+/* (#12) Footer — replace minimal-mistakes default with a lab-identity block */
+.page__footer-identity{
+  text-align: center;
+  margin-bottom: var(--cna-s-3);
+}
+.page__footer-identity .cna-footer-lead{
+  font-size: var(--cna-fs-base);
+  color: var(--cna-ink);
+  line-height: 1.6;
+  margin-bottom: 4px;
+}
+.page__footer-identity .cna-footer-lead b{
+  color: var(--cna-ink);
+  font-weight: 700;
+}
+.page__footer-identity .cna-footer-meta{
+  font-size: var(--cna-fs-sm);
+  color: var(--cna-soft);
+}
+.page__footer-identity .cna-footer-meta a{
+  color: var(--cna-indigo);
+  text-decoration: none;
+}
+.page__footer-identity .cna-footer-meta a:hover{
+  text-decoration: underline;
 }
 
 </style>

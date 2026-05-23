@@ -153,8 +153,6 @@ gallery17:
     alt: "Outstanding Paper, Hanyang University"
 ---
 
-# Gallery
-
 <details class="cna-year" open markdown="0">
   <summary>
     <h3>2026</h3>
