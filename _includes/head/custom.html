@@ -1054,6 +1054,55 @@ body{
   color: var(--cna-soft);
 }
 
+/* round-12: poster card inline toggle. Used by workshop/event cards that
+   carry a poster image. Layout: paragraph on the left, "View poster ↓"
+   toggle on the right of the same line. Click → image revealed below,
+   centered at 40% width. Closed by default. */
+.cna-poster{ padding: 0; margin: 0; }
+.cna-poster > summary{
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--cna-s-4);
+  cursor: pointer;
+  list-style: none;
+  outline: none;
+}
+.cna-poster > summary::-webkit-details-marker{ display: none; }
+.cna-poster-text{
+  flex: 1;
+  line-height: 1.6;
+  color: var(--cna-ink);
+}
+.cna-poster-toggle{
+  flex: 0 0 auto;
+  font-size: var(--cna-fs-sm);
+  color: var(--cna-indigo);
+  white-space: nowrap;
+  font-weight: 600;
+  transition: color var(--cna-dur) var(--cna-ease);
+}
+.cna-poster > summary:hover .cna-poster-toggle{
+  text-decoration: underline;
+}
+.cna-poster-toggle::after{
+  content: " ↓";
+  display: inline-block;
+  margin-left: 3px;
+}
+.cna-poster[open] .cna-poster-toggle::after{ content: " ↑"; }
+.cna-poster-img{
+  display: block;
+  width: 40%;
+  max-width: 480px;
+  margin: var(--cna-s-4) auto 0;
+  border-radius: var(--cna-radius-md);
+  animation: cna-bio-fade .22s var(--cna-ease) both;
+}
+@media (max-width: 600px){
+  .cna-poster-img{ width: 80%; max-width: none; }
+}
+
 /* round-5: honor award two-line layout — institution / recipients separated */
 .cna-row-recipients{
   font-size: var(--cna-fs-sm);
