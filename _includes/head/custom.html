@@ -2,4 +2,530 @@
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
+<!-- ============================================================
+     C&A Lab Design System v1  (2026-05-23)
+     Tokens + reusable component primitives.
+     All site-wide custom styles live here. Do not duplicate per page.
+     Reference: ~/lab-homepage-ops/proposals/design-20260523-v2-design-system.md
+============================================================ -->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Yesteryear&display=swap" rel="stylesheet">
+
+<style type="text/css">
+
+/* ──────────────────────────────────────────────────────────
+   1. TOKENS
+   ────────────────────────────────────────────────────────── */
+:root{
+  /* category accents */
+  --cna-crimson:       #B6102D;
+  --cna-crimson-wash:  #FBE7EB;
+  --cna-crimson-line:  #E8B5BD;
+
+  --cna-indigo:        #2B5285;
+  --cna-indigo-wash:   #EAF1FA;
+  --cna-indigo-line:   #B9CCE3;
+
+  --cna-forest:        #176549;
+  --cna-forest-wash:   #E6F2EC;
+  --cna-forest-line:   #AECEC0;
+
+  --cna-amber:         #B8740A;
+  --cna-amber-wash:    #FDF4E3;
+  --cna-amber-line:    #E8C994;
+
+  --cna-stone:         #52575F;
+  --cna-stone-wash:    #EFEDE7;
+  --cna-stone-line:    #C8C2B2;
+
+  /* surface + ink */
+  --cna-ink:           #1F2227;
+  --cna-soft:          #52575F;
+  --cna-faint:         #8A909A;
+  --cna-paper:         #FFFFFF;
+  --cna-bg:            #FAFAF6;
+  --cna-line:          #E6E2D8;
+  --cna-rule:          #F0ECDF;
+
+  /* typography */
+  --cna-fs-xs:    12px;
+  --cna-fs-sm:    14px;
+  --cna-fs-base:  16px;
+  --cna-fs-md:    17px;
+  --cna-fs-lg:    19px;
+  --cna-fs-xl:    22px;
+  --cna-fs-2xl:   26px;
+
+  /* spacing 4-pt grid */
+  --cna-s-1:   4px;
+  --cna-s-2:   8px;
+  --cna-s-3:   12px;
+  --cna-s-4:   16px;
+  --cna-s-5:   20px;
+  --cna-s-6:   24px;
+  --cna-s-8:   32px;
+  --cna-s-10:  40px;
+
+  /* radius, shadow, motion */
+  --cna-radius-sm:    8px;
+  --cna-radius-md:    12px;
+  --cna-radius-lg:    14px;
+  --cna-radius-pill:  999px;
+  --cna-shadow-sm:    0 1px 2px rgba(31,34,39,.04), 0 6px 18px rgba(31,34,39,.05);
+  --cna-shadow-md:    0 4px 8px rgba(31,34,39,.06), 0 14px 34px rgba(31,34,39,.10);
+  --cna-ease:         cubic-bezier(.2,.7,.3,1);
+  --cna-dur:          .18s;
+}
+
+/* per-category accent shorthand (used inside .cna-cat-* containers) */
+.cna-cat-paper  { --cat: var(--cna-crimson); --cat-wash: var(--cna-crimson-wash); --cat-line: var(--cna-crimson-line); }
+.cna-cat-talk   { --cat: var(--cna-indigo);  --cat-wash: var(--cna-indigo-wash);  --cat-line: var(--cna-indigo-line);  }
+.cna-cat-award  { --cat: var(--cna-forest);  --cat-wash: var(--cna-forest-wash);  --cat-line: var(--cna-forest-line);  }
+.cna-cat-event  { --cat: var(--cna-amber);   --cat-wash: var(--cna-amber-wash);   --cat-line: var(--cna-amber-line);   }
+.cna-cat-people { --cat: var(--cna-stone);   --cat-wash: var(--cna-stone-wash);   --cat-line: var(--cna-stone-line);   }
+
+/* ──────────────────────────────────────────────────────────
+   2. SECTION
+   ────────────────────────────────────────────────────────── */
+.cna-section{ margin: var(--cna-s-8) 0; }
+.cna-section + .cna-section{ margin-top: var(--cna-s-10); }
+.cna-section-head{
+  display: flex; align-items: baseline; gap: var(--cna-s-3);
+  margin: 0 0 var(--cna-s-4);
+  padding-bottom: var(--cna-s-2);
+  border-bottom: 1px solid var(--cna-rule);
+}
+.cna-section-head h2,
+.cna-section-head h3{
+  margin: 0; padding: 0; border: none;
+  font-size: var(--cna-fs-2xl);
+  font-weight: 700; color: var(--cna-ink);
+  letter-spacing: -.005em;
+}
+.cna-section-head .cna-section-count{
+  font-size: var(--cna-fs-xs); color: var(--cna-soft); font-weight: 600;
+  padding: 2px 10px; background: var(--cna-stone-wash);
+  border-radius: var(--cna-radius-pill);
+  letter-spacing: .04em;
+}
+.cna-section-head .cna-section-action{
+  margin-left: auto;
+  font-size: var(--cna-fs-sm); color: var(--cna-soft);
+  text-decoration: none;
+}
+.cna-section-head .cna-section-action:hover{ color: var(--cna-ink); text-decoration: underline; }
+
+.cna-section.cna-cat-paper  .cna-section-head{ border-bottom-color: var(--cna-crimson-line); }
+.cna-section.cna-cat-talk   .cna-section-head{ border-bottom-color: var(--cna-indigo-line); }
+.cna-section.cna-cat-award  .cna-section-head{ border-bottom-color: var(--cna-forest-line); }
+.cna-section.cna-cat-event  .cna-section-head{ border-bottom-color: var(--cna-amber-line); }
+.cna-section.cna-cat-people .cna-section-head{ border-bottom-color: var(--cna-stone-line); }
+
+/* ──────────────────────────────────────────────────────────
+   3. CHIP
+   ────────────────────────────────────────────────────────── */
+.cna-chip{
+  display: inline-block;
+  font-size: var(--cna-fs-xs); font-weight: 700;
+  letter-spacing: .08em; text-transform: uppercase;
+  padding: 4px 10px; border-radius: var(--cna-radius-pill);
+  white-space: nowrap;
+  background: var(--cna-stone-wash); color: var(--cna-soft);
+  line-height: 1.4;
+}
+.cna-chip-paper  { background: var(--cna-crimson-wash); color: var(--cna-crimson); }
+.cna-chip-talk   { background: var(--cna-indigo-wash);  color: var(--cna-indigo);  }
+.cna-chip-award  { background: var(--cna-forest-wash);  color: var(--cna-forest);  }
+.cna-chip-event  { background: var(--cna-amber-wash);   color: var(--cna-amber);   }
+.cna-chip-people { background: var(--cna-stone-wash);   color: var(--cna-stone);   }
+
+.cna-chip-muted{
+  background: transparent; color: var(--cna-faint);
+  border: 1px solid var(--cna-line); font-weight: 600;
+}
+
+/* ──────────────────────────────────────────────────────────
+   4. CARD
+   ────────────────────────────────────────────────────────── */
+.cna-card{
+  background: var(--cna-paper);
+  border: 1px solid var(--cna-line);
+  border-radius: var(--cna-radius-lg);
+  padding: var(--cna-s-5);
+  box-shadow: var(--cna-shadow-sm);
+  transition: transform var(--cna-dur) var(--cna-ease),
+              box-shadow var(--cna-dur) var(--cna-ease),
+              border-color var(--cna-dur) var(--cna-ease);
+}
+.cna-card:hover{
+  transform: translateY(-2px);
+  box-shadow: var(--cna-shadow-md);
+}
+.cna-card.cna-cat-paper:hover  { border-color: var(--cna-crimson-line); }
+.cna-card.cna-cat-talk:hover   { border-color: var(--cna-indigo-line);  }
+.cna-card.cna-cat-award:hover  { border-color: var(--cna-forest-line);  }
+.cna-card.cna-cat-event:hover  { border-color: var(--cna-amber-line);   }
+.cna-card.cna-cat-people:hover { border-color: var(--cna-stone-line);   }
+
+.cna-card-head{
+  display: flex; align-items: baseline; justify-content: space-between;
+  gap: var(--cna-s-3); margin-bottom: var(--cna-s-2);
+  flex-wrap: wrap;
+}
+.cna-card-meta{
+  font-size: var(--cna-fs-sm); color: var(--cna-faint);
+  font-weight: 500; white-space: nowrap; font-style: normal;
+}
+.cna-card-body{
+  font-size: var(--cna-fs-base); color: var(--cna-ink);
+  line-height: 1.6;
+}
+.cna-card-body p{ margin: 0 0 var(--cna-s-2); }
+.cna-card-body ul{ margin: var(--cna-s-2) 0 0; padding-left: 1.3em; }
+.cna-card-body ul li{ margin: 2px 0; }
+.cna-card-body details > summary{
+  cursor: pointer; color: var(--cna-soft);
+  font-size: var(--cna-fs-sm); font-weight: 500;
+}
+.cna-card-body img{
+  max-width: 100%; border-radius: var(--cna-radius-md);
+  margin-top: var(--cna-s-2);
+}
+
+.cna-card-grid{
+  display: grid; gap: var(--cna-s-4);
+  grid-template-columns: 1fr;
+  margin: var(--cna-s-3) 0 var(--cna-s-6);
+}
+
+/* ──────────────────────────────────────────────────────────
+   5. YEAR cluster (collapsible card with summary)
+   ────────────────────────────────────────────────────────── */
+.cna-year{
+  background: var(--cna-paper);
+  border: 1px solid var(--cna-line);
+  border-radius: var(--cna-radius-lg);
+  margin: 0 0 var(--cna-s-3);
+  box-shadow: var(--cna-shadow-sm);
+  overflow: hidden;
+}
+.cna-year > summary{
+  cursor: pointer; user-select: none; list-style: none;
+  display: flex; align-items: baseline; justify-content: space-between;
+  gap: var(--cna-s-3);
+  padding: var(--cna-s-4) var(--cna-s-5);
+  transition: background var(--cna-dur) var(--cna-ease);
+}
+.cna-year > summary::-webkit-details-marker{ display: none; }
+.cna-year > summary:hover{ background: rgba(0,0,0,.025); }
+.cna-year > summary > h3{
+  margin: 0; padding: 0; border: none;
+  font-size: var(--cna-fs-xl);
+  font-weight: 700; color: var(--cna-ink);
+}
+.cna-year-count{
+  font-size: var(--cna-fs-sm); color: var(--cna-faint);
+  font-weight: 500;
+}
+.cna-year-chevron{
+  width: 18px; height: 18px; flex: 0 0 18px;
+  color: var(--cna-faint);
+  transition: transform var(--cna-dur) var(--cna-ease);
+  margin-left: auto;
+}
+.cna-year[open] .cna-year-chevron{ transform: rotate(180deg); }
+.cna-year[open] > summary{
+  border-bottom: 1px solid var(--cna-rule);
+}
+.cna-year-body{
+  padding: var(--cna-s-3) var(--cna-s-5) var(--cna-s-4);
+}
+
+/* ──────────────────────────────────────────────────────────
+   6. ROW (generic list item: meta | main | aside)
+   ────────────────────────────────────────────────────────── */
+.cna-row{
+  display: grid;
+  grid-template-columns: 56px 1fr 200px;
+  gap: var(--cna-s-4);
+  align-items: start;
+  padding: var(--cna-s-3) 0;
+  border-bottom: 1px solid var(--cna-rule);
+}
+.cna-row:last-child{ border-bottom: none; }
+.cna-row-meta{
+  font-size: var(--cna-fs-xs); font-weight: 700;
+  letter-spacing: .04em; color: var(--cna-faint);
+  padding-top: 3px;
+}
+.cna-row-main{ min-width: 0; }
+.cna-row-title{
+  font-size: var(--cna-fs-base); color: var(--cna-ink); line-height: 1.5;
+}
+.cna-row-title i{ color: var(--cna-ink); }
+.cna-row-sub{
+  font-size: var(--cna-fs-sm); color: var(--cna-soft);
+  line-height: 1.5; margin-top: 3px;
+}
+.cna-row-sub i, .cna-row-sub em{ color: var(--cna-soft); }
+.cna-row-aside{
+  display: flex; flex-direction: column; align-items: flex-end;
+  gap: 6px; font-size: var(--cna-fs-xs);
+}
+.cna-row-aside-detail{
+  color: var(--cna-faint); font-size: var(--cna-fs-xs);
+  text-align: right; line-height: 1.4;
+}
+.cna-row-aside-detail a{ color: var(--cna-soft); }
+.cna-row-aside-detail a:hover{ color: var(--cna-ink); }
+
+/* ──────────────────────────────────────────────────────────
+   7. ROSTER + MEMBER
+   ────────────────────────────────────────────────────────── */
+.cna-roster{ margin: 0 0 var(--cna-s-6); }
+.cna-roster-grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: var(--cna-s-4);
+}
+
+.cna-member{
+  background: var(--cna-paper);
+  border: 1px solid var(--cna-line);
+  border-radius: var(--cna-radius-lg);
+  overflow: hidden;
+  box-shadow: var(--cna-shadow-sm);
+  transition: transform var(--cna-dur) var(--cna-ease),
+              box-shadow var(--cna-dur) var(--cna-ease),
+              border-color var(--cna-dur) var(--cna-ease);
+}
+.cna-member:hover{
+  transform: translateY(-2px);
+  box-shadow: var(--cna-shadow-md);
+  border-color: var(--cna-stone-line);
+}
+.cna-member[open]{ border-color: var(--cna-amber); }
+.cna-member > summary{
+  cursor: pointer; user-select: none; list-style: none; outline: none;
+}
+.cna-member > summary::-webkit-details-marker{ display: none; }
+
+.cna-member-card{
+  display: flex; gap: var(--cna-s-4);
+  padding: var(--cna-s-4);
+  align-items: flex-start;
+}
+.cna-member-photo{
+  width: 100px; height: 100px;
+  border-radius: var(--cna-radius-md);
+  object-fit: cover; flex: 0 0 100px;
+  background: var(--cna-bg);
+}
+.cna-member-meta{ min-width: 0; display: flex; flex-direction: column; gap: 3px; flex: 1; }
+.cna-member-name{
+  font-size: var(--cna-fs-lg); font-weight: 700;
+  color: var(--cna-ink); text-decoration: none;
+  line-height: 1.2;
+}
+.cna-member-name:hover{ text-decoration: underline; }
+.cna-member-name .cna-ext{
+  font-size: var(--cna-fs-xs); opacity: .55;
+  margin-left: 4px; font-weight: 500;
+}
+.cna-member-role{
+  font-size: var(--cna-fs-xs); color: var(--cna-soft);
+  letter-spacing: .08em; text-transform: uppercase;
+  font-weight: 700; margin-top: 4px;
+  align-self: flex-start;
+  padding: 3px 8px; background: var(--cna-stone-wash);
+  border-radius: var(--cna-radius-pill);
+}
+.cna-member-motto{
+  font-family: 'Yesteryear', cursive;
+  font-size: var(--cna-fs-xl);
+  color: var(--cna-amber);
+  line-height: 1.15; margin-top: 8px;
+}
+.cna-member-interests{
+  font-size: var(--cna-fs-sm); color: var(--cna-soft);
+  margin-top: 6px; line-height: 1.5;
+}
+
+.cna-member-bio{
+  padding: 0 var(--cna-s-5) var(--cna-s-4);
+  border-top: 1px solid var(--cna-rule);
+  font-size: var(--cna-fs-base); line-height: 1.6; color: var(--cna-ink);
+}
+.cna-member-bio h4{
+  font-size: var(--cna-fs-xs); letter-spacing: .1em;
+  text-transform: uppercase; color: var(--cna-faint);
+  font-weight: 700; margin: var(--cna-s-4) 0 var(--cna-s-2);
+  border: none; padding: 0;
+}
+.cna-member-bio p{ margin: 0 0 var(--cna-s-2); }
+.cna-member-bio ul{ padding-left: 1.2em; margin: 0; }
+.cna-member-bio li{ margin-bottom: 5px; }
+.cna-member-bio .cna-edu{ width: 100%; border-collapse: collapse; font-size: var(--cna-fs-sm); }
+.cna-member-bio .cna-edu td{ padding: 4px 0; border: none; vertical-align: top; }
+.cna-member-bio .cna-edu td:nth-child(1){ font-weight: 600; }
+.cna-member-bio .cna-edu td:nth-child(2){ color: var(--cna-soft); font-style: italic; padding: 0 var(--cna-s-3); }
+.cna-member-bio .cna-edu td:nth-child(3){ color: var(--cna-faint); font-size: var(--cna-fs-xs); text-align: right; white-space: nowrap; }
+
+/* alumni — denser, no photo */
+.cna-alumni-grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 0 var(--cna-s-6);
+  margin-top: var(--cna-s-2);
+}
+.cna-alum{
+  font-size: var(--cna-fs-sm); color: var(--cna-ink);
+  padding: var(--cna-s-3) 0;
+  border-bottom: 1px solid var(--cna-rule);
+}
+.cna-alum-name{ font-weight: 700; }
+.cna-alum-affil{ color: var(--cna-soft); font-size: var(--cna-fs-sm); }
+.cna-alum-when{
+  display: block; color: var(--cna-faint);
+  font-size: var(--cna-fs-xs); margin-top: 2px;
+  letter-spacing: .04em;
+}
+
+/* ──────────────────────────────────────────────────────────
+   8. TALLY (Highlights counter row)
+   ────────────────────────────────────────────────────────── */
+.cna-tally{
+  display: flex; flex-wrap: wrap; align-items: center;
+  gap: var(--cna-s-2);
+  margin: var(--cna-s-2) 0 var(--cna-s-6);
+  padding: var(--cna-s-3) var(--cna-s-4);
+  background: var(--cna-bg);
+  border: 1px solid var(--cna-line);
+  border-radius: var(--cna-radius-md);
+  font-size: var(--cna-fs-sm);
+}
+.cna-tally-label{
+  font-weight: 700; color: var(--cna-soft);
+  letter-spacing: .02em; margin-right: var(--cna-s-2);
+  font-size: var(--cna-fs-sm);
+}
+.cna-tally-pill{
+  font-size: var(--cna-fs-xs); font-weight: 700;
+  letter-spacing: .06em;
+  padding: 4px 10px; border-radius: var(--cna-radius-pill);
+  white-space: nowrap;
+  background: var(--cna-paper); color: var(--cna-ink);
+  border: 1px solid var(--cna-line);
+}
+.cna-tally-pill.cna-tally-paper  { color: var(--cna-crimson); border-color: var(--cna-crimson-line); }
+.cna-tally-pill.cna-tally-talk   { color: var(--cna-indigo);  border-color: var(--cna-indigo-line);  }
+.cna-tally-pill.cna-tally-award  { color: var(--cna-forest);  border-color: var(--cna-forest-line);  }
+.cna-tally-pill.cna-tally-event  { color: var(--cna-amber);   border-color: var(--cna-amber-line);   }
+.cna-tally-pill.cna-tally-people { color: var(--cna-stone);   border-color: var(--cna-stone-line);   }
+
+/* ──────────────────────────────────────────────────────────
+   9. PHOTO GRID (Gallery)
+   ────────────────────────────────────────────────────────── */
+.cna-photo-grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: var(--cna-s-3);
+  margin: var(--cna-s-3) 0 var(--cna-s-6);
+}
+.cna-photo{
+  position: relative; overflow: hidden;
+  border-radius: var(--cna-radius-md);
+  background: var(--cna-bg);
+  aspect-ratio: 4/3;
+  cursor: zoom-in;
+}
+.cna-photo img{
+  width: 100%; height: 100%; object-fit: cover;
+  transition: transform .3s var(--cna-ease);
+  display: block;
+}
+.cna-photo:hover img{ transform: scale(1.04); }
+.cna-photo-caption{
+  position: absolute; left: 0; right: 0; bottom: 0;
+  padding: var(--cna-s-3) var(--cna-s-4);
+  background: linear-gradient(to top, rgba(31,34,39,.75), rgba(31,34,39,0));
+  color: #fff; font-size: var(--cna-fs-sm); font-weight: 500;
+  opacity: 0; transition: opacity var(--cna-dur) var(--cna-ease);
+}
+.cna-photo:hover .cna-photo-caption{ opacity: 1; }
+
+/* ──────────────────────────────────────────────────────────
+   10. PROSE (long-form reading, for Interest descriptions)
+   ────────────────────────────────────────────────────────── */
+.cna-prose{
+  max-width: 70ch;
+  font-size: var(--cna-fs-base);
+  line-height: 1.7;
+  color: var(--cna-ink);
+}
+.cna-prose p{ margin: 0 0 var(--cna-s-4); }
+.cna-prose p:first-child{
+  font-size: var(--cna-fs-md);
+  color: var(--cna-soft);
+}
+.cna-prose a{ color: var(--cna-indigo); }
+.cna-prose a:hover{ color: var(--cna-indigo); text-decoration: underline; }
+.cna-prose img{
+  display: block; max-width: 100%;
+  margin: var(--cna-s-5) 0;
+  border-radius: var(--cna-radius-md);
+  box-shadow: var(--cna-shadow-sm);
+}
+.cna-prose .cna-learn-more{
+  display: block;
+  background: var(--cna-bg);
+  border: 1px solid var(--cna-line);
+  border-radius: var(--cna-radius-md);
+  padding: var(--cna-s-3) var(--cna-s-4);
+  margin: var(--cna-s-4) 0;
+  font-size: var(--cna-fs-sm);
+}
+.cna-prose .cna-learn-more > summary{
+  cursor: pointer; font-weight: 600;
+  color: var(--cna-ink); list-style: none;
+}
+.cna-prose .cna-learn-more > summary::-webkit-details-marker{ display: none; }
+.cna-prose .cna-learn-more > summary::before{
+  content: "▸"; margin-right: var(--cna-s-2);
+  color: var(--cna-faint);
+  transition: transform var(--cna-dur) var(--cna-ease);
+  display: inline-block;
+}
+.cna-prose .cna-learn-more[open] > summary::before{ transform: rotate(90deg); }
+.cna-prose .cna-learn-more[open]{ background: var(--cna-paper); }
+
+/* category-accented prose lead bar (left border) */
+.cna-prose.cna-cat-paper  { border-left: 3px solid var(--cna-crimson); padding-left: var(--cna-s-4); }
+.cna-prose.cna-cat-talk   { border-left: 3px solid var(--cna-indigo);  padding-left: var(--cna-s-4); }
+.cna-prose.cna-cat-award  { border-left: 3px solid var(--cna-forest);  padding-left: var(--cna-s-4); }
+.cna-prose.cna-cat-event  { border-left: 3px solid var(--cna-amber);   padding-left: var(--cna-s-4); }
+
+/* ──────────────────────────────────────────────────────────
+   11. MOBILE
+   ────────────────────────────────────────────────────────── */
+@media (max-width: 760px){
+  .cna-row{ grid-template-columns: 1fr; gap: var(--cna-s-2); }
+  .cna-row-aside{ flex-direction: row; flex-wrap: wrap; align-items: flex-start; gap: var(--cna-s-2); }
+  .cna-row-aside-detail{ text-align: left; }
+  .cna-roster-grid{ grid-template-columns: 1fr; }
+  .cna-member-card{ flex-direction: column; }
+  .cna-member-photo{ width: 110px; height: 110px; flex: 0 0 110px; }
+  .cna-alumni-grid{ grid-template-columns: 1fr; }
+  .cna-photo-grid{ grid-template-columns: 1fr; }
+  .cna-section-head h2,
+  .cna-section-head h3{ font-size: var(--cna-fs-xl); }
+  .cna-year > summary{ padding: var(--cna-s-3) var(--cna-s-4); }
+  .cna-year-body{ padding: var(--cna-s-3) var(--cna-s-4); }
+  .cna-card{ padding: var(--cna-s-4); }
+}
+
+</style>
+
 <!-- end custom head snippets -->
