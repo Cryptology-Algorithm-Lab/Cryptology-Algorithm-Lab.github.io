@@ -129,10 +129,12 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
       <time class="cna-card-meta">Mar 18, 2026</time>
     </header>
     <div class="cna-card-body">
-      <p>C&amp;A Lab hosted the “MATH: Make AI Trust Higher” workshop at Hanyang University.</p>
-      <details open>
-        <summary>Poster</summary>
-        <img src="./assets/Gallery/math_poster.png" alt="MATH Workshop" style="width:50%; max-width:600px;">
+      <details class="cna-poster">
+        <summary>
+          <span class="cna-poster-text">C&amp;A Lab hosted the “MATH: Make AI Trust Higher” workshop at Hanyang University.</span>
+          <span class="cna-poster-toggle">View poster</span>
+        </summary>
+        <img src="./assets/Gallery/math_poster.png" alt="MATH Workshop" class="cna-poster-img">
       </details>
     </div>
   </article>
