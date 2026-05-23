@@ -10,455 +10,487 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Cookie&family=Dancing+Script&family=Yesteryear&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Yesteryear&display=swap" rel="stylesheet">
 
-<details>
-    <summary style="font-size:1.2rem; font-weight:bold;">
-        Professor
-    </summary>
-    <ul type="square">
-        <li><p style="text-align:left;"><A href="https://sites.google.com/site/jhsbhs/"><b sytle="font-size:120%;">Jae Hong Seo</b></A>
-            <br>
-            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jaehong.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-               <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Stay hungry. Stay foolish.</span>
-            </p>
-            <u>Education</u>
-            <br>
-            Seoul National University
-            <br>
-            <i><p style="text-align:left;">Ph.D in Mathematics<span style="float:right;">Feb 2011</span></p></i>                
-            Korea University
-            <br>
-            <i><p style="text-align:left;">BS in Mathematics<span style="float:right;">Feb 2004</span></p></i>
-            <u>Research Interests</u>
-            <br>
-            Cryptography, Computational Number Theory, Information Security (Recently, very interested in crypto primitives for secure blockchains and/or deep learning such as zero-knowledge proofs and bio authentication)            
-        </li>
-    </ul>
-</details>
+<style type="text/css">
+.cna-roster{ margin:0; }
+.cna-roster-head{
+  display:flex; align-items:baseline; gap:12px;
+  margin:28px 0 14px; padding-bottom:6px;
+  border-bottom:1px solid #f0ecdf;
+}
+.cna-roster-head h2{
+  margin:0; padding:0; border:none;
+  font-size:1.25rem; font-weight:700; color:#1f2227;
+}
+.cna-roster-count{
+  font-size:12px; color:#52575f; font-weight:600;
+  padding:2px 10px; background:#eeece7; border-radius:999px;
+}
 
-<br>
+.cna-roster-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill, minmax(290px, 1fr));
+  gap:16px;
+}
 
-<details>
-  <summary style="font-size:1.2rem; font-weight:bold;">
-      Postdoc
-  </summary>
-  <ul type = "square">
-    <br>
-    <li><p style="text-align:left;"><A href="https://sunpill.github.io"><b sytle="font-size:120%;">Sunpill Kim</b></A>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill1.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Freedom is not free.</span>
-        </p>
-        <u>Research Interests</u>
-        <br>  
-        AI Security, Deep Learning, and Cryptography
-        <br>
-        <br>  
-        <details>
-          <summary>
-            Publication
-          </summary>
-          <ul>
-            <li>
-              Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, Sunpill Kim and Jae Hong Seo, Towards Certifiably Robust Face Recognition, The 18th European Conference on Computer Vision ECCV 2024</b> 2024, (TBA) (<b>Top-tier conference in computer vision</b>, acceptance rate: 27.9%)
-            </li>
-            <li>
-              Sunpill Kim, Yong Kiam Tan, Bora Jeong, Soumik Mondal, Khin Mi Mi Aung, and Jae Hong Seo, Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems, IEEE Symposium on Security and Privacy (S&P) 2024, (<A href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a161/1Ub24A2RzHi">DOI</A>) (<b>Top-tier conference in cybersecurity</b>, acceptance rate: 14.9%)
-            </li>
-            <li>
-              Sunpill Kim and Yong Kiam Tan, Formalization of the Schwartz-Zippel Lemma, Archive of Formal Proofs, April 2023.
-            </li>
-            <li>
-              Seunghun Paik, Sunpill Kim, and Jae Hong Seo ,Analysis on Locality Sensitive Hashing-based Biometric Template Protection Schemes, 34rd British Machine Vision Conference (BMVC) 2023
-            </li>
-            <li>
-              Bora Jeong, Sunpill Kim, Seunghun Paik, and Jae Hong Seo, Attack on Secure Triplet Loss, IEEE Access.
-            </li>
-            <li>
-              Sunpill Kim, Yunseong Jeong, Jinsu Kim, Jungkon Kim, Hyung Tae Lee, and Jae Hong Seo, IronMask: Modular Architecture for Protecting Deep Face Template, In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pages 16125-16134, 2021.(acceptance rate 23.4%)
-            </li>
-          </ul>  
-        </details> 
-        <details>
-          <summary>
-            Awards
-          </summary>
-          <ul>
-            <li>
-              A*STAR Research Attachment Programme (ARAP) Jan 2023 - Jan 2024 Agency for Science, Technology and Research (A*STAR), Singapore S$38400
-            </li>
-            <li>
-              Special Prize, National Cryptographic Technology Contest. Sep 2022 National Intelligence Service, Republic of Korea “Deep Face Template Protection in the Wild” $500
-            </li>  
-            <li>
-              Excellence Prize, Academic Seminar. Nov 2019 College of Natural Science, Hanyang University “Security of Biometric Authentication” $300
-            </li>  
-          </ul>          
-        </details>  
-    </li>  
-  </ul>
-</details>
+.cna-member{
+  background:#fff; border:1px solid #e6e2d8; border-radius:14px;
+  overflow:hidden;
+  box-shadow:0 1px 2px rgba(31,34,39,.04), 0 6px 18px rgba(31,34,39,.05);
+  transition:transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+}
+.cna-member:hover{
+  border-color:#c8c2b2;
+  transform:translateY(-2px);
+  box-shadow:0 4px 8px rgba(31,34,39,.06), 0 14px 34px rgba(31,34,39,.10);
+}
+.cna-member[open]{
+  border-color:#b8740a;
+}
+.cna-member > summary{
+  cursor:pointer; user-select:none; list-style:none;
+  outline:none;
+}
+.cna-member > summary::-webkit-details-marker{ display:none; }
 
-<br>
+.cna-member-card{
+  display:flex; gap:14px; padding:16px 16px;
+  align-items:flex-start;
+}
+.cna-member-photo{
+  width:88px; height:88px; border-radius:12px;
+  object-fit:cover; flex:0 0 88px;
+  background:#f4f0e2;
+}
+.cna-member-meta{ min-width:0; display:flex; flex-direction:column; gap:2px; flex:1; }
+.cna-member-name{
+  font-size:16px; font-weight:600; color:#1f2227; text-decoration:none;
+  line-height:1.2;
+}
+.cna-member-name:hover{ text-decoration:underline; }
+.cna-member-name .cna-ext{ font-size:11px; opacity:.5; margin-left:3px; }
+.cna-member-role{
+  font-size:10.5px; color:#8a909a; letter-spacing:.08em;
+  text-transform:uppercase; font-weight:700;
+  margin-top:2px;
+}
+.cna-member-motto{
+  font-family:'Yesteryear', cursive;
+  font-size:18px; color:#b8740a;
+  line-height:1.15; margin-top:6px;
+}
+.cna-member-interests{
+  font-size:12.5px; color:#52575f; margin-top:6px; line-height:1.45;
+}
 
-<details>
-  <summary style="font-size:1.2rem; font-weight:bold;">
-      Ph.D student
-  </summary>
-  <ul type = "square">
-    <br>
-    <li><p style="text-align:left;"><b sytle="font-size:120%;">Changjin Kim</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/changjinkim.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Everything finds its place.</span>
-        </p>        
-        <u>Research Interests</u>
-        <br>
-          AI Security, Computer Vision
-      </li>
-  </ul>  
-</details>
+.cna-member-bio{
+  padding:0 18px 16px;
+  border-top:1px solid #f0ecdf;
+  font-size:13.5px; line-height:1.55; color:#1f2227;
+}
+.cna-member-bio h4{
+  font-size:11px; letter-spacing:.1em; text-transform:uppercase;
+  color:#8a909a; font-weight:700; margin:14px 0 6px;
+  border:none; padding:0;
+}
+.cna-member-bio ul{ padding-left:1.1em; margin:0; }
+.cna-member-bio li{ margin-bottom:4px; }
+.cna-member-bio .cna-edu{ width:100%; border-collapse:collapse; font-size:13.5px; }
+.cna-member-bio .cna-edu td{ padding:3px 0; border:none; vertical-align:top; }
+.cna-member-bio .cna-edu td:nth-child(1){ font-weight:500; }
+.cna-member-bio .cna-edu td:nth-child(2){ color:#52575f; font-style:italic; padding:0 12px; }
+.cna-member-bio .cna-edu td:nth-child(3){ color:#8a909a; font-size:12.5px; text-align:right; white-space:nowrap; }
 
-<br>
+/* Alumni — denser, no photo */
+.cna-alumni-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill, minmax(240px, 1fr));
+  gap:0 24px;
+  margin-top:8px;
+}
+.cna-alum{
+  font-size:13.5px; color:#1f2227;
+  padding:10px 0;
+  border-bottom:1px solid #f4f0e2;
+}
+.cna-alum-name{ font-weight:600; }
+.cna-alum-affil{ color:#52575f; font-size:12.5px; }
+.cna-alum-when{ display:block; color:#8a909a; font-size:11.5px; margin-top:2px; letter-spacing:.04em; }
 
-<details>
-    <summary style="font-size:1.2rem; font-weight:bold;">
-        Ms & Ph.D Integrated Course student
-    </summary>
-    <ul type="square">        
-        <br> 
-<!--     <br>
-        <li><p style="text-align:left;"><A href="https://hyeonbumlee.github.io"><b sytle="font-size:120%;">Hyeonbum Lee</b></A>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Hyeonbum.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >What doesn't kill me makes me stronger</span>
-        </p>
-        <u>Research Interests</u>
-        <br>
-        Cryptography(Zero-Knowledge Proofs)
-        </li>
-        <br>
-        <details>
-          <summary>
-            Publication
-          </summary>
-          <ul>
-            <li>
-              Hyeonbum Lee, Jae Hong Seo, "TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup Accepted in IWSEC" 2023
-            </li>  
-            <li>
-              Sungwook Kim, Hyeonbum Lee, Jae Hong Seo, [alphabetical order] Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier Accepted in Asiacrypt 2022   
-            </li>
-            <li>
-              Chanyang Ju, Hyeonbum Lee, Heewon Chung, Jae Hong Seo, and Sungwook Kim, Efficient Sum-Check Protocol for Convolution IEEE Access, vol. 9, pp. 164047-164059, 2021, doi:10.1109/ACCESS.2021.3133442.
-            </li>
-            <li>
-              Chanyang Ju, Hyeonbum Lee, Heewon Chung, and Jae Hong Seo, Analysis of Zero-Knowledge Protocols for Verifiable Computation and Its Applications Journal of The Korea Institute of Information Security & Cryptology VOL.31, NO.4, Aug. 2020
-            </li>
-          </ul>  
-        </details> 
-        <details>
-          <summary>
-            Awards
-          </summary>
-          <ul>
-            <li>
-              Grand Prize, National Cryptographic Technology Contest. Oct 2022 Korea Cryptography Forum 
-            </li>
-            <li>
-              Special Prize, National Cryptographic Technology Contest. Oct 2021 Korea Cryptography Forum
-            </li> 
-          </ul>  
-        </details>      -->
-      <br>
-      <li><p style="text-align:left;"><b sytle="font-size:120%;">Chanwoo Hwang</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Chanwoo.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >To doubt is safer than to be secure.</span>
-        </p>       
-        <u>Research Interests</u>
-        <br>
-        AI Security, Deep Learning Algorithm, Computer Vision
-        <br>
-        <br>  
-        <details>
-          <summary>
-            Awards
-          </summary>
-          <ul>
-            <li>
-              2021 Academic Seminar Hosted by College of Natural Science, Hanyang University Participation Prize
-            </li>
-          </ul>  
-        </details>  
-    </li>
-    <br>  
-    <!-- <li><p style="text-align:left;"><b sytle="font-size:120%;">Dongsoo Kim</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Dongsu.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Kites rise highest against the wind - not with it. -Winston Churchill-</span>
-        </p>        
-        <u>Research Interests</u>
-        <br>
-        Deep Learning Algorithm, Computer Vision
-        <br>
-        <br>  
-        <details>
-          <summary>
-            Awards
-          </summary>
-          <ul>
-            <li>
-              2021 Academic Seminar Hosted by College of Natural Science, Hanyang University Participation Prize
-            </li>
-          </ul>  
-        </details>  
-    </li>
-    <br>   -->
-    <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyunjung Son</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hyunjung.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Study without desire spoils the memory, and it retains nothing that it takes in. -Leonardo da Vinci-</span>
-        </p>        
-        <u>Research Interests</u>
-        <br>
-        Cryptography          
-    </li>
-    <br>  
-    <li><p style="text-align:left;"><A href="https://sites.google.com/view/seunghunpaik/home?authuser=0"><b sytle="font-size:120%;">Seunghun Paik</b></A>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Seunghun.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Be professional; be sceptical on your work. -Terrence Tao-</span>
-        </p>        
-        <u>Research Interests</u>
-        <br>
-        Privacy Preserving Machine Learning
-        <br>  
-        <br>
-        <details>
-          <summary>
-            Publication
-          </summary>
-          <ul>
-            <li>
-              Analysis on Secure Triplet Loss Bora Jeong, Sunpill Kim, Seunghun Paik and Jae Hong Seo IEEE Access, 2022
-            </li>
-            <li>
-              Analysis on Locality Sensitive Hashing-based Biometric Template Protection Schemes Seunghun Paik, Sunpill Kim and Jae Hong Seo Manuscript, Under Review
-            </li>
-          </ul>  
-        </details> 
-        <details>
-          <summary>
-            Awards
-          </summary>
-          <ul>
-            <li>
-              2022 Cryptanalysis Contest Hosted by Millitary Cryptography Research Center Excellence Award
-            </li>
-            <li>
-              2019 Academic Seminar Hosted by College of Natural Science, Hanyang University Excellence Prize
-            </li>
-          </ul>  
-        </details>  
-      </li>
-      <li><p style="text-align:left;"><b sytle="font-size:120%;">Minsu Kim</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/minsu.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >Better than yesterday</span>
-        </p>        
-        <u>Research Interests</u>
-        <br>
-        BTP(Biometric Template Protection)
-        <br>
-        <br>
-        <details>
-          <summary>
-            Awards
-          </summary>
-          <ul>
-            <li>
-              2022 Cryptanalysis Contest Hosted by Millitary Cryptography Research Center Excellence Award
-            </li>
-            <li>
-              2022 Academic Seminar Hosted by College of Natural Science, Hanyang University Excellence Prize
-            </li>
-          </ul>  
-        </details>  
-    </li>
-    </ul>      
-</details>
+@media (max-width:760px){
+  .cna-roster-grid{ grid-template-columns:1fr; }
+  .cna-alumni-grid{ grid-template-columns:1fr; }
+  .cna-member-card{ flex-direction:column; }
+  .cna-member-photo{ width:96px; height:96px; flex:0 0 96px; }
+}
+</style>
 
-<br>
+<section class="cna-roster" markdown="0">
+  <div class="cna-roster-head">
+    <h2>Professor</h2>
+    <span class="cna-roster-count">1</span>
+  </div>
+  <div class="cna-roster-grid">
 
-<details>
-    <summary style="font-size:1.2rem; font-weight:bold;">
-        Master's student
-    </summary>
-    <ul type="square">
-    <li><p style="text-align:left;"><b sytle="font-size:120%;">Yunki Kim</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/yunki.jpg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >The foolish man seeks happiness in the distance, the wise man grows It under his feet. -James Oppenheim-</span>
-        </p>        
-        <u>Research Interests</u>
-        <br>
-        Cryptography
-        <br>
-        <br>
-        <details>
-          <summary>
-            Awards
-          </summary>
-          <ul>            
-            <li>
-              2023 Academic Seminar Hosted by College of Natural Science, Hanyang University Encouragement Prize
-            </li>
-          </ul>  
-        </details>  
-    </li>      
-    </ul>
-</details>
+    <details class="cna-member" open>
+      <summary>
+        <div class="cna-member-card">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jaehong.jpg" alt="Jae Hong Seo" class="cna-member-photo">
+          <div class="cna-member-meta">
+            <a class="cna-member-name" href="https://sites.google.com/site/jhsbhs/">Jae Hong Seo<span class="cna-ext">↗</span></a>
+            <span class="cna-member-role">Professor</span>
+            <span class="cna-member-motto">Stay hungry. Stay foolish.</span>
+            <span class="cna-member-interests">Cryptography · Computational Number Theory · Zero-Knowledge Proofs · Biometric Authentication</span>
+          </div>
+        </div>
+      </summary>
+      <div class="cna-member-bio">
+        <h4>Education</h4>
+        <table class="cna-edu">
+          <tr><td>Seoul National University</td><td>Ph.D in Mathematics</td><td>Feb 2011</td></tr>
+          <tr><td>Korea University</td><td>BS in Mathematics</td><td>Feb 2004</td></tr>
+        </table>
+        <h4>Research Interests</h4>
+        <p>Cryptography, Computational Number Theory, Information Security (Recently, very interested in crypto primitives for secure blockchains and/or deep learning such as zero-knowledge proofs and bio authentication).</p>
+      </div>
+    </details>
 
-<br>
+  </div>
+</section>
 
-<details>
-    <summary style="font-size:1.2rem; font-weight:bold;">
-        Undergraduate student
-    </summary>
-    <ul type="square">
-    <li><p style="text-align:left;"><b sytle="font-size:120%;">Insoo Kim</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/insookim.jpeg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >No pain, No gain.</span>
-        </p>        
-        <u>Research Interests</u>
-        <br>
-        AI security, Computer Vision
-        <br>
-    </li>
-    <br>  
-    <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyeonmin Jang</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hyeonminjang.jpeg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >If you do not change direction, you may end up where you were heading.</span>
-        </p>        
-        <u>Research Interests</u>
-        <br>
-          Cryptography
-        <br>
-    </li>
-    <br>
-    <li><p style="text-align:left;"><b sytle="font-size:120%;">Ingeun Yun</b>
-        <br>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ingeunyun.jpeg" alt="" height="160" width="120" style="vertical-align:middle; margin-right: 75px;">
-          <span style="margin-top:20px; font-size:30px; font-family:Yesteryear" >One day or day one, you decide.</span>
-        </p>        
-        <u>Research Interests</u>
-        <br>
-          Cryptography , Deep Learning Algorithms 
-        <br>
-    </li>
-    </ul>
-</details>
+<section class="cna-roster" markdown="0">
+  <div class="cna-roster-head">
+    <h2>Postdoc</h2>
+    <span class="cna-roster-count">1</span>
+  </div>
+  <div class="cna-roster-grid">
 
-<br>
+    <details class="cna-member">
+      <summary>
+        <div class="cna-member-card">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill1.jpg" alt="Sunpill Kim" class="cna-member-photo">
+          <div class="cna-member-meta">
+            <a class="cna-member-name" href="https://sunpill.github.io">Sunpill Kim<span class="cna-ext">↗</span></a>
+            <span class="cna-member-role">Postdoc</span>
+            <span class="cna-member-motto">Freedom is not free.</span>
+            <span class="cna-member-interests">AI Security · Deep Learning · Cryptography</span>
+          </div>
+        </div>
+      </summary>
+      <div class="cna-member-bio">
+        <h4>Selected Publications</h4>
+        <ul>
+          <li>Seunghun Paik, Dongsoo Kim, Chanwoo Hwang, Sunpill Kim and Jae Hong Seo, <i>Towards Certifiably Robust Face Recognition</i>, ECCV 2024 (acc. 27.9%)</li>
+          <li>Sunpill Kim et al., <i>Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems</i>, IEEE S&amp;P 2024 (<a href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a161/1Ub24A2RzHi">DOI</a>, acc. 14.9%)</li>
+          <li>Sunpill Kim and Yong Kiam Tan, <i>Formalization of the Schwartz-Zippel Lemma</i>, Archive of Formal Proofs, Apr 2023.</li>
+          <li>Seunghun Paik, Sunpill Kim, and Jae Hong Seo, <i>Analysis on Locality Sensitive Hashing-based Biometric Template Protection Schemes</i>, BMVC 2023.</li>
+          <li>Bora Jeong, Sunpill Kim, Seunghun Paik, and Jae Hong Seo, <i>Attack on Secure Triplet Loss</i>, IEEE Access.</li>
+          <li>Sunpill Kim et al., <i>IronMask: Modular Architecture for Protecting Deep Face Template</i>, CVPR 2021, pp. 16125–16134 (acc. 23.4%).</li>
+        </ul>
+        <h4>Awards</h4>
+        <ul>
+          <li>A*STAR Research Attachment Programme (ARAP), Jan 2023 – Jan 2024. A*STAR, Singapore (S$38,400).</li>
+          <li>Special Prize, National Cryptographic Technology Contest, Sep 2022. National Intelligence Service, Republic of Korea — “Deep Face Template Protection in the Wild” ($500).</li>
+          <li>Excellence Prize, Academic Seminar, Nov 2019. College of Natural Science, Hanyang University — “Security of Biometric Authentication” ($300).</li>
+        </ul>
+      </div>
+    </details>
 
-<details>  
-    <summary style="font-size:1.2rem; font-weight:bold;">
-        Staff
-    </summary>
-</details>
+  </div>
+</section>
 
-<br>
+<section class="cna-roster" markdown="0">
+  <div class="cna-roster-head">
+    <h2>Ph.D Student</h2>
+    <span class="cna-roster-count">1</span>
+  </div>
+  <div class="cna-roster-grid">
 
-<details>
-    <summary style="font-size:1.2rem; font-weight:bold;">
-        Alumni (PostDoc)
-    </summary>
-    <ul type="square">
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Heewon Chung (Assistant Professor, Jeonbuk National University)</b><span style="float:right;"> <i>Dec 2021</i></span></p>
-    </li>
-    </ul>
-</details>
+    <details class="cna-member">
+      <summary>
+        <div class="cna-member-card">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/changjinkim.jpg" alt="Changjin Kim" class="cna-member-photo">
+          <div class="cna-member-meta">
+            <span class="cna-member-name">Changjin Kim</span>
+            <span class="cna-member-role">Ph.D Student</span>
+            <span class="cna-member-motto">Everything finds its place.</span>
+            <span class="cna-member-interests">AI Security · Computer Vision</span>
+          </div>
+        </div>
+      </summary>
+      <div class="cna-member-bio">
+        <h4>Research Interests</h4>
+        <p>AI Security, Computer Vision</p>
+      </div>
+    </details>
 
-<details>
-    <summary style="font-size:1.2rem; font-weight:bold;">
-        Alumni (Ph.D)
-    </summary>
-    <ul type="square">
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyeonbum Lee (Postdoc, Seoul National University)</b><span style="float:right;"> <i>Aug 2025</i></span></p>
-      </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Sunpill Kim (Postdoc, Hanyang University)</b><span style="float:right;"> <i>Feb 2026</i></span></p>
-      </li>
-     </ul> 
-</details>
+  </div>
+</section>
 
-<details>
-    <summary style="font-size:1.2rem; font-weight:bold;">
-        Alumni (Master)
-    </summary>
-    <ul type="square">
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Hwamin Yoo</b><span style="float:right;"> <i>Feb 2017</i></span></p>
-    </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Changjin Kim</b><span style="float:right;"> <i>Feb 2017</i></span></p>
-    </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Gyumin Lim (KAIST Cyber Security Research Center)</b><span style="float:right;"> <i>Feb 2021</i></span></p>
-    </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Chanyang Ju</b><span style="float:right;"> <i>Feb 2023</i></span></p>
-    </li>  
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Gwangwoon Lee (ArtygenSpace)</b><span style="float:right;"><i>Aug 2024</i></span></p>
-    </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Kyuhwan Lee (Korean National Police Agency)</b><span style="float:right;"><i>Aug 2024</i></span></p>
-    </li>
-      <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b><span style="float:right;"><i>Aug 2024</i></span></p>
-    </li>
-    </ul>
-</details>
+<section class="cna-roster" markdown="0">
+  <div class="cna-roster-head">
+    <h2>Ms &amp; Ph.D Integrated Course</h2>
+    <span class="cna-roster-count">4</span>
+  </div>
+  <div class="cna-roster-grid">
 
-<details>
-    <summary style="font-size:1.2rem; font-weight:bold;">
-        Alumni (Undergraduate Students)
-    </summary>
-    <ul type="square">
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Sunpill Kim</b><span style="float:right;"> <i></i></span></p>
-    </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Dongyoung Kim</b><span style="float:right;"> <i></i></span></p>
-    </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Jaeyong Ahn</b><span style="float:right;"> <i></i></span></p>
-    </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Jungmin Kim</b><span style="float:right;"> <i></i></span></p>
-    </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Suryun Ji</b><span style="float:right;"> <i></i></span></p>
-    </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Eunwoo Im</b><span style="float:right;"> <i></i></span></p>
-    </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Taesam Kim (Hyundai Mobis)</b><span style="float:right;"> <i></i></span></p>
-    </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Bora Jeong</b><span style="float:right;"> <i></i></span></p>
-    </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Chanwoo Hwang</b><span style="float:right;"> <i></i></span></p>
-    </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Dongsoo Kim</b><span style="float:right;"> <i></i></span></p>
-    </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyunjung Son</b><span style="float:right;"> <i></i></span></p>
-    </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Seongae Baek</b><span style="float:right;"> <i></i></span></p>
-    </li>
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Sangyoon Shin</b><span style="float:right;"> <i></i></span></p>
-    </li>      
-        <li><p style="text-align:left;"><b sytle="font-size:120%;">Yunjeong Heo</b><span style="float:right;"> <i></i></span></p>
-    </li>
-      <li><p style="text-align:left;"><b sytle="font-size:120%;">Seunghun Paik</b><span style="float:right;"> <i></i></span></p>
-    </li>
-      <li><p style="text-align:left;"><b sytle="font-size:120%;">Minsu Kim</b><span style="float:right;"> <i></i></span></p>
-    </li>
-      <li><p style="text-align:left;"><b sytle="font-size:120%;">Hyeonkyu Kim</b><span style="float:right;"> <i></i></span></p>
-    </li>
-      <li><p style="text-align:left;"><b sytle="font-size:120%;">Yunki Kim</b><span style="float:right;"> <i></i></span></p>
-    </li>
-      <li><p style="text-align:left;"><b sytle="font-size:120%;">Heejin Kim</b><span style="float:right;"> <i></i></span></p>
-    </li>  
-    </ul>
-</details>
+    <details class="cna-member">
+      <summary>
+        <div class="cna-member-card">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Chanwoo.jpg" alt="Chanwoo Hwang" class="cna-member-photo">
+          <div class="cna-member-meta">
+            <span class="cna-member-name">Chanwoo Hwang</span>
+            <span class="cna-member-role">Integrated Ms&amp;Ph.D</span>
+            <span class="cna-member-motto">To doubt is safer than to be secure.</span>
+            <span class="cna-member-interests">AI Security · Deep Learning Algorithm · Computer Vision</span>
+          </div>
+        </div>
+      </summary>
+      <div class="cna-member-bio">
+        <h4>Awards</h4>
+        <ul>
+          <li>2021 Academic Seminar, College of Natural Science, Hanyang University — Participation Prize.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="cna-member">
+      <summary>
+        <div class="cna-member-card">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hyunjung.jpg" alt="Hyunjung Son" class="cna-member-photo">
+          <div class="cna-member-meta">
+            <span class="cna-member-name">Hyunjung Son</span>
+            <span class="cna-member-role">Integrated Ms&amp;Ph.D</span>
+            <span class="cna-member-motto">Study without desire spoils the memory.</span>
+            <span class="cna-member-interests">Cryptography</span>
+          </div>
+        </div>
+      </summary>
+      <div class="cna-member-bio">
+        <p><em>“Study without desire spoils the memory, and it retains nothing that it takes in.”</em> — Leonardo da Vinci</p>
+      </div>
+    </details>
+
+    <details class="cna-member">
+      <summary>
+        <div class="cna-member-card">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Seunghun.jpg" alt="Seunghun Paik" class="cna-member-photo">
+          <div class="cna-member-meta">
+            <a class="cna-member-name" href="https://sites.google.com/view/seunghunpaik/home?authuser=0">Seunghun Paik<span class="cna-ext">↗</span></a>
+            <span class="cna-member-role">Integrated Ms&amp;Ph.D</span>
+            <span class="cna-member-motto">Be professional; be sceptical on your work.</span>
+            <span class="cna-member-interests">Privacy Preserving Machine Learning</span>
+          </div>
+        </div>
+      </summary>
+      <div class="cna-member-bio">
+        <p>“Be professional; be sceptical on your work.” — Terrence Tao</p>
+        <h4>Selected Publications</h4>
+        <ul>
+          <li>Bora Jeong, Sunpill Kim, Seunghun Paik, and Jae Hong Seo, <i>Analysis on Secure Triplet Loss</i>, IEEE Access, 2022.</li>
+          <li>Seunghun Paik, Sunpill Kim, and Jae Hong Seo, <i>Analysis on Locality Sensitive Hashing-based Biometric Template Protection Schemes</i>, BMVC 2023.</li>
+        </ul>
+        <h4>Awards</h4>
+        <ul>
+          <li>2022 Cryptanalysis Contest, Military Cryptography Research Center — Excellence Award.</li>
+          <li>2019 Academic Seminar, College of Natural Science, Hanyang University — Excellence Prize.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="cna-member">
+      <summary>
+        <div class="cna-member-card">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/minsu.jpg" alt="Minsu Kim" class="cna-member-photo">
+          <div class="cna-member-meta">
+            <span class="cna-member-name">Minsu Kim</span>
+            <span class="cna-member-role">Integrated Ms&amp;Ph.D</span>
+            <span class="cna-member-motto">Better than yesterday.</span>
+            <span class="cna-member-interests">Biometric Template Protection (BTP)</span>
+          </div>
+        </div>
+      </summary>
+      <div class="cna-member-bio">
+        <h4>Awards</h4>
+        <ul>
+          <li>2022 Cryptanalysis Contest, Military Cryptography Research Center — Excellence Award.</li>
+          <li>2022 Academic Seminar, College of Natural Science, Hanyang University — Excellence Prize.</li>
+        </ul>
+      </div>
+    </details>
+
+  </div>
+</section>
+
+<section class="cna-roster" markdown="0">
+  <div class="cna-roster-head">
+    <h2>Master's Student</h2>
+    <span class="cna-roster-count">1</span>
+  </div>
+  <div class="cna-roster-grid">
+
+    <details class="cna-member">
+      <summary>
+        <div class="cna-member-card">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/yunki.jpg" alt="Yunki Kim" class="cna-member-photo">
+          <div class="cna-member-meta">
+            <span class="cna-member-name">Yunki Kim</span>
+            <span class="cna-member-role">Master's Student</span>
+            <span class="cna-member-motto">Grow happiness under your feet.</span>
+            <span class="cna-member-interests">Cryptography</span>
+          </div>
+        </div>
+      </summary>
+      <div class="cna-member-bio">
+        <p>“The foolish man seeks happiness in the distance, the wise man grows it under his feet.” — James Oppenheim</p>
+        <h4>Awards</h4>
+        <ul>
+          <li>2023 Academic Seminar, College of Natural Science, Hanyang University — Encouragement Prize.</li>
+        </ul>
+      </div>
+    </details>
+
+  </div>
+</section>
+
+<section class="cna-roster" markdown="0">
+  <div class="cna-roster-head">
+    <h2>Undergraduate Student</h2>
+    <span class="cna-roster-count">3</span>
+  </div>
+  <div class="cna-roster-grid">
+
+    <details class="cna-member">
+      <summary>
+        <div class="cna-member-card">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/insookim.jpeg" alt="Insoo Kim" class="cna-member-photo">
+          <div class="cna-member-meta">
+            <span class="cna-member-name">Insoo Kim</span>
+            <span class="cna-member-role">Undergraduate</span>
+            <span class="cna-member-motto">No pain, no gain.</span>
+            <span class="cna-member-interests">AI Security · Computer Vision</span>
+          </div>
+        </div>
+      </summary>
+      <div class="cna-member-bio">
+        <h4>Research Interests</h4>
+        <p>AI Security, Computer Vision</p>
+      </div>
+    </details>
+
+    <details class="cna-member">
+      <summary>
+        <div class="cna-member-card">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hyeonminjang.jpeg" alt="Hyeonmin Jang" class="cna-member-photo">
+          <div class="cna-member-meta">
+            <span class="cna-member-name">Hyeonmin Jang</span>
+            <span class="cna-member-role">Undergraduate</span>
+            <span class="cna-member-motto">Change direction or end where you began.</span>
+            <span class="cna-member-interests">Cryptography</span>
+          </div>
+        </div>
+      </summary>
+      <div class="cna-member-bio">
+        <p>“If you do not change direction, you may end up where you were heading.”</p>
+      </div>
+    </details>
+
+    <details class="cna-member">
+      <summary>
+        <div class="cna-member-card">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ingeunyun.jpeg" alt="Ingeun Yun" class="cna-member-photo">
+          <div class="cna-member-meta">
+            <span class="cna-member-name">Ingeun Yun</span>
+            <span class="cna-member-role">Undergraduate</span>
+            <span class="cna-member-motto">One day or day one.</span>
+            <span class="cna-member-interests">Cryptography · Deep Learning Algorithms</span>
+          </div>
+        </div>
+      </summary>
+      <div class="cna-member-bio">
+        <p>“One day or day one, you decide.”</p>
+      </div>
+    </details>
+
+  </div>
+</section>
+
+<section class="cna-roster" markdown="0">
+  <div class="cna-roster-head">
+    <h2>Alumni — PostDoc</h2>
+    <span class="cna-roster-count">1</span>
+  </div>
+  <div class="cna-alumni-grid">
+    <div class="cna-alum">
+      <span class="cna-alum-name">Heewon Chung</span>
+      <span class="cna-alum-affil">— Assistant Professor, Jeonbuk National University</span>
+      <span class="cna-alum-when">Left Dec 2021</span>
+    </div>
+  </div>
+</section>
+
+<section class="cna-roster" markdown="0">
+  <div class="cna-roster-head">
+    <h2>Alumni — Ph.D</h2>
+    <span class="cna-roster-count">2</span>
+  </div>
+  <div class="cna-alumni-grid">
+    <div class="cna-alum">
+      <span class="cna-alum-name">Hyeonbum Lee</span>
+      <span class="cna-alum-affil">— Postdoc, Seoul National University</span>
+      <span class="cna-alum-when">Graduated Aug 2025</span>
+    </div>
+    <div class="cna-alum">
+      <span class="cna-alum-name">Sunpill Kim</span>
+      <span class="cna-alum-affil">— Postdoc, Hanyang University</span>
+      <span class="cna-alum-when">Graduated Feb 2026</span>
+    </div>
+  </div>
+</section>
+
+<section class="cna-roster" markdown="0">
+  <div class="cna-roster-head">
+    <h2>Alumni — Master</h2>
+    <span class="cna-roster-count">7</span>
+  </div>
+  <div class="cna-alumni-grid">
+    <div class="cna-alum"><span class="cna-alum-name">Hwamin Yoo</span><span class="cna-alum-when">Feb 2017</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Changjin Kim</span><span class="cna-alum-when">Feb 2017</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Gyumin Lim</span><span class="cna-alum-affil">— KAIST Cyber Security Research Center</span><span class="cna-alum-when">Feb 2021</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Chanyang Ju</span><span class="cna-alum-when">Feb 2023</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Gwangwoon Lee</span><span class="cna-alum-affil">— ArtygenSpace</span><span class="cna-alum-when">Aug 2024</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Kyuhwan Lee</span><span class="cna-alum-affil">— Korean National Police Agency</span><span class="cna-alum-when">Aug 2024</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Bora Jeong</span><span class="cna-alum-when">Aug 2024</span></div>
+  </div>
+</section>
+
+<section class="cna-roster" markdown="0">
+  <div class="cna-roster-head">
+    <h2>Alumni — Undergraduate</h2>
+    <span class="cna-roster-count">19</span>
+  </div>
+  <div class="cna-alumni-grid">
+    <div class="cna-alum"><span class="cna-alum-name">Sunpill Kim</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Dongyoung Kim</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Jaeyong Ahn</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Jungmin Kim</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Suryun Ji</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Eunwoo Im</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Taesam Kim</span><span class="cna-alum-affil">— Hyundai Mobis</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Bora Jeong</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Chanwoo Hwang</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Dongsoo Kim</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Hyunjung Son</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Seongae Baek</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Sangyoon Shin</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Yunjeong Heo</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Seunghun Paik</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Minsu Kim</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Hyeonkyu Kim</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Yunki Kim</span></div>
+    <div class="cna-alum"><span class="cna-alum-name">Heejin Kim</span></div>
+  </div>
+</section>
