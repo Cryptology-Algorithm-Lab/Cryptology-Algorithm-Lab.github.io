@@ -959,24 +959,33 @@ body{
    chips, publication aside widen, seminar TBA cleanup.
    ────────────────────────────────────────────────────────── */
 
-/* (#2) Hero — pull title size down, add an uppercase eyebrow above */
+/* (#2) Hero — pull title size down, add an uppercase eyebrow above.
+   round-12 fix: eyebrow used to be absolutely positioned with a fixed
+   padding-top on the title. On mobile (<600px) the long eyebrow wraps
+   to 2 lines and overlaps the title because the padding doesn't grow.
+   Switch to normal flow + explicit margin-bottom so the title pushes
+   down based on the eyebrow's actual height when wrapped. */
 .page__hero--overlay .page__title{
   font-size: 2rem !important;
   font-weight: 800;
   letter-spacing: -.01em;
-  position: relative;
-  padding-top: var(--cna-s-5);
 }
 .page__hero--overlay .page__title::before{
   content: "Cryptology & Algorithm Lab · Hanyang University";
   display: block;
-  position: absolute;
-  top: 0; left: 0; right: 0;
   font-size: 11px;
   font-weight: 600;
   letter-spacing: .2em;
   text-transform: uppercase;
   opacity: .85;
+  margin-bottom: var(--cna-s-3);
+  line-height: 1.5;
+}
+@media (max-width: 600px){
+  .page__hero--overlay .page__title::before{
+    letter-spacing: .12em;       /* tighter tracking so it fits one line on most phones */
+    margin-bottom: var(--cna-s-2);
+  }
 }
 /* (round-8 reversion: keep the eyebrow on homepage too — user
    liked having the lab full name + Hanyang University there.) */
