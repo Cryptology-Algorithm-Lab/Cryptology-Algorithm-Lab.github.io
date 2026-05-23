@@ -10,129 +10,11 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Yesteryear&display=swap" rel="stylesheet">
-
-<style type="text/css">
-.cna-roster{ margin:0; }
-.cna-roster-head{
-  display:flex; align-items:baseline; gap:12px;
-  margin:28px 0 14px; padding-bottom:6px;
-  border-bottom:1px solid #f0ecdf;
-}
-.cna-roster-head h2{
-  margin:0; padding:0; border:none;
-  font-size:1.25rem; font-weight:700; color:#1f2227;
-}
-.cna-roster-count{
-  font-size:12px; color:#52575f; font-weight:600;
-  padding:2px 10px; background:#eeece7; border-radius:999px;
-}
-
-.cna-roster-grid{
-  display:grid;
-  grid-template-columns:repeat(auto-fill, minmax(290px, 1fr));
-  gap:16px;
-}
-
-.cna-member{
-  background:#fff; border:1px solid #e6e2d8; border-radius:14px;
-  overflow:hidden;
-  box-shadow:0 1px 2px rgba(31,34,39,.04), 0 6px 18px rgba(31,34,39,.05);
-  transition:transform .18s ease, box-shadow .18s ease, border-color .18s ease;
-}
-.cna-member:hover{
-  border-color:#c8c2b2;
-  transform:translateY(-2px);
-  box-shadow:0 4px 8px rgba(31,34,39,.06), 0 14px 34px rgba(31,34,39,.10);
-}
-.cna-member[open]{
-  border-color:#b8740a;
-}
-.cna-member > summary{
-  cursor:pointer; user-select:none; list-style:none;
-  outline:none;
-}
-.cna-member > summary::-webkit-details-marker{ display:none; }
-
-.cna-member-card{
-  display:flex; gap:14px; padding:16px 16px;
-  align-items:flex-start;
-}
-.cna-member-photo{
-  width:88px; height:88px; border-radius:12px;
-  object-fit:cover; flex:0 0 88px;
-  background:#f4f0e2;
-}
-.cna-member-meta{ min-width:0; display:flex; flex-direction:column; gap:2px; flex:1; }
-.cna-member-name{
-  font-size:16px; font-weight:600; color:#1f2227; text-decoration:none;
-  line-height:1.2;
-}
-.cna-member-name:hover{ text-decoration:underline; }
-.cna-member-name .cna-ext{ font-size:11px; opacity:.5; margin-left:3px; }
-.cna-member-role{
-  font-size:10.5px; color:#8a909a; letter-spacing:.08em;
-  text-transform:uppercase; font-weight:700;
-  margin-top:2px;
-}
-.cna-member-motto{
-  font-family:'Yesteryear', cursive;
-  font-size:18px; color:#b8740a;
-  line-height:1.15; margin-top:6px;
-}
-.cna-member-interests{
-  font-size:12.5px; color:#52575f; margin-top:6px; line-height:1.45;
-}
-
-.cna-member-bio{
-  padding:0 18px 16px;
-  border-top:1px solid #f0ecdf;
-  font-size:13.5px; line-height:1.55; color:#1f2227;
-}
-.cna-member-bio h4{
-  font-size:11px; letter-spacing:.1em; text-transform:uppercase;
-  color:#8a909a; font-weight:700; margin:14px 0 6px;
-  border:none; padding:0;
-}
-.cna-member-bio ul{ padding-left:1.1em; margin:0; }
-.cna-member-bio li{ margin-bottom:4px; }
-.cna-member-bio .cna-edu{ width:100%; border-collapse:collapse; font-size:13.5px; }
-.cna-member-bio .cna-edu td{ padding:3px 0; border:none; vertical-align:top; }
-.cna-member-bio .cna-edu td:nth-child(1){ font-weight:500; }
-.cna-member-bio .cna-edu td:nth-child(2){ color:#52575f; font-style:italic; padding:0 12px; }
-.cna-member-bio .cna-edu td:nth-child(3){ color:#8a909a; font-size:12.5px; text-align:right; white-space:nowrap; }
-
-/* Alumni — denser, no photo */
-.cna-alumni-grid{
-  display:grid;
-  grid-template-columns:repeat(auto-fill, minmax(240px, 1fr));
-  gap:0 24px;
-  margin-top:8px;
-}
-.cna-alum{
-  font-size:13.5px; color:#1f2227;
-  padding:10px 0;
-  border-bottom:1px solid #f4f0e2;
-}
-.cna-alum-name{ font-weight:600; }
-.cna-alum-affil{ color:#52575f; font-size:12.5px; }
-.cna-alum-when{ display:block; color:#8a909a; font-size:11.5px; margin-top:2px; letter-spacing:.04em; }
-
-@media (max-width:760px){
-  .cna-roster-grid{ grid-template-columns:1fr; }
-  .cna-alumni-grid{ grid-template-columns:1fr; }
-  .cna-member-card{ flex-direction:column; }
-  .cna-member-photo{ width:96px; height:96px; flex:0 0 96px; }
-}
-</style>
-
-<section class="cna-roster" markdown="0">
-  <div class="cna-roster-head">
+<section class="cna-roster cna-section" markdown="0">
+  <header class="cna-section-head">
     <h2>Professor</h2>
-    <span class="cna-roster-count">1</span>
-  </div>
+    <span class="cna-section-count">1</span>
+  </header>
   <div class="cna-roster-grid">
 
     <details class="cna-member" open>
@@ -161,11 +43,11 @@ header:
   </div>
 </section>
 
-<section class="cna-roster" markdown="0">
-  <div class="cna-roster-head">
+<section class="cna-roster cna-section" markdown="0">
+  <header class="cna-section-head">
     <h2>Postdoc</h2>
-    <span class="cna-roster-count">1</span>
-  </div>
+    <span class="cna-section-count">1</span>
+  </header>
   <div class="cna-roster-grid">
 
     <details class="cna-member">
@@ -202,11 +84,11 @@ header:
   </div>
 </section>
 
-<section class="cna-roster" markdown="0">
-  <div class="cna-roster-head">
+<section class="cna-roster cna-section" markdown="0">
+  <header class="cna-section-head">
     <h2>Ph.D Student</h2>
-    <span class="cna-roster-count">1</span>
-  </div>
+    <span class="cna-section-count">1</span>
+  </header>
   <div class="cna-roster-grid">
 
     <details class="cna-member">
@@ -230,11 +112,11 @@ header:
   </div>
 </section>
 
-<section class="cna-roster" markdown="0">
-  <div class="cna-roster-head">
+<section class="cna-roster cna-section" markdown="0">
+  <header class="cna-section-head">
     <h2>Ms &amp; Ph.D Integrated Course</h2>
-    <span class="cna-roster-count">4</span>
-  </div>
+    <span class="cna-section-count">4</span>
+  </header>
   <div class="cna-roster-grid">
 
     <details class="cna-member">
@@ -325,11 +207,11 @@ header:
   </div>
 </section>
 
-<section class="cna-roster" markdown="0">
-  <div class="cna-roster-head">
+<section class="cna-roster cna-section" markdown="0">
+  <header class="cna-section-head">
     <h2>Master's Student</h2>
-    <span class="cna-roster-count">1</span>
-  </div>
+    <span class="cna-section-count">1</span>
+  </header>
   <div class="cna-roster-grid">
 
     <details class="cna-member">
@@ -356,11 +238,11 @@ header:
   </div>
 </section>
 
-<section class="cna-roster" markdown="0">
-  <div class="cna-roster-head">
+<section class="cna-roster cna-section" markdown="0">
+  <header class="cna-section-head">
     <h2>Undergraduate Student</h2>
-    <span class="cna-roster-count">3</span>
-  </div>
+    <span class="cna-section-count">3</span>
+  </header>
   <div class="cna-roster-grid">
 
     <details class="cna-member">
@@ -418,11 +300,11 @@ header:
   </div>
 </section>
 
-<section class="cna-roster" markdown="0">
-  <div class="cna-roster-head">
+<section class="cna-roster cna-section" markdown="0">
+  <header class="cna-section-head">
     <h2>Alumni — PostDoc</h2>
-    <span class="cna-roster-count">1</span>
-  </div>
+    <span class="cna-section-count">1</span>
+  </header>
   <div class="cna-alumni-grid">
     <div class="cna-alum">
       <span class="cna-alum-name">Heewon Chung</span>
@@ -432,11 +314,11 @@ header:
   </div>
 </section>
 
-<section class="cna-roster" markdown="0">
-  <div class="cna-roster-head">
+<section class="cna-roster cna-section" markdown="0">
+  <header class="cna-section-head">
     <h2>Alumni — Ph.D</h2>
-    <span class="cna-roster-count">2</span>
-  </div>
+    <span class="cna-section-count">2</span>
+  </header>
   <div class="cna-alumni-grid">
     <div class="cna-alum">
       <span class="cna-alum-name">Hyeonbum Lee</span>
@@ -451,11 +333,11 @@ header:
   </div>
 </section>
 
-<section class="cna-roster" markdown="0">
-  <div class="cna-roster-head">
+<section class="cna-roster cna-section" markdown="0">
+  <header class="cna-section-head">
     <h2>Alumni — Master</h2>
-    <span class="cna-roster-count">7</span>
-  </div>
+    <span class="cna-section-count">7</span>
+  </header>
   <div class="cna-alumni-grid">
     <div class="cna-alum"><span class="cna-alum-name">Hwamin Yoo</span><span class="cna-alum-when">Feb 2017</span></div>
     <div class="cna-alum"><span class="cna-alum-name">Changjin Kim</span><span class="cna-alum-when">Feb 2017</span></div>
@@ -467,11 +349,11 @@ header:
   </div>
 </section>
 
-<section class="cna-roster" markdown="0">
-  <div class="cna-roster-head">
+<section class="cna-roster cna-section" markdown="0">
+  <header class="cna-section-head">
     <h2>Alumni — Undergraduate</h2>
-    <span class="cna-roster-count">19</span>
-  </div>
+    <span class="cna-section-count">19</span>
+  </header>
   <div class="cna-alumni-grid">
     <div class="cna-alum"><span class="cna-alum-name">Sunpill Kim</span></div>
     <div class="cna-alum"><span class="cna-alum-name">Dongyoung Kim</span></div>
