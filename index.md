@@ -31,7 +31,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
       <time class="cna-card-meta">May 29, 2026</time>
     </header>
     <div class="cna-card-body">
-      <p>Prof. Taeho Jung from the University of Notre Dame will visit the C&amp;A Lab for a research-topic exchange.</p>
+      <p>Prof. Taeho Jung from the University of Notre Dame will visit the C&amp;A Lab for an academic exchange and research collaboration.</p>
       <ul>
         <li>Date &amp; Place: 01:00 PM, May 29 / Natural Science Building 702</li>
       </ul>
