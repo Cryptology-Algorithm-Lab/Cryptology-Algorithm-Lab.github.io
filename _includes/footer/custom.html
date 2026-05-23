@@ -1,3 +1,83 @@
 <!-- start custom footer snippets -->
-<p align="right"><A href="https://sites.google.com/view/hucc/"><img src="/assets/images/hucc.png"></A>
+<p align="right"><A href="https://sites.google.com/view/hucc/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/hucc.png"></A></p>
+
+<script>
+(function () {
+  /* round-9 #1: open every off-site link in a new tab so the user
+     doesn't leave the homepage. Same-host and anchor (#) links are
+     left alone so in-page nav and scrollspy work as expected. */
+  document.querySelectorAll('a[href]').forEach(function (a) {
+    var href = a.getAttribute('href');
+    if (!href || href.charAt(0) === '#' || href.indexOf('mailto:') === 0) return;
+    if (a.hostname && a.hostname !== window.location.hostname) {
+      a.setAttribute('target', '_blank');
+      var rel = (a.getAttribute('rel') || '').split(/\s+/);
+      if (rel.indexOf('noopener') === -1) rel.push('noopener');
+      if (rel.indexOf('noreferrer') === -1) rel.push('noreferrer');
+      a.setAttribute('rel', rel.filter(Boolean).join(' '));
+    }
+  });
+
+  /* round-9 #2: scrollspy for the homepage floating section TOC.
+     Watches every h1/h2 inside .page__content and toggles
+     .is-active on the matching .cna-page-toc-item link. */
+  var toc = document.querySelector('.cna-page-toc');
+  if (!toc) return;
+  var items = toc.querySelectorAll('.cna-page-toc-item');
+  var targets = [];
+  items.forEach(function (it) {
+    var sel = it.getAttribute('href');
+    if (!sel || sel.charAt(0) !== '#') return;
+    var node = document.querySelector(sel);
+    if (node) targets.push({ id: sel.slice(1), node: node, item: it });
+  });
+  if (!targets.length) return;
+
+  function setActive(id) {
+    items.forEach(function (it) { it.classList.remove('is-active'); });
+    var match = targets.find(function (t) { return t.id === id; });
+    if (match) match.item.classList.add('is-active');
+  }
+
+  if ('IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function (entries) {
+      /* Pick the entry closest to the top of the viewport that is currently
+         intersecting. Falls back to last seen section while scrolling past. */
+      var visible = entries
+        .filter(function (e) { return e.isIntersecting; })
+        .sort(function (a, b) { return a.boundingClientRect.top - b.boundingClientRect.top; });
+      if (visible.length) setActive(visible[0].target.id);
+    }, {
+      rootMargin: '-30% 0px -55% 0px',
+      threshold: 0
+    });
+    targets.forEach(function (t) { io.observe(t.node); });
+  } else {
+    /* fall back: highlight whichever section header has been scrolled past most recently */
+    window.addEventListener('scroll', function () {
+      var scrollY = window.scrollY + window.innerHeight * 0.3;
+      var current = targets[0];
+      targets.forEach(function (t) {
+        if (t.node.offsetTop <= scrollY) current = t;
+      });
+      setActive(current.id);
+    });
+  }
+
+  /* Smooth scroll on TOC click; account for sticky masthead offset */
+  items.forEach(function (it) {
+    it.addEventListener('click', function (e) {
+      var sel = it.getAttribute('href');
+      if (!sel || sel.charAt(0) !== '#') return;
+      var node = document.querySelector(sel);
+      if (!node) return;
+      e.preventDefault();
+      var headerOffset = 80;
+      var top = node.getBoundingClientRect().top + window.scrollY - headerOffset;
+      window.scrollTo({ top: top, behavior: 'smooth' });
+      history.replaceState(null, '', sel);
+    });
+  });
+})();
+</script>
 <!-- end custom footer snippets -->

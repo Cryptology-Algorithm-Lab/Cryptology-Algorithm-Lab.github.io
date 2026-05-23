@@ -9,11 +9,19 @@ header:
   overlay_filter: "rgba(31, 25, 20, 0.55)" # warm-tinted overlay matching the card surfaces
 ---
 
-# About us
+<nav class="cna-page-toc" aria-label="Section navigation" markdown="0">
+  <span class="cna-page-toc-label">On this page</span>
+  <a class="cna-page-toc-item" href="#about-us">About us</a>
+  <a class="cna-page-toc-item" href="#annual-news">Annual News</a>
+  <a class="cna-page-toc-item" href="#seminar">Seminar</a>
+  <a class="cna-page-toc-item" href="#contact">Contact</a>
+</nav>
 
-We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). Our main research interests are in cryptography especially zero-knowledge proof. Besides cryptography, we're interested in artificial intelligence using deep learning such as face recognition and speaker recognition.
+<h1 id="about-us">About us</h1>
 
-## Annual News
+We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). Our main research interests are in cryptography especially zero-knowledge proof. Besides cryptography, we're interested in artificial intelligence using deep learning such as face recognition and speaker recognition.
+
+<h2 id="annual-news">Annual News</h2>
 
 <div class="cna-card-grid" markdown="0">
 
@@ -153,7 +161,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 </div>
 
 <header class="cna-section-head" markdown="0" style="margin-top:var(--cna-s-8);">
-  <h2 style="margin:0;">Seminar</h2>
+  <h2 id="seminar" style="margin:0;">Seminar</h2>
   <a class="cna-section-action" href="mailto:jaehongseo@hanyang.ac.kr">Interested in joining the lab? ↗</a>
 </header>
 
@@ -551,6 +559,6 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
   </div>
 </details>
 
-## Contact
+<h2 id="contact">Contact</h2>
 
 For any inquiries, you can reach us via email: **jaehongseo@hanyang.ac.kr**

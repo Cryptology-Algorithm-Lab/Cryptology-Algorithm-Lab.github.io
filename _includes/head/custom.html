@@ -711,10 +711,25 @@ body{
 }
 .nav__list .nav__items a{
   color: var(--cna-soft);
+  text-decoration: none;
+  border-radius: 6px;
+  padding: 4px 8px;
+  display: block;
+  transition: background var(--cna-dur) var(--cna-ease), color var(--cna-dur) var(--cna-ease);
 }
-.nav__list .nav__items a:hover,
-.nav__list .nav__items .active{
+.nav__list .nav__items a:hover{
   color: var(--cna-indigo);
+  background: var(--cna-bg);
+}
+/* round-9 #2: highlighted current sub-page in News sidebar (and any
+   sidebar nav using the docs collection). */
+.nav__list .nav__items a.active,
+.nav__list .nav__items a[aria-current="page"]{
+  color: var(--cna-indigo);
+  font-weight: 700;
+  background: var(--cna-indigo-wash);
+  border-left: 3px solid var(--cna-indigo);
+  padding-left: 8px;
 }
 
 /* tighten splash layout body padding so cards sit closer to hero */
@@ -800,6 +815,64 @@ body{
   overflow: hidden;
   text-overflow: ellipsis;
   max-width: 100%;
+}
+
+/* ──────────────────────────────────────────────────────────
+   15. FLOATING PAGE TOC (round-9)
+   Small fixed widget on the right side of the homepage that
+   shows which section is currently in view. Hidden on narrow
+   viewports. Scrollspy via IntersectionObserver in
+   _includes/footer/custom.html.
+   ────────────────────────────────────────────────────────── */
+.cna-page-toc{
+  position: fixed;
+  top: 50%;
+  right: 18px;
+  transform: translateY(-50%);
+  display: flex; flex-direction: column;
+  gap: var(--cna-s-1);
+  z-index: 90;
+  padding: var(--cna-s-2);
+  background: rgba(255, 255, 255, .82);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid var(--cna-line);
+  border-radius: var(--cna-radius-md);
+  box-shadow: var(--cna-shadow-sm);
+}
+.cna-page-toc-label{
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--cna-faint);
+  padding: 4px 8px 6px;
+}
+.cna-page-toc-item{
+  font-size: var(--cna-fs-sm);
+  color: var(--cna-soft);
+  text-decoration: none;
+  padding: 6px 10px;
+  border-radius: 6px;
+  border-left: 2px solid transparent;
+  transition: color var(--cna-dur) var(--cna-ease),
+              background var(--cna-dur) var(--cna-ease),
+              border-color var(--cna-dur) var(--cna-ease);
+  white-space: nowrap;
+}
+.cna-page-toc-item:hover{
+  color: var(--cna-ink);
+  background: var(--cna-bg);
+}
+.cna-page-toc-item.is-active{
+  color: var(--cna-indigo);
+  font-weight: 700;
+  border-left-color: var(--cna-indigo);
+  background: var(--cna-indigo-wash);
+}
+/* hide TOC on narrow viewports — content is the priority there */
+@media (max-width: 1280px){
+  .cna-page-toc{ display: none; }
 }
 .cna-member-card{
   padding: var(--cna-s-5);
