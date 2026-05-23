@@ -10,128 +10,357 @@ header:
   overlay_image: /assets/images/korea.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
+
 # Honors & Awards
 
-## 2026
-<ul type="square">
-  <li>Outstanding Paper of the Week, Hanyang University.</li>
-    <ul type="-">
-  <li><b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, <b>Jae Hong Seo</b></li>
-    </ul>
-</ul>
+<div class="cna-tally" markdown="0">
+  <span class="cna-tally-label">By tier</span>
+  <span class="cna-tally-pill cna-tally-award">Top × 3</span>
+  <span class="cna-tally-pill cna-tally-award">Excellence × 6</span>
+  <span class="cna-tally-pill cna-tally-award">Special × 5</span>
+  <span class="cna-tally-pill cna-tally-award">Excellent Paper × 1</span>
+  <span class="cna-tally-pill cna-tally-award">Outstanding × 1</span>
+  <span class="cna-tally-pill cna-tally-award">Encouragement × 2</span>
+  <span class="cna-tally-pill cna-tally-award">Participant × 3</span>
+</div>
 
-## 2025
-<ul type="square">
-  <li>Excellence Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
-    <ul type="-">
-      <li><b>Seunghun Paik</b>, Nirajan Koirala, Jack Nero, <b>Hyunjung Son</b>, <b>Yunki Kim</b>, <b>Jae Hong Seo</b>, and Taeho Jung</li>
-    </ul>  
-  <li>Special Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
-    <ul type="-">
-      <li><b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Minsu Kim</b>, and <b>Jae Hong Seo</b></li>
-    </ul>
-  <li>Special Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
-    <ul type="-">
-      <li><b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, Yong Kiam Tan, Tianchi Liu, <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, Soumik Mondal, Khin Mi Mi Aung, and <b>Jae Hong Seo</b></li>
-    </ul>
-</ul>
+<details class="cna-year" open markdown="0">
+  <summary>
+    <h3>2026</h3>
+    <span class="cna-year-count">1 award</span>
+    <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+  </summary>
+  <div class="cna-year-body">
 
-## 2024
-<ul type="square">
-  <li>Excellence Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
-    <ul type="-">
-      <li><b>Hyeonbum Lee</b>, Jaehwan Park, Junbeom Hur, <b>Jae Hong Seo</b>, and Doowon Kim</li>
-    </ul>  
-  <li>Encouragement Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
-    <ul type="-">
-      <li><b>Seunghun Paik</b>, <b>Minsu Kim</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b></li>
-    </ul>
-  <li>Encouragement Award, Crypto Analysis Contest, 777th Intelligence Command, Korea.</li>
-    <ul type="-">
-        <li><b>Yunki Kim</b>, and <b>Minsu Kim</b>, Wanki Kim, Seonjae Kim</li> 
-    </ul>
-  <li> Excellent Paper Award, CISC-S'24, National Security Research Institute, Korea.</li>
-  <ul type="-">
-    <li><b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b> and <b>Jae Hong Seo</b></li>
-  </ul>  
-</ul>
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">Outstanding Paper of the Week</div>
+      <div class="cna-row-sub">Hanyang University · <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, <b>Jae Hong Seo</b></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Outstanding</span>
+    </div>
+  </article>
 
-## 2023
-<ul type="square">
-<li>Excellence Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
-  <ul type="-">
-    <li><b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Dongsu Kim</b>, Junbum Shin, and <b>Jae Hong Seo</b></li>
-  </ul>  
-<li>Participant Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
-<ul type="-">
-    <li><b>Sunpill Kim</b>, Yong Kiam Tan, <b>Bora Jeong</b>, Soumik Mondal, Khin Mi Mi Aung, and <b>Jae Hong Seo</b></li>
-  </ul>
-<li>Special Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
-<ul type="-">
-    <li><b>Hyeonbum Lee</b>, <b>Kyuhwan Lee</b>, <b>Jae Hong Seo</b>, Wenyi Tang, Shankha Shubhra Mukherjee, and Taeho Jung</li>
-</ul>  
-<li>Top Exellence Award, Crypto Analysis Contest, 777th Intelligence Command, Korea.</li>
-<ul type="-">
-    <li><b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Minsu Kim</b>, and Shin Heo</li>
-</ul>
-<li>Top Award, Best Research Paper Award for graduate students, Research Institute for Natural Sciences, Hanyang University.</li>
-<ul type="-">
-    <li><b>Bora Jeong</b></li>
-</ul>
-</ul>
+  </div>
+</details>
 
-## 2022
-<ul type = "square">
-<li>Top Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
-<ul type="-">
-    <li><b>Hyeonbum Lee</b>, Sungwook Kim, and <b>Jae Hong Seo</b></li>
-</ul>   
-<li>Special Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
-<ul type="-">
-    <li><b>Sunpill Kim</b>, Hoyong Shin, and <b>Jae Hong Seo</b></li>
-</ul>   
-<li>Excellence Award, Crypto Analysis Contest, 777th Intelligence Command, Korea.</li>
-<ul type="-">
-    <li><b>Seunghun Paik</b>, <b>Minsu Kim</b>, Hyungjun Jang, Yewon Jeong, and Yeonhong Lim</li>
-</ul>     
-<li>Excellence Award, Academic Seminar, College of Natural Science, Hanyang University.</li>
-<ul type="-">
-    <li><b>Minsu Kim</b>, and <b>Seongae Baek</b></li>
-</ul>   
-<li>Participant Award, Academic Seminar, College of Natural Science, Hanyang University.</li>
-<ul type="-">
-    <li><b>Yunjeong Heo</b></li>
-</ul>   
-</ul>
+<details class="cna-year" open markdown="0">
+  <summary>
+    <h3>2025</h3>
+    <span class="cna-year-count">3 awards</span>
+    <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+  </summary>
+  <div class="cna-year-body">
 
-## 2021
-<ul type = "square">
-<li>Special Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
-<ul type="-">
-    <li>Sungwook Kim, <b>Hyeonbum Lee</b>, and <b>Jae Hong Seo</b></li>
-</ul>    
-<li>Top Award, Academic Seminar, College of Natural Science, Hanyang University.</li>
-<ul type="-">
-    <li><b>Taesam Kim</b>, and <b>Kyuhwan Lee</b></li>
-</ul>    
-<li>Participant Award, Academic Seminar, College of Natural Science, Hanyang University.</li>
-<ul type="-">
-    <li><b>Chanwoo Hwang</b>, <b>Dongsu Kim</b>, and Hwanseong Kim</li>
-</ul>    
-</ul>
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-sub">National Intelligence Service, Korea · <b>Seunghun Paik</b>, Nirajan Koirala, Jack Nero, <b>Hyunjung Son</b>, <b>Yunki Kim</b>, <b>Jae Hong Seo</b>, and Taeho Jung</div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Excellence</span>
+    </div>
+  </article>
 
-## 2020
-<ul type = "square">
-<li>Participant Award, National Cryptographic Technology Contest, National Intelligence Service, Korea.</li>
-<ul type="-">
-    <li><b>Heewon Chung</b>, Kyoohyung Han, <b>Chanyang Ju</b>, Myungsun Kim, and <b>Jae Hong Seo</b></li>
-</ul>  
-</ul>
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-sub">National Intelligence Service, Korea · <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Minsu Kim</b>, and <b>Jae Hong Seo</b></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Special</span>
+    </div>
+  </article>
 
-## 2019
-<ul type = "square">
-<li>Excellence Award, Academic Seminar, College of Natural Science, Hanyang University.</li>
-<ul type="-">
-    <li><b>Sunpill Kim</b>, and <b>Seunghun Paik</b></li>
-</ul>  
-</ul>
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-sub">National Intelligence Service, Korea · <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, Yong Kiam Tan, Tianchi Liu, <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, Soumik Mondal, Khin Mi Mi Aung, and <b>Jae Hong Seo</b></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Special</span>
+    </div>
+  </article>
+
+  </div>
+</details>
+
+<details class="cna-year" markdown="0">
+  <summary>
+    <h3>2024</h3>
+    <span class="cna-year-count">4 awards</span>
+    <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+  </summary>
+  <div class="cna-year-body">
+
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-sub">National Intelligence Service, Korea · <b>Hyeonbum Lee</b>, Jaehwan Park, Junbeom Hur, <b>Jae Hong Seo</b>, and Doowon Kim</div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Excellence</span>
+    </div>
+  </article>
+
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-sub">National Intelligence Service, Korea · <b>Seunghun Paik</b>, <b>Minsu Kim</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Encouragement</span>
+    </div>
+  </article>
+
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">Crypto Analysis Contest</div>
+      <div class="cna-row-sub">777th Intelligence Command, Korea · <b>Yunki Kim</b>, <b>Minsu Kim</b>, Wanki Kim, Seonjae Kim</div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Encouragement</span>
+    </div>
+  </article>
+
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">CISC-S'24 — Excellent Paper Award</div>
+      <div class="cna-row-sub">National Security Research Institute, Korea · <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, <b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Excellent Paper</span>
+    </div>
+  </article>
+
+  </div>
+</details>
+
+<details class="cna-year" markdown="0">
+  <summary>
+    <h3>2023</h3>
+    <span class="cna-year-count">5 awards</span>
+    <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+  </summary>
+  <div class="cna-year-body">
+
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-sub">National Intelligence Service, Korea · <b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Dongsu Kim</b>, Junbum Shin, and <b>Jae Hong Seo</b></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Excellence</span>
+    </div>
+  </article>
+
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-sub">National Intelligence Service, Korea · <b>Sunpill Kim</b>, Yong Kiam Tan, <b>Bora Jeong</b>, Soumik Mondal, Khin Mi Mi Aung, and <b>Jae Hong Seo</b></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Participant</span>
+    </div>
+  </article>
+
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-sub">National Intelligence Service, Korea · <b>Hyeonbum Lee</b>, <b>Kyuhwan Lee</b>, <b>Jae Hong Seo</b>, Wenyi Tang, Shankha Shubhra Mukherjee, and Taeho Jung</div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Special</span>
+    </div>
+  </article>
+
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">Crypto Analysis Contest</div>
+      <div class="cna-row-sub">777th Intelligence Command, Korea · <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Minsu Kim</b>, and Shin Heo</div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Top Excellence</span>
+    </div>
+  </article>
+
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">Best Research Paper Award for Graduate Students</div>
+      <div class="cna-row-sub">Research Institute for Natural Sciences, Hanyang University · <b>Bora Jeong</b></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Top</span>
+    </div>
+  </article>
+
+  </div>
+</details>
+
+<details class="cna-year" markdown="0">
+  <summary>
+    <h3>2022</h3>
+    <span class="cna-year-count">5 awards</span>
+    <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+  </summary>
+  <div class="cna-year-body">
+
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-sub">National Intelligence Service, Korea · <b>Hyeonbum Lee</b>, Sungwook Kim, and <b>Jae Hong Seo</b></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Top</span>
+    </div>
+  </article>
+
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-sub">National Intelligence Service, Korea · <b>Sunpill Kim</b>, Hoyong Shin, and <b>Jae Hong Seo</b></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Special</span>
+    </div>
+  </article>
+
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">Crypto Analysis Contest</div>
+      <div class="cna-row-sub">777th Intelligence Command, Korea · <b>Seunghun Paik</b>, <b>Minsu Kim</b>, Hyungjun Jang, Yewon Jeong, and Yeonhong Lim</div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Excellence</span>
+    </div>
+  </article>
+
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">Academic Seminar</div>
+      <div class="cna-row-sub">College of Natural Science, Hanyang University · <b>Minsu Kim</b>, and <b>Seongae Baek</b></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Excellence</span>
+    </div>
+  </article>
+
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">Academic Seminar</div>
+      <div class="cna-row-sub">College of Natural Science, Hanyang University · <b>Yunjeong Heo</b></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Participant</span>
+    </div>
+  </article>
+
+  </div>
+</details>
+
+<details class="cna-year" markdown="0">
+  <summary>
+    <h3>2021</h3>
+    <span class="cna-year-count">3 awards</span>
+    <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+  </summary>
+  <div class="cna-year-body">
+
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-sub">National Intelligence Service, Korea · Sungwook Kim, <b>Hyeonbum Lee</b>, and <b>Jae Hong Seo</b></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Special</span>
+    </div>
+  </article>
+
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">Academic Seminar</div>
+      <div class="cna-row-sub">College of Natural Science, Hanyang University · <b>Taesam Kim</b>, and <b>Kyuhwan Lee</b></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Top</span>
+    </div>
+  </article>
+
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">Academic Seminar</div>
+      <div class="cna-row-sub">College of Natural Science, Hanyang University · <b>Chanwoo Hwang</b>, <b>Dongsu Kim</b>, and Hwanseong Kim</div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Participant</span>
+    </div>
+  </article>
+
+  </div>
+</details>
+
+<details class="cna-year" markdown="0">
+  <summary>
+    <h3>2020</h3>
+    <span class="cna-year-count">1 award</span>
+    <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+  </summary>
+  <div class="cna-year-body">
+
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-sub">National Intelligence Service, Korea · <b>Heewon Chung</b>, Kyoohyung Han, <b>Chanyang Ju</b>, Myungsun Kim, and <b>Jae Hong Seo</b></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Participant</span>
+    </div>
+  </article>
+
+  </div>
+</details>
+
+<details class="cna-year" markdown="0">
+  <summary>
+    <h3>2019</h3>
+    <span class="cna-year-count">1 award</span>
+    <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+  </summary>
+  <div class="cna-year-body">
+
+  <article class="cna-row">
+    <span class="cna-row-meta"></span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">Academic Seminar</div>
+      <div class="cna-row-sub">College of Natural Science, Hanyang University · <b>Sunpill Kim</b>, and <b>Seunghun Paik</b></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Excellence</span>
+    </div>
+  </article>
+
+  </div>
+</details>
