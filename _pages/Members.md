@@ -15,8 +15,8 @@ header:
   <a class="cna-page-toc-item" href="#professor">Professor</a>
   <a class="cna-page-toc-item" href="#postdoc">Postdoc</a>
   <a class="cna-page-toc-item" href="#phd-student">Ph.D</a>
-  <a class="cna-page-toc-item" href="#integrated-course">Integrated</a>
-  <a class="cna-page-toc-item" href="#masters-student">Master's</a>
+  <a class="cna-page-toc-item" href="#integrated-course">MS&amp;Ph.D</a>
+  <a class="cna-page-toc-item" href="#masters-student">Master</a>
   <a class="cna-page-toc-item" href="#undergrad">Undergrad</a>
   <a class="cna-page-toc-item" href="#alumni-postdoc">Alumni</a>
 </nav>
