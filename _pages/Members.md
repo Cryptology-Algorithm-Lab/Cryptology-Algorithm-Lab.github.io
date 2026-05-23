@@ -35,7 +35,7 @@ header:
           <div class="cna-member-meta">
             <a class="cna-member-name" href="https://sites.google.com/site/jhsbhs/">Jae Hong Seo<span class="cna-ext">↗</span></a>
             <span class="cna-member-role">Professor</span>
-            <span class="cna-member-motto">Stay hungry. Stay foolish.</span>
+            <span class="cna-member-motto">Stay hungry.<br>Stay foolish.</span>
             <span class="cna-member-interests">Cryptography · Computational Number Theory · Zero-Knowledge Proofs · Biometric Authentication</span>
           </div>
         </div>
