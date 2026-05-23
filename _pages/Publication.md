@@ -10,7 +10,13 @@ header:
   overlay_filter: "rgba(31, 25, 20, 0.55)" # warm-tinted overlay matching the card surfaces
 ---
 
-## Journal
+<nav class="cna-page-toc" aria-label="Section navigation" markdown="0">
+  <span class="cna-page-toc-label">On this page</span>
+  <a class="cna-page-toc-item" href="#journal">Journal</a>
+  <a class="cna-page-toc-item" href="#conference">Conference</a>
+</nav>
+
+<h2 id="journal">Journal</h2>
 
 <details class="cna-year" open markdown="0">
   <summary><h3>2026</h3><span class="cna-year-count">2 papers</span><svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg></summary>
@@ -532,7 +538,7 @@ header:
   </div>
 </details>
 
-## Conference
+<h2 id="conference">Conference</h2>
 
 <details class="cna-year" open markdown="0">
   <summary><h3>2026</h3><span class="cna-year-count">3 papers</span><svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg></summary>

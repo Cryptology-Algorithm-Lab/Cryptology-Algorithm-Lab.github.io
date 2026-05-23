@@ -10,9 +10,17 @@ header:
   overlay_filter: "rgba(31, 25, 20, 0.55)" # warm-tinted overlay matching the card surfaces
 ---
 
+<nav class="cna-page-toc" aria-label="Research areas" markdown="0">
+  <span class="cna-page-toc-label">Topics</span>
+  <a class="cna-page-toc-item" href="#verifiable-computation">Verifiable Computation</a>
+  <a class="cna-page-toc-item" href="#secure-ml">Secure ML</a>
+  <a class="cna-page-toc-item" href="#blockchain">Blockchain</a>
+  <a class="cna-page-toc-item" href="#functional-encryption">Functional Encryption</a>
+</nav>
+
 <section class="cna-section cna-cat-people" markdown="0">
   <header class="cna-section-head">
-    <h2>Verifiable Computation</h2>
+    <h2 id="verifiable-computation">Verifiable Computation</h2>
   </header>
 
   <div class="cna-prose cna-cat-people">
@@ -46,7 +54,7 @@ header:
 
 <section class="cna-section cna-cat-people" markdown="0">
   <header class="cna-section-head">
-    <h2>Secure Machine Learning (Cryptographic Approach)</h2>
+    <h2 id="secure-ml">Secure Machine Learning (Cryptographic Approach)</h2>
   </header>
 
   <div class="cna-prose cna-cat-people">
@@ -59,7 +67,7 @@ header:
 
 <section class="cna-section cna-cat-people" markdown="0">
   <header class="cna-section-head">
-    <h2>Blockchain</h2>
+    <h2 id="blockchain">Blockchain</h2>
   </header>
 
   <div class="cna-prose cna-cat-people">
@@ -73,7 +81,7 @@ header:
 
 <section class="cna-section cna-cat-people" markdown="0">
   <header class="cna-section-head">
-    <h2>Functional Encryption</h2>
+    <h2 id="functional-encryption">Functional Encryption</h2>
   </header>
 
   <div class="cna-prose cna-cat-people">
