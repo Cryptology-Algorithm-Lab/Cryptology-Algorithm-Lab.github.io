@@ -745,22 +745,23 @@ body{
   grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
   gap: var(--cna-s-5);
 }
-/* For an OPEN member card that's the only one in its grid (solo
-   section like Professor), split into a 2-column layout: summary on
-   the left, bio on the right — so the wider card breathes instead of
-   leaving its right half empty. round-6: raise breakpoint to 1024px
-   so the bio side gets genuine room; use minmax for graceful
-   collapse on borderline widths. */
+/* For an OPEN member card that's the only one in its grid AND has bio
+   content (only Prof qualifies after round-8), split into a 2-column
+   layout: summary on the left, bio on the right — so the wider card
+   breathes instead of leaving its right half empty.
+   round-8 fix: scope to :has(.cna-member-bio) so single-member
+   sections WITHOUT bio (Postdoc / PhD / Master) don't trigger a
+   useless 2-col split when clicked. */
 @media (min-width: 1024px){
-  .cna-member[open]:only-child{
+  .cna-member[open]:only-child:has(.cna-member-bio){
     display: grid;
     grid-template-columns: minmax(360px, 0.5fr) minmax(0, 1fr);
     gap: 0;
   }
-  .cna-member[open]:only-child > summary{
+  .cna-member[open]:only-child:has(.cna-member-bio) > summary{
     border-right: 1px solid var(--cna-rule);
   }
-  .cna-member[open]:only-child > .cna-member-bio{
+  .cna-member[open]:only-child:has(.cna-member-bio) > .cna-member-bio{
     border-top: none;
     padding: var(--cna-s-5);
   }
@@ -891,11 +892,8 @@ body{
   text-transform: uppercase;
   opacity: .85;
 }
-/* Suppress on homepage — there the title IS the lab identity, eyebrow would be redundant */
-.layout--splash[data-page-class="home"] .page__hero--overlay .page__title::before,
-body.page--home .page__hero--overlay .page__title::before{
-  content: none;
-}
+/* (round-8 reversion: keep the eyebrow on homepage too — user
+   liked having the lab full name + Hanyang University there.) */
 /* (#3) Yesteryear motto — soften the amber to a desaturated warm gray so it stops shouting */
 .cna-member-motto{
   color: #8C6B3A;
