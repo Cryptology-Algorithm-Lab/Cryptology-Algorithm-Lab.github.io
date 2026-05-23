@@ -737,11 +737,13 @@ body{
 /* For an OPEN member card that's the only one in its grid (solo
    section like Professor), split into a 2-column layout: summary on
    the left, bio on the right — so the wider card breathes instead of
-   leaving its right half empty. */
-@media (min-width: 900px){
+   leaving its right half empty. round-6: raise breakpoint to 1024px
+   so the bio side gets genuine room; use minmax for graceful
+   collapse on borderline widths. */
+@media (min-width: 1024px){
   .cna-member[open]:only-child{
     display: grid;
-    grid-template-columns: minmax(380px, 0.55fr) 1fr;
+    grid-template-columns: minmax(360px, 0.5fr) minmax(0, 1fr);
     gap: 0;
   }
   .cna-member[open]:only-child > summary{
@@ -751,6 +753,17 @@ body{
     border-top: none;
     padding: var(--cna-s-5);
   }
+}
+
+/* Lightweight opacity fade for the bio when a member card opens — gives
+   click feedback without trying to animate height (which <details>
+   can't do cleanly cross-browser). */
+.cna-member[open] > .cna-member-bio{
+  animation: cna-bio-fade .2s var(--cna-ease) both;
+}
+@keyframes cna-bio-fade{
+  from{ opacity: 0; }
+  to{   opacity: 1; }
 }
 .cna-member-card{
   padding: var(--cna-s-5);
@@ -843,6 +856,11 @@ body{
   text-transform: uppercase;
   opacity: .85;
 }
+/* Suppress on homepage — there the title IS the lab identity, eyebrow would be redundant */
+.layout--splash[data-page-class="home"] .page__hero--overlay .page__title::before,
+body.page--home .page__hero--overlay .page__title::before{
+  content: none;
+}
 /* (#3) Yesteryear motto — soften the amber to a desaturated warm gray so it stops shouting */
 .cna-member-motto{
   color: #8C6B3A;
@@ -898,7 +916,9 @@ body{
   font-weight: 400;
 }
 
-/* round-5: active nav state — current section highlighted */
+/* round-5: active nav state — current section highlighted.
+   round-6 fix: also override minimal-mistakes' default
+   transform: scaleX(0) so the underline actually shows. */
 .greedy-nav .visible-links a[aria-current="page"],
 .masthead__menu-item--active > a{
   color: var(--cna-indigo);
@@ -909,6 +929,10 @@ body{
   width: 100%;
   background: var(--cna-indigo);
   height: 2px;
+  transform: scaleX(1) translate3d(0, 0, 0);
+}
+.greedy-nav .visible-links a:hover{
+  color: var(--cna-soft);
 }
 
 /* round-5: honor award two-line layout — institution / recipients separated */
