@@ -13,13 +13,9 @@ header:
 
 <div class="cna-tally" markdown="0">
   <span class="cna-tally-label">Summary</span>
-  <span class="cna-tally-pill cna-tally-award">Top × 3</span>
-  <span class="cna-tally-pill cna-tally-award">Excellence × 6</span>
-  <span class="cna-tally-pill cna-tally-award">Special × 5</span>
-  <span class="cna-tally-pill cna-tally-award">Excellent Paper × 1</span>
-  <span class="cna-tally-pill cna-tally-award">Outstanding × 1</span>
-  <span class="cna-tally-pill">Encouragement × 2</span>
-  <span class="cna-tally-pill">Participant × 3</span>
+  <span class="cna-tally-pill cna-tally-award">23 awards</span>
+  <span class="cna-tally-pill">2019 – 2026</span>
+  <span class="cna-tally-pill">4 institutions</span>
 </div>
 
 <details class="cna-year" open markdown="0">
@@ -120,7 +116,7 @@ header:
       <div class="cna-row-recipients"><b>Seunghun Paik</b>, <b>Minsu Kim</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b></div>
     </div>
     <div class="cna-row-aside">
-      <span class="cna-chip cna-chip-muted">Encouragement</span>
+      <span class="cna-chip cna-chip-award">Encouragement</span>
     </div>
   </article>
 
@@ -132,7 +128,7 @@ header:
       <div class="cna-row-recipients"><b>Yunki Kim</b>, <b>Minsu Kim</b>, Wanki Kim, Seonjae Kim</div>
     </div>
     <div class="cna-row-aside">
-      <span class="cna-chip cna-chip-muted">Encouragement</span>
+      <span class="cna-chip cna-chip-award">Encouragement</span>
     </div>
   </article>
 
@@ -179,7 +175,7 @@ header:
       <div class="cna-row-recipients"><b>Sunpill Kim</b>, Yong Kiam Tan, <b>Bora Jeong</b>, Soumik Mondal, Khin Mi Mi Aung, and <b>Jae Hong Seo</b></div>
     </div>
     <div class="cna-row-aside">
-      <span class="cna-chip cna-chip-muted">Participant</span>
+      <span class="cna-chip cna-chip-award">Participant</span>
     </div>
   </article>
 
@@ -286,7 +282,7 @@ header:
       <div class="cna-row-recipients"><b>Yunjeong Heo</b></div>
     </div>
     <div class="cna-row-aside">
-      <span class="cna-chip cna-chip-muted">Participant</span>
+      <span class="cna-chip cna-chip-award">Participant</span>
     </div>
   </article>
 
@@ -333,7 +329,7 @@ header:
       <div class="cna-row-recipients"><b>Chanwoo Hwang</b>, <b>Dongsu Kim</b>, and Hwanseong Kim</div>
     </div>
     <div class="cna-row-aside">
-      <span class="cna-chip cna-chip-muted">Participant</span>
+      <span class="cna-chip cna-chip-award">Participant</span>
     </div>
   </article>
 
@@ -356,7 +352,7 @@ header:
       <div class="cna-row-recipients"><b>Heewon Chung</b>, Kyoohyung Han, <b>Chanyang Ju</b>, Myungsun Kim, and <b>Jae Hong Seo</b></div>
     </div>
     <div class="cna-row-aside">
-      <span class="cna-chip cna-chip-muted">Participant</span>
+      <span class="cna-chip cna-chip-award">Participant</span>
     </div>
   </article>
 

@@ -335,9 +335,9 @@ header:
     </div>
   </article>
 
-  <article class="cna-card cna-cat-talk">
+  <article class="cna-card cna-cat-seminar">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-talk">Interview</span>
+      <span class="cna-chip cna-chip-seminar">Interview</span>
       <time class="cna-card-meta">YouTube</time>
     </header>
     <div class="cna-card-body">
@@ -347,9 +347,9 @@ header:
     </div>
   </article>
 
-  <article class="cna-card cna-cat-talk">
+  <article class="cna-card cna-cat-seminar">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-talk">Lab Intro</span>
+      <span class="cna-chip cna-chip-seminar">Lab Intro</span>
       <time class="cna-card-meta">YouTube</time>
     </header>
     <div class="cna-card-body">
@@ -371,9 +371,9 @@ header:
     </div>
   </article>
 
-  <article class="cna-card cna-cat-talk">
+  <article class="cna-card cna-cat-seminar">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-talk">Lecture</span>
+      <span class="cna-chip cna-chip-seminar">Lecture</span>
       <time class="cna-card-meta">2022</time>
     </header>
     <div class="cna-card-body">

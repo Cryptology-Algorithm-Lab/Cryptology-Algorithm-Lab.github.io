@@ -196,10 +196,10 @@ gallery17:
   </summary>
   <div class="cna-year-body">
 
-  <section class="cna-section cna-cat-talk" markdown="0">
+  <section class="cna-section cna-cat-seminar" markdown="0">
     <header class="cna-section-head">
       <h3>Seunghun Paik’s invited talk — Day of Mathematics 2025</h3>
-      <span class="cna-chip cna-chip-talk">Invited Talk</span>
+      <span class="cna-chip cna-chip-seminar">Invited Talk</span>
     </header>
     {% include gallery id="gallery14" %}
   </section>

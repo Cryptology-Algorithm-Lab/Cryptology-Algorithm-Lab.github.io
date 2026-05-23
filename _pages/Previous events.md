@@ -88,9 +88,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">Seminar</span>
+          <span class="cna-chip cna-chip-seminar">Seminar</span>
           <time class="cna-card-meta">Oct 15, 2025</time>
         </header>
         <div class="cna-card-body">
@@ -227,9 +227,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">Seminar</span>
+          <span class="cna-chip cna-chip-seminar">Seminar</span>
           <time class="cna-card-meta">Jun 5, 2025</time>
         </header>
         <div class="cna-card-body">
@@ -247,9 +247,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">Seminar</span>
+          <span class="cna-chip cna-chip-seminar">Seminar</span>
           <time class="cna-card-meta">Apr 8, 2025</time>
         </header>
         <div class="cna-card-body">
@@ -402,9 +402,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">Seminar</span>
+          <span class="cna-chip cna-chip-seminar">Seminar</span>
           <time class="cna-card-meta">Jun 5, 2024</time>
         </header>
         <div class="cna-card-body">
@@ -580,9 +580,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">Seminar</span>
+          <span class="cna-chip cna-chip-seminar">Seminar</span>
           <time class="cna-card-meta">Jul 13, 2023</time>
         </header>
         <div class="cna-card-body">
@@ -971,9 +971,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">Seminar</span>
+          <span class="cna-chip cna-chip-seminar">Seminar</span>
           <time class="cna-card-meta">2021</time>
         </header>
         <div class="cna-card-body">
@@ -1070,9 +1070,9 @@ header:
       <summary><b>IVC</b></summary>
       <div class="cna-card-grid" style="margin-top:var(--cna-s-3);">
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">6/27 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">6/27 · 13:00</span>
             <span class="cna-card-meta">701</span>
           </header>
           <div class="cna-card-body">
@@ -1081,9 +1081,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/6 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">7/6 · 13:00</span>
             <span class="cna-card-meta">701</span>
           </header>
           <div class="cna-card-body">
@@ -1092,9 +1092,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/11 · 19:00</span>
+            <span class="cna-chip cna-chip-seminar">7/11 · 19:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1103,9 +1103,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/18 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">7/18 · 13:00</span>
             <span class="cna-card-meta">701</span>
           </header>
           <div class="cna-card-body">
@@ -1114,9 +1114,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/25 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">7/25 · 13:00</span>
             <span class="cna-card-meta">701</span>
           </header>
           <div class="cna-card-body">
@@ -1125,9 +1125,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">8/1 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">8/1 · 13:00</span>
             <span class="cna-card-meta">751</span>
           </header>
           <div class="cna-card-body">
@@ -1136,9 +1136,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">8/8 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">8/8 · 13:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1147,9 +1147,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">8/14 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">8/14 · 13:00</span>
             <span class="cna-card-meta">701</span>
           </header>
           <div class="cna-card-body">
@@ -1158,9 +1158,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">TBD</span>
+            <span class="cna-chip cna-chip-seminar">TBD</span>
             <span class="cna-card-meta">TBA</span>
           </header>
           <div class="cna-card-body">
@@ -1176,9 +1176,9 @@ header:
       <summary><b>Deep Learning</b></summary>
       <div class="cna-card-grid" style="margin-top:var(--cna-s-3);">
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/12 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">7/12 · 10:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1187,9 +1187,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/12 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">7/12 · 10:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1198,9 +1198,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/19 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">7/19 · 10:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1209,9 +1209,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/19 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">7/19 · 10:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1220,9 +1220,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/26 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">7/26 · 10:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1231,9 +1231,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">8/2 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">8/2 · 10:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1242,9 +1242,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">8/2 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">8/2 · 10:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1253,9 +1253,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">8/9 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">8/9 · 10:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1264,9 +1264,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">8/16 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">8/16 · 10:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1275,9 +1275,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">8/30 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">8/30 · 10:00</span>
             <span class="cna-card-meta">TBA</span>
           </header>
           <div class="cna-card-body">
@@ -1286,9 +1286,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">9/1 · 15:00</span>
+            <span class="cna-chip cna-chip-seminar">9/1 · 15:00</span>
             <span class="cna-card-meta">TBA</span>
           </header>
           <div class="cna-card-body">
@@ -1304,9 +1304,9 @@ header:
       <summary><b>ZKP Basic</b></summary>
       <div class="cna-card-grid" style="margin-top:var(--cna-s-3);">
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/07 · 14:00</span>
+            <span class="cna-chip cna-chip-seminar">7/07 · 14:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1315,9 +1315,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/14 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">7/14 · 10:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1326,9 +1326,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/21 · 14:00</span>
+            <span class="cna-chip cna-chip-seminar">7/21 · 14:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1337,9 +1337,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/28 · 14:00</span>
+            <span class="cna-chip cna-chip-seminar">7/28 · 14:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1348,9 +1348,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">8/04 · 14:00</span>
+            <span class="cna-chip cna-chip-seminar">8/04 · 14:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1359,9 +1359,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">8/10 · 14:00</span>
+            <span class="cna-chip cna-chip-seminar">8/10 · 14:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1392,9 +1392,9 @@ header:
       <summary><b>Deep Learning</b></summary>
       <div class="cna-card-grid" style="margin-top:var(--cna-s-3);">
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">1/2 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">1/2 · 13:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1403,9 +1403,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">1/2 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">1/2 · 13:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1414,9 +1414,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">1/16 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">1/16 · 13:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1425,9 +1425,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">1/16 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">1/16 · 13:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1436,9 +1436,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">1/26 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">1/26 · 10:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1447,9 +1447,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">1/30 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">1/30 · 13:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1458,9 +1458,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">1/30 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">1/30 · 13:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1469,9 +1469,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">2/13 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">2/13 · 13:00</span>
             <span class="cna-card-meta">701</span>
           </header>
           <div class="cna-card-body">
@@ -1480,9 +1480,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">2/13 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">2/13 · 13:00</span>
             <span class="cna-card-meta">701</span>
           </header>
           <div class="cna-card-body">
@@ -1491,9 +1491,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">2/20 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">2/20 · 13:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1502,9 +1502,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">2/20 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">2/20 · 13:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1513,9 +1513,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">TBD</span>
+            <span class="cna-chip cna-chip-seminar">TBD</span>
             <span class="cna-card-meta">TBA</span>
           </header>
           <div class="cna-card-body">
@@ -1524,9 +1524,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">TBD</span>
+            <span class="cna-chip cna-chip-seminar">TBD</span>
             <span class="cna-card-meta">TBA</span>
           </header>
           <div class="cna-card-body">
@@ -1545,9 +1545,9 @@ header:
           Textbook: <b>A Computational Introduction to Number Theory and Algebra</b>, Second Edition.
         </p>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">1/5 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">1/5 · 13:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1555,9 +1555,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">1/12 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">1/12 · 13:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1565,9 +1565,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">1/19 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">1/19 · 13:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1575,9 +1575,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">1/26 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">1/26 · 13:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1585,9 +1585,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">2/2 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">2/2 · 13:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1595,9 +1595,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">2/9 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">2/9 · 13:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1605,9 +1605,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">2/16 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">2/16 · 13:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1615,9 +1615,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">2/23 · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">2/23 · 13:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1632,9 +1632,9 @@ header:
       <summary><b>Algorithm</b></summary>
       <div class="cna-card-grid" style="margin-top:var(--cna-s-3);">
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">Every Wed · 13:00</span>
+            <span class="cna-chip cna-chip-seminar">Every Wed · 13:00</span>
             <span class="cna-card-meta">TBA</span>
           </header>
           <div class="cna-card-body">
@@ -1649,9 +1649,9 @@ header:
       <summary><b>Zero Knowledge Proof</b></summary>
       <div class="cna-card-grid" style="margin-top:var(--cna-s-3);">
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">TBD</span>
+            <span class="cna-chip cna-chip-seminar">TBD</span>
             <span class="cna-card-meta">TBA</span>
           </header>
           <div class="cna-card-body">
@@ -1677,9 +1677,9 @@ header:
       <summary><b>Deep Learning</b></summary>
       <div class="cna-card-grid" style="margin-top:var(--cna-s-3);">
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">1/7 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">1/7 · 10:00</span>
             <span class="cna-card-meta">701</span>
           </header>
           <div class="cna-card-body">
@@ -1688,9 +1688,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">1/7 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">1/7 · 10:00</span>
             <span class="cna-card-meta">701</span>
           </header>
           <div class="cna-card-body">
@@ -1699,9 +1699,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">1/7 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">1/7 · 10:00</span>
             <span class="cna-card-meta">701</span>
           </header>
           <div class="cna-card-body">
@@ -1710,9 +1710,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">1/13 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">1/13 · 10:00</span>
             <span class="cna-card-meta">701</span>
           </header>
           <div class="cna-card-body">
@@ -1721,9 +1721,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">1/13 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">1/13 · 10:00</span>
             <span class="cna-card-meta">701</span>
           </header>
           <div class="cna-card-body">
@@ -1732,9 +1732,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">1/13 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">1/13 · 10:00</span>
             <span class="cna-card-meta">701</span>
           </header>
           <div class="cna-card-body">
@@ -1743,9 +1743,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">1/20 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">1/20 · 10:00</span>
             <span class="cna-card-meta">701</span>
           </header>
           <div class="cna-card-body">
@@ -1754,9 +1754,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">1/27 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">1/27 · 10:00</span>
             <span class="cna-card-meta">701</span>
           </header>
           <div class="cna-card-body">
@@ -1765,9 +1765,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">2/3 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">2/3 · 10:00</span>
             <span class="cna-card-meta">701</span>
           </header>
           <div class="cna-card-body">
@@ -1776,9 +1776,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">2/10 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">2/10 · 10:00</span>
             <span class="cna-card-meta">701</span>
           </header>
           <div class="cna-card-body">
@@ -1787,9 +1787,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/6 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">7/6 · 10:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1798,9 +1798,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/13 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">7/13 · 10:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1809,9 +1809,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/20 · 11:00</span>
+            <span class="cna-chip cna-chip-seminar">7/20 · 11:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1820,9 +1820,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/27 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">7/27 · 10:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1831,9 +1831,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">8/3 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">8/3 · 10:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1842,9 +1842,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">8/17 · 10:00</span>
+            <span class="cna-chip cna-chip-seminar">8/17 · 10:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1853,9 +1853,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">9/16 · 11:00</span>
+            <span class="cna-chip cna-chip-seminar">9/16 · 11:00</span>
             <span class="cna-card-meta">751</span>
           </header>
           <div class="cna-card-body">
@@ -1871,9 +1871,9 @@ header:
       <summary><b>Modern Cryptography</b></summary>
       <div class="cna-card-grid" style="margin-top:var(--cna-s-3);">
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">9/20 · 17:30</span>
+            <span class="cna-chip cna-chip-seminar">9/20 · 17:30</span>
             <span class="cna-card-meta">740</span>
           </header>
           <div class="cna-card-body">
@@ -1882,9 +1882,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">9/27 · 17:30</span>
+            <span class="cna-chip cna-chip-seminar">9/27 · 17:30</span>
             <span class="cna-card-meta">740</span>
           </header>
           <div class="cna-card-body">
@@ -1900,9 +1900,9 @@ header:
       <summary><b>Proof-Carrying Data</b></summary>
       <div class="cna-card-grid" style="margin-top:var(--cna-s-3);">
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">6/30 · 16:00</span>
+            <span class="cna-chip cna-chip-seminar">6/30 · 16:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1911,9 +1911,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/14 · 16:00</span>
+            <span class="cna-chip cna-chip-seminar">7/14 · 16:00</span>
             <span class="cna-card-meta">701</span>
           </header>
           <div class="cna-card-body">
@@ -1922,9 +1922,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/21 · 16:00</span>
+            <span class="cna-chip cna-chip-seminar">7/21 · 16:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1933,9 +1933,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">8/8 · 14:00</span>
+            <span class="cna-chip cna-chip-seminar">8/8 · 14:00</span>
             <span class="cna-card-meta">702</span>
           </header>
           <div class="cna-card-body">
@@ -1951,9 +1951,9 @@ header:
       <summary><b>Zero Knowledge Proof</b></summary>
       <div class="cna-card-grid" style="margin-top:var(--cna-s-3);">
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/5 · 16:00</span>
+            <span class="cna-chip cna-chip-seminar">7/5 · 16:00</span>
             <span class="cna-card-meta">740</span>
           </header>
           <div class="cna-card-body">
@@ -1962,9 +1962,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/12 · 16:00</span>
+            <span class="cna-chip cna-chip-seminar">7/12 · 16:00</span>
             <span class="cna-card-meta">740</span>
           </header>
           <div class="cna-card-body">
@@ -1973,9 +1973,9 @@ header:
           </div>
         </article>
 
-        <article class="cna-card cna-cat-talk">
+        <article class="cna-card cna-cat-seminar">
           <header class="cna-card-head">
-            <span class="cna-chip cna-chip-talk">7/19 · 16:00</span>
+            <span class="cna-chip cna-chip-seminar">7/19 · 16:00</span>
             <span class="cna-card-meta">740</span>
           </header>
           <div class="cna-card-body">
@@ -1999,9 +1999,9 @@ header:
   <div class="cna-year-body">
     <div class="cna-card-grid">
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">1/7 · 10:00</span>
+          <span class="cna-chip cna-chip-seminar">1/7 · 10:00</span>
           <a class="cna-card-meta" href="https://zoom.us/j/91625915128#success">Zoom ↗</a>
         </header>
         <div class="cna-card-body">
@@ -2010,9 +2010,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">1/21 · 10:00</span>
+          <span class="cna-chip cna-chip-seminar">1/21 · 10:00</span>
           <span class="cna-card-meta">자연과학관 702호</span>
         </header>
         <div class="cna-card-body">
@@ -2021,9 +2021,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">1/28 · 10:00</span>
+          <span class="cna-chip cna-chip-seminar">1/28 · 10:00</span>
           <a class="cna-card-meta" href="https://us02web.zoom.us/j/86870082959">Zoom ↗</a>
         </header>
         <div class="cna-card-body">
@@ -2032,9 +2032,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">2/4 · 10:00</span>
+          <span class="cna-chip cna-chip-seminar">2/4 · 10:00</span>
           <a class="cna-card-meta" href="https://us02web.zoom.us/j/6830970476">Zoom ↗</a>
         </header>
         <div class="cna-card-body">
@@ -2043,9 +2043,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">7/2 · 10:00</span>
+          <span class="cna-chip cna-chip-seminar">7/2 · 10:00</span>
           <span class="cna-card-meta">자연과학관 707호</span>
         </header>
         <div class="cna-card-body">
@@ -2054,9 +2054,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">7/12 · 10:00</span>
+          <span class="cna-chip cna-chip-seminar">7/12 · 10:00</span>
           <a class="cna-card-meta" href="https://us02web.zoom.us/j/87310910372">Zoom ↗</a>
         </header>
         <div class="cna-card-body">
@@ -2065,9 +2065,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">7/16 · 10:00</span>
+          <span class="cna-chip cna-chip-seminar">7/16 · 10:00</span>
           <a class="cna-card-meta" href="https://us02web.zoom.us/j/87310910372">Zoom ↗</a>
         </header>
         <div class="cna-card-body">
@@ -2089,9 +2089,9 @@ header:
   <div class="cna-year-body">
     <div class="cna-card-grid">
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">6/25/2020 · 14:00</span>
+          <span class="cna-chip cna-chip-seminar">6/25/2020 · 14:00</span>
           <span class="cna-card-meta">자연과학관 702호</span>
         </header>
         <div class="cna-card-body">
@@ -2100,9 +2100,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">7/9/2020 · 10:00</span>
+          <span class="cna-chip cna-chip-seminar">7/9/2020 · 10:00</span>
           <span class="cna-card-meta">자연과학관 702호</span>
         </header>
         <div class="cna-card-body">
@@ -2111,9 +2111,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">7/9/2020 · 14:00</span>
+          <span class="cna-chip cna-chip-seminar">7/9/2020 · 14:00</span>
           <span class="cna-card-meta">자연과학관 702호</span>
         </header>
         <div class="cna-card-body">
@@ -2122,9 +2122,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">7/16/2020 · 10:00</span>
+          <span class="cna-chip cna-chip-seminar">7/16/2020 · 10:00</span>
           <span class="cna-card-meta">자연과학관 702호</span>
         </header>
         <div class="cna-card-body">
@@ -2133,9 +2133,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">7/16/2020 · 14:00</span>
+          <span class="cna-chip cna-chip-seminar">7/16/2020 · 14:00</span>
           <span class="cna-card-meta">자연과학관 702호</span>
         </header>
         <div class="cna-card-body">
@@ -2144,9 +2144,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">7/23/2020 · 10:00</span>
+          <span class="cna-chip cna-chip-seminar">7/23/2020 · 10:00</span>
           <span class="cna-card-meta">자연과학관 702호</span>
         </header>
         <div class="cna-card-body">
@@ -2155,9 +2155,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">7/23/2020 · 14:00</span>
+          <span class="cna-chip cna-chip-seminar">7/23/2020 · 14:00</span>
           <span class="cna-card-meta">자연과학관 702호</span>
         </header>
         <div class="cna-card-body">
@@ -2166,9 +2166,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">7/30/2020 · 10:00</span>
+          <span class="cna-chip cna-chip-seminar">7/30/2020 · 10:00</span>
           <span class="cna-card-meta">자연과학관 702호</span>
         </header>
         <div class="cna-card-body">
@@ -2177,9 +2177,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">8/6/2020 · 10:00</span>
+          <span class="cna-chip cna-chip-seminar">8/6/2020 · 10:00</span>
           <span class="cna-card-meta">자연과학관 702호</span>
         </header>
         <div class="cna-card-body">
@@ -2188,9 +2188,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">8/6/2020 · 14:00</span>
+          <span class="cna-chip cna-chip-seminar">8/6/2020 · 14:00</span>
           <span class="cna-card-meta">자연과학관 702호</span>
         </header>
         <div class="cna-card-body">
@@ -2199,9 +2199,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">8/13/2020 · 10:00</span>
+          <span class="cna-chip cna-chip-seminar">8/13/2020 · 10:00</span>
           <span class="cna-card-meta">자연과학관 702호</span>
         </header>
         <div class="cna-card-body">
@@ -2210,9 +2210,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">8/13/2020 · 14:00</span>
+          <span class="cna-chip cna-chip-seminar">8/13/2020 · 14:00</span>
           <span class="cna-card-meta">자연과학관 702호</span>
         </header>
         <div class="cna-card-body">
@@ -2221,9 +2221,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">10/19/2020 · 14:00</span>
+          <span class="cna-chip cna-chip-seminar">10/19/2020 · 14:00</span>
           <span class="cna-card-meta">자연과학관 751호</span>
         </header>
         <div class="cna-card-body">
@@ -2232,9 +2232,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">10/26/2020 · 10:00</span>
+          <span class="cna-chip cna-chip-seminar">10/26/2020 · 10:00</span>
           <span class="cna-card-meta">자연과학관 751호</span>
         </header>
         <div class="cna-card-body">
@@ -2243,9 +2243,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">10/26/2020 · 14:00</span>
+          <span class="cna-chip cna-chip-seminar">10/26/2020 · 14:00</span>
           <span class="cna-card-meta">자연과학관 751호</span>
         </header>
         <div class="cna-card-body">
@@ -2254,9 +2254,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">11/5/2020 · 14:00</span>
+          <span class="cna-chip cna-chip-seminar">11/5/2020 · 14:00</span>
           <span class="cna-card-meta">자연과학관 746호</span>
         </header>
         <div class="cna-card-body">
@@ -2265,9 +2265,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">11/9/2020 · 10:00</span>
+          <span class="cna-chip cna-chip-seminar">11/9/2020 · 10:00</span>
           <span class="cna-card-meta">자연과학관 751호</span>
         </header>
         <div class="cna-card-body">
@@ -2276,9 +2276,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">11/9/2020 · 14:00</span>
+          <span class="cna-chip cna-chip-seminar">11/9/2020 · 14:00</span>
           <span class="cna-card-meta">자연과학관 751호</span>
         </header>
         <div class="cna-card-body">
@@ -2287,9 +2287,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">11/16/2020 · 10:00</span>
+          <span class="cna-chip cna-chip-seminar">11/16/2020 · 10:00</span>
           <span class="cna-card-meta">자연과학관 751호</span>
         </header>
         <div class="cna-card-body">
@@ -2298,9 +2298,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">11/16/2020 · 14:00</span>
+          <span class="cna-chip cna-chip-seminar">11/16/2020 · 14:00</span>
           <span class="cna-card-meta">자연과학관 751호</span>
         </header>
         <div class="cna-card-body">
@@ -2309,9 +2309,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">11/19/2020 · 14:00</span>
+          <span class="cna-chip cna-chip-seminar">11/19/2020 · 14:00</span>
           <span class="cna-card-meta">자연과학관 751호</span>
         </header>
         <div class="cna-card-body">
@@ -2320,9 +2320,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">12/10/2020 · 14:00</span>
+          <span class="cna-chip cna-chip-seminar">12/10/2020 · 14:00</span>
           <span class="cna-card-meta">자연과학관 751호</span>
         </header>
         <div class="cna-card-body">
@@ -2331,9 +2331,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-talk">
+      <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-talk">12/24/2020 · 14:00</span>
+          <span class="cna-chip cna-chip-seminar">12/24/2020 · 14:00</span>
           <span class="cna-card-meta">자연과학관 751호</span>
         </header>
         <div class="cna-card-body">

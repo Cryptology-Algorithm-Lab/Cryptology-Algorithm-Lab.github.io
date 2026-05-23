@@ -40,6 +40,12 @@
   --cna-stone-wash:    #EFEDE7;
   --cna-stone-line:    #C8C2B2;
 
+  /* round-7: separate seminar/lecture from conference paper.
+     Plum/violet — scholarly, distinct from indigo conference. */
+  --cna-plum:          #6B4D80;
+  --cna-plum-wash:     #EDE7F1;
+  --cna-plum-line:     #C8B8D2;
+
   /* surface + ink */
   --cna-ink:           #1F2227;
   --cna-soft:          #52575F;
@@ -85,6 +91,7 @@
 .cna-cat-award  { --cat: var(--cna-forest);  --cat-wash: var(--cna-forest-wash);  --cat-line: var(--cna-forest-line);  }
 .cna-cat-event  { --cat: var(--cna-amber);   --cat-wash: var(--cna-amber-wash);   --cat-line: var(--cna-amber-line);   }
 .cna-cat-people { --cat: var(--cna-stone);   --cat-wash: var(--cna-stone-wash);   --cat-line: var(--cna-stone-line);   }
+.cna-cat-seminar{ --cat: var(--cna-plum);    --cat-wash: var(--cna-plum-wash);    --cat-line: var(--cna-plum-line);    }
 
 /* ──────────────────────────────────────────────────────────
    2. SECTION
@@ -122,6 +129,7 @@
 .cna-section.cna-cat-award  .cna-section-head{ border-bottom-color: var(--cna-forest-line); }
 .cna-section.cna-cat-event  .cna-section-head{ border-bottom-color: var(--cna-amber-line); }
 .cna-section.cna-cat-people .cna-section-head{ border-bottom-color: var(--cna-stone-line); }
+.cna-section.cna-cat-seminar .cna-section-head{ border-bottom-color: var(--cna-plum-line); }
 
 /* ──────────────────────────────────────────────────────────
    3. CHIP
@@ -140,6 +148,7 @@
 .cna-chip-award  { background: var(--cna-forest-wash);  color: var(--cna-forest);  }
 .cna-chip-event  { background: var(--cna-amber-wash);   color: var(--cna-amber);   }
 .cna-chip-people { background: var(--cna-stone-wash);   color: var(--cna-stone);   }
+.cna-chip-seminar{ background: var(--cna-plum-wash);    color: var(--cna-plum);    }
 
 .cna-chip-muted{
   background: transparent; color: var(--cna-faint);
@@ -168,6 +177,7 @@
 .cna-card.cna-cat-award:hover  { border-color: var(--cna-forest-line);  }
 .cna-card.cna-cat-event:hover  { border-color: var(--cna-amber-line);   }
 .cna-card.cna-cat-people:hover { border-color: var(--cna-stone-line);   }
+.cna-card.cna-cat-seminar:hover{ border-color: var(--cna-plum-line);    }
 
 .cna-card-head{
   display: flex; align-items: baseline; justify-content: space-between;
@@ -426,6 +436,7 @@
 .cna-tally-pill.cna-tally-award  { color: var(--cna-forest);  border-color: var(--cna-forest-line);  }
 .cna-tally-pill.cna-tally-event  { color: var(--cna-amber);   border-color: var(--cna-amber-line);   }
 .cna-tally-pill.cna-tally-people { color: var(--cna-stone);   border-color: var(--cna-stone-line);   }
+.cna-tally-pill.cna-tally-seminar{ color: var(--cna-plum);    border-color: var(--cna-plum-line);    }
 
 /* ──────────────────────────────────────────────────────────
    9. PHOTO GRID (Gallery)
