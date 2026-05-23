@@ -25,7 +25,7 @@ header:
 
       <article class="cna-card cna-cat-paper">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-paper">Journal</span>
           <time class="cna-card-meta">Dec 22, 2025</time>
         </header>
         <div class="cna-card-body">
@@ -38,7 +38,7 @@ header:
 
       <article class="cna-card cna-cat-paper">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-paper">Journal</span>
           <time class="cna-card-meta">Dec 03, 2025</time>
         </header>
         <div class="cna-card-body">
@@ -49,9 +49,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-paper">
+      <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-talk">Conference</span>
           <time class="cna-card-meta">Nov 20, 2025</time>
         </header>
         <div class="cna-card-body">
@@ -64,7 +64,7 @@ header:
 
       <article class="cna-card cna-cat-paper">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-paper">Journal</span>
           <time class="cna-card-meta">Nov 15, 2025</time>
         </header>
         <div class="cna-card-body">
@@ -75,9 +75,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-paper">
+      <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-talk">Conference</span>
           <time class="cna-card-meta">Oct 23, 2025</time>
         </header>
         <div class="cna-card-body">
@@ -126,9 +126,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-paper">
+      <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-talk">Conference</span>
           <time class="cna-card-meta">Sep 19, 2025</time>
         </header>
         <div class="cna-card-body">
@@ -139,9 +139,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-paper">
+      <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-talk">Conference</span>
           <time class="cna-card-meta">Sep 07, 2025</time>
         </header>
         <div class="cna-card-body">
@@ -201,9 +201,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-paper">
+      <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-talk">Conference</span>
           <time class="cna-card-meta">Jun 26, 2025</time>
         </header>
         <div class="cna-card-body">
@@ -214,9 +214,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-paper">
+      <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-talk">Conference</span>
           <time class="cna-card-meta">Jun 22, 2025</time>
         </header>
         <div class="cna-card-body">
@@ -286,7 +286,7 @@ header:
 
       <article class="cna-card cna-cat-paper">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-paper">Journal</span>
           <time class="cna-card-meta">Jan 1, 2025</time>
         </header>
         <div class="cna-card-body">
@@ -362,9 +362,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-paper">
+      <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-talk">Conference</span>
           <time class="cna-card-meta">Jul 1, 2024</time>
         </header>
         <div class="cna-card-body">
@@ -455,9 +455,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-paper">
+      <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-talk">Conference</span>
           <time class="cna-card-meta">Mar 1, 2024</time>
         </header>
         <div class="cna-card-body">
@@ -480,7 +480,7 @@ header:
 
       <article class="cna-card cna-cat-paper">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-paper">Journal</span>
           <time class="cna-card-meta">Feb 5, 2024</time>
         </header>
         <div class="cna-card-body">
@@ -504,9 +504,9 @@ header:
   <div class="cna-year-body">
     <div class="cna-card-grid">
 
-      <article class="cna-card cna-cat-paper">
+      <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-talk">Conference</span>
           <time class="cna-card-meta">Oct 29, 2023</time>
         </header>
         <div class="cna-card-body">
@@ -554,9 +554,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-paper">
+      <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-talk">Conference</span>
           <time class="cna-card-meta">Aug 22, 2023</time>
         </header>
         <div class="cna-card-body">
@@ -569,7 +569,7 @@ header:
 
       <article class="cna-card cna-cat-paper">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-paper">Journal</span>
           <time class="cna-card-meta">Jul 25, 2023</time>
         </header>
         <div class="cna-card-body">
@@ -600,9 +600,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-paper">
+      <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-talk">Conference</span>
           <time class="cna-card-meta">May 31, 2023</time>
         </header>
         <div class="cna-card-body">
@@ -625,7 +625,7 @@ header:
 
       <article class="cna-card cna-cat-paper">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-paper">Journal</span>
           <time class="cna-card-meta">Apr 20, 2023</time>
         </header>
         <div class="cna-card-body">
@@ -684,7 +684,7 @@ header:
 
       <article class="cna-card cna-cat-paper">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-paper">Journal</span>
           <time class="cna-card-meta">Dec 10, 2022</time>
         </header>
         <div class="cna-card-body">
@@ -771,9 +771,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-paper">
+      <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-talk">Conference</span>
           <time class="cna-card-meta">Aug 25, 2022</time>
         </header>
         <div class="cna-card-body">
@@ -804,9 +804,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-paper">
+      <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-talk">Conference</span>
           <time class="cna-card-meta">Jun 10, 2022</time>
         </header>
         <div class="cna-card-body">
@@ -839,7 +839,7 @@ header:
 
       <article class="cna-card cna-cat-paper">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-paper">Journal</span>
           <time class="cna-card-meta">Apr 18, 2022</time>
         </header>
         <div class="cna-card-body">
@@ -895,7 +895,7 @@ header:
 
       <article class="cna-card cna-cat-paper">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-paper">Journal</span>
           <time class="cna-card-meta">Dec 8, 2021</time>
         </header>
         <div class="cna-card-body">
@@ -1032,9 +1032,9 @@ header:
   <div class="cna-year-body">
     <div class="cna-card-grid">
 
-      <article class="cna-card cna-cat-paper">
+      <article class="cna-card cna-cat-talk">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-paper">Paper</span>
+          <span class="cna-chip cna-chip-talk">Conference</span>
           <time class="cna-card-meta">2020</time>
         </header>
         <div class="cna-card-body">

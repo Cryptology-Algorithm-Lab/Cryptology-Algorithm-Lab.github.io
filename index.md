@@ -57,7 +57,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
   <article class="cna-card cna-cat-paper">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-paper">Paper</span>
+      <span class="cna-chip cna-chip-paper">Journal</span>
       <time class="cna-card-meta">Apr 13, 2026</time>
     </header>
     <div class="cna-card-body">
@@ -67,9 +67,9 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
     </div>
   </article>
 
-  <article class="cna-card cna-cat-paper">
+  <article class="cna-card cna-cat-talk">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-paper">Paper</span>
+      <span class="cna-chip cna-chip-talk">Conference</span>
       <time class="cna-card-meta">Apr 10, 2026</time>
     </header>
     <div class="cna-card-body">
@@ -130,7 +130,7 @@ We are Cryptology & Algorithm Lab and our leader is Professor [Jae Hong Seo](htt
 
   <article class="cna-card cna-cat-paper">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-paper">Paper</span>
+      <span class="cna-chip cna-chip-paper">Journal</span>
       <time class="cna-card-meta">Jan 13, 2026</time>
     </header>
     <div class="cna-card-body">
