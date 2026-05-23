@@ -10,13 +10,12 @@ header:
   overlay_filter: "rgba(31, 25, 20, 0.55)" # warm-tinted overlay matching the card surfaces
 ---
 
-<section class="cna-section cna-cat-talk" markdown="0">
+<section class="cna-section cna-cat-people" markdown="0">
   <header class="cna-section-head">
     <h2>Verifiable Computation</h2>
-    <span class="cna-chip cna-chip-talk">Research Area</span>
   </header>
 
-  <div class="cna-prose cna-cat-talk">
+  <div class="cna-prose cna-cat-people">
     <p>In the Wikipedia entry for “Verifiable computing,” verifiable computing (or verified computation / verified computing) enables a computer to offload the computation of some function to other, perhaps untrusted, clients while maintaining verifiable results. The other clients evaluate the function and return the result with a proof that the computation was carried out correctly.</p>
     <p>The introduction of this notion came as a result of the increasingly common phenomenon of outsourcing computation to untrusted users in projects such as <a href="https://en.wikipedia.org/wiki/SETI@home">SETI@home</a>, and of the growing desire of weak clients to outsource computational tasks to a more powerful computation service such as cloud computing.</p>
 
@@ -45,13 +44,12 @@ header:
   </div>
 </section>
 
-<section class="cna-section cna-cat-paper" markdown="0">
+<section class="cna-section cna-cat-people" markdown="0">
   <header class="cna-section-head">
     <h2>Secure Machine Learning (Cryptographic Approach)</h2>
-    <span class="cna-chip cna-chip-paper">Research Area</span>
   </header>
 
-  <div class="cna-prose cna-cat-paper">
+  <div class="cna-prose cna-cat-people">
     <p>With the successful development of deep learning, biometric authentication technology based on convolutional neural networks has remarkably advanced. <a href="https://arxiv.org/abs/1801.07698/">ArcFace</a>, based on a <a href="https://arxiv.org/abs/1512.03385">Residual neural network</a>, is the recent state-of-the-art face recognition system and outputs highly discriminative feature templates for face authentication using additive angular margin loss.</p>
     <p>However, when a face recognition system becomes able to compress face images into feature templates more and more compactly, the leakage of face templates becomes a more serious threat to user privacy. For example, face images can be reconstructed from face feature templates using <a href="https://arxiv.org/abs/1703.00832">neighborly de-convolutional neural networks</a>, posing a serious threat to user privacy.</p>
     <p>To address this, we developed a modular architecture, <a href="https://openaccess.thecvf.com/content/CVPR2021/html/Kim_IronMask_Modular_Architecture_for_Protecting_Deep_Face_Template_CVPR_2021_paper.html">IronMask</a>, for protecting face feature templates that can be combined with any face recognition system using an angular distance metric, such as <a href="https://arxiv.org/abs/1704.08063">SphereFace</a>, <a href="https://arxiv.org/abs/1801.09414">CosFace</a>, and <a href="https://arxiv.org/abs/1801.07698">ArcFace</a>.</p>
@@ -59,13 +57,12 @@ header:
   </div>
 </section>
 
-<section class="cna-section cna-cat-event" markdown="0">
+<section class="cna-section cna-cat-people" markdown="0">
   <header class="cna-section-head">
     <h2>Blockchain</h2>
-    <span class="cna-chip cna-chip-event">Research Area</span>
   </header>
 
-  <div class="cna-prose cna-cat-event">
+  <div class="cna-prose cna-cat-people">
     <p>A number of third-party services require personal data, and users need to delegate personal data to service providers who may modify and share the data with other service providers. For example, patients must share their medical records with hospitals, which can be updated and shared among different departments, hospitals, and even insurance companies. Internet users have to consent to personal data collection to use various services (e.g., location-based services, social media services), and personal data may be updated and shared for use across inter-connected services.</p>
     <p>Additionally, IoT devices in smart home systems exchange data with smart home hubs (e.g., Google Home, Amazon Alexa, Apple HomeKit). Even though such modification and sharing occur with the users’ consent, more transparency for the user is desired throughout the entire procedure.</p>
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blockchain.png" alt="Blockchain-based data provenance diagram">
@@ -74,13 +71,12 @@ header:
   </div>
 </section>
 
-<section class="cna-section cna-cat-award" markdown="0">
+<section class="cna-section cna-cat-people" markdown="0">
   <header class="cna-section-head">
     <h2>Functional Encryption</h2>
-    <span class="cna-chip cna-chip-award">Research Area</span>
   </header>
 
-  <div class="cna-prose cna-cat-award">
+  <div class="cna-prose cna-cat-people">
     <p>Functional Encryption (FE) is a new public key encryption system that extends the existing public-key encryption concept more flexibly. It is a public-key encryption that allows the decryption condition of a ciphertext to be specified as an arbitrary function. Functional Encryption guarantees complete privacy by not exposing unnecessary information related to the ciphertext to system outsiders or even system insiders.</p>
     <p>The purpose of our ongoing research — <i>Research on Functional Encryption Technique Design, Analysis and Implementation Technology</i>, supported by IITP — is to obtain the important source technologies of FE, considered to be next-generation public-key encryption, and to study extended techniques of FE for cloud computing. We also study other cryptographic primitives such as lattices.</p>
   </div>

@@ -152,7 +152,8 @@ header:
         </div>
       </summary>
       <div class="cna-member-bio">
-        <p><em>“Study without desire spoils the memory, and it retains nothing that it takes in.”</em> — Leonardo da Vinci</p>
+        <h4>Research Interests</h4>
+        <p>Cryptography</p>
       </div>
     </details>
 
@@ -169,7 +170,6 @@ header:
         </div>
       </summary>
       <div class="cna-member-bio">
-        <p>“Be professional; be sceptical on your work.” — Terrence Tao</p>
         <h4>Selected Publications</h4>
         <ul>
           <li>Bora Jeong, Sunpill Kim, Seunghun Paik, and Jae Hong Seo, <i>Analysis on Secure Triplet Loss</i>, IEEE Access, 2022.</li>
@@ -227,7 +227,6 @@ header:
         </div>
       </summary>
       <div class="cna-member-bio">
-        <p>“The foolish man seeks happiness in the distance, the wise man grows it under his feet.” — James Oppenheim</p>
         <h4>Awards</h4>
         <ul>
           <li>2023 Academic Seminar, College of Natural Science, Hanyang University — Encouragement Prize.</li>
@@ -276,7 +275,8 @@ header:
         </div>
       </summary>
       <div class="cna-member-bio">
-        <p>“If you do not change direction, you may end up where you were heading.”</p>
+        <h4>Research Interests</h4>
+        <p>Cryptography</p>
       </div>
     </details>
 
@@ -293,7 +293,8 @@ header:
         </div>
       </summary>
       <div class="cna-member-bio">
-        <p>“One day or day one, you decide.”</p>
+        <h4>Research Interests</h4>
+        <p>Cryptography, Deep Learning Algorithms</p>
       </div>
     </details>
 

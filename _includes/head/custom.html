@@ -11,7 +11,7 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Yesteryear&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap" rel="stylesheet">
 
 <style type="text/css">
 
@@ -343,10 +343,12 @@
   border-radius: var(--cna-radius-pill);
 }
 .cna-member-motto{
-  font-family: 'Yesteryear', cursive;
-  font-size: var(--cna-fs-xl);
-  color: var(--cna-amber);
-  line-height: 1.15; margin-top: 8px;
+  font-family: 'Caveat', cursive;
+  font-size: 28px;
+  font-weight: 500;
+  color: var(--cna-soft);
+  line-height: 1.2; margin-top: 8px;
+  letter-spacing: .01em;
 }
 .cna-member-interests{
   font-size: var(--cna-fs-sm); color: var(--cna-soft);
@@ -533,14 +535,18 @@
    card design system. Scoped narrowly; no theme files touched.
    ────────────────────────────────────────────────────────── */
 
-/* warm off-white page surface so cards visually separate */
+/* round-5: pure white page surface — no beige overscroll bounce.
+   Cards rely on border (--cna-line) + shadow for separation. */
+html{
+  background-color: var(--cna-paper);
+}
 body{
-  background-color: var(--cna-bg);
+  background-color: var(--cna-paper);
   color: var(--cna-ink);
 }
 .initial-content,
 .search-content{
-  background-color: var(--cna-bg);
+  background-color: var(--cna-paper);
 }
 .page__content{
   background-color: transparent;
@@ -868,6 +874,40 @@ body{
   font-style: italic;
   opacity: .55;
   font-weight: 400;
+}
+
+/* round-5: active nav state — current section highlighted */
+.greedy-nav .visible-links a[aria-current="page"],
+.masthead__menu-item--active > a{
+  color: var(--cna-indigo);
+  font-weight: 700;
+}
+.greedy-nav .visible-links a[aria-current="page"]::before,
+.masthead__menu-item--active > a::before{
+  width: 100%;
+  background: var(--cna-indigo);
+  height: 2px;
+}
+
+/* round-5: honor award two-line layout — institution / recipients separated */
+.cna-row-recipients{
+  font-size: var(--cna-fs-sm);
+  color: var(--cna-soft);
+  line-height: 1.5;
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px dashed var(--cna-rule);
+}
+.cna-row-recipients b{
+  color: var(--cna-ink);
+  font-weight: 600;
+}
+
+/* round-5: research area sections — unify to stone, dropping the per-area color
+   that previously clashed with the news-type / paper-venue palette */
+.cna-prose.cna-cat-people{
+  border-left: 3px solid var(--cna-stone-line);
+  padding-left: var(--cna-s-4);
 }
 
 /* (#12) Footer — replace minimal-mistakes default with a lab-identity block */
