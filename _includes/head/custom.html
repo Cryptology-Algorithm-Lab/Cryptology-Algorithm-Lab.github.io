@@ -1,10 +1,13 @@
 <!-- start custom head snippets -->
 
-<!-- favicon — indigo 'C' on a rounded square (matches the design-system --cna-indigo accent) -->
+<!-- favicon — black/white 'CA' monogram tile, adaptive via prefers-color-scheme.
+     Light mode: dark tile + white letters. Dark mode: flipped.
+     Ampersand dropped — at 16×16 favicon size 3 glyphs + & become illegible. -->
 <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
 <link rel="alternate icon" href="{{ '/assets/images/favicon.svg' | relative_url }}">
 <link rel="apple-touch-icon" href="{{ '/assets/images/favicon.svg' | relative_url }}">
-<meta name="theme-color" content="#2B5285">
+<meta name="theme-color" content="#0F1115" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#FFFFFF" media="(prefers-color-scheme: dark)">
 
 <!-- ============================================================
      C&A Lab Design System v1  (2026-05-23)
