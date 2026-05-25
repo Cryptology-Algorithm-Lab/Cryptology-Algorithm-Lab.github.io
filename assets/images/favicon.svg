@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <style>
+    .tile { fill: #0F1115; }
+    .mark { fill: #FFFFFF; }
+    @media (prefers-color-scheme: dark) {
+      .tile { fill: #FFFFFF; }
+      .mark { fill: #0F1115; }
+    }
+  </style>
+  <rect class="tile" width="64" height="64" rx="14"/>
+  <text class="mark"
+        x="32" y="32"
+        text-anchor="middle"
+        dominant-baseline="central"
+        font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Pretendard', 'Noto Sans KR', Arial, sans-serif"
+        font-size="38"
+        font-weight="900"
+        letter-spacing="-3">CA</text>
+</svg>
