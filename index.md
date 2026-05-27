@@ -287,7 +287,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
         </header>
         <div class="cna-card-body">
           <b>Ch 4 &amp; 6 · Statistics &amp; Information Theory</b><br>
-          <span style="color:var(--cna-soft)">Insoo Kim · Place TBA</span>
+          <span style="color:var(--cna-soft)">Insoo Kim · Natural Building 702</span>
         </div>
       </article>
 
