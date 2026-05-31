@@ -28,6 +28,19 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Seminar</span>
+      <time class="cna-card-meta">May 31, 2026</time>
+    </header>
+    <div class="cna-card-body">
+      <p>Prof. Taechan Kim from the Department of Artificial Intelligence, Gachon University will give an online lecture to the C&amp;A Lab.</p>
+      <ul>
+        <li>Date &amp; Place: 04:00 PM, Jun 1 / Online (Zoom)</li>
+      </ul>
+    </div>
+  </article>
+
+  <article class="cna-card cna-cat-seminar">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Seminar</span>
       <time class="cna-card-meta">May 23, 2026</time>
     </header>
     <div class="cna-card-body">
