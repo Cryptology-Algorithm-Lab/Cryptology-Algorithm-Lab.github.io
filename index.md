@@ -265,7 +265,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 <details class="cna-year" open markdown="0">
   <summary>
     <h3>2026 · Spring · Probabilistic ML Study Group</h3>
-    <span class="cna-year-count">12 sessions</span>
+    <span class="cna-year-count">13 sessions</span>
     <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
   </summary>
   <div class="cna-year-body">
@@ -311,7 +311,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
           <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
-          <b>Ch 4 &amp; 6 · Statistics &amp; Information Theory</b><br>
+          <b>Ch 4 &amp; 6 · Statistics &amp; Information Theory — Part 1</b><br>
           <span style="color:var(--cna-soft)">Insoo Kim · Natural Building 702</span>
         </div>
       </article>
@@ -322,6 +322,17 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
           <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
+          <b>Ch 4 &amp; 6 · Statistics &amp; Information Theory — Part 2</b><br>
+          <span style="color:var(--cna-soft)">Insoo Kim · Place TBA</span>
+        </div>
+      </article>
+
+      <article class="cna-card cna-cat-seminar">
+        <header class="cna-card-head">
+          <span class="cna-chip cna-chip-seminar">Jun 11 · 17:30–19:30</span>
+          <span class="cna-card-meta cna-tba">TBA</span>
+        </header>
+        <div class="cna-card-body">
           <b>Ch 9 &amp; 10 · Linear Discriminant Analysis &amp; Logistic Regression</b><br>
           <span style="color:var(--cna-soft)">Hyeonmin Jang · Place TBA</span>
         </div>
@@ -329,7 +340,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
       <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-seminar">Jun 11 · 17:30–19:30</span>
+          <span class="cna-chip cna-chip-seminar">Jun 18 · 17:30–19:30</span>
           <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
@@ -340,7 +351,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
       <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-seminar">Jun 18 · 17:30–19:30</span>
+          <span class="cna-chip cna-chip-seminar">Jun 25 · 17:30–19:30</span>
           <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
@@ -351,7 +362,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
       <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-seminar">Jun 25 · 17:30–19:30</span>
+          <span class="cna-chip cna-chip-seminar">Jul 2 · 17:30–19:30</span>
           <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
@@ -362,7 +373,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
       <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-seminar">Jul 2 · 17:30–19:30</span>
+          <span class="cna-chip cna-chip-seminar">Jul 9 · 17:30–19:30</span>
           <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
@@ -373,7 +384,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
       <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-seminar">Jul 9 · 17:30–19:30</span>
+          <span class="cna-chip cna-chip-seminar">Jul 16 · 17:30–19:30</span>
           <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
@@ -384,7 +395,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
       <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-seminar">Jul 16 · 17:30–19:30</span>
+          <span class="cna-chip cna-chip-seminar">Jul 23 · 17:30–19:30</span>
           <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
@@ -395,7 +406,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
       <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-seminar">Jul 23 · 17:30–19:30</span>
+          <span class="cna-chip cna-chip-seminar">Jul 30 · 17:30–19:30</span>
           <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
