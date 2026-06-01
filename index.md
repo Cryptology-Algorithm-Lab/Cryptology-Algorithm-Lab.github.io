@@ -196,7 +196,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 <details class="cna-year" open markdown="0">
   <summary>
     <h3>2026 · Spring / Summer Seminar</h3>
-    <span class="cna-year-count">4 sessions</span>
+    <span class="cna-year-count">5 sessions</span>
     <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
   </summary>
   <div class="cna-year-body">
@@ -243,6 +243,17 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
         <div class="cna-card-body">
           <b>Concept-based Adversarial Attack: a Probabilistic Perspective</b><br>
           <span style="color:var(--cna-soft)">Chanwoo Hwang · Natural Building 702</span>
+        </div>
+      </article>
+
+      <article class="cna-card cna-cat-seminar">
+        <header class="cna-card-head">
+          <span class="cna-chip cna-chip-seminar">Jun 5 · 10:00–12:00</span>
+          <span class="cna-card-meta cna-tba">TBA</span>
+        </header>
+        <div class="cna-card-body">
+          <b>PRAG: End-to-End Privacy-Preserving Retrieval-Augmented Generation</b><br>
+          <span style="color:var(--cna-soft)">Hyunjung Son · Online (Zoom)</span>
         </div>
       </article>
 
