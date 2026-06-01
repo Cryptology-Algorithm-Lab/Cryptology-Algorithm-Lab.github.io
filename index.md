@@ -34,6 +34,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
       <p>Prof. Taechan Kim from the Department of Artificial Intelligence, Gachon University will give an online lecture to the C&amp;A Lab.</p>
       <ul>
         <li>Date &amp; Place: 04:00 PM, Jun 1 / Online (Zoom)</li>
+        <li>Title: Invisible Image Watermarks: From Pixel-level to Semantic Watermark</li>
       </ul>
     </div>
   </article>
