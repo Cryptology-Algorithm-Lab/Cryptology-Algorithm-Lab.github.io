@@ -299,7 +299,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
           <a class="cna-card-meta" href="https://drive.google.com/file/d/11zY_N-jzwvL1t2WvEp7CU43cXT2GPFKk/view?usp=sharing" target="_blank" rel="noopener">Slides ↗</a>
         </header>
         <div class="cna-card-body">
-          <b>Ch 2 &amp; 3 · Probability — Part 1</b><br>
+          <b>Ch 2 &amp; 3 · Probability: Univariate &amp; Multivariate Models</b><br>
           <span style="color:var(--cna-soft)">Ingeun Yun · Natural Building 702</span>
         </div>
       </article>
@@ -310,8 +310,8 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
           <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
-          <b>Ch 2 &amp; 3 · Probability — Part 2</b><br>
-          <span style="color:var(--cna-soft)">Ingeun Yun · Natural Building 702</span>
+          <b>Ch 4 &amp; 6 · Statistics &amp; Information Theory — Part 1</b><br>
+          <span style="color:var(--cna-soft)">Insoo Kim · Natural Building 702</span>
         </div>
       </article>
 
@@ -321,7 +321,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
           <span class="cna-card-meta cna-tba">TBA</span>
         </header>
         <div class="cna-card-body">
-          <b>Ch 4 &amp; 6 · Statistics &amp; Information Theory</b><br>
+          <b>Ch 4 &amp; 6 · Statistics &amp; Information Theory — Part 2</b><br>
           <span style="color:var(--cna-soft)">Insoo Kim · Place TBA</span>
         </div>
       </article>
