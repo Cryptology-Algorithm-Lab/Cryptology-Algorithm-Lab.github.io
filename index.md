@@ -25,6 +25,16 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
 <div class="cna-card-grid" markdown="0">
 
+  <article class="cna-card cna-cat-event">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-event">Program</span>
+      <time class="cna-card-meta">Jun 5, 2026</time>
+    </header>
+    <div class="cna-card-body">
+      <b>Sunpill Kim</b> (postdoc) and <b>Minsu Kim</b> (graduate student) have been selected for the AI Seoul Tech Research Support Project 2026, by the Seoul Future Foundation (Seoul Metropolitan Government).
+    </div>
+  </article>
+
   <article class="cna-card cna-cat-seminar">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Seminar</span>
