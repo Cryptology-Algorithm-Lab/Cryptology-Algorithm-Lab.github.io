@@ -318,7 +318,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
       <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
           <span class="cna-chip cna-chip-seminar">May 28 · 17:30–19:30</span>
-          <span class="cna-card-meta cna-tba">TBA</span>
+          <a class="cna-card-meta" href="https://docs.google.com/presentation/d/1Yn5Ouej0l7vvjw4NUlwyWYn0iT79iZ_2/edit?slide=id.p1#slide=id.p1" target="_blank" rel="noopener">Slides ↗</a>
         </header>
         <div class="cna-card-body">
           <b>Ch 4 &amp; 6 · Statistics &amp; Information Theory — Part 1</b><br>
@@ -329,7 +329,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
       <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
           <span class="cna-chip cna-chip-seminar">Jun 4 · 17:30–19:30</span>
-          <span class="cna-card-meta cna-tba">TBA</span>
+          <a class="cna-card-meta" href="https://docs.google.com/presentation/d/1Yn5Ouej0l7vvjw4NUlwyWYn0iT79iZ_2/edit?slide=id.p1#slide=id.p1" target="_blank" rel="noopener">Slides ↗</a>
         </header>
         <div class="cna-card-body">
           <b>Ch 4 &amp; 6 · Statistics &amp; Information Theory — Part 2</b><br>
