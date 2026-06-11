@@ -19,8 +19,20 @@ header:
 <h2 id="journal">Journal</h2>
 
 <details class="cna-year" open markdown="0">
-  <summary><h3>2026</h3><span class="cna-year-count">2 papers</span><svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg></summary>
+  <summary><h3>2026</h3><span class="cna-year-count">3 papers</span><svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg></summary>
   <div class="cna-year-body">
+
+  <article class="cna-row">
+    <span class="cna-row-meta">J35</span>
+    <div class="cna-row-main">
+      <div class="cna-row-title"><b>Seunghun Paik&dagger;</b>, <b>Chanwoo Hwang&dagger;</b>, and <b>Jae Hong Seo*</b></div>
+      <div class="cna-row-sub"><i>Towards Generating Unlearnable Examples for Open-Set Face Recognition</i></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-paper">IEEE SPL</span>
+      <span class="cna-row-aside-detail">TBA</span>
+    </div>
+  </article>
 
   <article class="cna-row">
     <span class="cna-row-meta">J34</span>
