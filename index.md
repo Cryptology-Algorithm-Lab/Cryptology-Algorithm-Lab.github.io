@@ -25,6 +25,20 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
 <div class="cna-card-grid" markdown="0">
 
+  <article class="cna-card cna-cat-seminar">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Seminar</span>
+      <time class="cna-card-meta">Jun 12, 2026</time>
+    </header>
+    <div class="cna-card-body">
+      <p>Prof. Taeho Jung from the Department of Computer Science and Engineering, University of Notre Dame will give an invited lecture at the C&amp;A Lab.</p>
+      <ul>
+        <li>Date &amp; Place: 01:00 PM, Jun 15 / Natural Science Building 702</li>
+        <li>Title: The Future of Practical Cryptography &mdash; PIR &amp; TEE</li>
+      </ul>
+    </div>
+  </article>
+
   <article class="cna-card cna-cat-paper">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-paper">Journal</span>
