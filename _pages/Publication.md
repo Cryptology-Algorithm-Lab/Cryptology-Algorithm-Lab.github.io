@@ -553,8 +553,20 @@ header:
 <h2 id="conference">Conference</h2>
 
 <details class="cna-year" open markdown="0">
-  <summary><h3>2026</h3><span class="cna-year-count">3 papers</span><svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg></summary>
+  <summary><h3>2026</h3><span class="cna-year-count">4 papers</span><svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg></summary>
   <div class="cna-year-body">
+
+  <article class="cna-row">
+    <span class="cna-row-meta">C32</span>
+    <div class="cna-row-main">
+      <div class="cna-row-title"><b>Changjin Kim</b>, <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, and <b>Jae Hong Seo*</b></div>
+      <div class="cna-row-sub"><i>Breaking High Confidence: Practical Face Impersonation under High-Security Thresholds</i></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-talk">ECCV</span>
+      <span class="cna-row-aside-detail">2026 · TBA</span>
+    </div>
+  </article>
 
   <article class="cna-row">
     <span class="cna-row-meta">C31</span>
