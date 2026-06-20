@@ -297,7 +297,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
       <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
           <span class="cna-chip cna-chip-seminar">Jun 19 · 10:00–12:00</span>
-          <span class="cna-card-meta cna-tba">TBA</span>
+          <a class="cna-card-meta" href="https://docs.google.com/presentation/d/1luvfumpccF_SVsBn3DvpTqLQzO_2gSyz/edit?slide=id.p1#slide=id.p1" target="_blank" rel="noopener">Slides ↗</a>
         </header>
         <div class="cna-card-body">
           <b>Detecting Generated Images by Fitting Natural Image Distributions</b><br>
