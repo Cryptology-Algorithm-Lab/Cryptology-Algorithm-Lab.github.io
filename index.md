@@ -28,7 +28,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-talk">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-talk">Conference</span>
-      <time class="cna-card-meta">Jun 16, 2026</time>
+      <time class="cna-card-meta">Jun 20, 2026</time>
     </header>
     <div class="cna-card-body">
       <p>Accepted for publication at <b>ECCV 2026</b>.</p>
