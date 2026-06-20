@@ -25,6 +25,18 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
 <div class="cna-card-grid" markdown="0">
 
+  <article class="cna-card cna-cat-talk">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-talk">Conference</span>
+      <time class="cna-card-meta">Jun 16, 2026</time>
+    </header>
+    <div class="cna-card-body">
+      <p>Accepted for publication at <b>ECCV 2026</b>.</p>
+      <p><b>Changjin Kim</b>, <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, and <b>Jae Hong Seo*</b><br>
+      <i>Breaking High Confidence: Practical Face Impersonation under High-Security Thresholds</i></p>
+    </div>
+  </article>
+
   <article class="cna-card cna-cat-seminar">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Seminar</span>
