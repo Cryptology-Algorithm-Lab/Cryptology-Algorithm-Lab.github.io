@@ -298,7 +298,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
       <article class="cna-card cna-cat-seminar">
         <header class="cna-card-head">
           <span class="cna-chip cna-chip-seminar">Jun 5 · 10:00–12:00</span>
-          <span class="cna-card-meta cna-tba">TBA</span>
+          <a class="cna-card-meta" href="https://drive.google.com/file/d/1MgIQPEeIOr7uYZQH3a01PlNjjVQnN4qK/view?usp=drive_link" target="_blank" rel="noopener">Slides ↗</a>
         </header>
         <div class="cna-card-body">
           <b>PRAG: End-to-End Privacy-Preserving Retrieval-Augmented Generation</b><br>
