@@ -1167,6 +1167,125 @@ body{
   text-decoration: underline;
 }
 
+/* ---------- Filter Chips (News / Seminar parallel filter rows) ---------- */
+.cna-filter-row{
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--cna-s-2);
+  margin: 0 0 var(--cna-s-5);
+  padding: 0;
+  align-items: center;
+  list-style: none;
+}
+.cna-filter-chip{
+  -webkit-appearance: none;
+  appearance: none;
+  padding: 0.42rem 0.95rem;
+  border-radius: 999px;
+  border: 1px solid var(--cna-line);
+  background: transparent;
+  font-family: inherit;
+  font-size: var(--cna-fs-sm);
+  font-weight: 500;
+  color: var(--cna-soft);
+  cursor: pointer;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+  transition: color .18s ease, background .18s ease, border-color .18s ease;
+}
+.cna-filter-chip:hover{
+  color: var(--cna-ink);
+  border-color: var(--cna-ink);
+}
+.cna-filter-chip:focus-visible{
+  outline: 2px solid var(--cna-indigo);
+  outline-offset: 2px;
+}
+.cna-filter-chip[aria-pressed="true"]{
+  background: var(--cna-ink);
+  color: #fff;
+  border-color: var(--cna-ink);
+}
+.cna-filter-chip[aria-pressed="true"]:hover{
+  background: var(--cna-ink);
+  color: #fff;
+  border-color: var(--cna-ink);
+}
+.cna-card[data-filter-hidden="true"]{
+  display: none;
+}
+@media (max-width: 640px){
+  .cna-filter-row{ gap: 6px; margin-bottom: var(--cna-s-4); }
+  .cna-filter-chip{ padding: 0.32rem 0.7rem; font-size: 12px; }
+}
+
+/* ---------- Seminar Series Color Themes ---------- */
+/* Series-specific accents override the base plum for seminars. */
+/*   spring-summer → Plum (existing base, no override) */
+/*   pml           → Teal  (systematic textbook study) */
+/*   winter        → Copper (mixed research archive) */
+/*   vlm           → Sage  (special topic experimental) */
+:root{
+  --cna-teal: #2A6E7A;
+  --cna-teal-tint: rgba(42, 110, 122, 0.10);
+  --cna-teal-line: rgba(42, 110, 122, 0.28);
+  --cna-copper: #A05D3A;
+  --cna-copper-tint: rgba(160, 93, 58, 0.10);
+  --cna-copper-line: rgba(160, 93, 58, 0.28);
+  --cna-sage: #5F7C4B;
+  --cna-sage-tint: rgba(95, 124, 75, 0.10);
+  --cna-sage-line: rgba(95, 124, 75, 0.28);
+}
+/* PML (teal) */
+.cna-card[data-series="pml"] .cna-chip-seminar{
+  background: var(--cna-teal-tint);
+  border-color: var(--cna-teal-line);
+  color: var(--cna-teal);
+}
+.cna-card[data-series="pml"]{
+  box-shadow: inset 3px 0 0 var(--cna-teal);
+}
+/* 2025 Fall / 2026 Winter (copper) */
+.cna-card[data-series="winter"] .cna-chip-seminar{
+  background: var(--cna-copper-tint);
+  border-color: var(--cna-copper-line);
+  color: var(--cna-copper);
+}
+.cna-card[data-series="winter"]{
+  box-shadow: inset 3px 0 0 var(--cna-copper);
+}
+/* Special Topic — VLM (sage) */
+.cna-card[data-series="vlm"] .cna-chip-seminar{
+  background: var(--cna-sage-tint);
+  border-color: var(--cna-sage-line);
+  color: var(--cna-sage);
+}
+.cna-card[data-series="vlm"]{
+  box-shadow: inset 3px 0 0 var(--cna-sage);
+}
+/* Spring/Summer keeps the existing plum — add a subtle inset stripe for parity */
+.cna-card[data-series="spring-summer"]{
+  box-shadow: inset 3px 0 0 var(--cna-plum, #7B3F71);
+}
+
+/* ---------- Seminar container: dual view (grouped details vs flat filter) ---------- */
+/* Default state (no data-view): browsers render <details> as before with summaries + chrome */
+/* Filtered state: details wrappers collapse via display:contents, cards flow into one grid */
+#seminar-container[data-view="filtered"]{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--cna-s-4);
+}
+#seminar-container[data-view="filtered"] > details,
+#seminar-container[data-view="filtered"] > details > .cna-year-body,
+#seminar-container[data-view="filtered"] > details > .cna-year-body > .cna-card-grid{
+  display: contents;
+}
+#seminar-container[data-view="filtered"] > details > summary,
+#seminar-container[data-view="filtered"] > details > .cna-year-body > p{
+  display: none;
+}
+
 </style>
 
 <!-- end custom head snippets -->

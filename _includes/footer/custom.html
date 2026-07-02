@@ -135,5 +135,96 @@
     });
   });
 })();
+
+/* ---------- Filter Chip Logic (News / Seminar parallel rows) ---------- */
+(function () {
+  var today = new Date();
+  today.setHours(0, 0, 0, 0);
+
+  function toDate(s) { return s ? new Date(s + 'T00:00:00') : null; }
+
+  function applyFilter(row, cards, chip) {
+    var kind = row.getAttribute('data-filter-kind');
+    var filter = chip.getAttribute('data-filter');
+    var targetSel = row.getAttribute('data-filter-target');
+    var target = targetSel ? document.querySelector(targetSel) : null;
+    var visible = [];
+
+    /* Seminar container: toggle grouped-view (All) vs filtered-view (chip filter) */
+    if (target && kind === 'seminar') {
+      if (filter === 'all') {
+        target.removeAttribute('data-view');
+      } else {
+        target.setAttribute('data-view', 'filtered');
+        /* Force all <details> open so their cards can be filtered inside */
+        Array.prototype.slice.call(target.querySelectorAll('details')).forEach(function (d) { d.open = true; });
+      }
+    }
+
+    if (filter === 'all') {
+      visible = cards.slice().sort(function (a, b) {
+        return toDate(b.getAttribute('data-date')) - toDate(a.getAttribute('data-date'));
+      });
+    } else if (filter === 'recent') {
+      visible = cards.slice().sort(function (a, b) {
+        return toDate(b.getAttribute('data-date')) - toDate(a.getAttribute('data-date'));
+      }).slice(0, 5);
+    } else if (filter === 'upcoming') {
+      visible = cards.slice()
+        .filter(function (c) { return toDate(c.getAttribute('data-date')) >= today; })
+        .sort(function (a, b) {
+          return toDate(a.getAttribute('data-date')) - toDate(b.getAttribute('data-date'));
+        })
+        .slice(0, 5);
+    } else if (kind === 'news') {
+      visible = cards
+        .filter(function (c) { return c.getAttribute('data-cat') === filter; })
+        .sort(function (a, b) {
+          return toDate(b.getAttribute('data-date')) - toDate(a.getAttribute('data-date'));
+        });
+    } else if (kind === 'seminar') {
+      visible = cards
+        .filter(function (c) { return c.getAttribute('data-series') === filter; })
+        .sort(function (a, b) {
+          return toDate(a.getAttribute('data-date')) - toDate(b.getAttribute('data-date'));
+        });
+    }
+
+    var visibleSet = new Set(visible);
+
+    /* Assign CSS `order` on visible cards so they sort as intended in the grid.
+       This works both in the flat news grid AND when the seminar container is
+       collapsed via display:contents (where cards from multiple <details>
+       flow into a single grid). Hidden cards get order reset. */
+    visible.forEach(function (c, i) { c.style.order = String(i + 1); });
+    cards.forEach(function (c) {
+      if (!visibleSet.has(c)) c.style.order = '';
+    });
+
+    cards.forEach(function (c) {
+      if (visibleSet.has(c)) c.removeAttribute('data-filter-hidden');
+      else c.setAttribute('data-filter-hidden', 'true');
+    });
+  }
+
+  document.querySelectorAll('.cna-filter-row').forEach(function (row) {
+    var targetSel = row.getAttribute('data-filter-target');
+    var target = targetSel ? document.querySelector(targetSel) : null;
+    if (!target) return;
+    var cards = Array.prototype.slice.call(target.querySelectorAll('.cna-card'));
+    var chips = Array.prototype.slice.call(row.querySelectorAll('.cna-filter-chip'));
+
+    chips.forEach(function (chip) {
+      chip.addEventListener('click', function () {
+        chips.forEach(function (c) { c.setAttribute('aria-pressed', 'false'); });
+        chip.setAttribute('aria-pressed', 'true');
+        applyFilter(row, cards, chip);
+      });
+    });
+
+    var defaultChip = chips.filter(function (c) { return c.getAttribute('aria-pressed') === 'true'; })[0] || chips[0];
+    if (defaultChip) applyFilter(row, cards, defaultChip);
+  });
+})();
 </script>
 <!-- end custom footer snippets -->
