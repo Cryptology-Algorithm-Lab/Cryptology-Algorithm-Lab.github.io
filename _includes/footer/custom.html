@@ -135,5 +135,123 @@
     });
   });
 })();
+
+/* ---------- Filter Chip Logic (News / Seminar parallel rows) ---------- */
+(function () {
+  var today = new Date();
+  today.setHours(0, 0, 0, 0);
+
+  function toDate(s) { return s ? new Date(s + 'T00:00:00') : null; }
+
+  function applyFilter(row, cards, chip) {
+    var kind = row.getAttribute('data-filter-kind');
+    var filter = chip.getAttribute('data-filter');
+    var targetSel = row.getAttribute('data-filter-target');
+    var target = targetSel ? document.querySelector(targetSel) : null;
+    var visible = [];
+
+    /* Seminar container: three view modes.
+         All      -> remove data-view, keep default <details> grouping
+         Upcoming -> data-view="flat", cards flow into one grid without headers
+         series   -> data-view="filtered", matching <details> visible with header */
+    if (target && kind === 'seminar') {
+      if (filter === 'all') {
+        target.removeAttribute('data-view');
+      } else if (filter === 'upcoming') {
+        target.setAttribute('data-view', 'flat');
+        Array.prototype.slice.call(target.querySelectorAll('details')).forEach(function (d) { d.open = true; });
+      } else {
+        target.setAttribute('data-view', 'filtered');
+        Array.prototype.slice.call(target.querySelectorAll('details')).forEach(function (d) { d.open = true; });
+      }
+    }
+
+    if (filter === 'all') {
+      visible = cards.slice().sort(function (a, b) {
+        return toDate(b.getAttribute('data-date')) - toDate(a.getAttribute('data-date'));
+      });
+    } else if (filter === 'recent') {
+      visible = cards.slice().sort(function (a, b) {
+        return toDate(b.getAttribute('data-date')) - toDate(a.getAttribute('data-date'));
+      }).slice(0, 5);
+    } else if (filter === 'upcoming') {
+      visible = cards.slice()
+        .filter(function (c) { return toDate(c.getAttribute('data-date')) >= today; })
+        .sort(function (a, b) {
+          return toDate(a.getAttribute('data-date')) - toDate(b.getAttribute('data-date'));
+        })
+        .slice(0, 5);
+    } else if (kind === 'news') {
+      visible = cards
+        .filter(function (c) { return c.getAttribute('data-cat') === filter; })
+        .sort(function (a, b) {
+          return toDate(b.getAttribute('data-date')) - toDate(a.getAttribute('data-date'));
+        });
+    } else if (kind === 'seminar') {
+      visible = cards
+        .filter(function (c) { return c.getAttribute('data-series') === filter; })
+        .sort(function (a, b) {
+          return toDate(a.getAttribute('data-date')) - toDate(b.getAttribute('data-date'));
+        });
+    }
+
+    var visibleSet = new Set(visible);
+
+    /* News grid: sort visible cards by date via CSS `order` so top-5 (Recent)
+       or category filters display in the right sequence when hidden cards
+       leave gaps in the flex/grid layout. Seminar keeps cards in their
+       original DOM order EXCEPT for Upcoming where cards may come from
+       multiple series and need chronological cross-series sort. */
+    if (kind === 'news' || (kind === 'seminar' && filter === 'upcoming')) {
+      visible.forEach(function (c, i) { c.style.order = String(i + 1); });
+      cards.forEach(function (c) {
+        if (!visibleSet.has(c)) c.style.order = '';
+      });
+    } else {
+      cards.forEach(function (c) { c.style.order = ''; });
+    }
+
+    cards.forEach(function (c) {
+      if (visibleSet.has(c)) c.removeAttribute('data-filter-hidden');
+      else c.setAttribute('data-filter-hidden', 'true');
+    });
+
+    /* Seminar wrapper visibility. Only applies to the 'filtered' (series-chip)
+       mode: hide <details> that end up with zero visible cards; the matching
+       one keeps its summary header, chevron, and grid. 'All' and 'flat'
+       (Upcoming) modes clear data-empty so nothing is unintentionally hidden. */
+    if (target && kind === 'seminar') {
+      Array.prototype.slice.call(target.querySelectorAll('details')).forEach(function (d) {
+        if (filter === 'all' || filter === 'upcoming') {
+          d.removeAttribute('data-empty');
+          return;
+        }
+        var hasVisible = Array.prototype.slice.call(d.querySelectorAll('.cna-card'))
+          .some(function (c) { return visibleSet.has(c); });
+        if (hasVisible) d.removeAttribute('data-empty');
+        else d.setAttribute('data-empty', 'true');
+      });
+    }
+  }
+
+  document.querySelectorAll('.cna-filter-row').forEach(function (row) {
+    var targetSel = row.getAttribute('data-filter-target');
+    var target = targetSel ? document.querySelector(targetSel) : null;
+    if (!target) return;
+    var cards = Array.prototype.slice.call(target.querySelectorAll('.cna-card'));
+    var chips = Array.prototype.slice.call(row.querySelectorAll('.cna-filter-chip'));
+
+    chips.forEach(function (chip) {
+      chip.addEventListener('click', function () {
+        chips.forEach(function (c) { c.setAttribute('aria-pressed', 'false'); });
+        chip.setAttribute('aria-pressed', 'true');
+        applyFilter(row, cards, chip);
+      });
+    });
+
+    var defaultChip = chips.filter(function (c) { return c.getAttribute('aria-pressed') === 'true'; })[0] || chips[0];
+    if (defaultChip) applyFilter(row, cards, defaultChip);
+  });
+})();
 </script>
 <!-- end custom footer snippets -->
