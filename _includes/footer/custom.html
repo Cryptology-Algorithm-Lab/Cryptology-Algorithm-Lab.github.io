@@ -150,13 +150,18 @@
     var target = targetSel ? document.querySelector(targetSel) : null;
     var visible = [];
 
-    /* Seminar container: toggle grouped-view (All) vs filtered-view (chip filter) */
+    /* Seminar container: three view modes.
+         All      -> remove data-view, keep default <details> grouping
+         Upcoming -> data-view="flat", cards flow into one grid without headers
+         series   -> data-view="filtered", matching <details> visible with header */
     if (target && kind === 'seminar') {
       if (filter === 'all') {
         target.removeAttribute('data-view');
+      } else if (filter === 'upcoming') {
+        target.setAttribute('data-view', 'flat');
+        Array.prototype.slice.call(target.querySelectorAll('details')).forEach(function (d) { d.open = true; });
       } else {
         target.setAttribute('data-view', 'filtered');
-        /* Force all <details> open so their cards can be filtered inside */
         Array.prototype.slice.call(target.querySelectorAll('details')).forEach(function (d) { d.open = true; });
       }
     }
@@ -192,19 +197,41 @@
 
     var visibleSet = new Set(visible);
 
-    /* Assign CSS `order` on visible cards so they sort as intended in the grid.
-       This works both in the flat news grid AND when the seminar container is
-       collapsed via display:contents (where cards from multiple <details>
-       flow into a single grid). Hidden cards get order reset. */
-    visible.forEach(function (c, i) { c.style.order = String(i + 1); });
-    cards.forEach(function (c) {
-      if (!visibleSet.has(c)) c.style.order = '';
-    });
+    /* News grid: sort visible cards by date via CSS `order` so top-5 (Recent)
+       or category filters display in the right sequence when hidden cards
+       leave gaps in the flex/grid layout. Seminar keeps cards in their
+       original DOM order EXCEPT for Upcoming where cards may come from
+       multiple series and need chronological cross-series sort. */
+    if (kind === 'news' || (kind === 'seminar' && filter === 'upcoming')) {
+      visible.forEach(function (c, i) { c.style.order = String(i + 1); });
+      cards.forEach(function (c) {
+        if (!visibleSet.has(c)) c.style.order = '';
+      });
+    } else {
+      cards.forEach(function (c) { c.style.order = ''; });
+    }
 
     cards.forEach(function (c) {
       if (visibleSet.has(c)) c.removeAttribute('data-filter-hidden');
       else c.setAttribute('data-filter-hidden', 'true');
     });
+
+    /* Seminar wrapper visibility. Only applies to the 'filtered' (series-chip)
+       mode: hide <details> that end up with zero visible cards; the matching
+       one keeps its summary header, chevron, and grid. 'All' and 'flat'
+       (Upcoming) modes clear data-empty so nothing is unintentionally hidden. */
+    if (target && kind === 'seminar') {
+      Array.prototype.slice.call(target.querySelectorAll('details')).forEach(function (d) {
+        if (filter === 'all' || filter === 'upcoming') {
+          d.removeAttribute('data-empty');
+          return;
+        }
+        var hasVisible = Array.prototype.slice.call(d.querySelectorAll('.cna-card'))
+          .some(function (c) { return visibleSet.has(c); });
+        if (hasVisible) d.removeAttribute('data-empty');
+        else d.setAttribute('data-empty', 'true');
+      });
+    }
   }
 
   document.querySelectorAll('.cna-filter-row').forEach(function (row) {

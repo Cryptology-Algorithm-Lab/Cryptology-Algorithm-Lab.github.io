@@ -403,7 +403,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </header>
     <div class="cna-card-body">
       <b>Ch 4 &amp; 6 · Statistics &amp; Information Theory — Part 2</b><br>
-      <span style="color:var(--cna-soft)">Insoo Kim · Place TBA</span>
+      <span style="color:var(--cna-soft)">Insoo Kim · Natural Building 702</span>
     </div>
   </article>
 
@@ -414,7 +414,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </header>
     <div class="cna-card-body">
       <b>Ch 9 &amp; 10 · Linear Discriminant Analysis &amp; Logistic Regression</b><br>
-      <span style="color:var(--cna-soft)">Hyeonmin Jang · Place TBA</span>
+      <span style="color:var(--cna-soft)">Hyeonmin Jang · Natural Building 702</span>
     </div>
   </article>
 
@@ -425,7 +425,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </header>
     <div class="cna-card-body">
       <b>Ch 11 · Linear Regression</b><br>
-      <span style="color:var(--cna-soft)">Shinwoong Kwak · Place TBA</span>
+      <span style="color:var(--cna-soft)">Shinwoong Kwak · Natural Building 702</span>
     </div>
   </article>
 
@@ -436,7 +436,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </header>
     <div class="cna-card-body">
       <b>Ch 13 · Neural Networks for Tabular Data</b><br>
-      <span style="color:var(--cna-soft)">Ingeun Yun · Place TBA</span>
+      <span style="color:var(--cna-soft)">Ingeun Yun · Natural Building 702</span>
     </div>
   </article>
 
@@ -447,7 +447,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </header>
     <div class="cna-card-body">
       <b>Ch 14 · Neural Networks for Images</b><br>
-      <span style="color:var(--cna-soft)">Insoo Kim · Place TBA</span>
+      <span style="color:var(--cna-soft)">Insoo Kim · Natural Building 702</span>
     </div>
   </article>
 
@@ -458,7 +458,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </header>
     <div class="cna-card-body">
       <b>Ch 15 · Neural Networks for Sequences</b><br>
-      <span style="color:var(--cna-soft)">Hyeonmin Jang · Place TBA</span>
+      <span style="color:var(--cna-soft)">Hyeonmin Jang · Natural Building 702</span>
     </div>
   </article>
 
@@ -469,7 +469,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </header>
     <div class="cna-card-body">
       <b>Ch 17 · Kernel Methods</b><br>
-      <span style="color:var(--cna-soft)">Minsu Kim · Place TBA</span>
+      <span style="color:var(--cna-soft)">Minsu Kim · Natural Building 702</span>
     </div>
   </article>
 
@@ -480,7 +480,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </header>
     <div class="cna-card-body">
       <b>Ch 19 · Learning with Fewer Labeled Examples</b><br>
-      <span style="color:var(--cna-soft)">Shinwoong Kwak · Place TBA</span>
+      <span style="color:var(--cna-soft)">Shinwoong Kwak · Natural Building 702</span>
     </div>
   </article>
 
@@ -491,7 +491,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </header>
     <div class="cna-card-body">
       <b>Ch 20 &amp; 21 · Dimensionality Reduction &amp; Clustering</b><br>
-      <span style="color:var(--cna-soft)">Minsu Kim · Place TBA</span>
+      <span style="color:var(--cna-soft)">Minsu Kim · Natural Building 702</span>
     </div>
   </article>
 
