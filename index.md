@@ -703,6 +703,8 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
 </div>
 
+<div id="seminar-flat-view" class="cna-card-grid" hidden markdown="0"></div>
+
 <h2 id="contact">Contact</h2>
 
 For any inquiries, you can reach us via email: **jaehongseo@hanyang.ac.kr**

@@ -151,17 +151,49 @@
     var visible = [];
 
     /* Seminar container: three view modes.
-         All      -> remove data-view, keep default <details> grouping
-         Upcoming -> data-view="flat", cards flow into one grid without headers
+         All      -> remove data-view, keep default <details> grouping (restore
+                     cards to their series' <details> in chronological order)
+         Upcoming -> physically move sorted visible cards to #seminar-flat-view,
+                     hide the grouped container. display:contents on <details>
+                     does NOT propagate CSS `order` to the grid in Chrome, so
+                     we move the DOM instead of trying to reorder via CSS.
          series   -> data-view="filtered", matching <details> visible with header */
-    if (target && kind === 'seminar') {
+    var flatView = document.getElementById('seminar-flat-view');
+    if (target && kind === 'seminar' && flatView) {
+      /* Whenever we're NOT in Upcoming, ensure cards are back inside their
+         original series' <details> in chronological order. This is idempotent
+         and cheap (30-odd cards). */
+      var needsRestore = filter !== 'upcoming';
+      if (needsRestore) {
+        cards.forEach(function (c) {
+          var series = c.getAttribute('data-series');
+          var block = target.querySelector('details[data-series-block="' + series + '"] .cna-card-grid');
+          if (block && c.parentElement !== block) block.appendChild(c);
+        });
+        /* Sort each series' grid chronologically ascending */
+        Array.prototype.slice.call(target.querySelectorAll('details[data-series-block]')).forEach(function (d) {
+          var grid = d.querySelector('.cna-card-grid');
+          if (!grid) return;
+          var seriesCards = Array.prototype.slice.call(grid.querySelectorAll(':scope > .cna-card'));
+          seriesCards.sort(function (a, b) {
+            return toDate(a.getAttribute('data-date')) - toDate(b.getAttribute('data-date'));
+          });
+          seriesCards.forEach(function (c) { grid.appendChild(c); });
+        });
+      }
+
       if (filter === 'all') {
         target.removeAttribute('data-view');
+        target.hidden = false;
+        flatView.hidden = true;
       } else if (filter === 'upcoming') {
-        target.setAttribute('data-view', 'flat');
-        Array.prototype.slice.call(target.querySelectorAll('details')).forEach(function (d) { d.open = true; });
+        target.hidden = true;
+        flatView.hidden = false;
+        /* Physical move happens after visible[] is computed below */
       } else {
         target.setAttribute('data-view', 'filtered');
+        target.hidden = false;
+        flatView.hidden = true;
         Array.prototype.slice.call(target.querySelectorAll('details')).forEach(function (d) { d.open = true; });
       }
     }
@@ -197,18 +229,22 @@
 
     var visibleSet = new Set(visible);
 
-    /* News grid: sort visible cards by date via CSS `order` so top-5 (Recent)
-       or category filters display in the right sequence when hidden cards
-       leave gaps in the flex/grid layout. Seminar keeps cards in their
-       original DOM order EXCEPT for Upcoming where cards may come from
-       multiple series and need chronological cross-series sort. */
-    if (kind === 'news' || (kind === 'seminar' && filter === 'upcoming')) {
+    /* News grid: sort visible cards by date via CSS `order` — News cards are
+       direct grid items so `order` works reliably. Seminar Upcoming uses
+       physical DOM movement (below) instead. */
+    if (kind === 'news') {
       visible.forEach(function (c, i) { c.style.order = String(i + 1); });
       cards.forEach(function (c) {
         if (!visibleSet.has(c)) c.style.order = '';
       });
     } else {
       cards.forEach(function (c) { c.style.order = ''; });
+    }
+
+    /* Seminar Upcoming: physically move sorted visible cards into
+       #seminar-flat-view so cross-series chronological order actually renders. */
+    if (kind === 'seminar' && filter === 'upcoming' && flatView) {
+      visible.forEach(function (c) { flatView.appendChild(c); });
     }
 
     cards.forEach(function (c) {
