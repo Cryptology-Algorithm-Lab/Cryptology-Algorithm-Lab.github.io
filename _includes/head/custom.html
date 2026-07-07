@@ -1219,65 +1219,78 @@ body{
   .cna-filter-chip{ padding: 0.32rem 0.7rem; font-size: 12px; }
 }
 
-/* ---------- Seminar Series Color Themes ---------- */
-/* Series-specific accents override the base plum for seminars. */
-/*   spring-summer → Plum (existing base, no override) */
-/*   pml           → Teal  (systematic textbook study) */
-/*   winter        → Copper (mixed research archive) */
-/*   vlm           → Sage  (special topic experimental) */
+/* ---------- Seminar Series Color Themes — bright pastel rainbow ---------- */
+/* Series accents follow a rainbow ordering that matches the chip-row order,
+   so adjacent series read as distinct hues at a glance. The palette lives
+   inside the Seminar section only — the News category colors (Crimson /
+   Indigo / Forest / Amber / Plum / Stone) keep their global meaning and are
+   not touched here.
+     Trustworthy FRS  → Rose      (warm red-pink)
+     Spring / Summer  → Gold      (warm amber-orange)
+     PML Study Group  → Emerald   (fresh green)
+     2025F / 2026W    → Azure     (clear sky blue)
+     Special (VLM)    → Lavender  (soft violet)                              */
 :root{
-  --cna-teal: #2A6E7A;
-  --cna-teal-tint: rgba(42, 110, 122, 0.10);
-  --cna-teal-line: rgba(42, 110, 122, 0.28);
-  --cna-copper: #A05D3A;
-  --cna-copper-tint: rgba(160, 93, 58, 0.10);
-  --cna-copper-line: rgba(160, 93, 58, 0.28);
-  --cna-sage: #5F7C4B;
-  --cna-sage-tint: rgba(95, 124, 75, 0.10);
-  --cna-sage-line: rgba(95, 124, 75, 0.28);
-  --cna-steel: #3D6F87;
-  --cna-steel-tint: rgba(61, 111, 135, 0.10);
-  --cna-steel-line: rgba(61, 111, 135, 0.28);
+  --cna-rose:          #E76B77;
+  --cna-rose-tint:     rgba(231, 107, 119, 0.12);
+  --cna-rose-line:     rgba(231, 107, 119, 0.34);
+  --cna-gold:          #D9962A;
+  --cna-gold-tint:     rgba(217, 150, 42, 0.12);
+  --cna-gold-line:     rgba(217, 150, 42, 0.34);
+  --cna-emerald:       #4FA476;
+  --cna-emerald-tint:  rgba(79, 164, 118, 0.12);
+  --cna-emerald-line:  rgba(79, 164, 118, 0.34);
+  --cna-azure:         #4A97CD;
+  --cna-azure-tint:    rgba(74, 151, 205, 0.12);
+  --cna-azure-line:    rgba(74, 151, 205, 0.34);
+  --cna-lavender:      #9A7ABE;
+  --cna-lavender-tint: rgba(154, 122, 190, 0.12);
+  --cna-lavender-line: rgba(154, 122, 190, 0.34);
 }
-/* PML (teal) */
-.cna-card[data-series="pml"] .cna-chip-seminar{
-  background: var(--cna-teal-tint);
-  border-color: var(--cna-teal-line);
-  color: var(--cna-teal);
-}
-.cna-card[data-series="pml"]{
-  box-shadow: inset 3px 0 0 var(--cna-teal);
-}
-/* 2025 Fall / 2026 Winter (copper) */
-.cna-card[data-series="winter"] .cna-chip-seminar{
-  background: var(--cna-copper-tint);
-  border-color: var(--cna-copper-line);
-  color: var(--cna-copper);
-}
-.cna-card[data-series="winter"]{
-  box-shadow: inset 3px 0 0 var(--cna-copper);
-}
-/* Special Topic — VLM (sage) */
-.cna-card[data-series="vlm"] .cna-chip-seminar{
-  background: var(--cna-sage-tint);
-  border-color: var(--cna-sage-line);
-  color: var(--cna-sage);
-}
-.cna-card[data-series="vlm"]{
-  box-shadow: inset 3px 0 0 var(--cna-sage);
-}
-/* Spring/Summer keeps the existing plum — add a subtle inset stripe for parity */
-.cna-card[data-series="spring-summer"]{
-  box-shadow: inset 3px 0 0 var(--cna-plum, #7B3F71);
-}
-/* Trustworthy FRS (steel blue) — security/certification theme */
+/* Trustworthy FRS — rose */
 .cna-card[data-series="trustworthy-frs"] .cna-chip-seminar{
-  background: var(--cna-steel-tint);
-  border-color: var(--cna-steel-line);
-  color: var(--cna-steel);
+  background: var(--cna-rose-tint);
+  border-color: var(--cna-rose-line);
+  color: var(--cna-rose);
 }
 .cna-card[data-series="trustworthy-frs"]{
-  box-shadow: inset 3px 0 0 var(--cna-steel);
+  box-shadow: inset 3px 0 0 var(--cna-rose);
+}
+/* Spring / Summer — gold */
+.cna-card[data-series="spring-summer"] .cna-chip-seminar{
+  background: var(--cna-gold-tint);
+  border-color: var(--cna-gold-line);
+  color: var(--cna-gold);
+}
+.cna-card[data-series="spring-summer"]{
+  box-shadow: inset 3px 0 0 var(--cna-gold);
+}
+/* PML Study Group — emerald */
+.cna-card[data-series="pml"] .cna-chip-seminar{
+  background: var(--cna-emerald-tint);
+  border-color: var(--cna-emerald-line);
+  color: var(--cna-emerald);
+}
+.cna-card[data-series="pml"]{
+  box-shadow: inset 3px 0 0 var(--cna-emerald);
+}
+/* 2025 Fall / 2026 Winter — azure */
+.cna-card[data-series="winter"] .cna-chip-seminar{
+  background: var(--cna-azure-tint);
+  border-color: var(--cna-azure-line);
+  color: var(--cna-azure);
+}
+.cna-card[data-series="winter"]{
+  box-shadow: inset 3px 0 0 var(--cna-azure);
+}
+/* Special Topic (VLM) — lavender */
+.cna-card[data-series="vlm"] .cna-chip-seminar{
+  background: var(--cna-lavender-tint);
+  border-color: var(--cna-lavender-line);
+  color: var(--cna-lavender);
+}
+.cna-card[data-series="vlm"]{
+  box-shadow: inset 3px 0 0 var(--cna-lavender);
 }
 
 /* ---------- Seminar container: three view modes ---------- */
