@@ -1235,6 +1235,9 @@ body{
   --cna-sage: #5F7C4B;
   --cna-sage-tint: rgba(95, 124, 75, 0.10);
   --cna-sage-line: rgba(95, 124, 75, 0.28);
+  --cna-steel: #3D6F87;
+  --cna-steel-tint: rgba(61, 111, 135, 0.10);
+  --cna-steel-line: rgba(61, 111, 135, 0.28);
 }
 /* PML (teal) */
 .cna-card[data-series="pml"] .cna-chip-seminar{
@@ -1266,6 +1269,15 @@ body{
 /* Spring/Summer keeps the existing plum — add a subtle inset stripe for parity */
 .cna-card[data-series="spring-summer"]{
   box-shadow: inset 3px 0 0 var(--cna-plum, #7B3F71);
+}
+/* Trustworthy FRS (steel blue) — security/certification theme */
+.cna-card[data-series="trustworthy-frs"] .cna-chip-seminar{
+  background: var(--cna-steel-tint);
+  border-color: var(--cna-steel-line);
+  color: var(--cna-steel);
+}
+.cna-card[data-series="trustworthy-frs"]{
+  box-shadow: inset 3px 0 0 var(--cna-steel);
 }
 
 /* ---------- Seminar container: three view modes ---------- */

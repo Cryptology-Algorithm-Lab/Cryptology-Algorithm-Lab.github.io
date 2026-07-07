@@ -254,6 +254,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
 <nav class="cna-filter-row" data-filter-kind="seminar" data-filter-target="#seminar-container" aria-label="Seminar filters" markdown="0">
   <button type="button" class="cna-filter-chip" data-filter="upcoming" aria-pressed="true">Upcoming</button>
+  <button type="button" class="cna-filter-chip" data-filter="trustworthy-frs" aria-pressed="false">Trustworthy FRS</button>
   <button type="button" class="cna-filter-chip" data-filter="spring-summer" aria-pressed="false">Spring/Summer</button>
   <button type="button" class="cna-filter-chip" data-filter="pml" aria-pressed="false">Probabilistic ML</button>
   <button type="button" class="cna-filter-chip" data-filter="winter" aria-pressed="false">2025 Fall / 2026 Winter</button>
@@ -262,6 +263,96 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 </nav>
 
 <div id="seminar-container">
+
+  <details class="cna-year" data-series-block="trustworthy-frs" open markdown="0">
+    <summary>
+      <h3>2026 · Summer · Trustworthy FRS</h3>
+      <span class="cna-year-count">7 sessions</span>
+      <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+    </summary>
+    <div class="cna-year-body">
+      <div class="cna-card-grid">
+
+  <article class="cna-card cna-cat-seminar" data-series="trustworthy-frs" data-date="2026-07-08">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Jul 8 · 13:00–15:00</span>
+      <span class="cna-card-meta cna-tba">TBA</span>
+    </header>
+    <div class="cna-card-body">
+      <b>Kickoff</b><br>
+      <span style="color:var(--cna-soft)">Changjin Kim, Seunghun Paik, Chanwoo Hwang · Natural Building 702</span>
+    </div>
+  </article>
+
+  <article class="cna-card cna-cat-seminar" data-series="trustworthy-frs" data-date="2026-07-15">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Jul 15 · 13:00–15:00</span>
+      <span class="cna-card-meta cna-tba">TBA</span>
+    </header>
+    <div class="cna-card-body">
+      <b>Certifiable FR &amp; PAD — I</b><br>
+      <span style="color:var(--cna-soft)">Speaker TBA · Natural Building 702</span>
+    </div>
+  </article>
+
+  <article class="cna-card cna-cat-seminar" data-series="trustworthy-frs" data-date="2026-07-22">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Jul 22 · 13:00–15:00</span>
+      <span class="cna-card-meta cna-tba">TBA</span>
+    </header>
+    <div class="cna-card-body">
+      <b>Presentation Attack Detection (PAD) — I</b><br>
+      <span style="color:var(--cna-soft)">Speaker TBA · Natural Building 702</span>
+    </div>
+  </article>
+
+  <article class="cna-card cna-cat-seminar" data-series="trustworthy-frs" data-date="2026-07-29">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Jul 29 · 13:00–15:00</span>
+      <span class="cna-card-meta cna-tba">TBA</span>
+    </header>
+    <div class="cna-card-body">
+      <b>Neural Architecture Search (NAS) — I</b><br>
+      <span style="color:var(--cna-soft)">Speaker TBA · Natural Building 702</span>
+    </div>
+  </article>
+
+  <article class="cna-card cna-cat-seminar" data-series="trustworthy-frs" data-date="2026-08-05">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Aug 5 · 13:00–15:00</span>
+      <span class="cna-card-meta cna-tba">TBA</span>
+    </header>
+    <div class="cna-card-body">
+      <b>Certifiable FR &amp; PAD — II</b><br>
+      <span style="color:var(--cna-soft)">Speaker TBA · Natural Building 702</span>
+    </div>
+  </article>
+
+  <article class="cna-card cna-cat-seminar" data-series="trustworthy-frs" data-date="2026-08-12">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Aug 12 · 13:00–15:00</span>
+      <span class="cna-card-meta cna-tba">TBA</span>
+    </header>
+    <div class="cna-card-body">
+      <b>Presentation Attack Detection (PAD) — II</b><br>
+      <span style="color:var(--cna-soft)">Speaker TBA · Natural Building 702</span>
+    </div>
+  </article>
+
+  <article class="cna-card cna-cat-seminar" data-series="trustworthy-frs" data-date="2026-08-19">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Aug 19 · 13:00–15:00</span>
+      <span class="cna-card-meta cna-tba">TBA</span>
+    </header>
+    <div class="cna-card-body">
+      <b>Neural Architecture Search (NAS) — II</b><br>
+      <span style="color:var(--cna-soft)">Speaker TBA · Natural Building 702</span>
+    </div>
+  </article>
+
+      </div>
+    </div>
+  </details>
 
   <details class="cna-year" data-series-block="spring-summer" open markdown="0">
     <summary>
