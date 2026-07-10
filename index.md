@@ -276,7 +276,6 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar" data-series="trustworthy-frs" data-date="2026-07-08">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Jul 8 · 13:00–15:00</span>
-      <span class="cna-card-meta cna-tba">TBA</span>
     </header>
     <div class="cna-card-body">
       <b>Kickoff</b><br>
@@ -287,7 +286,6 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar" data-series="trustworthy-frs" data-date="2026-07-15">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Jul 15 · 13:00–15:00</span>
-      <span class="cna-card-meta cna-tba">TBA</span>
     </header>
     <div class="cna-card-body">
       <b>Certifiable FR &amp; PAD — I</b><br>
@@ -298,7 +296,6 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar" data-series="trustworthy-frs" data-date="2026-07-22">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Jul 22 · 13:00–15:00</span>
-      <span class="cna-card-meta cna-tba">TBA</span>
     </header>
     <div class="cna-card-body">
       <b>Presentation Attack Detection (PAD) — I</b><br>
@@ -309,7 +306,6 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar" data-series="trustworthy-frs" data-date="2026-07-29">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Jul 29 · 13:00–15:00</span>
-      <span class="cna-card-meta cna-tba">TBA</span>
     </header>
     <div class="cna-card-body">
       <b>Neural Architecture Search (NAS) — I</b><br>
@@ -320,7 +316,6 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar" data-series="trustworthy-frs" data-date="2026-08-05">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Aug 5 · 13:00–15:00</span>
-      <span class="cna-card-meta cna-tba">TBA</span>
     </header>
     <div class="cna-card-body">
       <b>Certifiable FR &amp; PAD — II</b><br>
@@ -331,7 +326,6 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar" data-series="trustworthy-frs" data-date="2026-08-12">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Aug 12 · 13:00–15:00</span>
-      <span class="cna-card-meta cna-tba">TBA</span>
     </header>
     <div class="cna-card-body">
       <b>Presentation Attack Detection (PAD) — II</b><br>
@@ -342,7 +336,6 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar" data-series="trustworthy-frs" data-date="2026-08-19">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Aug 19 · 13:00–15:00</span>
-      <span class="cna-card-meta cna-tba">TBA</span>
     </header>
     <div class="cna-card-body">
       <b>Neural Architecture Search (NAS) — II</b><br>
