@@ -425,7 +425,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar" data-series="spring-summer" data-date="2026-07-10">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Jul 10 · 13:00–15:00</span>
-      <span class="cna-card-meta cna-tba">TBA</span>
+      <a class="cna-card-meta" href="https://drive.google.com/file/d/1EOxLyZAcgvbdtPE741wDnCeEGKmd8vDD/view?usp=drive_link" target="_blank" rel="noopener">Slides ↗</a>
     </header>
     <div class="cna-card-body">
       <b>SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search</b><br>
@@ -527,7 +527,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar" data-series="pml" data-date="2026-07-09">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Jul 9 · 13:00–15:00</span>
-      <span class="cna-card-meta cna-tba">TBA</span>
+      <a class="cna-card-meta" href="https://docs.google.com/presentation/d/1CK9IAQkdx4whkzPiX0TmHof426QhEkvJ/edit?usp=drive_link&ouid=105012852875558289299&rtpof=true&sd=true" target="_blank" rel="noopener">Slides ↗</a>
     </header>
     <div class="cna-card-body">
       <b>Ch 13 · Neural Networks for Tabular Data</b><br>
