@@ -293,22 +293,12 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </article>
 
-  <article class="cna-card cna-cat-seminar" data-series="trustworthy-frs" data-date="2026-07-22">
-    <header class="cna-card-head">
-      <span class="cna-chip cna-chip-seminar">Jul 22 · 13:00–15:00</span>
-    </header>
-    <div class="cna-card-body">
-      <b>Presentation Attack Detection (PAD) — I</b><br>
-      <span style="color:var(--cna-soft)">Speaker TBA · Natural Building 702</span>
-    </div>
-  </article>
-
   <article class="cna-card cna-cat-seminar" data-series="trustworthy-frs" data-date="2026-07-29">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Jul 29 · 13:00–15:00</span>
     </header>
     <div class="cna-card-body">
-      <b>Neural Architecture Search (NAS) — I</b><br>
+      <b>Presentation Attack Detection (PAD) — I</b><br>
       <span style="color:var(--cna-soft)">Speaker TBA · Natural Building 702</span>
     </div>
   </article>
@@ -318,7 +308,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
       <span class="cna-chip cna-chip-seminar">Aug 5 · 13:00–15:00</span>
     </header>
     <div class="cna-card-body">
-      <b>Certifiable FR &amp; PAD — II</b><br>
+      <b>Neural Architecture Search (NAS) — I</b><br>
       <span style="color:var(--cna-soft)">Speaker TBA · Natural Building 702</span>
     </div>
   </article>
@@ -328,7 +318,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
       <span class="cna-chip cna-chip-seminar">Aug 12 · 13:00–15:00</span>
     </header>
     <div class="cna-card-body">
-      <b>Presentation Attack Detection (PAD) — II</b><br>
+      <b>Certifiable FR &amp; PAD — II</b><br>
       <span style="color:var(--cna-soft)">Speaker TBA · Natural Building 702</span>
     </div>
   </article>
@@ -336,6 +326,16 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar" data-series="trustworthy-frs" data-date="2026-08-19">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Aug 19 · 13:00–15:00</span>
+    </header>
+    <div class="cna-card-body">
+      <b>Presentation Attack Detection (PAD) — II</b><br>
+      <span style="color:var(--cna-soft)">Speaker TBA · Natural Building 702</span>
+    </div>
+  </article>
+
+  <article class="cna-card cna-cat-seminar" data-series="trustworthy-frs" data-date="2026-08-26">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Aug 26 · 13:00–15:00</span>
     </header>
     <div class="cna-card-body">
       <b>Neural Architecture Search (NAS) — II</b><br>
@@ -557,9 +557,9 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </article>
 
-  <article class="cna-card cna-cat-seminar" data-series="pml" data-date="2026-07-21">
+  <article class="cna-card cna-cat-seminar" data-series="pml" data-date="2026-07-28">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-seminar">Jul 21 · 13:00–15:00</span>
+      <span class="cna-chip cna-chip-seminar">Jul 28 · 13:00–15:00</span>
       <span class="cna-card-meta cna-tba">TBA</span>
     </header>
     <div class="cna-card-body">
@@ -568,9 +568,9 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </article>
 
-  <article class="cna-card cna-cat-seminar" data-series="pml" data-date="2026-07-23">
+  <article class="cna-card cna-cat-seminar" data-series="pml" data-date="2026-07-30">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-seminar">Jul 23 · 13:00–15:00</span>
+      <span class="cna-chip cna-chip-seminar">Jul 30 · 13:00–15:00</span>
       <span class="cna-card-meta cna-tba">TBA</span>
     </header>
     <div class="cna-card-body">
@@ -579,9 +579,9 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </article>
 
-  <article class="cna-card cna-cat-seminar" data-series="pml" data-date="2026-07-28">
+  <article class="cna-card cna-cat-seminar" data-series="pml" data-date="2026-08-04">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-seminar">Jul 28 · 13:00–15:00</span>
+      <span class="cna-chip cna-chip-seminar">Aug 4 · 13:00–15:00</span>
       <span class="cna-card-meta cna-tba">TBA</span>
     </header>
     <div class="cna-card-body">
