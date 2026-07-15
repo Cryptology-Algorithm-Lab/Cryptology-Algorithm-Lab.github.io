@@ -289,7 +289,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </header>
     <div class="cna-card-body">
       <b>Certifiable FR &amp; PAD — I</b><br>
-      <span style="color:var(--cna-soft)">Speaker TBA · Natural Building 702</span>
+      <span style="color:var(--cna-soft)">Hyeonmin Jang, Ingeun Yun · Natural Building 702</span>
     </div>
   </article>
 
