@@ -299,7 +299,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </header>
     <div class="cna-card-body">
       <b>Presentation Attack Detection (PAD) — I</b><br>
-      <span style="color:var(--cna-soft)">Speaker TBA · Natural Building 702</span>
+      <span style="color:var(--cna-soft)">Speaker TBA · Natural Building 701</span>
     </div>
   </article>
 
@@ -571,7 +571,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar" data-series="pml" data-date="2026-07-21">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Jul 21 · 13:00–15:00</span>
-      <span class="cna-card-meta cna-tba">TBA</span>
+      <a class="cna-card-meta" href="https://drive.google.com/file/d/1s-AH8RpQQBo2nfDNquzGC5bKokNvbOj2/view?usp=share_link" target="_blank" rel="noopener">Slides ↗</a>
     </header>
     <div class="cna-card-body">
       <b>Ch 17 · Kernel Methods</b><br>
