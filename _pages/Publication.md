@@ -42,7 +42,7 @@ header:
     </div>
     <div class="cna-row-aside">
       <span class="cna-chip cna-chip-paper">IEEE Access</span>
-      <span class="cna-row-aside-detail">TBA</span>
+      <span class="cna-row-aside-detail"><a href="https://doi.org/10.1109/ACCESS.2026.3689766">DOI</a></span>
     </div>
   </article>
 
@@ -54,7 +54,7 @@ header:
     </div>
     <div class="cna-row-aside">
       <span class="cna-chip cna-chip-paper">IEEE Access</span>
-      <span class="cna-row-aside-detail">TBA</span>
+      <span class="cna-row-aside-detail"><a href="https://doi.org/10.1109/ACCESS.2026.3654539">DOI</a></span>
     </div>
   </article>
 
@@ -588,7 +588,7 @@ header:
     </div>
     <div class="cna-row-aside">
       <span class="cna-chip cna-chip-talk">ASIACCS</span>
-      <span class="cna-row-aside-detail">2026 · TBA</span>
+      <span class="cna-row-aside-detail">2026 · <a href="https://doi.org/10.1145/3779208.3785272">DOI</a></span>
     </div>
   </article>
 
