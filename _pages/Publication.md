@@ -26,11 +26,11 @@ header:
     <span class="cna-row-meta">J35</span>
     <div class="cna-row-main">
       <div class="cna-row-title"><b>Seunghun Paik&dagger;</b>, <b>Chanwoo Hwang&dagger;</b>, and <b>Jae Hong Seo*</b></div>
-      <div class="cna-row-sub"><i>Towards Generating Unlearnable Examples for Open-Set Face Recognition</i></div>
+      <div class="cna-row-sub"><i>Toward Generating Unlearnable Examples for Open-Set Face Recognition</i></div>
     </div>
     <div class="cna-row-aside">
       <span class="cna-chip cna-chip-paper">IEEE SPL</span>
-      <span class="cna-row-aside-detail">TBA</span>
+      <span class="cna-row-aside-detail"><a href="https://doi.org/10.1109/LSP.2026.3707806">DOI</a></span>
     </div>
   </article>
 
@@ -73,7 +73,7 @@ header:
     </div>
     <div class="cna-row-aside">
       <span class="cna-chip cna-chip-paper">IEEE Access</span>
-      <span class="cna-row-aside-detail"><a href="https://ieeexplore.ieee.org/abstract/document/11316118">DOI</a></span>
+      <span class="cna-row-aside-detail"><a href="https://doi.org/10.1109/ACCESS.2025.3648455">DOI</a></span>
     </div>
   </article>
 
@@ -97,7 +97,7 @@ header:
     </div>
     <div class="cna-row-aside">
       <span class="cna-chip cna-chip-paper">IEEE TDSC</span>
-      <span class="cna-row-aside-detail"><a href="https://ieeexplore.ieee.org/document/11269699">DOI</a></span>
+      <span class="cna-row-aside-detail"><a href="https://doi.org/10.1109/TDSC.2025.3637307">DOI</a></span>
     </div>
   </article>
 
@@ -619,7 +619,7 @@ header:
     </div>
     <div class="cna-row-aside">
       <span class="cna-chip cna-chip-talk">NeurIPS</span>
-      <span class="cna-row-aside-detail">2025 · TBA</span>
+      <span class="cna-row-aside-detail">2025 · <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/359242d225d2fba218a85e147803f8b7-Abstract-Conference.html">Proc.</a></span>
     </div>
   </article>
 
