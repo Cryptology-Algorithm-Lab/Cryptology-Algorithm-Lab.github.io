@@ -69,7 +69,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     <div class="cna-card-body">
       <p>Accepted for publication at <b>IEEE Signal Processing Letters</b>.</p>
       <p><b>Seunghun Paik&dagger;</b>, <b>Chanwoo Hwang&dagger;</b>, and <b>Jae Hong Seo*</b><br>
-      <i>Towards Generating Unlearnable Examples for Open-Set Face Recognition</i></p>
+      <i>Toward Generating Unlearnable Examples for Open-Set Face Recognition</i></p>
     </div>
   </article>
 
