@@ -582,7 +582,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar" data-series="pml" data-date="2026-07-23">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Jul 23 · 13:00–15:00</span>
-      <span class="cna-card-meta cna-tba">TBA</span>
+      <a class="cna-card-meta" href="https://docs.google.com/presentation/d/16jagvL7JIDgzfsJqvgBh5V6DrLvu8PRe/edit?usp=sharing&ouid=115899156690963625591&rtpof=true&sd=true" target="_blank" rel="noopener">Slides ↗</a>
     </header>
     <div class="cna-card-body">
       <b>Ch 19 · Learning with Fewer Labeled Examples</b><br>
