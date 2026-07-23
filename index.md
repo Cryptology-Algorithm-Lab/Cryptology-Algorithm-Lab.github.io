@@ -586,7 +586,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </header>
     <div class="cna-card-body">
       <b>Ch 19 · Learning with Fewer Labeled Examples</b><br>
-      <span style="color:var(--cna-soft)">Shinwoong Kwak · Natural Building 702</span>
+      <span style="color:var(--cna-soft)">Hyeonmin Jang · Natural Building 702</span>
     </div>
   </article>
 
