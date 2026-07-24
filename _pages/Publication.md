@@ -600,7 +600,7 @@ header:
     </div>
     <div class="cna-row-aside">
       <span class="cna-chip cna-chip-talk">NDSS</span>
-      <span class="cna-row-aside-detail">2026 · TBA</span>
+      <span class="cna-row-aside-detail">2026 · <a href="https://www.ndss-symposium.org/ndss-paper/select-then-compute-encrypted-label-selection-and-analytics-over-distributed-datasets-using-fhe/">Proc.</a></span>
     </div>
   </article>
 
