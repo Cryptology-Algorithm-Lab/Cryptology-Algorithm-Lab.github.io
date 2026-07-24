@@ -440,7 +440,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </header>
     <div class="cna-card-body">
       <b>Cryptanalytic Extraction of Neural Network Models</b><br>
-      <span style="color:var(--cna-soft)">Seunghun Paik · Natural Building 702</span>
+      <span style="color:var(--cna-soft)">Seunghun Paik · Natural Building 206</span>
     </div>
   </article>
 
