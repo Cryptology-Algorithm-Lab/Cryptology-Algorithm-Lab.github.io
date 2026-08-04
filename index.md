@@ -299,7 +299,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </header>
     <div class="cna-card-body">
       <b>Presentation Attack Detection (PAD) — I</b><br>
-      <span style="color:var(--cna-soft)">Speaker TBA · Natural Building 701</span>
+      <span style="color:var(--cna-soft)">Insoo Kim · Natural Building 701</span>
     </div>
   </article>
 
@@ -309,7 +309,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </header>
     <div class="cna-card-body">
       <b>Neural Architecture Search (NAS) — I</b><br>
-      <span style="color:var(--cna-soft)">Speaker TBA · Natural Building 206</span>
+      <span style="color:var(--cna-soft)">Minsu Kim, Seunghun Paik, Chanwoo Hwang · Natural Building 206</span>
     </div>
   </article>
 
