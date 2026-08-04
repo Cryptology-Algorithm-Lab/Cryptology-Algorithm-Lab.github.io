@@ -350,7 +350,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <details class="cna-year" data-series-block="spring-summer" open markdown="0">
     <summary>
       <h3>2026 · Spring / Summer Seminar</h3>
-      <span class="cna-year-count">9 sessions</span>
+      <span class="cna-year-count">10 sessions</span>
       <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
     </summary>
     <div class="cna-year-body">
@@ -447,11 +447,22 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar" data-series="spring-summer" data-date="2026-07-31">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Jul 31 · 13:00–15:00</span>
-      <span class="cna-card-meta cna-tba">TBA</span>
+      <a class="cna-card-meta" href="https://drive.google.com/file/d/1vDrmezRSWPL2DCgmzxbi1y8ee3nu69mz/view?usp=drive_link" target="_blank" rel="noopener">Slides ↗</a>
     </header>
     <div class="cna-card-body">
       <b>DINOv2: Learning Robust Visual Features without Supervision</b><br>
       <span style="color:var(--cna-soft)">Changjin Kim · Natural Building 702</span>
+    </div>
+  </article>
+
+  <article class="cna-card cna-cat-seminar" data-series="spring-summer" data-date="2026-08-07">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Aug 7 · 13:00–15:00</span>
+      <span class="cna-card-meta cna-tba">TBA</span>
+    </header>
+    <div class="cna-card-body">
+      <b>Solving Linear Equations Modulo Divisors: On Factoring Given Any Bits</b><br>
+      <span style="color:var(--cna-soft)">Minsu Kim · Natural Building 702</span>
     </div>
   </article>
 
