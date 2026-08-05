@@ -436,7 +436,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar" data-series="spring-summer" data-date="2026-07-24">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Jul 24 · 13:00–15:00</span>
-      <span class="cna-card-meta cna-tba">TBA</span>
+      <a class="cna-card-meta" href="https://drive.google.com/file/d/1q3S6hleEEHkSKUNImHcqsClUulakg5Dr/view?usp=sharing" target="_blank" rel="noopener">Slides ↗</a>
     </header>
     <div class="cna-card-body">
       <b>Cryptanalytic Extraction of Neural Network Models</b><br>
