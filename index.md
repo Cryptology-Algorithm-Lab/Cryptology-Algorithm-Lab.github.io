@@ -458,7 +458,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar" data-series="spring-summer" data-date="2026-08-07">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Aug 7 · 13:00–15:00</span>
-      <span class="cna-card-meta cna-tba">TBA</span>
+      <a class="cna-card-meta" href="https://drive.google.com/file/d/1IUkDvGrq73DCnnE3mqMG4AqqLTsg31LF/view?usp=share_link" target="_blank" rel="noopener">Slides ↗</a>
     </header>
     <div class="cna-card-body">
       <b>Solving Linear Equations Modulo Divisors: On Factoring Given Any Bits</b><br>
@@ -612,10 +612,10 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </article>
 
-  <article class="cna-card cna-cat-seminar" data-series="pml" data-date="2026-07-28">
+  <article class="cna-card cna-cat-seminar" data-series="pml" data-date="2026-08-06">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-seminar">Jul 28 · 13:00–15:00</span>
-      <span class="cna-card-meta cna-tba">TBA</span>
+      <span class="cna-chip cna-chip-seminar">Aug 6 · 13:00–15:00</span>
+      <a class="cna-card-meta" href="https://drive.google.com/file/d/1YJeUS2Se71LLdMtUffN03KXh0x-U4Egs/view?usp=share_link" target="_blank" rel="noopener">Slides ↗</a>
     </header>
     <div class="cna-card-body">
       <b>Ch 20 &amp; 21 · Dimensionality Reduction &amp; Clustering</b><br>
