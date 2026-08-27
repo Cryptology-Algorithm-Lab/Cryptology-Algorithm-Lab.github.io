@@ -41,7 +41,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
       <time class="cna-card-meta">Aug 27, 2026</time>
     </header>
     <div class="cna-card-body">
-      Ph.D. <b>Sunpill Kim</b>, a postdoctoral researcher at our lab, will join the Division of Computer Science at Sookmyung Women’s University as an Assistant Professor, starting September 2026.
+      <b>Sunpill Kim</b>, our lab’s Ph.D. graduate and postdoctoral researcher, will join the Division of Computer Science at Sookmyung Women’s University as an Assistant Professor, starting September 2026.
     </div>
   </article>
 
