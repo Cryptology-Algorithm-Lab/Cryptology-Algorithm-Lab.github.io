@@ -26,9 +26,8 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 <nav class="cna-filter-row" data-filter-kind="news" data-filter-target="#annual-news-grid" aria-label="News filters" markdown="0">
   <button type="button" class="cna-filter-chip" data-filter="recent" aria-pressed="true">Recent</button>
   <button type="button" class="cna-filter-chip" data-filter="paper" aria-pressed="false">Paper</button>
-  <button type="button" class="cna-filter-chip" data-filter="talk" aria-pressed="false">Talk</button>
-  <button type="button" class="cna-filter-chip" data-filter="award" aria-pressed="false">Award</button>
-  <button type="button" class="cna-filter-chip" data-filter="event" aria-pressed="false">Event</button>
+  <button type="button" class="cna-filter-chip" data-filter="talk" aria-pressed="false">Talk &amp; Event</button>
+  <button type="button" class="cna-filter-chip" data-filter="award" aria-pressed="false">Award &amp; Grant</button>
   <button type="button" class="cna-filter-chip" data-filter="people" aria-pressed="false">Member</button>
   <button type="button" class="cna-filter-chip" data-filter="all" aria-pressed="false">All</button>
 </nav>
@@ -96,9 +95,9 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </article>
 
-  <article class="cna-card cna-cat-award" data-cat="award" data-date="2026-06-05">
+  <article class="cna-card cna-cat-event" data-cat="award" data-date="2026-06-05">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-award">Grant</span>
+      <span class="cna-chip cna-chip-event">Grant</span>
       <time class="cna-card-meta">Jun 5, 2026</time>
     </header>
     <div class="cna-card-body">
@@ -195,7 +194,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </article>
 
-  <article class="cna-card cna-cat-event" data-cat="event" data-date="2026-04-09">
+  <article class="cna-card cna-cat-event" data-cat="award" data-date="2026-04-09">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-event">Program</span>
       <time class="cna-card-meta">Apr 9, 2026</time>
@@ -218,7 +217,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </article>
 
-  <article class="cna-card cna-cat-event" data-cat="event" data-date="2026-03-18">
+  <article class="cna-card cna-cat-event" data-cat="talk" data-date="2026-03-18">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-event">Workshop</span>
       <time class="cna-card-meta">Mar 18, 2026</time>
