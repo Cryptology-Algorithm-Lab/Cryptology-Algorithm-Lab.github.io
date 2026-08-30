@@ -15,6 +15,18 @@ header:
 <div class="cna-projects" markdown="0">
 
   <article class="cna-row">
+    <span class="cna-row-meta">Sep 2026 – Aug 2029</span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">적대적 공격에 대한 증명 가능한 강건성을 갖는 AI의 이론적 토대 구축: 표현공간의 수학적 구조 분석 중심 연구</div>
+      <div class="cna-row-sub"><i>Foundations of Certifiably Robust AI against Adversarial Attacks</i></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip">NRF</span>
+      <span class="cna-row-aside-detail">한국연구재단</span>
+    </div>
+  </article>
+
+  <article class="cna-row">
     <span class="cna-row-meta">Sep 2025 – Aug 2026</span>
     <div class="cna-row-main">
       <div class="cna-row-title">신원 보존 역모델 설계: 화자 인식 시스템의 취약성 탐구</div>
