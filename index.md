@@ -35,7 +35,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
 <div id="annual-news-grid" class="cna-card-grid" markdown="0">
 
-  <article class="cna-card cna-cat-event" data-cat="event" data-date="2026-08-30">
+  <article class="cna-card cna-cat-event" data-cat="award" data-date="2026-08-30">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-event">Grant</span>
       <time class="cna-card-meta">Aug 30, 2026</time>
