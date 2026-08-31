@@ -34,9 +34,9 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
 <div id="annual-news-grid" class="cna-card-grid" markdown="0">
 
-  <article class="cna-card cna-cat-event" data-cat="award" data-date="2026-08-30">
+  <article class="cna-card cna-cat-award" data-cat="award" data-date="2026-08-30">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-event">Grant</span>
+      <span class="cna-chip cna-chip-award">Grant</span>
       <time class="cna-card-meta">Aug 30, 2026</time>
     </header>
     <div class="cna-card-body">
@@ -95,9 +95,9 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </article>
 
-  <article class="cna-card cna-cat-event" data-cat="award" data-date="2026-06-05">
+  <article class="cna-card cna-cat-award" data-cat="award" data-date="2026-06-05">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-event">Grant</span>
+      <span class="cna-chip cna-chip-award">Grant</span>
       <time class="cna-card-meta">Jun 5, 2026</time>
     </header>
     <div class="cna-card-body">
@@ -194,9 +194,9 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </article>
 
-  <article class="cna-card cna-cat-event" data-cat="award" data-date="2026-04-09">
+  <article class="cna-card cna-cat-award" data-cat="award" data-date="2026-04-09">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-event">Program</span>
+      <span class="cna-chip cna-chip-award">Program</span>
       <time class="cna-card-meta">Apr 9, 2026</time>
     </header>
     <div class="cna-card-body">
@@ -217,9 +217,9 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </article>
 
-  <article class="cna-card cna-cat-event" data-cat="talk" data-date="2026-03-18">
+  <article class="cna-card cna-cat-seminar" data-cat="talk" data-date="2026-03-18">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-event">Workshop</span>
+      <span class="cna-chip cna-chip-seminar">Workshop</span>
       <time class="cna-card-meta">Mar 18, 2026</time>
     </header>
     <div class="cna-card-body">
