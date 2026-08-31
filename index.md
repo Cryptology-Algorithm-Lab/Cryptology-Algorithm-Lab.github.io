@@ -293,9 +293,9 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     <div class="cna-year-body">
       <div class="cna-card-grid">
 
-  <article class="cna-card cna-cat-seminar" data-series="fall-winter">
+  <article class="cna-card cna-cat-seminar" data-series="fall-winter" data-date="2026-09-10">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-seminar">Date TBA</span>
+      <span class="cna-chip cna-chip-seminar">Sep 10</span>
       <span class="cna-card-meta cna-tba">TBA</span>
     </header>
     <div class="cna-card-body">
