@@ -40,7 +40,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
       <time class="cna-card-meta">Aug 30, 2026</time>
     </header>
     <div class="cna-card-body">
-      The following project supported by the <b>National Research Foundation of Korea (NRF)</b> has been selected, and will start in September 2026.
+      Our proposal has been selected for the <b>Strategic Basic Research Program</b> (Nationally Designated Field: Science of AI) of the <b>National Research Foundation of Korea (NRF)</b>. The project will start in September 2026.
       <ul>
         <li><i>Foundations of Certifiably Robust AI against Adversarial Attacks</i></li>
       </ul>
