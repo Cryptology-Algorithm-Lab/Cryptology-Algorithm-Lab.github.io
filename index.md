@@ -278,11 +278,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <button type="button" class="cna-filter-chip" data-filter="upcoming" aria-pressed="true">Upcoming</button>
   <button type="button" class="cna-filter-chip" data-filter="fall-winter" aria-pressed="false">2026 Fall / 2027 Winter</button>
   <button type="button" class="cna-filter-chip" data-filter="pml-fall" aria-pressed="false">Probabilistic ML (Fall)</button>
-  <button type="button" class="cna-filter-chip" data-filter="trustworthy-frs" aria-pressed="false">Trustworthy FRS</button>
-  <button type="button" class="cna-filter-chip" data-filter="spring-summer" aria-pressed="false">Spring/Summer</button>
-  <button type="button" class="cna-filter-chip" data-filter="pml" aria-pressed="false">Probabilistic ML (Spring)</button>
-  <button type="button" class="cna-filter-chip" data-filter="winter" aria-pressed="false">2025 Fall / 2026 Winter</button>
-  <button type="button" class="cna-filter-chip" data-filter="vlm" aria-pressed="false">Special Topic (VLM)</button>
+  <button type="button" class="cna-filter-chip" data-filter="trustworthy-frs spring-summer pml winter vlm" aria-pressed="false">Prior</button>
   <button type="button" class="cna-filter-chip" data-filter="all" aria-pressed="false">All</button>
 </nav>
 
