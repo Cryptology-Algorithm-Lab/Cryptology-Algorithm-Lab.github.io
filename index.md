@@ -276,9 +276,11 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
 <nav class="cna-filter-row" data-filter-kind="seminar" data-filter-target="#seminar-container" aria-label="Seminar filters" markdown="0">
   <button type="button" class="cna-filter-chip" data-filter="upcoming" aria-pressed="true">Upcoming</button>
+  <button type="button" class="cna-filter-chip" data-filter="fall-winter" aria-pressed="false">2026 Fall / 2027 Winter</button>
+  <button type="button" class="cna-filter-chip" data-filter="pml-fall" aria-pressed="false">Probabilistic ML (Fall)</button>
   <button type="button" class="cna-filter-chip" data-filter="trustworthy-frs" aria-pressed="false">Trustworthy FRS</button>
   <button type="button" class="cna-filter-chip" data-filter="spring-summer" aria-pressed="false">Spring/Summer</button>
-  <button type="button" class="cna-filter-chip" data-filter="pml" aria-pressed="false">Probabilistic ML</button>
+  <button type="button" class="cna-filter-chip" data-filter="pml" aria-pressed="false">Probabilistic ML (Spring)</button>
   <button type="button" class="cna-filter-chip" data-filter="winter" aria-pressed="false">2025 Fall / 2026 Winter</button>
   <button type="button" class="cna-filter-chip" data-filter="vlm" aria-pressed="false">Special Topic (VLM)</button>
   <button type="button" class="cna-filter-chip" data-filter="all" aria-pressed="false">All</button>
@@ -286,7 +288,55 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
 <div id="seminar-container">
 
-  <details class="cna-year" data-series-block="trustworthy-frs" open markdown="0">
+  <details class="cna-year" data-series-block="fall-winter" open markdown="0">
+    <summary>
+      <h3>2026 Fall · 2027 Winter Seminar</h3>
+      <span class="cna-year-count">1 session</span>
+      <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+    </summary>
+    <div class="cna-year-body">
+      <div class="cna-card-grid">
+
+  <article class="cna-card cna-cat-seminar" data-series="fall-winter">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Date TBA</span>
+      <span class="cna-card-meta cna-tba">TBA</span>
+    </header>
+    <div class="cna-card-body">
+      <b>About Revocability of BTP based on Real Valued ECC</b><br>
+      <span style="color:var(--cna-soft)">Minsu Kim · Venue TBA</span>
+    </div>
+  </article>
+
+      </div>
+    </div>
+  </details>
+
+  <details class="cna-year" data-series-block="pml-fall" open markdown="0">
+    <summary>
+      <h3>2026 · Fall · Probabilistic ML Study Group</h3>
+      <span class="cna-year-count">1 session</span>
+      <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+    </summary>
+    <div class="cna-year-body">
+      <div class="cna-card-grid">
+
+  <article class="cna-card cna-cat-seminar" data-series="pml-fall" data-date="2026-09-08">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Sep 8 · 10:00–12:00</span>
+      <span class="cna-card-meta cna-tba">TBA</span>
+    </header>
+    <div class="cna-card-body">
+      <b>Foundations: Probability</b><br>
+      <span style="color:var(--cna-soft)">Sehun Kim · Natural Building 702</span>
+    </div>
+  </article>
+
+      </div>
+    </div>
+  </details>
+
+  <details class="cna-year" data-series-block="trustworthy-frs" markdown="0">
     <summary>
       <h3>2026 · Summer · Trustworthy FRS</h3>
       <span class="cna-year-count">7 sessions</span>
@@ -369,7 +419,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </details>
 
-  <details class="cna-year" data-series-block="spring-summer" open markdown="0">
+  <details class="cna-year" data-series-block="spring-summer" markdown="0">
     <summary>
       <h3>2026 · Spring / Summer Seminar</h3>
       <span class="cna-year-count">12 sessions</span>
@@ -502,7 +552,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar" data-series="spring-summer" data-date="2026-08-21">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Aug 21 · 13:00–15:00</span>
-      <span class="cna-card-meta cna-tba">TBA</span>
+      <a class="cna-card-meta" href="https://drive.google.com/file/d/1SD5MafEtS9fE3kweMAZAstSjbJCznEaa/view?usp=drive_link" target="_blank" rel="noopener">Slides ↗</a>
     </header>
     <div class="cna-card-body">
       <b>Is the Hard-Label Cryptanalytic Model Extraction Really Polynomial?</b><br>
@@ -514,7 +564,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </details>
 
-  <details class="cna-year" data-series-block="pml" open markdown="0">
+  <details class="cna-year" data-series-block="pml" markdown="0">
     <summary>
       <h3>2026 · Spring · Probabilistic ML Study Group</h3>
       <span class="cna-year-count">13 sessions</span>
