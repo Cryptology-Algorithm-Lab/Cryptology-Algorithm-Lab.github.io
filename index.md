@@ -47,9 +47,9 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </article>
 
-  <article class="cna-card cna-cat-people" data-cat="people" data-date="2026-08-27">
+  <article class="cna-card cna-cat-member" data-cat="people" data-date="2026-08-27">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-people">Member</span>
+      <span class="cna-chip cna-chip-member">Member</span>
       <time class="cna-card-meta">Aug 27, 2026</time>
     </header>
     <div class="cna-card-body">
@@ -146,9 +146,9 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </article>
 
-  <article class="cna-card cna-cat-people" data-cat="people" data-date="2026-05-04">
+  <article class="cna-card cna-cat-member" data-cat="people" data-date="2026-05-04">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-people">Member</span>
+      <span class="cna-chip cna-chip-member">Member</span>
       <time class="cna-card-meta">May 4, 2026</time>
     </header>
     <div class="cna-card-body">
@@ -257,9 +257,9 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </article>
 
-  <article class="cna-card cna-cat-people" data-cat="people" data-date="2026-01-05">
+  <article class="cna-card cna-cat-member" data-cat="people" data-date="2026-01-05">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-people">Member</span>
+      <span class="cna-chip cna-chip-member">Member</span>
       <time class="cna-card-meta">Jan 5, 2026</time>
     </header>
     <div class="cna-card-body">
