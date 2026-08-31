@@ -165,6 +165,12 @@
   border: 1px solid var(--cna-line); font-weight: 600;
 }
 
+/* Series tag: injected into every seminar card, shown only in the Upcoming
+   flat view where cards from different series sit side by side. margin-right
+   keeps it beside the date chip instead of being centred by space-between. */
+.cna-series-tag{ display: none; }
+#seminar-flat-view .cna-series-tag{ display: inline-flex; margin-right: auto; }
+
 /* ──────────────────────────────────────────────────────────
    4. CARD
    ────────────────────────────────────────────────────────── */

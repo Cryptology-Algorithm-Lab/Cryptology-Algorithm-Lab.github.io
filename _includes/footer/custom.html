@@ -146,6 +146,7 @@
   function applyFilter(row, cards, chip) {
     var kind = row.getAttribute('data-filter-kind');
     var filter = chip.getAttribute('data-filter');
+    var wanted = filter.split(' ');
     var targetSel = row.getAttribute('data-filter-target');
     var target = targetSel ? document.querySelector(targetSel) : null;
     var visible = [];
@@ -160,6 +161,28 @@
          series   -> data-view="filtered", matching <details> visible with header */
     var flatView = document.getElementById('seminar-flat-view');
     if (target && kind === 'seminar' && flatView) {
+      /* Remember each series block's authored open/closed state once, so the
+         group and All views can restore it instead of leaving everything the
+         last single-series click force-opened. */
+      Array.prototype.slice.call(target.querySelectorAll('details[data-series-block]')).forEach(function (d) {
+        if (!d.hasAttribute('data-open-default')) {
+          d.setAttribute('data-open-default', d.open ? 'true' : 'false');
+        }
+        /* Upcoming mixes series in one flat grid, so each card carries the
+           series name as a muted chip. Injected once here rather than being
+           repeated in every card's markup; CSS only reveals it in flat view. */
+        var label = d.getAttribute('data-series-label');
+        if (!label) return;
+        Array.prototype.slice.call(d.querySelectorAll('.cna-card')).forEach(function (c) {
+          var head = c.querySelector('.cna-card-head');
+          if (!head || head.querySelector('.cna-series-tag')) return;
+          var tag = document.createElement('span');
+          tag.className = 'cna-chip cna-chip-muted cna-series-tag';
+          tag.textContent = label;
+          var first = head.firstElementChild;
+          head.insertBefore(tag, first ? first.nextSibling : null);
+        });
+      });
       /* Whenever we're NOT in Upcoming, ensure cards are back inside their
          original series' <details> in chronological order. This is idempotent
          and cheap (30-odd cards). */
@@ -186,6 +209,9 @@
         target.removeAttribute('data-view');
         target.hidden = false;
         flatView.hidden = true;
+        Array.prototype.slice.call(target.querySelectorAll('details[data-series-block]')).forEach(function (d) {
+          d.open = d.getAttribute('data-open-default') === 'true';
+        });
       } else if (filter === 'upcoming') {
         target.hidden = true;
         flatView.hidden = false;
@@ -194,7 +220,12 @@
         target.setAttribute('data-view', 'filtered');
         target.hidden = false;
         flatView.hidden = true;
-        Array.prototype.slice.call(target.querySelectorAll('details')).forEach(function (d) { d.open = true; });
+        /* A single-series chip opens its block; a group chip (several series
+           in one data-filter, e.g. Prior) restores the authored state so the
+           reader gets a list of headers instead of every session at once. */
+        Array.prototype.slice.call(target.querySelectorAll('details[data-series-block]')).forEach(function (d) {
+          d.open = wanted.length === 1 ? true : d.getAttribute('data-open-default') === 'true';
+        });
       }
     }
 
@@ -220,7 +251,6 @@
           return toDate(b.getAttribute('data-date')) - toDate(a.getAttribute('data-date'));
         });
     } else if (kind === 'seminar') {
-      var wanted = filter.split(' ');
       visible = cards
         .filter(function (c) { return wanted.indexOf(c.getAttribute('data-series')) !== -1; })
         .sort(function (a, b) {

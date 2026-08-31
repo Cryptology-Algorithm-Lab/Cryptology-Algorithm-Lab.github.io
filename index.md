@@ -284,7 +284,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
 <div id="seminar-container">
 
-  <details class="cna-year" data-series-block="fall-winter" open markdown="0">
+  <details class="cna-year" data-series-block="fall-winter" data-series-label="2026 Fall / 2027 Winter" open markdown="0">
     <summary>
       <h3>2026 Fall · 2027 Winter Seminar</h3>
       <span class="cna-year-count">1 session</span>
@@ -308,7 +308,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </details>
 
-  <details class="cna-year" data-series-block="pml-fall" open markdown="0">
+  <details class="cna-year" data-series-block="pml-fall" data-series-label="Probabilistic ML (Fall)" open markdown="0">
     <summary>
       <h3>2026 · Fall · Probabilistic ML Study Group</h3>
       <span class="cna-year-count">1 session</span>
@@ -332,7 +332,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </details>
 
-  <details class="cna-year" data-series-block="trustworthy-frs" markdown="0">
+  <details class="cna-year" data-series-block="trustworthy-frs" data-series-label="Trustworthy FRS" markdown="0">
     <summary>
       <h3>2026 · Summer · Trustworthy FRS</h3>
       <span class="cna-year-count">7 sessions</span>
@@ -415,7 +415,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </details>
 
-  <details class="cna-year" data-series-block="spring-summer" markdown="0">
+  <details class="cna-year" data-series-block="spring-summer" data-series-label="Spring/Summer" markdown="0">
     <summary>
       <h3>2026 · Spring / Summer Seminar</h3>
       <span class="cna-year-count">12 sessions</span>
@@ -560,7 +560,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </details>
 
-  <details class="cna-year" data-series-block="pml" markdown="0">
+  <details class="cna-year" data-series-block="pml" data-series-label="Probabilistic ML (Spring)" markdown="0">
     <summary>
       <h3>2026 · Spring · Probabilistic ML Study Group</h3>
       <span class="cna-year-count">13 sessions</span>
@@ -717,7 +717,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </details>
 
-  <details class="cna-year" data-series-block="winter" markdown="0">
+  <details class="cna-year" data-series-block="winter" data-series-label="2025 Fall / 2026 Winter" markdown="0">
     <summary>
       <h3>2025 Fall · 2026 Winter Seminar</h3>
       <span class="cna-year-count">9 sessions</span>
@@ -829,7 +829,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </details>
 
-  <details class="cna-year" data-series-block="vlm" markdown="0">
+  <details class="cna-year" data-series-block="vlm" data-series-label="Special Topic (VLM)" markdown="0">
     <summary>
       <h3>2026 Winter · Special Topic: Vision Language Models</h3>
       <span class="cna-year-count">6 sessions</span>
