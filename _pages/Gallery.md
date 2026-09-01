@@ -206,7 +206,7 @@ gallery17:
 
   <section class="cna-section cna-cat-award" markdown="0">
     <header class="cna-section-head">
-      <h3>National Cryptographic Technology Contest 2025</h3>
+      <h3>National Cryptography Contest 2025</h3>
       <span class="cna-chip cna-chip-award">Award</span>
     </header>
     {% include gallery id="gallery13" %}
@@ -241,7 +241,7 @@ gallery17:
 
   <section class="cna-section cna-cat-award" markdown="0">
     <header class="cna-section-head">
-      <h3>National Cryptographic Technology Contest 2024</h3>
+      <h3>National Cryptography Contest 2024</h3>
       <span class="cna-chip cna-chip-award">Award</span>
     </header>
     {% include gallery id="gallery10" %}

@@ -109,7 +109,7 @@ header:
           <time class="cna-card-meta">Sep 23, 2025</time>
         </header>
         <div class="cna-card-body">
-          Papers led by C&amp;A members won several awards at the <b>National Cryptographic Technology Contest</b>, 2025.
+          Papers led by C&amp;A members won several awards at the <b>National Cryptography Contest</b>, 2025.
           <ul>
             <li>The following paper won the Excellence Award. Congrats all authors who participated in this submission.
               <ul>
@@ -336,7 +336,7 @@ header:
           <time class="cna-card-meta">Oct 11, 2024</time>
         </header>
         <div class="cna-card-body">
-          Papers led by C&amp;A members won several awards at the <b>National Cryptographic Technology Contest</b>, 2024.
+          Papers led by C&amp;A members won several awards at the <b>National Cryptography Contest</b>, 2024.
           <ul>
             <li>The following paper won the Excellence Award. Congrats all authors who participated in this submission.
               <ul>
@@ -523,7 +523,7 @@ header:
           <time class="cna-card-meta">Oct 4, 2023</time>
         </header>
         <div class="cna-card-body">
-          Papers led by C&amp;A members won several awards at the <b>National Cryptographic Technology Contest</b>, 2023.
+          Papers led by C&amp;A members won several awards at the <b>National Cryptography Contest</b>, 2023.
           <ul>
             <li>The following paper won the Excellence Award. Congrats all authors who participated in this submission.
               <ul>
@@ -711,7 +711,7 @@ header:
           <time class="cna-card-meta">Sep 27, 2022</time>
         </header>
         <div class="cna-card-body">
-          The following paper won the grand prize at "<b>National Cryptographic Technology Contest, 2022</b>". Congrats <b>Hyeonbum Lee</b>, who was the lead author of this submission.
+          The following paper won the grand prize at "<b>National Cryptography Contest, 2022</b>". Congrats <b>Hyeonbum Lee</b>, who was the lead author of this submission.
           <ul>
             <li><b>Hyeonbum Lee</b>, Sungwook Kim, and <b>Jae Hong Seo</b>, "<i>Non-Pairing Sublinear Verifiable Zero-Knowledge Arguments in Discrete Logarithm Setting</i>"</li>
           </ul>
@@ -724,7 +724,7 @@ header:
           <time class="cna-card-meta">Sep 27, 2022</time>
         </header>
         <div class="cna-card-body">
-          The following paper won the special prize at "<b>National Cryptographic Technology Contest, 2022</b>". Congrats <b>Sunpill Kim</b>, who was the lead author of this submission.
+          The following paper won the special prize at "<b>National Cryptography Contest, 2022</b>". Congrats <b>Sunpill Kim</b>, who was the lead author of this submission.
           <ul>
             <li><b>Sunpill Kim</b>, Hoyong Shin, and <b>Jae Hong Seo</b> "<i>Deep Face Template Protection in the Wild</i>"</li>
           </ul>
@@ -939,7 +939,7 @@ header:
           <time class="cna-card-meta">Oct 1, 2021</time>
         </header>
         <div class="cna-card-body">
-          Hyeonbum Lee (MS&amp;Ph.D student) will receive a Special Prize from Korea Cryptography Forum, due to his paper entitled "Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier" submitted in National Cryptographic Technology Contest. Congrat. Hyeonbum!
+          Hyeonbum Lee (MS&amp;Ph.D student) will receive a Special Prize from Korea Cryptography Forum, due to his paper entitled "Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier" submitted in National Cryptography Contest. Congrat. Hyeonbum!
         </div>
       </article>
 
@@ -1048,7 +1048,7 @@ header:
           <time class="cna-card-meta">2020</time>
         </header>
         <div class="cna-card-body">
-          [<a href="https://eprint.iacr.org/2020/735">Bulletproofs+</a>] Participant Prizes (2020) in the <b>National Cryptographic Technology Contest</b>, National Intelligence Service, Korea.
+          [<a href="https://eprint.iacr.org/2020/735">Bulletproofs+</a>] Participant Prizes (2020) in the <b>National Cryptography Contest</b>, National Intelligence Service, Korea.
         </div>
       </article>
 
