@@ -14,10 +14,22 @@ header:
 <details class="cna-year" open markdown="0">
   <summary>
     <h3>2026</h3>
-    <span class="cna-year-count">1 award</span>
+    <span class="cna-year-count">2 awards</span>
     <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
   </summary>
   <div class="cna-year-body">
+
+  <article class="cna-row cna-row--no-meta">
+
+    <div class="cna-row-main">
+      <div class="cna-row-title">Crypto Analysis Contest</div>
+      <div class="cna-row-sub">777th Intelligence Command, Korea</div>
+      <div class="cna-row-recipients"><b>Minsu Kim</b>, <b>Hyeonmin Jang</b>, <b>Insoo Kim</b>, and <b>Ingeun Yun</b></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Encouragement</span>
+    </div>
+  </article>
 
   <article class="cna-row cna-row--no-meta">
 
