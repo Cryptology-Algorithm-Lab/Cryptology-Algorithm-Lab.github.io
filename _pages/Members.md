@@ -228,7 +228,7 @@ header:
       </div>
       <div class="cna-alum">
         <span class="cna-alum-name">Sunpill Kim</span>
-        <span class="cna-alum-affil">— Postdoc, Hanyang University</span>
+        <span class="cna-alum-affil">— Assistant Professor, Sookmyung Women’s University</span>
         <span class="cna-alum-when">Graduated Feb 2026</span>
       </div>
     </div>
