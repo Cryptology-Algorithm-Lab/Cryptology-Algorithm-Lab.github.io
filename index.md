@@ -40,7 +40,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
       <time class="cna-card-meta">Sep 1, 2026</time>
     </header>
     <div class="cna-card-body">
-      <b>Seunghun Paik</b> has been selected for a doctoral research grant (박사과정연구장려금) of the <b>National Research Foundation of Korea (NRF)</b>, running from September 2026 to August 2027.
+      <b>Seunghun Paik</b> has been selected for a doctoral research grant (박사과정연구장려금) of the <b>National Research Foundation of Korea (NRF)</b>.
       <ul>
         <li><i>Research on Fuzzy Private Set Intersection Protocols under Density-Bounded Assumptions</i></li>
       </ul>
