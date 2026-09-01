@@ -169,18 +169,18 @@ gallery17:
     {% include gallery id="gallery17" %}
   </section>
 
-  <section class="cna-section cna-cat-event" markdown="0">
+  <section class="cna-section cna-cat-seminar" markdown="0">
     <header class="cna-section-head">
       <h3>MATH: Make AI Trust Higher — Workshop at Hanyang University</h3>
-      <span class="cna-chip cna-chip-event">Workshop</span>
+      <span class="cna-chip cna-chip-seminar">Workshop</span>
     </header>
     {% include gallery id="gallery16" %}
   </section>
 
-  <section class="cna-section cna-cat-people" markdown="0">
+  <section class="cna-section cna-cat-member" markdown="0">
     <header class="cna-section-head">
       <h3>Celebrating Sunpill Kim’s graduation</h3>
-      <span class="cna-chip cna-chip-people">Member</span>
+      <span class="cna-chip cna-chip-member">Member</span>
     </header>
     {% include gallery id="gallery15" %}
   </section>
@@ -220,10 +220,10 @@ gallery17:
     {% include gallery id="gallery12" layout="half" %}
   </section>
 
-  <section class="cna-section cna-cat-people" markdown="0">
+  <section class="cna-section cna-cat-member" markdown="0">
     <header class="cna-section-head">
       <h3>Celebrating Hyeonbum Lee’s graduation</h3>
-      <span class="cna-chip cna-chip-people">Member</span>
+      <span class="cna-chip cna-chip-member">Member</span>
     </header>
     {% include gallery id="gallery11" %}
   </section>
@@ -255,10 +255,10 @@ gallery17:
     {% include gallery id="gallery9" %}
   </section>
 
-  <section class="cna-section cna-cat-event" markdown="0">
+  <section class="cna-section cna-cat-seminar" markdown="0">
     <header class="cna-section-head">
       <h3>MPC &amp; SNARK Workshop 2024</h3>
-      <span class="cna-chip cna-chip-event">Workshop</span>
+      <span class="cna-chip cna-chip-seminar">Workshop</span>
     </header>
     {% include gallery id="gallery8" %}
   </section>
@@ -307,7 +307,7 @@ gallery17:
     {% include gallery id="gallery4_1" %}
   </section>
 
-  <section class="cna-section cna-cat-people" markdown="0">
+  <section class="cna-section cna-cat-member" markdown="0">
     <header class="cna-section-head">
       <h3>Teacher’s Day with the lab</h3>
       <span class="cna-chip cna-chip-people">Lab Life</span>
@@ -345,7 +345,7 @@ gallery17:
   <section class="cna-section cna-cat-people" markdown="0">
     <header class="cna-section-head">
       <h3>Welcome — Bora Jeong</h3>
-      <span class="cna-chip cna-chip-people">Member</span>
+      <span class="cna-chip cna-chip-member">Member</span>
     </header>
     {% include gallery id="gallery1" %}
   </section>
