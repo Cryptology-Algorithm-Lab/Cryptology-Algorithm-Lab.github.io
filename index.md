@@ -36,6 +36,16 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
   <article class="cna-card cna-cat-award" data-cat="award" data-date="2026-09-01">
     <header class="cna-card-head">
+      <span class="cna-chip cna-chip-award">Award</span>
+      <time class="cna-card-meta">Sep 1, 2026</time>
+    </header>
+    <div class="cna-card-body">
+      <b>Minsu Kim</b>, <b>Hyeonmin Jang</b>, <b>Insoo Kim</b>, and <b>Ingeun Yun</b> won the Encouragement Award (장려상) in <b>Cryptanalysis Contest</b>, 2026. Congrats to all four C&amp;A members!
+    </div>
+  </article>
+
+  <article class="cna-card cna-cat-award" data-cat="award" data-date="2026-09-01">
+    <header class="cna-card-head">
       <span class="cna-chip cna-chip-award">Grant</span>
       <time class="cna-card-meta">Sep 1, 2026</time>
     </header>

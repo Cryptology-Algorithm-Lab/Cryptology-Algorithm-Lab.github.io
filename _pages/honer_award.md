@@ -14,10 +14,22 @@ header:
 <details class="cna-year" open markdown="0">
   <summary>
     <h3>2026</h3>
-    <span class="cna-year-count">1 award</span>
+    <span class="cna-year-count">2 awards</span>
     <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
   </summary>
   <div class="cna-year-body">
+
+  <article class="cna-row cna-row--no-meta">
+
+    <div class="cna-row-main">
+      <div class="cna-row-title">Crypto Analysis Contest</div>
+      <div class="cna-row-sub">777th Intelligence Command, Korea</div>
+      <div class="cna-row-recipients"><b>Minsu Kim</b>, <b>Hyeonmin Jang</b>, <b>Insoo Kim</b>, and <b>Ingeun Yun</b></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Encouragement</span>
+    </div>
+  </article>
 
   <article class="cna-row cna-row--no-meta">
 
@@ -45,7 +57,7 @@ header:
   <article class="cna-row cna-row--no-meta">
 
     <div class="cna-row-main">
-      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-title">National Cryptography Contest</div>
       <div class="cna-row-sub">National Intelligence Service, Korea</div>
       <div class="cna-row-recipients"><b>Seunghun Paik</b>, Nirajan Koirala, Jack Nero, <b>Hyunjung Son</b>, <b>Yunki Kim</b>, <b>Jae Hong Seo</b>, and Taeho Jung</div>
     </div>
@@ -57,7 +69,7 @@ header:
   <article class="cna-row cna-row--no-meta">
 
     <div class="cna-row-main">
-      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-title">National Cryptography Contest</div>
       <div class="cna-row-sub">National Intelligence Service, Korea</div>
       <div class="cna-row-recipients"><b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Minsu Kim</b>, and <b>Jae Hong Seo</b></div>
     </div>
@@ -69,7 +81,7 @@ header:
   <article class="cna-row cna-row--no-meta">
 
     <div class="cna-row-main">
-      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-title">National Cryptography Contest</div>
       <div class="cna-row-sub">National Intelligence Service, Korea</div>
       <div class="cna-row-recipients"><b>Chanwoo Hwang</b>, <b>Sunpill Kim</b>, Yong Kiam Tan, Tianchi Liu, <b>Seunghun Paik</b>, <b>Dongsoo Kim</b>, Soumik Mondal, Khin Mi Mi Aung, and <b>Jae Hong Seo</b></div>
     </div>
@@ -92,7 +104,7 @@ header:
   <article class="cna-row cna-row--no-meta">
 
     <div class="cna-row-main">
-      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-title">National Cryptography Contest</div>
       <div class="cna-row-sub">National Intelligence Service, Korea</div>
       <div class="cna-row-recipients"><b>Hyeonbum Lee</b>, Jaehwan Park, Junbeom Hur, <b>Jae Hong Seo</b>, and Doowon Kim</div>
     </div>
@@ -104,7 +116,7 @@ header:
   <article class="cna-row cna-row--no-meta">
 
     <div class="cna-row-main">
-      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-title">National Cryptography Contest</div>
       <div class="cna-row-sub">National Intelligence Service, Korea</div>
       <div class="cna-row-recipients"><b>Seunghun Paik</b>, <b>Minsu Kim</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo</b></div>
     </div>
@@ -151,7 +163,7 @@ header:
   <article class="cna-row cna-row--no-meta">
 
     <div class="cna-row-main">
-      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-title">National Cryptography Contest</div>
       <div class="cna-row-sub">National Intelligence Service, Korea</div>
       <div class="cna-row-recipients"><b>Sunpill Kim</b>, <b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Dongsu Kim</b>, Junbum Shin, and <b>Jae Hong Seo</b></div>
     </div>
@@ -163,7 +175,7 @@ header:
   <article class="cna-row cna-row--no-meta">
 
     <div class="cna-row-main">
-      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-title">National Cryptography Contest</div>
       <div class="cna-row-sub">National Intelligence Service, Korea</div>
       <div class="cna-row-recipients"><b>Sunpill Kim</b>, Yong Kiam Tan, <b>Bora Jeong</b>, Soumik Mondal, Khin Mi Mi Aung, and <b>Jae Hong Seo</b></div>
     </div>
@@ -175,7 +187,7 @@ header:
   <article class="cna-row cna-row--no-meta">
 
     <div class="cna-row-main">
-      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-title">National Cryptography Contest</div>
       <div class="cna-row-sub">National Intelligence Service, Korea</div>
       <div class="cna-row-recipients"><b>Hyeonbum Lee</b>, <b>Kyuhwan Lee</b>, <b>Jae Hong Seo</b>, Wenyi Tang, Shankha Shubhra Mukherjee, and Taeho Jung</div>
     </div>
@@ -222,7 +234,7 @@ header:
   <article class="cna-row cna-row--no-meta">
 
     <div class="cna-row-main">
-      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-title">National Cryptography Contest</div>
       <div class="cna-row-sub">National Intelligence Service, Korea</div>
       <div class="cna-row-recipients"><b>Hyeonbum Lee</b>, Sungwook Kim, and <b>Jae Hong Seo</b></div>
     </div>
@@ -234,7 +246,7 @@ header:
   <article class="cna-row cna-row--no-meta">
 
     <div class="cna-row-main">
-      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-title">National Cryptography Contest</div>
       <div class="cna-row-sub">National Intelligence Service, Korea</div>
       <div class="cna-row-recipients"><b>Sunpill Kim</b>, Hoyong Shin, and <b>Jae Hong Seo</b></div>
     </div>
@@ -293,7 +305,7 @@ header:
   <article class="cna-row cna-row--no-meta">
 
     <div class="cna-row-main">
-      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-title">National Cryptography Contest</div>
       <div class="cna-row-sub">National Intelligence Service, Korea</div>
       <div class="cna-row-recipients">Sungwook Kim, <b>Hyeonbum Lee</b>, and <b>Jae Hong Seo</b></div>
     </div>
@@ -340,7 +352,7 @@ header:
   <article class="cna-row cna-row--no-meta">
 
     <div class="cna-row-main">
-      <div class="cna-row-title">National Cryptographic Technology Contest</div>
+      <div class="cna-row-title">National Cryptography Contest</div>
       <div class="cna-row-sub">National Intelligence Service, Korea</div>
       <div class="cna-row-recipients"><b>Heewon Chung</b>, Kyoohyung Han, <b>Chanyang Ju</b>, Myungsun Kim, and <b>Jae Hong Seo</b></div>
     </div>
