@@ -22,7 +22,7 @@ header:
   <article class="cna-row cna-row--no-meta">
 
     <div class="cna-row-main">
-      <div class="cna-row-title">Crypto Analysis Contest</div>
+      <div class="cna-row-title">Cryptanalysis Contest</div>
       <div class="cna-row-sub">777th Intelligence Command, Korea</div>
       <div class="cna-row-recipients"><b>Minsu Kim</b>, <b>Hyeonmin Jang</b>, <b>Insoo Kim</b>, and <b>Ingeun Yun</b></div>
     </div>
@@ -128,7 +128,7 @@ header:
   <article class="cna-row cna-row--no-meta">
 
     <div class="cna-row-main">
-      <div class="cna-row-title">Crypto Analysis Contest</div>
+      <div class="cna-row-title">Cryptanalysis Contest</div>
       <div class="cna-row-sub">777th Intelligence Command, Korea</div>
       <div class="cna-row-recipients"><b>Yunki Kim</b>, <b>Minsu Kim</b>, Wanki Kim, Seonjae Kim</div>
     </div>
@@ -199,7 +199,7 @@ header:
   <article class="cna-row cna-row--no-meta">
 
     <div class="cna-row-main">
-      <div class="cna-row-title">Crypto Analysis Contest</div>
+      <div class="cna-row-title">Cryptanalysis Contest</div>
       <div class="cna-row-sub">777th Intelligence Command, Korea</div>
       <div class="cna-row-recipients"><b>Seunghun Paik</b>, <b>Chanwoo Hwang</b>, <b>Minsu Kim</b>, and Shin Heo</div>
     </div>
@@ -258,7 +258,7 @@ header:
   <article class="cna-row cna-row--no-meta">
 
     <div class="cna-row-main">
-      <div class="cna-row-title">Crypto Analysis Contest</div>
+      <div class="cna-row-title">Cryptanalysis Contest</div>
       <div class="cna-row-sub">777th Intelligence Command, Korea</div>
       <div class="cna-row-recipients"><b>Seunghun Paik</b>, <b>Minsu Kim</b>, Hyungjun Jang, Yewon Jeong, and Yeonhong Lim</div>
     </div>
