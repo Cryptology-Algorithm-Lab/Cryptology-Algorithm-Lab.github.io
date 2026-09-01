@@ -159,7 +159,7 @@ header:
           <time class="cna-card-meta">Aug 28, 2025</time>
         </header>
         <div class="cna-card-body">
-          <b>Chanwoo Hwang</b> (Ph.D. student) and <b>Yunki Kim</b> (master's student) have been selected for research grants of the <b>National Research Foundation of Korea (NRF)</b>. The following 2 projects have started.
+          <b>Chanwoo Hwang</b> has been selected for a doctoral research grant (박사과정연구장려금) and <b>Yunki Kim</b> for a master's research grant (석사과정연구장려금) of the <b>National Research Foundation of Korea (NRF)</b>. The following 2 projects have started.
           <ul>
             <li><i>Design Identity-Preserving Inverse Models: Exploring Vulnerabilities in Speaker Recognition Systems</i></li>
             <li><i>A Study of Fuzzy Private Set Intersection</i></li>
