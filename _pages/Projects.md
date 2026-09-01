@@ -26,31 +26,6 @@ header:
     </div>
   </article>
 
-  <article class="cna-row">
-    <span class="cna-row-meta">Sep 2025 – Aug 2026</span>
-    <div class="cna-row-main">
-      <div class="cna-row-title">신원 보존 역모델 설계: 화자 인식 시스템의 취약성 탐구</div>
-      <div class="cna-row-sub"><i>Design Identity-Preserving Inverse Models: Exploring Vulnerabilities in Speaker Recognition Systems</i></div>
-    </div>
-    <div class="cna-row-aside">
-      <span class="cna-chip">NRF</span>
-      <span class="cna-row-aside-detail">한국연구재단</span>
-    </div>
-  </article>
-
-  <article class="cna-row">
-    <span class="cna-row-meta">Sep 2025 – Aug 2026</span>
-    <div class="cna-row-main">
-      <div class="cna-row-title">안전한 퍼지 교집합 연산 프로토콜 설계 기법 연구</div>
-      <div class="cna-row-sub"><i>A Study of Fuzzy Private Set Intersection</i></div>
-    </div>
-    <div class="cna-row-aside">
-      <span class="cna-chip">NRF</span>
-      <span class="cna-row-aside-detail">한국연구재단</span>
-    </div>
-  </article>
-
-  <article class="cna-row">
     <span class="cna-row-meta">Apr 2024 – Dec 2027</span>
     <div class="cna-row-main">
       <div class="cna-row-title">차세대 저작권 침해 방지 기술 및 안전한 콘텐츠 유통 기술 개발을 위한 국제 공동 연구</div>
@@ -80,11 +55,35 @@ header:
 
 <details class="cna-year" open markdown="0">
   <summary>
-    <h3>2022 – 2025</h3>
-    <span class="cna-year-count">9 projects</span>
+    <h3>2022 – 2026</h3>
+    <span class="cna-year-count">11 projects</span>
     <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
   </summary>
   <div class="cna-year-body cna-projects">
+
+  <article class="cna-row">
+    <span class="cna-row-meta">Sep 2025 – Aug 2026</span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">신원 보존 역모델 설계: 화자 인식 시스템의 취약성 탐구</div>
+      <div class="cna-row-sub"><i>Design Identity-Preserving Inverse Models: Exploring Vulnerabilities in Speaker Recognition Systems</i></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip">NRF</span>
+      <span class="cna-row-aside-detail">한국연구재단</span>
+    </div>
+  </article>
+
+  <article class="cna-row">
+    <span class="cna-row-meta">Sep 2025 – Aug 2026</span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">안전한 퍼지 교집합 연산 프로토콜 설계 기법 연구</div>
+      <div class="cna-row-sub"><i>A Study of Fuzzy Private Set Intersection</i></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip">NRF</span>
+      <span class="cna-row-aside-detail">한국연구재단</span>
+    </div>
+  </article>
 
   <article class="cna-row">
     <span class="cna-row-meta">Feb 2025 – Dec 2025</span>
