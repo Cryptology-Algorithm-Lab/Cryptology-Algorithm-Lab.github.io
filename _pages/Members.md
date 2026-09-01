@@ -195,23 +195,9 @@ header:
 <section class="cna-roster cna-section" markdown="0">
   <header class="cna-section-head">
     <h2 id="undergrad">Undergraduate Student</h2>
-    <span class="cna-section-count">2</span>
+    <span class="cna-section-count">1</span>
   </header>
   <div class="cna-roster-grid">
-
-    <details class="cna-member">
-      <summary>
-        <div class="cna-member-card">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/insookim.jpeg" alt="Insoo Kim" class="cna-member-photo">
-          <div class="cna-member-meta">
-            <span class="cna-member-name">Insoo Kim</span>
-            <span class="cna-member-role">Undergraduate</span>
-            <span class="cna-member-motto">No pain, no gain.</span>
-            <span class="cna-member-interests">AI Security · Computer Vision</span>
-          </div>
-        </div>
-      </summary>
-    </details>
 
     <details class="cna-member">
       <summary>
@@ -291,7 +277,7 @@ header:
 <details class="cna-year" markdown="0">
   <summary>
     <h3 id="alumni-undergrad">Alumni — Undergraduate</h3>
-    <span class="cna-year-count">20</span>
+    <span class="cna-year-count">21</span>
     <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
   </summary>
   <div class="cna-year-body">
@@ -316,6 +302,7 @@ header:
       <div class="cna-alum"><span class="cna-alum-name">Yunki Kim</span></div>
       <div class="cna-alum"><span class="cna-alum-name">Heejin Kim</span></div>
       <div class="cna-alum"><span class="cna-alum-name">Ingeun Yun</span></div>
+      <div class="cna-alum"><span class="cna-alum-name">Insoo Kim</span></div>
     </div>
   </div>
 </details>
