@@ -737,7 +737,7 @@ header:
           <time class="cna-card-meta">Sep 20, 2022</time>
         </header>
         <div class="cna-card-body">
-          HUCC, Crypto Club of Hanyang University, won an award for excellence (우수상) in "<b>Crypto Analysis Contest, 2022</b>", hosted by Military Crypto Research Center. Congrats two of C&amp;A members, <b>Seunghun Paik</b> and <b>Minsu Kim</b>, who are a leader and a member of HUCC.
+          HUCC, Crypto Club of Hanyang University, won an award for excellence (우수상) in "<b>Cryptanalysis Contest, 2022</b>", hosted by Military Crypto Research Center. Congrats two of C&amp;A members, <b>Seunghun Paik</b> and <b>Minsu Kim</b>, who are a leader and a member of HUCC.
         </div>
       </article>
 
