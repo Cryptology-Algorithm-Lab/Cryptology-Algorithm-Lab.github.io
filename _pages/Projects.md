@@ -26,6 +26,19 @@ header:
     </div>
   </article>
 
+  <article class="cna-row">
+    <span class="cna-row-meta">Sep 2026 – Aug 2027</span>
+    <div class="cna-row-main">
+      <div class="cna-row-title">밀도 유계 가정 기반 퍼지 교집합 프로토콜 연구</div>
+      <div class="cna-row-sub"><i>Research on Fuzzy Private Set Intersection Protocols under Density-Bounded Assumptions</i></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip">NRF</span>
+      <span class="cna-row-aside-detail">한국연구재단</span>
+    </div>
+  </article>
+
+  <article class="cna-row">
     <span class="cna-row-meta">Apr 2024 – Dec 2027</span>
     <div class="cna-row-main">
       <div class="cna-row-title">차세대 저작권 침해 방지 기술 및 안전한 콘텐츠 유통 기술 개발을 위한 국제 공동 연구</div>
