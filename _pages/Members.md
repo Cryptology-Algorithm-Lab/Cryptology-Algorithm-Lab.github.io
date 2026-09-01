@@ -13,7 +13,6 @@ header:
 <nav class="cna-page-toc" aria-label="Members navigation" markdown="0">
   <span class="cna-page-toc-label">Members</span>
   <a class="cna-page-toc-item" href="#professor">Professor</a>
-  <a class="cna-page-toc-item" href="#postdoc">Postdoc</a>
   <a class="cna-page-toc-item" href="#phd-student">Ph.D</a>
   <a class="cna-page-toc-item" href="#integrated-course">MS&amp;Ph.D</a>
   <a class="cna-page-toc-item" href="#masters-student">Master</a>
@@ -49,30 +48,6 @@ header:
         <h4>Research Interests</h4>
         <p>Cryptography, Computational Number Theory, Information Security (Recently, very interested in crypto primitives for secure blockchains and/or deep learning such as zero-knowledge proofs and bio authentication).</p>
       </div>
-    </details>
-
-  </div>
-</section>
-
-<section class="cna-roster cna-section" markdown="0">
-  <header class="cna-section-head">
-    <h2 id="postdoc">Postdoc</h2>
-    <span class="cna-section-count">1</span>
-  </header>
-  <div class="cna-roster-grid">
-
-    <details class="cna-member">
-      <summary>
-        <div class="cna-member-card">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sunpill1.jpg" alt="Sunpill Kim" class="cna-member-photo">
-          <div class="cna-member-meta">
-            <a class="cna-member-name" href="https://sunpill.github.io">Sunpill Kim<span class="cna-ext">↗</span></a>
-            <span class="cna-member-role">Postdoc</span>
-            <span class="cna-member-motto">Freedom is not free.</span>
-            <span class="cna-member-interests">AI Security · Deep Learning · Cryptography</span>
-          </div>
-        </div>
-      </summary>
     </details>
 
   </div>
@@ -219,7 +194,7 @@ header:
 <details class="cna-year" markdown="0">
   <summary>
     <h3 id="alumni-postdoc">Alumni — PostDoc</h3>
-    <span class="cna-year-count">1</span>
+    <span class="cna-year-count">2</span>
     <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
   </summary>
   <div class="cna-year-body">
@@ -228,6 +203,11 @@ header:
         <span class="cna-alum-name">Heewon Chung</span>
         <span class="cna-alum-affil">— Assistant Professor, Jeonbuk National University</span>
         <span class="cna-alum-when">Left Dec 2021</span>
+      </div>
+      <div class="cna-alum">
+        <span class="cna-alum-name">Sunpill Kim</span>
+        <span class="cna-alum-affil">— Assistant Professor, Sookmyung Women’s University</span>
+        <span class="cna-alum-when">Left Aug 2026</span>
       </div>
     </div>
   </div>
