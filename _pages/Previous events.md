@@ -153,13 +153,13 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-event">
+      <article class="cna-card cna-cat-award">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-event">Grant</span>
+          <span class="cna-chip cna-chip-award">Grant</span>
           <time class="cna-card-meta">Aug 28, 2025</time>
         </header>
         <div class="cna-card-body">
-          The following 2 projects supported by the <b>National Research Foundation of Korea (NRF)</b> have started.
+          <b>Chanwoo Hwang</b> (Ph.D. student) and <b>Yunki Kim</b> (master's student) have been selected for research grants of the <b>National Research Foundation of Korea (NRF)</b>. The following 2 projects have started.
           <ul>
             <li><i>Design Identity-Preserving Inverse Models: Exploring Vulnerabilities in Speaker Recognition Systems</i></li>
             <li><i>A Study of Fuzzy Private Set Intersection</i></li>
@@ -181,9 +181,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-people">
+      <article class="cna-card cna-cat-member">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-people">Member</span>
+          <span class="cna-chip cna-chip-member">Member</span>
           <time class="cna-card-meta">Jul 23, 2025</time>
         </header>
         <div class="cna-card-body">
@@ -191,9 +191,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-people">
+      <article class="cna-card cna-cat-member">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-people">Member</span>
+          <span class="cna-chip cna-chip-member">Member</span>
           <time class="cna-card-meta">Jul 19, 2025</time>
         </header>
         <div class="cna-card-body">
@@ -261,9 +261,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-event">
+      <article class="cna-card cna-cat-award">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-event">Grant</span>
+          <span class="cna-chip cna-chip-award">Grant</span>
           <time class="cna-card-meta">Feb 27, 2025</time>
         </header>
         <div class="cna-card-body">
@@ -274,9 +274,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-people">
+      <article class="cna-card cna-cat-member">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-people">Member</span>
+          <span class="cna-chip cna-chip-member">Member</span>
           <time class="cna-card-meta">Feb 10, 2025</time>
         </header>
         <div class="cna-card-body">
@@ -310,9 +310,9 @@ header:
   <div class="cna-year-body">
     <div class="cna-card-grid">
 
-      <article class="cna-card cna-cat-people">
+      <article class="cna-card cna-cat-member">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-people">Member</span>
+          <span class="cna-chip cna-chip-member">Member</span>
           <time class="cna-card-meta">Dec 24, 2024</time>
         </header>
         <div class="cna-card-body">
@@ -320,9 +320,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-event">
+      <article class="cna-card cna-cat-award">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-event">Program</span>
+          <span class="cna-chip cna-chip-award">Program</span>
           <time class="cna-card-meta">Oct 15, 2024</time>
         </header>
         <div class="cna-card-body">
@@ -375,9 +375,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-event">
+      <article class="cna-card cna-cat-award">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-event">Grant</span>
+          <span class="cna-chip cna-chip-award">Grant</span>
           <time class="cna-card-meta">Jun 24, 2024</time>
         </header>
         <div class="cna-card-body">
@@ -442,9 +442,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-event">
+      <article class="cna-card cna-cat-award">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-event">Grant</span>
+          <span class="cna-chip cna-chip-award">Grant</span>
           <time class="cna-card-meta">Apr 1, 2024</time>
         </header>
         <div class="cna-card-body">
@@ -468,9 +468,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-people">
+      <article class="cna-card cna-cat-member">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-people">Member</span>
+          <span class="cna-chip cna-chip-member">Member</span>
           <time class="cna-card-meta">Feb 5, 2024</time>
         </header>
         <div class="cna-card-body">
@@ -659,9 +659,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-people">
+      <article class="cna-card cna-cat-member">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-people">Member</span>
+          <span class="cna-chip cna-chip-member">Member</span>
           <time class="cna-card-meta">Jan 5, 2023</time>
         </header>
         <div class="cna-card-body">
@@ -695,9 +695,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-people">
+      <article class="cna-card cna-cat-member">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-people">Member</span>
+          <span class="cna-chip cna-chip-member">Member</span>
           <time class="cna-card-meta">Nov 11, 2022</time>
         </header>
         <div class="cna-card-body">
@@ -741,9 +741,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-people">
+      <article class="cna-card cna-cat-member">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-people">Member</span>
+          <span class="cna-chip cna-chip-member">Member</span>
           <time class="cna-card-meta">Sep 13, 2022</time>
         </header>
         <div class="cna-card-body">
@@ -751,9 +751,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-people">
+      <article class="cna-card cna-cat-member">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-people">Member</span>
+          <span class="cna-chip cna-chip-member">Member</span>
           <time class="cna-card-meta">Sep 1, 2022</time>
         </header>
         <div class="cna-card-body">
@@ -761,9 +761,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-people">
+      <article class="cna-card cna-cat-member">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-people">Member</span>
+          <span class="cna-chip cna-chip-member">Member</span>
           <time class="cna-card-meta">Sep 1, 2022</time>
         </header>
         <div class="cna-card-body">
@@ -784,9 +784,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-event">
+      <article class="cna-card cna-cat-award">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-event">Grant</span>
+          <span class="cna-chip cna-chip-award">Grant</span>
           <time class="cna-card-meta">Jul 11, 2022</time>
         </header>
         <div class="cna-card-body">
@@ -794,9 +794,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-people">
+      <article class="cna-card cna-cat-member">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-people">Member</span>
+          <span class="cna-chip cna-chip-member">Member</span>
           <time class="cna-card-meta">Jul 1, 2022</time>
         </header>
         <div class="cna-card-body">
@@ -817,9 +817,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-people">
+      <article class="cna-card cna-cat-member">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-people">Member</span>
+          <span class="cna-chip cna-chip-member">Member</span>
           <time class="cna-card-meta">May 1, 2022</time>
         </header>
         <div class="cna-card-body">
@@ -827,9 +827,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-event">
+      <article class="cna-card cna-cat-award">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-event">Grant</span>
+          <span class="cna-chip cna-chip-award">Grant</span>
           <time class="cna-card-meta">May 1, 2022</time>
         </header>
         <div class="cna-card-body">
@@ -850,9 +850,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-event">
+      <article class="cna-card cna-cat-award">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-event">Grant</span>
+          <span class="cna-chip cna-chip-award">Grant</span>
           <time class="cna-card-meta">Apr 1, 2022</time>
         </header>
         <div class="cna-card-body">
@@ -860,9 +860,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-event">
+      <article class="cna-card cna-cat-award">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-event">Grant</span>
+          <span class="cna-chip cna-chip-award">Grant</span>
           <time class="cna-card-meta">Feb 22, 2022</time>
         </header>
         <div class="cna-card-body">
@@ -870,9 +870,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-people">
+      <article class="cna-card cna-cat-member">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-people">Member</span>
+          <span class="cna-chip cna-chip-member">Member</span>
           <time class="cna-card-meta">Jan 3, 2022</time>
         </header>
         <div class="cna-card-body">
@@ -903,9 +903,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-people">
+      <article class="cna-card cna-cat-member">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-people">Member</span>
+          <span class="cna-chip cna-chip-member">Member</span>
           <time class="cna-card-meta">Nov 29, 2021</time>
         </header>
         <div class="cna-card-body">
@@ -943,9 +943,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-event">
+      <article class="cna-card cna-cat-award">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-event">Grant</span>
+          <span class="cna-chip cna-chip-award">Grant</span>
           <time class="cna-card-meta">2021</time>
         </header>
         <div class="cna-card-body">
@@ -989,9 +989,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-event">
+      <article class="cna-card cna-cat-award">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-event">Grant</span>
+          <span class="cna-chip cna-chip-award">Grant</span>
           <time class="cna-card-meta">2021</time>
         </header>
         <div class="cna-card-body">
@@ -999,9 +999,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-event">
+      <article class="cna-card cna-cat-award">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-event">Grant</span>
+          <span class="cna-chip cna-chip-award">Grant</span>
           <time class="cna-card-meta">2021</time>
         </header>
         <div class="cna-card-body">
@@ -1009,9 +1009,9 @@ header:
         </div>
       </article>
 
-      <article class="cna-card cna-cat-event">
+      <article class="cna-card cna-cat-award">
         <header class="cna-card-head">
-          <span class="cna-chip cna-chip-event">Grant</span>
+          <span class="cna-chip cna-chip-award">Grant</span>
           <time class="cna-card-meta">2021</time>
         </header>
         <div class="cna-card-body">
