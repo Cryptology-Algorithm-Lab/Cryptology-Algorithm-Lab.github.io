@@ -170,7 +170,7 @@ header:
 <section class="cna-roster cna-section" markdown="0">
   <header class="cna-section-head">
     <h2 id="undergrad">Undergraduate Student</h2>
-    <span class="cna-section-count">1</span>
+    <span class="cna-section-count">3</span>
   </header>
   <div class="cna-roster-grid">
 
@@ -182,6 +182,34 @@ header:
             <span class="cna-member-name">Hyeonmin Jang</span>
             <span class="cna-member-role">Undergraduate</span>
             <span class="cna-member-motto">Change direction or end where you began.</span>
+            <span class="cna-member-interests">Cryptography</span>
+          </div>
+        </div>
+      </summary>
+    </details>
+
+    <details class="cna-member">
+      <summary>
+        <div class="cna-member-card">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sehoonkim.jpeg" alt="Sehoon Kim" class="cna-member-photo">
+          <div class="cna-member-meta">
+            <span class="cna-member-name">Sehoon Kim</span>
+            <span class="cna-member-role">Undergraduate</span>
+            <span class="cna-member-motto">Measure twice, cut once.</span>
+            <span class="cna-member-interests">AI Security</span>
+          </div>
+        </div>
+      </summary>
+    </details>
+
+    <details class="cna-member">
+      <summary>
+        <div class="cna-member-card">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/minakim.jpeg" alt="Mina Kim" class="cna-member-photo">
+          <div class="cna-member-meta">
+            <span class="cna-member-name">Mina Kim</span>
+            <span class="cna-member-role">Undergraduate</span>
+            <span class="cna-member-motto">Less overthinking, more action.</span>
             <span class="cna-member-interests">Cryptography</span>
           </div>
         </div>

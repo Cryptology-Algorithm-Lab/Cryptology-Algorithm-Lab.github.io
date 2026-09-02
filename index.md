@@ -34,6 +34,16 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
 <div id="annual-news-grid" class="cna-card-grid" markdown="0">
 
+  <article class="cna-card cna-cat-member" data-cat="people" data-date="2026-09-02">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-member">Member</span>
+      <time class="cna-card-meta">Sep 2, 2026</time>
+    </header>
+    <div class="cna-card-body">
+      Two undergraduate students <b>Sehoon Kim</b> and <b>Mina Kim</b> joined our Cryptology &amp; Algorithm Lab. We are delighted to welcome them.
+    </div>
+  </article>
+
   <article class="cna-card cna-cat-award" data-cat="award" data-date="2026-09-01">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-award">Award</span>
@@ -347,7 +357,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </header>
     <div class="cna-card-body">
       <b>Foundations: Probability</b><br>
-      <span style="color:var(--cna-soft)">Sehun Kim · Natural Building 702</span>
+      <span style="color:var(--cna-soft)">Sehoon Kim · Natural Building 702</span>
     </div>
   </article>
 
