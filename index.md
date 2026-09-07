@@ -328,12 +328,12 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
   <article class="cna-card cna-cat-seminar" data-series="fall-winter" data-date="2026-09-10">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-seminar">Sep 10</span>
+      <span class="cna-chip cna-chip-seminar">Sep 10 · 13:00–15:00</span>
       <span class="cna-card-meta cna-tba">TBA</span>
     </header>
     <div class="cna-card-body">
       <b>About Revocability of BTP based on Real Valued ECC</b><br>
-      <span style="color:var(--cna-soft)">Minsu Kim · Venue TBA</span>
+      <span style="color:var(--cna-soft)">Minsu Kim · Natural Building 744</span>
     </div>
   </article>
 
@@ -350,13 +350,13 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     <div class="cna-year-body">
       <div class="cna-card-grid">
 
-  <article class="cna-card cna-cat-seminar" data-series="pml-fall" data-date="2026-09-08">
+  <article class="cna-card cna-cat-seminar" data-series="pml-fall" data-date="2026-09-10">
     <header class="cna-card-head">
-      <span class="cna-chip cna-chip-seminar">Sep 8 · 10:00–12:00</span>
+      <span class="cna-chip cna-chip-seminar">Sep 10 · 10:00–12:00</span>
       <span class="cna-card-meta cna-tba">TBA</span>
     </header>
     <div class="cna-card-body">
-      <b>Foundations: Probability</b><br>
+      <b>Logistic Regression and Backpropagation</b><br>
       <span style="color:var(--cna-soft)">Sehoon Kim · Natural Building 702</span>
     </div>
   </article>
