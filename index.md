@@ -34,6 +34,18 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
 <div id="annual-news-grid" class="cna-card-grid" markdown="0">
 
+  <article class="cna-card cna-cat-talk" data-cat="paper" data-date="2026-09-15">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-talk">Conference</span>
+      <time class="cna-card-meta">Sep 15, 2026</time>
+    </header>
+    <div class="cna-card-body">
+      <p>Accepted for publication at <b>IEEE S&amp;P 2027</b>.</p>
+      <p><b>Seunghun Paik</b> and <b>Jae Hong Seo*</b><br>
+      <i>Fuzzy Private Set Intersection under Density-Bounded Assumptions</i></p>
+    </div>
+  </article>
+
   <article class="cna-card cna-cat-member" data-cat="people" data-date="2026-09-02">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-member">Member</span>

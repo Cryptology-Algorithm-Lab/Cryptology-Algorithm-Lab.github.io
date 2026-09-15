@@ -553,6 +553,25 @@ header:
 <h2 id="conference">Conference</h2>
 
 <details class="cna-year" open markdown="0">
+  <summary><h3>2027</h3><span class="cna-year-count">1 paper</span><svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg></summary>
+  <div class="cna-year-body">
+
+  <article class="cna-row">
+    <span class="cna-row-meta">C33</span>
+    <div class="cna-row-main">
+      <div class="cna-row-title"><b>Seunghun Paik</b> and <b>Jae Hong Seo*</b></div>
+      <div class="cna-row-sub"><i>Fuzzy Private Set Intersection under Density-Bounded Assumptions</i></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-talk">IEEE S&amp;P</span>
+      <span class="cna-row-aside-detail">2027 · TBA</span>
+    </div>
+  </article>
+
+  </div>
+</details>
+
+<details class="cna-year" markdown="0">
   <summary><h3>2026</h3><span class="cna-year-count">4 papers</span><svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg></summary>
   <div class="cna-year-body">
 
