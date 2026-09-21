@@ -52,7 +52,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
       <time class="cna-card-meta">Sep 2, 2026</time>
     </header>
     <div class="cna-card-body">
-      Two undergraduate students <b>Sehoon Kim</b> and <b>Mina Kim</b> joined our Cryptology &amp; Algorithm Lab. We are delighted to welcome them.
+      Three undergraduate students <b>Sehoon Kim</b>, <b>Mina Kim</b>, and <b>Sungbin Bae</b> joined our Cryptology &amp; Algorithm Lab. We are delighted to welcome them.
     </div>
   </article>
 
