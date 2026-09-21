@@ -170,7 +170,7 @@ header:
 <section class="cna-roster cna-section" markdown="0">
   <header class="cna-section-head">
     <h2 id="undergrad">Undergraduate Student</h2>
-    <span class="cna-section-count">3</span>
+    <span class="cna-section-count">4</span>
   </header>
   <div class="cna-roster-grid">
 
@@ -211,6 +211,20 @@ header:
             <span class="cna-member-role">Undergraduate</span>
             <span class="cna-member-motto">Less overthinking, more action.</span>
             <span class="cna-member-interests">Cryptography</span>
+          </div>
+        </div>
+      </summary>
+    </details>
+
+    <details class="cna-member">
+      <summary>
+        <div class="cna-member-card">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sungbinbae.jpeg" alt="Sungbin Bae" class="cna-member-photo">
+          <div class="cna-member-meta">
+            <span class="cna-member-name">Sungbin Bae</span>
+            <span class="cna-member-role">Undergraduate</span>
+            <span class="cna-member-motto">Seek knowledge, savor life.</span>
+            <span class="cna-member-interests">AI Security</span>
           </div>
         </div>
       </summary>
