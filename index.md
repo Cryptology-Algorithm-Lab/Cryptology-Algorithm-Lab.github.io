@@ -34,6 +34,20 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
 <div id="annual-news-grid" class="cna-card-grid" markdown="0">
 
+  <article class="cna-card cna-cat-seminar" data-cat="talk" data-date="2026-09-30">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Talk</span>
+      <time class="cna-card-meta">Sep 30, 2026</time>
+    </header>
+    <div class="cna-card-body">
+      <p><b>Hyunjung Son</b> will speak at the 2026 HYU Math Symposium, where graduate researchers introduce their fields to students weighing graduate study.</p>
+      <ul>
+        <li>Date &amp; Place: 06:00 PM, Sep 30 / Natural Science Building 208</li>
+        <li>Title: Cryptography Research and an Introduction to the Lab</li>
+      </ul>
+    </div>
+  </article>
+
   <article class="cna-card cna-cat-talk" data-cat="paper" data-date="2026-09-15">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-talk">Conference</span>
