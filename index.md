@@ -390,7 +390,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar" data-series="pml-fall" data-date="2026-09-10">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Sep 10 · 09:00–10:15</span>
-      <span class="cna-card-meta cna-tba">TBA</span>
+      <a class="cna-card-meta" href="https://drive.google.com/file/d/1NVDsGezl7fzcN26gq149r_H0n2mA9hrX/view?usp=sharing" target="_blank" rel="noopener">Slides ↗</a>
     </header>
     <div class="cna-card-body">
       <b>Logistic Regression and Backpropagation</b><br>
