@@ -171,6 +171,29 @@
 .cna-series-tag{ display: none; }
 #seminar-flat-view .cna-series-tag{ display: inline-flex; margin-right: auto; }
 
+/* Empty Upcoming notice — shown only when no session lies ahead. A quiet line
+   of prose rather than a card, so it reads as a note instead of content. */
+.cna-flat-empty{
+  font-size: var(--cna-fs-base);
+  color: var(--cna-soft);
+  margin: var(--cna-s-2) 0 0;
+}
+.cna-flat-empty-jump{
+  -webkit-appearance: none;
+  appearance: none;
+  padding: 0;
+  border: 0;
+  background: none;
+  font: inherit;
+  color: var(--cna-indigo);
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.cna-flat-empty-jump:hover,
+.cna-flat-empty-jump:focus-visible{ text-decoration-thickness: 2px; }
+
 /* ──────────────────────────────────────────────────────────
    4. CARD
    ────────────────────────────────────────────────────────── */
