@@ -381,7 +381,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <details class="cna-year" data-series-block="pml-fall" data-series-label="Probabilistic ML (Fall)" open markdown="0">
     <summary>
       <h3>2026 · Fall · Probabilistic ML Study Group</h3>
-      <span class="cna-year-count">2 sessions</span>
+      <span class="cna-year-count">3 sessions</span>
       <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
     </summary>
     <div class="cna-year-body">
@@ -406,6 +406,17 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     <div class="cna-card-body">
       <b>Symmetric Cryptography</b><br>
       <span style="color:var(--cna-soft)">Mina Kim · Natural Building 747</span>
+    </div>
+  </article>
+
+  <article class="cna-card cna-cat-seminar" data-series="pml-fall" data-date="2026-10-01">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Oct 1 · 09:00–10:15</span>
+      <a class="cna-card-meta" href="https://drive.google.com/file/d/1ojd-ydYkaM4zUzLSpLwIxUUKpx0YbD2M/view" target="_blank" rel="noopener">Slides ↗</a>
+    </header>
+    <div class="cna-card-body">
+      <b>From NN to CNN</b><br>
+      <span style="color:var(--cna-soft)">Sungbin Bae · Natural Building 742</span>
     </div>
   </article>
 
