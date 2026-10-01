@@ -278,6 +278,13 @@
       visible.forEach(function (c) { flatView.appendChild(c); });
     }
 
+    /* Upcoming with nothing ahead would leave the section blank, so point the
+       reader at the sessions that have already run instead. */
+    var flatEmpty = document.getElementById('seminar-flat-empty');
+    if (flatEmpty) {
+      flatEmpty.hidden = !(kind === 'seminar' && filter === 'upcoming' && visible.length === 0);
+    }
+
     cards.forEach(function (c) {
       if (visibleSet.has(c)) c.removeAttribute('data-filter-hidden');
       else c.setAttribute('data-filter-hidden', 'true');
@@ -315,6 +322,21 @@
         applyFilter(row, cards, chip);
       });
     });
+
+    /* The empty-Upcoming notice offers a jump to Prior. Reuse the chip's own
+       click path so aria-pressed and the view stay in sync. */
+    if (row.getAttribute('data-filter-kind') === 'seminar') {
+      var jump = document.querySelector('.cna-flat-empty-jump');
+      if (jump) {
+        jump.addEventListener('click', function () {
+          var wanted = jump.getAttribute('data-jump-filter');
+          var priorChip = chips.filter(function (c) {
+            return c.getAttribute('data-filter') === wanted;
+          })[0];
+          if (priorChip) priorChip.click();
+        });
+      }
+    }
 
     var defaultChip = chips.filter(function (c) { return c.getAttribute('aria-pressed') === 'true'; })[0] || chips[0];
     if (defaultChip) applyFilter(row, cards, defaultChip);
