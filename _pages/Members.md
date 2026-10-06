@@ -92,7 +92,7 @@ header:
             <span class="cna-member-name">Chanwoo Hwang</span>
             <span class="cna-member-role">Integrated Ms&amp;Ph.D</span>
             <span class="cna-member-motto">To doubt is safer than to be secure.</span>
-            <span class="cna-member-interests">AI Security · Deep Learning Algorithm · Computer Vision</span>
+            <span class="cna-member-interests">AI Security · Deep Learning Algorithm </span>
           </div>
         </div>
       </summary>
