@@ -376,7 +376,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar" data-series="fall-winter" data-date="2026-10-08">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Oct 8 · 13:00–15:00</span>
-      <span class="cna-card-meta cna-tba">TBA</span>
+      <a class="cna-card-meta" href="https://drive.google.com/file/d/11BlSLwo2JSIDfTV_zIuoxlWpONwi7wNV/view?usp=drive_link" target="_blank" rel="noopener">Slides ↗</a>
     </header>
     <div class="cna-card-body">
       <b>Interpreting CLIP with Sparse Linear Concept Embeddings</b><br>
