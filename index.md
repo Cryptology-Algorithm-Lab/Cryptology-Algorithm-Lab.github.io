@@ -42,7 +42,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     <div class="cna-card-body">
       <p><b>Seunghun Paik</b> will present in the Cryptography (CR) session of the <b>2026 KMS Annual Meeting</b>, held at the Gwangju Institute of Science and Technology.</p>
       <ul>
-        <li>Date &amp; Place: 11:50 AM, Oct 30 / GIST, Room 302</li>
+        <li>Date &amp; Place: 11:50 AM, Oct 30 / Oryong Hall 302, GIST</li>
         <li>Title: Fuzzy Private Set Intersection under Density-Bounded Assumptions</li>
       </ul>
     </div>
