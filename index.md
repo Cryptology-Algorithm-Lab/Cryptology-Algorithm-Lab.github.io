@@ -351,6 +351,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <button type="button" class="cna-filter-chip" data-filter="upcoming" aria-pressed="true">Upcoming</button>
   <button type="button" class="cna-filter-chip" data-filter="fall-winter" aria-pressed="false">2026 Fall / 2027 Winter</button>
   <button type="button" class="cna-filter-chip" data-filter="pml-fall" aria-pressed="false">Probabilistic ML (Fall)</button>
+  <button type="button" class="cna-filter-chip" data-filter="intern" aria-pressed="false">Intern Seminar</button>
   <button type="button" class="cna-filter-chip" data-filter="trustworthy-frs spring-summer pml winter vlm" aria-pressed="false">Prior</button>
   <button type="button" class="cna-filter-chip" data-filter="all" aria-pressed="false">All</button>
 </nav>
@@ -452,6 +453,41 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     <div class="cna-card-body">
       <b>From NN to CNN</b><br>
       <span style="color:var(--cna-soft)">Sungbin Bae · Natural Building 742</span>
+    </div>
+  </article>
+
+      </div>
+    </div>
+  </details>
+
+  <details class="cna-year" data-series-block="intern" data-series-label="Intern Seminar" open markdown="0">
+    <summary>
+      <h3>2026 · Fall · Intern Seminar</h3>
+      <span class="cna-year-count">2 sessions</span>
+      <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
+    </summary>
+    <div class="cna-year-body">
+      <div class="cna-card-grid">
+
+  <article class="cna-card cna-cat-seminar" data-series="intern" data-date="2026-10-27">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Oct 27 · 16:00–18:00</span>
+      <span class="cna-card-meta cna-tba">TBA</span>
+    </header>
+    <div class="cna-card-body">
+      <b>Sehoon Kim, Mina Kim, Sungbin Bae</b><br>
+      <span style="color:var(--cna-soft)">Natural Building 746</span>
+    </div>
+  </article>
+
+  <article class="cna-card cna-cat-seminar" data-series="intern" data-date="2026-11-03">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Nov 3 · 16:00–18:00</span>
+      <span class="cna-card-meta cna-tba">TBA</span>
+    </header>
+    <div class="cna-card-body">
+      <b>Sehoon Kim, Mina Kim, Sungbin Bae</b><br>
+      <span style="color:var(--cna-soft)">Natural Building 702</span>
     </div>
   </article>
 
