@@ -474,8 +474,8 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
       <span class="cna-chip cna-chip-seminar">Oct 27 · 16:00–18:00</span>
     </header>
     <div class="cna-card-body">
-      <b>Sehoon Kim, Mina Kim, Sungbin Bae</b><br>
-      <span style="color:var(--cna-soft)">Natural Building 746</span>
+      <b>Intern Seminar</b><br>
+      <span style="color:var(--cna-soft)">Sehoon Kim, Mina Kim, Sungbin Bae · Natural Building 746</span>
     </div>
   </article>
 
@@ -484,8 +484,8 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
       <span class="cna-chip cna-chip-seminar">Nov 3 · 16:00–18:00</span>
     </header>
     <div class="cna-card-body">
-      <b>Sehoon Kim, Mina Kim, Sungbin Bae</b><br>
-      <span style="color:var(--cna-soft)">Natural Building 702</span>
+      <b>Intern Seminar</b><br>
+      <span style="color:var(--cna-soft)">Sehoon Kim, Mina Kim, Sungbin Bae · Natural Building 702</span>
     </div>
   </article>
 
