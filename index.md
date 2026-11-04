@@ -350,7 +350,6 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 <nav class="cna-filter-row" data-filter-kind="seminar" data-filter-target="#seminar-container" aria-label="Seminar filters" markdown="0">
   <button type="button" class="cna-filter-chip" data-filter="upcoming" aria-pressed="true">Upcoming</button>
   <button type="button" class="cna-filter-chip" data-filter="fall-winter" aria-pressed="false">2026 Fall / 2027 Winter</button>
-  <button type="button" class="cna-filter-chip" data-filter="pml-fall" aria-pressed="false">Probabilistic ML (Fall)</button>
   <button type="button" class="cna-filter-chip" data-filter="intern" aria-pressed="false">Intern Seminar</button>
   <button type="button" class="cna-filter-chip" data-filter="trustworthy-frs spring-summer pml winter vlm" aria-pressed="false">Prior</button>
   <button type="button" class="cna-filter-chip" data-filter="all" aria-pressed="false">All</button>
@@ -414,16 +413,16 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </details>
 
-  <details class="cna-year" data-series-block="pml-fall" data-series-label="Probabilistic ML (Fall)" open markdown="0">
+  <details class="cna-year" data-series-block="intern" data-series-label="Intern Seminar" open markdown="0">
     <summary>
-      <h3>2026 · Fall · Probabilistic ML Study Group</h3>
-      <span class="cna-year-count">3 sessions</span>
+      <h3>2026 · Fall · Intern Seminar</h3>
+      <span class="cna-year-count">6 sessions</span>
       <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
     </summary>
     <div class="cna-year-body">
       <div class="cna-card-grid">
 
-  <article class="cna-card cna-cat-seminar" data-series="pml-fall" data-date="2026-09-10">
+  <article class="cna-card cna-cat-seminar" data-series="intern" data-date="2026-09-10">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Sep 10 · 09:00–10:15</span>
       <a class="cna-card-meta" href="https://drive.google.com/file/d/1NVDsGezl7fzcN26gq149r_H0n2mA9hrX/view?usp=sharing" target="_blank" rel="noopener">Slides ↗</a>
@@ -434,7 +433,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </article>
 
-  <article class="cna-card cna-cat-seminar" data-series="pml-fall" data-date="2026-09-17">
+  <article class="cna-card cna-cat-seminar" data-series="intern" data-date="2026-09-17">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Sep 17 · 09:00–10:15</span>
       <a class="cna-card-meta" href="https://docs.google.com/presentation/d/1BpuX-LnL_DTvZRTp-ffwItSCCIlBCCVV/edit?usp=sharing" target="_blank" rel="noopener">Slides ↗</a>
@@ -445,7 +444,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </article>
 
-  <article class="cna-card cna-cat-seminar" data-series="pml-fall" data-date="2026-10-01">
+  <article class="cna-card cna-cat-seminar" data-series="intern" data-date="2026-10-01">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Oct 1 · 09:00–10:15</span>
       <a class="cna-card-meta" href="https://drive.google.com/file/d/1ojd-ydYkaM4zUzLSpLwIxUUKpx0YbD2M/view" target="_blank" rel="noopener">Slides ↗</a>
@@ -455,19 +454,6 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
       <span style="color:var(--cna-soft)">Sungbin Bae · Natural Building 742</span>
     </div>
   </article>
-
-      </div>
-    </div>
-  </details>
-
-  <details class="cna-year" data-series-block="intern" data-series-label="Intern Seminar" open markdown="0">
-    <summary>
-      <h3>2026 · Fall · Intern Seminar</h3>
-      <span class="cna-year-count">2 sessions</span>
-      <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
-    </summary>
-    <div class="cna-year-body">
-      <div class="cna-card-grid">
 
   <article class="cna-card cna-cat-seminar" data-series="intern" data-date="2026-10-27">
     <header class="cna-card-head">
@@ -486,6 +472,16 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     <div class="cna-card-body">
       <b>Intern Seminar</b><br>
       <span style="color:var(--cna-soft)">Sehoon Kim, Mina Kim, Sungbin Bae · Natural Building 702</span>
+    </div>
+  </article>
+
+  <article class="cna-card cna-cat-seminar" data-series="intern" data-date="2026-11-05">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Nov 5 · 09:00–10:30</span>
+    </header>
+    <div class="cna-card-body">
+      <b>Intern Seminar</b><br>
+      <span style="color:var(--cna-soft)">Sungbin Bae · Natural Building 742</span>
     </div>
   </article>
 
