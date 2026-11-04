@@ -360,7 +360,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <details class="cna-year" data-series-block="fall-winter" data-series-label="2026 Fall / 2027 Winter" open markdown="0">
     <summary>
       <h3>2026 Fall · 2027 Winter Seminar</h3>
-      <span class="cna-year-count">4 sessions</span>
+      <span class="cna-year-count">5 sessions</span>
       <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
     </summary>
     <div class="cna-year-body">
@@ -406,6 +406,17 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     <div class="cna-card-body">
       <b>Dataset Ownership Verification</b><br>
       <span style="color:var(--cna-soft)">Minsu Kim · Natural Building 746</span>
+    </div>
+  </article>
+
+  <article class="cna-card cna-cat-seminar" data-series="fall-winter" data-date="2026-11-05">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Nov 5 · 13:00–15:00</span>
+      <span class="cna-card-meta cna-tba">TBA</span>
+    </header>
+    <div class="cna-card-body">
+      <b>FLIP: Cross-domain FAS with Language Guidance</b><br>
+      <span style="color:var(--cna-soft)">Changjin Kim · Natural Building 746</span>
     </div>
   </article>
 
