@@ -423,7 +423,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <article class="cna-card cna-cat-seminar" data-series="fall-winter" data-date="2026-11-11">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Nov 11 · 16:00–18:00</span>
-      <span class="cna-card-meta cna-tba">TBA</span>
+      <a class="cna-card-meta" href="https://drive.google.com/file/d/1TMi5Xh7LJrdnPWNyuSDEfBMQ78aTR5Fj/view?usp=sharing" target="_blank" rel="noopener">Slides ↗</a>
     </header>
     <div class="cna-card-body">
       <b>ThinkTrap: Denial-of-Service Attacks against Black-box LLM Services via Infinite Thinking</b><br>
