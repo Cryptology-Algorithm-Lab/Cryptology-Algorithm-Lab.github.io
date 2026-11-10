@@ -513,7 +513,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </header>
     <div class="cna-card-body">
       <b>Intern Seminar</b><br>
-      <span style="color:var(--cna-soft)">Sungbin Bae, Sehoon Kim · Natural Building 702</span>
+      <span style="color:var(--cna-soft)">Sungbin Bae, Sehoon Kim · Natural Building 740</span>
     </div>
   </article>
 
