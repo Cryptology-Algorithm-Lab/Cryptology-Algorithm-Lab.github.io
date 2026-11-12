@@ -583,7 +583,7 @@ header:
     </div>
     <div class="cna-row-aside">
       <span class="cna-chip cna-chip-talk">ECCV</span>
-      <span class="cna-row-aside-detail">2026 · TBA</span>
+      <span class="cna-row-aside-detail">2026 · <a href="https://doi.org/10.1007/978-3-032-37369-4_30">DOI</a></span>
     </div>
   </article>
 
