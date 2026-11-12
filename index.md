@@ -438,7 +438,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
   <details class="cna-year" data-series-block="intern" data-series-label="Intern Seminar" open markdown="0">
     <summary>
       <h3>2026 · Fall · Intern Seminar</h3>
-      <span class="cna-year-count">7 sessions</span>
+      <span class="cna-year-count">8 sessions</span>
       <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
     </summary>
     <div class="cna-year-body">
@@ -514,6 +514,16 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     <div class="cna-card-body">
       <b>Intern Seminar</b><br>
       <span style="color:var(--cna-soft)">Sungbin Bae, Sehoon Kim · Natural Building 740</span>
+    </div>
+  </article>
+
+  <article class="cna-card cna-cat-seminar" data-series="intern" data-date="2026-11-12">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Nov 12 · 09:00–10:30</span>
+    </header>
+    <div class="cna-card-body">
+      <b>Intern Seminar</b><br>
+      <span style="color:var(--cna-soft)">Mina Kim · Natural Building 742</span>
     </div>
   </article>
 
