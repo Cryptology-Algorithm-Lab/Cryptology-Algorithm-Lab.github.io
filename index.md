@@ -34,6 +34,18 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
 <div id="annual-news-grid" class="cna-card-grid" markdown="0">
 
+  <article class="cna-card cna-cat-paper" data-cat="paper" data-date="2026-11-17">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-paper">Journal</span>
+      <time class="cna-card-meta">Nov 17, 2026</time>
+    </header>
+    <div class="cna-card-body">
+      <p>Accepted for publication at <b>IEEE Transactions on Information Forensics and Security</b>.</p>
+      <p><b>Seunghun Paik</b>, <b>Minsu Kim</b>, <b>Sunpill Kim</b>, and <b>Jae Hong Seo*</b><br>
+      <i>General Security Analysis for Face Template Protection Methods from Cryptographic Hash Functions</i></p>
+    </div>
+  </article>
+
   <article class="cna-card cna-cat-seminar" data-cat="talk" data-date="2026-10-28">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Talk</span>
