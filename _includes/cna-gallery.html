@@ -1,13 +1,20 @@
 {%- comment -%}
   cna-gallery — event photo mosaic.
 
-  Renders page[include.id] as a fixed-column grid of square thumbnails and pads
-  the last row with flat filler tiles, so every event block is a full rectangle
-  regardless of how many photos it has. Thumbnails are cropped (object-fit:
-  cover); the uncropped photo is shown by the lightbox in footer/custom.html.
+  Renders page[include.id] as a fixed 3-column grid and pads the last row with
+  flat filler tiles, so every event block is a full rectangle regardless of how
+  many photos it has. The first photo spans 2x2, which both gives the block a
+  lead image and keeps the remaining thumbnails from shrinking to nothing on a
+  phone. Thumbnails are cropped (object-fit: cover); the uncropped photo is
+  shown by the lightbox in footer/custom.html.
 
-  Cell budget: the first photo spans 2x2 when there are >= 4 photos, so
-  cells = (n - 1) + 4; otherwise cells = n. Fillers top that up to a full row.
+  Cell budget: a 2x2 lead eats 4 cells instead of 1, so cells = (n - 1) + 4.
+  Fillers top that up to a whole number of rows.
+
+  Per-photo options in the front matter list:
+    focus: "50% 20%"   crop anchor, when the default 50% 40% cuts badly
+  Include options:
+    eager=true         first photo loads eagerly (use on the topmost gallery)
 {%- endcomment -%}
 {%- assign items = page[include.id] -%}
 {%- assign n = items | size -%}
@@ -17,7 +24,7 @@
   {%- else -%}
     {%- assign cols = 3 -%}
   {%- endif -%}
-  {%- if n >= 4 -%}
+  {%- if n >= 2 -%}
     {%- assign feature = true -%}
     {%- assign cells = n | plus: 3 -%}
   {%- else -%}
@@ -33,8 +40,11 @@
   <button type="button" class="cna-gallery-tile{% if feature and forloop.first %} cna-gallery-tile--feature{% endif %}"
           data-full="{{ img.url | default: img.image_path | relative_url }}"
           data-caption="{{ img.alt | escape }}"
-          aria-label="{{ img.alt | escape | default: 'Open photo' }} — open full size">
-    <img src="{{ img.image_path | relative_url }}" alt="{{ img.alt | escape }}" loading="lazy" decoding="async">
+          aria-label="{{ img.alt | escape | default: 'Photo' }} — photo {{ forloop.index }} of {{ n }}, open full size">
+    <img src="{{ img.image_path | relative_url }}" alt=""
+         style="object-position: {{ img.focus | default: '50% 40%' }}"
+         {% if include.eager and forloop.first %}loading="eager" fetchpriority="high"{% else %}loading="lazy"{% endif %}
+         decoding="async">
   </button>
   {%- endfor -%}
   {%- if fillers > 0 -%}{%- for i in (1..fillers) -%}

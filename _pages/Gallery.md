@@ -178,7 +178,7 @@ gallery18:
       <h3>Seunghun Paik — ACM CCS 2026</h3>
       <span class="cna-chip cna-chip-talk">Conference</span>
     </header>
-    {% include cna-gallery.html id="gallery18" %}
+    {% include cna-gallery.html id="gallery18" eager=true %}
   </section>
 
   <section class="cna-section cna-cat-award" markdown="0">

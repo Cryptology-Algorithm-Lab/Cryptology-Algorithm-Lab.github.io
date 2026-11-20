@@ -1383,7 +1383,7 @@ button.cna-gallery-tile{
   height: 100%;
   object-fit: cover;
   display: block;
-  transition: transform var(--cna-motion, 180ms) ease;
+  transition: transform var(--cna-dur) var(--cna-ease);
 }
 button.cna-gallery-tile:hover img,
 button.cna-gallery-tile:focus-visible img{
@@ -1393,13 +1393,21 @@ button.cna-gallery-tile:focus-visible{
   outline: 2px solid var(--cna-indigo);
   outline-offset: 2px;
 }
-/* Filler: flat, quiet, clearly not a photo. */
+/* Filler: ground, not a vessel. It must NOT look like a photo tile whose
+   image has not arrived yet — same wash + same border would make an empty
+   cell and a still-loading cell pixel-identical, and the page teaches that
+   reading as it lazy-loads. Dropping the border is what separates them. */
 .cna-gallery-filler{
-  background: var(--cna-stone-wash);
-  border-color: var(--cna-rule);
+  background: var(--cna-rule);
+  border: 0;
 }
 /* A lone photo is shown whole — cropping a single image to a square loses
    the only thing the event block has to say. */
+.cna-gallery--single{
+  /* One photo should not become the biggest block on the page. Cap it at the
+     width of a single 3-col tile pair so it sits inside the page rhythm. */
+  max-width: calc((200% - var(--cna-s-2)) / 3);
+}
 .cna-gallery--single .cna-gallery-tile{
   aspect-ratio: auto;
   background: transparent;
@@ -1410,9 +1418,21 @@ button.cna-gallery-tile:focus-visible{
 }
 @media (prefers-reduced-motion: reduce){
   .cna-gallery-tile img{ transition: none; }
-  button.cna-gallery-tile:hover img{ transform: none; }
+  button.cna-gallery-tile:hover img,
+  button.cna-gallery-tile:focus-visible img{ transform: none; }
 }
 
+/* A long event title wraps to several lines on a phone and the baseline-aligned
+   chip is left stranded beside the first line. Stack it above the title; the
+   DOM order (title then chip) is kept so the heading is still read first. */
+@media (max-width: 600px){
+  .cna-section:has(.cna-gallery) .cna-section-head{
+    flex-direction: column-reverse;
+    align-items: flex-start;
+    gap: var(--cna-s-2);
+  }
+  .cna-section:has(.cna-gallery) .cna-section-head h3{ font-size: var(--cna-fs-xl); }
+}
 /* ---------- Lightbox ---------- */
 .cna-lightbox{
   position: fixed;
@@ -1462,7 +1482,7 @@ button.cna-gallery-tile:focus-visible{
   border-radius: 999px;
   cursor: pointer;
   line-height: 1;
-  transition: background var(--cna-motion, 180ms) ease;
+  transition: background var(--cna-dur) var(--cna-ease);
 }
 .cna-lightbox button:hover{ background: rgba(31, 25, 20, 0.85); }
 .cna-lightbox button:focus-visible{
@@ -1488,7 +1508,8 @@ button.cna-gallery-tile:focus-visible{
 .cna-lightbox[data-single="true"] .cna-lightbox-nav,
 .cna-lightbox[data-single="true"] .cna-lightbox-count{ display: none; }
 @media (max-width: 600px){
-  .cna-lightbox-nav{ width: 40px; height: 40px; font-size: 24px; }
+  /* 44px, not 40 — these are the primary control on a touch photo viewer. */
+  .cna-lightbox-nav{ width: 44px; height: 44px; font-size: 26px; }
   .cna-lightbox-prev{ left: var(--cna-s-2); }
   .cna-lightbox-next{ right: var(--cna-s-2); }
   .cna-lightbox-figure img{ max-height: 70vh; }
