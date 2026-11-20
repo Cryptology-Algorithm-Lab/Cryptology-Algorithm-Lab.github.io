@@ -1339,6 +1339,160 @@ body{
   display: none;
 }
 
+
+/* ---------- Gallery mosaic (.cna-gallery) ---------- */
+/* Every event block is a full rectangle: a fixed column count, square
+   thumbnails, and flat filler tiles padding the final row. Thumbnails crop
+   (object-fit: cover) — the uncropped photo lives in the lightbox. Column
+   count is deliberately NOT responsive: changing it per breakpoint would
+   invalidate the filler count computed in _includes/cna-gallery.html and
+   break the rectangle on small screens. */
+.cna-gallery{
+  display: grid;
+  grid-auto-flow: dense;
+  gap: var(--cna-s-2);
+  margin: 0;
+}
+.cna-gallery[data-cols="1"]{ grid-template-columns: 1fr; }
+.cna-gallery[data-cols="2"]{ grid-template-columns: repeat(2, 1fr); } /* reserved — the include emits 1 or 3 */
+.cna-gallery[data-cols="3"]{ grid-template-columns: repeat(3, 1fr); }
+
+.cna-gallery-tile{
+  position: relative;
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid var(--cna-line);
+  border-radius: var(--cna-radius-sm);
+  background: var(--cna-stone-wash);
+}
+.cna-gallery-tile--feature{
+  grid-column: span 2;
+  grid-row: span 2;
+}
+button.cna-gallery-tile{
+  cursor: zoom-in;
+  appearance: none;
+  -webkit-appearance: none;
+}
+.cna-gallery-tile img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform var(--cna-motion, 180ms) ease;
+}
+button.cna-gallery-tile:hover img,
+button.cna-gallery-tile:focus-visible img{
+  transform: scale(1.04);
+}
+button.cna-gallery-tile:focus-visible{
+  outline: 2px solid var(--cna-indigo);
+  outline-offset: 2px;
+}
+/* Filler: flat, quiet, clearly not a photo. */
+.cna-gallery-filler{
+  background: var(--cna-stone-wash);
+  border-color: var(--cna-rule);
+}
+/* A lone photo is shown whole — cropping a single image to a square loses
+   the only thing the event block has to say. */
+.cna-gallery--single .cna-gallery-tile{
+  aspect-ratio: auto;
+  background: transparent;
+}
+.cna-gallery--single .cna-gallery-tile img{
+  height: auto;
+  object-fit: contain;
+}
+@media (prefers-reduced-motion: reduce){
+  .cna-gallery-tile img{ transition: none; }
+  button.cna-gallery-tile:hover img{ transform: none; }
+}
+
+/* ---------- Lightbox ---------- */
+.cna-lightbox{
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(31, 25, 20, 0.92);
+}
+.cna-lightbox[hidden]{ display: none; }
+.cna-lightbox-figure{
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--cna-s-3);
+  max-width: 92vw;
+}
+.cna-lightbox-figure img{
+  max-width: 92vw;
+  max-height: 82vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: var(--cna-radius-sm);
+  background: var(--cna-paper);
+}
+.cna-lightbox-caption{
+  color: #F3F1EA;
+  font-size: var(--cna-fs-sm);
+  text-align: center;
+  max-width: 68ch;
+}
+.cna-lightbox-count{
+  color: var(--cna-faint);
+  font-size: var(--cna-fs-xs);
+  letter-spacing: 0.04em;
+}
+.cna-lightbox button{
+  position: absolute;
+  appearance: none;
+  -webkit-appearance: none;
+  border: 1px solid rgba(243, 241, 234, 0.28);
+  background: rgba(31, 25, 20, 0.55);
+  color: #F3F1EA;
+  border-radius: 999px;
+  cursor: pointer;
+  line-height: 1;
+  transition: background var(--cna-motion, 180ms) ease;
+}
+.cna-lightbox button:hover{ background: rgba(31, 25, 20, 0.85); }
+.cna-lightbox button:focus-visible{
+  outline: 2px solid #F3F1EA;
+  outline-offset: 2px;
+}
+.cna-lightbox-close{
+  top: var(--cna-s-5);
+  right: var(--cna-s-5);
+  width: 44px;
+  height: 44px;
+  font-size: 26px;
+}
+.cna-lightbox-nav{
+  top: 50%;
+  transform: translateY(-50%);
+  width: 48px;
+  height: 48px;
+  font-size: 30px;
+}
+.cna-lightbox-prev{ left: var(--cna-s-5); }
+.cna-lightbox-next{ right: var(--cna-s-5); }
+.cna-lightbox[data-single="true"] .cna-lightbox-nav,
+.cna-lightbox[data-single="true"] .cna-lightbox-count{ display: none; }
+@media (max-width: 600px){
+  .cna-lightbox-nav{ width: 40px; height: 40px; font-size: 24px; }
+  .cna-lightbox-prev{ left: var(--cna-s-2); }
+  .cna-lightbox-next{ right: var(--cna-s-2); }
+  .cna-lightbox-figure img{ max-height: 70vh; }
+}
 </style>
 
 <!-- end custom head snippets -->

@@ -1,0 +1,44 @@
+{%- comment -%}
+  cna-gallery — event photo mosaic.
+
+  Renders page[include.id] as a fixed-column grid of square thumbnails and pads
+  the last row with flat filler tiles, so every event block is a full rectangle
+  regardless of how many photos it has. Thumbnails are cropped (object-fit:
+  cover); the uncropped photo is shown by the lightbox in footer/custom.html.
+
+  Cell budget: the first photo spans 2x2 when there are >= 4 photos, so
+  cells = (n - 1) + 4; otherwise cells = n. Fillers top that up to a full row.
+{%- endcomment -%}
+{%- assign items = page[include.id] -%}
+{%- assign n = items | size -%}
+{%- if n > 0 -%}
+  {%- if n == 1 -%}
+    {%- assign cols = 1 -%}
+  {%- else -%}
+    {%- assign cols = 3 -%}
+  {%- endif -%}
+  {%- if n >= 4 -%}
+    {%- assign feature = true -%}
+    {%- assign cells = n | plus: 3 -%}
+  {%- else -%}
+    {%- assign feature = false -%}
+    {%- assign cells = n -%}
+  {%- endif -%}
+  {%- assign rows = cells | divided_by: cols -%}
+  {%- assign rem = cells | modulo: cols -%}
+  {%- if rem > 0 -%}{%- assign rows = rows | plus: 1 -%}{%- endif -%}
+  {%- assign fillers = rows | times: cols | minus: cells -%}
+<div class="cna-gallery{% if n == 1 %} cna-gallery--single{% endif %}" data-cols="{{ cols }}" data-count="{{ n }}" markdown="0">
+  {%- for img in items -%}
+  <button type="button" class="cna-gallery-tile{% if feature and forloop.first %} cna-gallery-tile--feature{% endif %}"
+          data-full="{{ img.url | default: img.image_path | relative_url }}"
+          data-caption="{{ img.alt | escape }}"
+          aria-label="{{ img.alt | escape | default: 'Open photo' }} — open full size">
+    <img src="{{ img.image_path | relative_url }}" alt="{{ img.alt | escape }}" loading="lazy" decoding="async">
+  </button>
+  {%- endfor -%}
+  {%- if fillers > 0 -%}{%- for i in (1..fillers) -%}
+  <span class="cna-gallery-tile cna-gallery-filler" aria-hidden="true"></span>
+  {%- endfor -%}{%- endif -%}
+</div>
+{%- endif -%}

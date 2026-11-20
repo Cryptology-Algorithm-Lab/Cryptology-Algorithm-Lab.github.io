@@ -47,7 +47,6 @@ gallery4:
   - url: /assets/Gallery/23_10_2.jpg
     image_path: /assets/Gallery/23_10_2.jpg
     alt: "Cryptographic Contests 2023"
-gallery4_1:
   - url: /assets/Gallery/23_10_3.jpg
     image_path: /assets/Gallery/23_10_3.jpg
     alt: "Cryptographic Contests 2023"
@@ -151,22 +150,43 @@ gallery17:
   - url: /assets/Gallery/best_paper_2603_1.jpeg
     image_path: /assets/Gallery/best_paper_2603_1.jpeg
     alt: "Outstanding Paper, Hanyang University"
+gallery18:
+  - url: /assets/Gallery/ccs2026_2.jpg
+    image_path: /assets/Gallery/ccs2026_2.jpg
+    alt: "Casting the Net! Revisiting MasterFace Impersonation Attacks — ML Attacks session, ACM CCS 2026"
+  - url: /assets/Gallery/ccs2026_4.jpg
+    image_path: /assets/Gallery/ccs2026_4.jpg
+    alt: "Seunghun Paik at ACM CCS 2026"
+  - url: /assets/Gallery/ccs2026_3.jpg
+    image_path: /assets/Gallery/ccs2026_3.jpg
+    alt: "Seunghun Paik presenting at ACM CCS 2026"
+  - url: /assets/Gallery/ccs2026_1.jpg
+    image_path: /assets/Gallery/ccs2026_1.jpg
+    alt: "ACM CCS 2026 opening"
 ---
 
 <details class="cna-year" open markdown="0">
   <summary>
     <h3>2026</h3>
-    <span class="cna-year-count">3 events</span>
+    <span class="cna-year-count">4 events</span>
     <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
   </summary>
   <div class="cna-year-body">
+
+  <section class="cna-section cna-cat-talk" markdown="0">
+    <header class="cna-section-head">
+      <h3>Seunghun Paik — ACM CCS 2026</h3>
+      <span class="cna-chip cna-chip-talk">Conference</span>
+    </header>
+    {% include cna-gallery.html id="gallery18" %}
+  </section>
 
   <section class="cna-section cna-cat-award" markdown="0">
     <header class="cna-section-head">
       <h3>Outstanding Paper, Hanyang University</h3>
       <span class="cna-chip cna-chip-award">Award</span>
     </header>
-    {% include gallery id="gallery17" %}
+    {% include cna-gallery.html id="gallery17" %}
   </section>
 
   <section class="cna-section cna-cat-seminar" markdown="0">
@@ -174,7 +194,7 @@ gallery17:
       <h3>MATH: Make AI Trust Higher — Workshop at Hanyang University</h3>
       <span class="cna-chip cna-chip-seminar">Workshop</span>
     </header>
-    {% include gallery id="gallery16" %}
+    {% include cna-gallery.html id="gallery16" %}
   </section>
 
   <section class="cna-section cna-cat-member" markdown="0">
@@ -182,7 +202,7 @@ gallery17:
       <h3>Celebrating Sunpill Kim’s graduation</h3>
       <span class="cna-chip cna-chip-member">Member</span>
     </header>
-    {% include gallery id="gallery15" %}
+    {% include cna-gallery.html id="gallery15" %}
   </section>
 
   </div>
@@ -201,7 +221,7 @@ gallery17:
       <h3>Seunghun Paik’s invited talk — Day of Mathematics 2025</h3>
       <span class="cna-chip cna-chip-seminar">Invited Talk</span>
     </header>
-    {% include gallery id="gallery14" %}
+    {% include cna-gallery.html id="gallery14" %}
   </section>
 
   <section class="cna-section cna-cat-award" markdown="0">
@@ -209,7 +229,7 @@ gallery17:
       <h3>National Cryptography Contest 2025</h3>
       <span class="cna-chip cna-chip-award">Award</span>
     </header>
-    {% include gallery id="gallery13" %}
+    {% include cna-gallery.html id="gallery13" %}
   </section>
 
   <section class="cna-section cna-cat-talk" markdown="0">
@@ -217,7 +237,7 @@ gallery17:
       <h3>KCCV 2025 — and a birthday celebration for Changjin Kim</h3>
       <span class="cna-chip cna-chip-talk">Conference</span>
     </header>
-    {% include gallery id="gallery12" layout="half" %}
+    {% include cna-gallery.html id="gallery12" %}
   </section>
 
   <section class="cna-section cna-cat-member" markdown="0">
@@ -225,7 +245,7 @@ gallery17:
       <h3>Celebrating Hyeonbum Lee’s graduation</h3>
       <span class="cna-chip cna-chip-member">Member</span>
     </header>
-    {% include gallery id="gallery11" %}
+    {% include cna-gallery.html id="gallery11" %}
   </section>
 
   </div>
@@ -244,7 +264,7 @@ gallery17:
       <h3>National Cryptography Contest 2024</h3>
       <span class="cna-chip cna-chip-award">Award</span>
     </header>
-    {% include gallery id="gallery10" %}
+    {% include cna-gallery.html id="gallery10" %}
   </section>
 
   <section class="cna-section cna-cat-award" markdown="0">
@@ -252,7 +272,7 @@ gallery17:
       <h3>Cryptanalysis Contest 2024</h3>
       <span class="cna-chip cna-chip-award">Award</span>
     </header>
-    {% include gallery id="gallery9" %}
+    {% include cna-gallery.html id="gallery9" %}
   </section>
 
   <section class="cna-section cna-cat-seminar" markdown="0">
@@ -260,7 +280,7 @@ gallery17:
       <h3>MPC &amp; SNARK Workshop 2024</h3>
       <span class="cna-chip cna-chip-seminar">Workshop</span>
     </header>
-    {% include gallery id="gallery8" %}
+    {% include cna-gallery.html id="gallery8" %}
   </section>
 
   <section class="cna-section cna-cat-talk" markdown="0">
@@ -268,7 +288,7 @@ gallery17:
       <h3>Hyeonbum Lee — ZKProof6 &amp; IEEE ICBC 2024</h3>
       <span class="cna-chip cna-chip-talk">Conference</span>
     </header>
-    {% include gallery id="gallery7" %}
+    {% include cna-gallery.html id="gallery7" %}
   </section>
 
   <section class="cna-section cna-cat-talk" markdown="0">
@@ -276,7 +296,7 @@ gallery17:
       <h3>Sunpill Kim — IEEE S&amp;P 2024</h3>
       <span class="cna-chip cna-chip-talk">Conference</span>
     </header>
-    {% include gallery id="gallery6" %}
+    {% include cna-gallery.html id="gallery6" %}
   </section>
 
   </div>
@@ -295,7 +315,7 @@ gallery17:
       <h3>Seunghun Paik — BMVC 2023</h3>
       <span class="cna-chip cna-chip-talk">Conference</span>
     </header>
-    {% include gallery id="gallery5" %}
+    {% include cna-gallery.html id="gallery5" %}
   </section>
 
   <section class="cna-section cna-cat-award" markdown="0">
@@ -303,8 +323,7 @@ gallery17:
       <h3>National Cryptographic Technology &amp; Cryptanalysis Contests 2023</h3>
       <span class="cna-chip cna-chip-award">Award</span>
     </header>
-    {% include gallery id="gallery4" %}
-    {% include gallery id="gallery4_1" %}
+    {% include cna-gallery.html id="gallery4" %}
   </section>
 
   <section class="cna-section cna-cat-member" markdown="0">
@@ -312,7 +331,7 @@ gallery17:
       <h3>Teacher’s Day with the lab</h3>
       <span class="cna-chip cna-chip-people">Lab Life</span>
     </header>
-    {% include gallery id="gallery3" %}
+    {% include cna-gallery.html id="gallery3" %}
   </section>
 
   </div>
@@ -331,7 +350,7 @@ gallery17:
       <h3>Hyeonbum Lee — ASIACRYPT 2022</h3>
       <span class="cna-chip cna-chip-talk">Conference</span>
     </header>
-    {% include gallery id="gallery" %}
+    {% include cna-gallery.html id="gallery" %}
   </section>
 
   <section class="cna-section cna-cat-award" markdown="0">
@@ -339,7 +358,7 @@ gallery17:
       <h3>Researcher achievements</h3>
       <span class="cna-chip cna-chip-award">Award</span>
     </header>
-    {% include gallery id="gallery2" layout="half" %}
+    {% include cna-gallery.html id="gallery2" %}
   </section>
 
   <section class="cna-section cna-cat-people" markdown="0">
@@ -347,7 +366,7 @@ gallery17:
       <h3>Welcome — Bora Jeong</h3>
       <span class="cna-chip cna-chip-member">Member</span>
     </header>
-    {% include gallery id="gallery1" %}
+    {% include cna-gallery.html id="gallery1" %}
   </section>
 
   </div>
