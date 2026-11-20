@@ -157,12 +157,13 @@ gallery18:
   - url: /assets/Gallery/ccs2026_4.jpg
     image_path: /assets/Gallery/ccs2026_4.jpg
     alt: "Seunghun Paik at ACM CCS 2026"
-  - url: /assets/Gallery/ccs2026_3.jpg
-    image_path: /assets/Gallery/ccs2026_3.jpg
-    alt: "Seunghun Paik presenting at ACM CCS 2026"
   - url: /assets/Gallery/ccs2026_1.jpg
     image_path: /assets/Gallery/ccs2026_1.jpg
     alt: "ACM CCS 2026 opening"
+  - url: /assets/Gallery/ccs2026_3.jpg
+    image_path: /assets/Gallery/ccs2026_3.jpg
+    focus: "50% 55%"
+    alt: "Seunghun Paik presenting at ACM CCS 2026"
 ---
 
 <details class="cna-year" open markdown="0">

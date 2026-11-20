@@ -1369,14 +1369,35 @@ body{
   border-radius: var(--cna-radius-sm);
   background: var(--cna-stone-wash);
 }
+/* The lead tile is the only one that keeps a 1:1 ratio while spanning two
+   tracks, which is what sizes every row to one column width. The tall and
+   wide tiles must NOT declare a ratio — they take their height from the
+   tracks the lead has already fixed, so the rectangle stays exact. */
 .cna-gallery-tile--feature{
   grid-column: span 2;
   grid-row: span 2;
+}
+.cna-gallery-tile--tall{
+  grid-row: span 2;
+  aspect-ratio: auto;
+}
+.cna-gallery-tile--wide{
+  grid-column: span 2;
+  aspect-ratio: auto;
 }
 button.cna-gallery-tile{
   cursor: zoom-in;
   appearance: none;
   -webkit-appearance: none;
+}
+/* Absolutely positioned so the photo contributes nothing to the tile's
+   intrinsic size. The tall and wide tiles have no aspect-ratio of their own —
+   their height has to come from the grid tracks (which the 1:1 lead tile
+   fixes at one column width). Leave the image in flow and it drags the whole
+   row to its natural height instead. */
+.cna-gallery:not(.cna-gallery--single) .cna-gallery-tile img{
+  position: absolute;
+  inset: 0;
 }
 .cna-gallery-tile img{
   width: 100%;

@@ -1,15 +1,27 @@
 {%- comment -%}
   cna-gallery — event photo mosaic.
 
-  Renders page[include.id] as a fixed 3-column grid and pads the last row with
-  flat filler tiles, so every event block is a full rectangle regardless of how
-  many photos it has. The first photo spans 2x2, which both gives the block a
-  lead image and keeps the remaining thumbnails from shrinking to nothing on a
-  phone. Thumbnails are cropped (object-fit: cover); the uncropped photo is
-  shown by the lightbox in footer/custom.html.
+  Every event block is a rectangle on a 3-column grid. Rather than padding the
+  last row with blanks, the tiles themselves are sized to tile the rectangle
+  exactly: the lead photo spans 2x2, and as many of the next photos as needed
+  span two cells (one tall, then one wide) to take up the slack.
 
-  Cell budget: a 2x2 lead eats 4 cells instead of 1, so cells = (n - 1) + 4.
-  Fillers top that up to a whole number of rows.
+  With rows = ceil((n + 3) / 3), the number of two-cell tiles needed is
+      extra = 3 * rows - n - 3
+  which works out to 0, 1 or 2 for every n, so no filler is ever required:
+
+      n = 2  ->  2 rows, lead + 1 tall                    6 cells
+      n = 3  ->  2 rows, lead + 2 small                   6 cells
+      n = 4  ->  3 rows, lead + 1 tall + 1 wide + 1 small 9 cells
+      n = 5  ->  3 rows, lead + 1 tall + 3 small          9 cells
+      n = 6  ->  3 rows, lead + 5 small                   9 cells
+
+  The tall tile comes before the wide one on purpose: after a 2x2 lead the
+  only free cells in the first rows are the third column, which a wide tile
+  cannot fit into — placing it first would punch holes in the grid.
+
+  Fillers remain as a safety net for counts the span table cannot cover.
+  Thumbnails crop (object-fit: cover); the lightbox shows the uncropped photo.
 
   Per-photo options in the front matter list:
     focus: "50% 20%"   crop anchor, when the default 50% 40% cuts badly
@@ -21,23 +33,34 @@
 {%- if n > 0 -%}
   {%- if n == 1 -%}
     {%- assign cols = 1 -%}
+    {%- assign rows = 1 -%}
+    {%- assign extra = 0 -%}
+    {%- assign lead = false -%}
   {%- else -%}
     {%- assign cols = 3 -%}
+    {%- assign lead = true -%}
+    {%- assign budget = n | plus: 3 -%}
+    {%- assign rows = budget | divided_by: cols -%}
+    {%- assign rem = budget | modulo: cols -%}
+    {%- if rem > 0 -%}{%- assign rows = rows | plus: 1 -%}{%- endif -%}
+    {%- assign extra = rows | times: cols | minus: n | minus: 3 -%}
+    {%- assign spare = n | minus: 1 -%}
+    {%- if extra > spare -%}{%- assign extra = spare -%}{%- endif -%}
   {%- endif -%}
-  {%- if n >= 2 -%}
-    {%- assign feature = true -%}
-    {%- assign cells = n | plus: 3 -%}
-  {%- else -%}
-    {%- assign feature = false -%}
-    {%- assign cells = n -%}
-  {%- endif -%}
-  {%- assign rows = cells | divided_by: cols -%}
-  {%- assign rem = cells | modulo: cols -%}
-  {%- if rem > 0 -%}{%- assign rows = rows | plus: 1 -%}{%- endif -%}
-  {%- assign fillers = rows | times: cols | minus: cells -%}
+  {%- assign used = n | plus: 3 | plus: extra -%}
+  {%- if lead == false -%}{%- assign used = n -%}{%- endif -%}
+  {%- assign fillers = rows | times: cols | minus: used -%}
 <div class="cna-gallery{% if n == 1 %} cna-gallery--single{% endif %}" data-cols="{{ cols }}" data-count="{{ n }}" markdown="0">
   {%- for img in items -%}
-  <button type="button" class="cna-gallery-tile{% if feature and forloop.first %} cna-gallery-tile--feature{% endif %}"
+  {%- assign span = '' -%}
+  {%- if lead and forloop.first -%}
+    {%- assign span = ' cna-gallery-tile--feature' -%}
+  {%- elsif forloop.index0 == 1 and extra >= 1 -%}
+    {%- assign span = ' cna-gallery-tile--tall' -%}
+  {%- elsif forloop.index0 == 2 and extra >= 2 -%}
+    {%- assign span = ' cna-gallery-tile--wide' -%}
+  {%- endif -%}
+  <button type="button" class="cna-gallery-tile{{ span }}"
           data-full="{{ img.url | default: img.image_path | relative_url }}"
           data-caption="{{ img.alt | escape }}"
           aria-label="{{ img.alt | escape | default: 'Photo' }} — photo {{ forloop.index }} of {{ n }}, open full size">
