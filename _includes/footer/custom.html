@@ -343,4 +343,132 @@
   });
 })();
 </script>
+
+<script>
+/* Gallery lightbox. Deliberately a separate IIFE: the block above bails out
+   early (`if (!toc) return`) on pages without a floating TOC, and the Gallery
+   page is one of them. */
+(function () {
+  var galleries = Array.prototype.slice.call(document.querySelectorAll('.cna-gallery'));
+  if (!galleries.length) return;
+
+  var box = null, imgEl, capEl, countEl, closeBtn, prevBtn, nextBtn;
+  var group = [], index = 0, lastFocus = null;
+
+  function build() {
+    box = document.createElement('div');
+    box.className = 'cna-lightbox';
+    box.setAttribute('role', 'dialog');
+    box.setAttribute('aria-modal', 'true');
+    box.setAttribute('aria-label', 'Photo viewer');
+    box.hidden = true;
+    box.innerHTML =
+      '<button type="button" class="cna-lightbox-close" aria-label="Close">&times;</button>' +
+      '<button type="button" class="cna-lightbox-nav cna-lightbox-prev" aria-label="Previous photo">&lsaquo;</button>' +
+      '<figure class="cna-lightbox-figure">' +
+        '<img alt="">' +
+        '<figcaption class="cna-lightbox-caption" aria-live="polite"></figcaption>' +
+        '<span class="cna-lightbox-count" aria-live="polite"></span>' +
+      '</figure>' +
+      '<button type="button" class="cna-lightbox-nav cna-lightbox-next" aria-label="Next photo">&rsaquo;</button>';
+    document.body.appendChild(box);
+
+    imgEl = box.querySelector('img');
+    capEl = box.querySelector('.cna-lightbox-caption');
+    countEl = box.querySelector('.cna-lightbox-count');
+    closeBtn = box.querySelector('.cna-lightbox-close');
+    prevBtn = box.querySelector('.cna-lightbox-prev');
+    nextBtn = box.querySelector('.cna-lightbox-next');
+
+    closeBtn.addEventListener('click', close);
+    prevBtn.addEventListener('click', function () { step(-1); });
+    nextBtn.addEventListener('click', function () { step(1); });
+    /* Backdrop only — clicks on the photo or the buttons must not close. */
+    box.addEventListener('click', function (e) { if (e.target === box) close(); });
+    document.addEventListener('keydown', function (e) {
+      if (box.hidden) return;
+      if (e.key === 'Escape') { close(); }
+      else if (e.key === 'ArrowLeft') { step(-1); }
+      else if (e.key === 'ArrowRight') { step(1); }
+    });
+
+    /* Keep Tab inside the dialog. aria-modal only hides the page from screen
+       readers — without this a keyboard user tabs onto links behind the scrim
+       and the focus ring goes somewhere they cannot see. */
+    box.addEventListener("keydown", function (e) {
+      if (e.key !== "Tab") return;
+      var f = Array.prototype.filter.call(box.querySelectorAll("button"), function (b) {
+        return b.offsetParent !== null;   /* the nav buttons are hidden for single-photo groups */
+      });
+      if (!f.length) return;
+      var first = f[0], last = f[f.length - 1];
+      if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+      else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+    });
+
+    /* Swipe: every other photo viewer the visitor uses supports it. */
+    var tx = 0, ty = 0;
+    box.addEventListener("touchstart", function (e) {
+      tx = e.changedTouches[0].clientX; ty = e.changedTouches[0].clientY;
+    }, { passive: true });
+    box.addEventListener("touchend", function (e) {
+      var dx = e.changedTouches[0].clientX - tx, dy = e.changedTouches[0].clientY - ty;
+      if (Math.abs(dx) > 48 && Math.abs(dx) > Math.abs(dy)) step(dx < 0 ? 1 : -1);
+    }, { passive: true });
+  }
+
+  function show(i) {
+    var tile = group[i];
+    index = i;
+    imgEl.src = tile.getAttribute('data-full');
+    var cap = tile.getAttribute('data-caption') || '';
+    imgEl.alt = cap;
+    capEl.textContent = cap;
+    capEl.hidden = !cap;
+    countEl.textContent = (i + 1) + ' / ' + group.length;
+
+    /* These are full-size phone photos; without this the next one arrives
+       after the user has already asked for it. */
+    [1, -1].forEach(function (d) {
+      var t = group[(index + d + group.length) % group.length];
+      if (t) { var p = new Image(); p.src = t.getAttribute("data-full"); }
+    });
+  }
+
+  function step(delta) {
+    if (group.length < 2) return;
+    show((index + delta + group.length) % group.length);
+  }
+
+  function open(tiles, i) {
+    if (!box) build();
+    group = tiles;
+    box.setAttribute('data-single', group.length < 2 ? 'true' : 'false');
+    lastFocus = document.activeElement;
+    show(i);
+    box.hidden = false;
+    /* Locking the scroll removes the scrollbar, which shifts the page under
+       the scrim. Pay the width back as padding. */
+    var gutter = window.innerWidth - document.documentElement.clientWidth;
+    document.documentElement.style.overflow = "hidden";
+    if (gutter > 0) document.documentElement.style.paddingRight = gutter + "px";
+    closeBtn.focus();
+  }
+
+  function close() {
+    box.hidden = true;
+    imgEl.removeAttribute('src');
+    document.documentElement.style.overflow = '';
+    document.documentElement.style.paddingRight = "";
+    if (lastFocus && lastFocus.focus) lastFocus.focus();
+  }
+
+  galleries.forEach(function (g) {
+    var tiles = Array.prototype.slice.call(g.querySelectorAll('button.cna-gallery-tile'));
+    tiles.forEach(function (tile, i) {
+      tile.addEventListener('click', function () { open(tiles, i); });
+    });
+  });
+})();
+</script>
 <!-- end custom footer snippets -->
