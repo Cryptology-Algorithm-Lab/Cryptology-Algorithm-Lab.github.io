@@ -9,6 +9,39 @@ permalink: /News/Gallery/
 header:
   overlay_image: /assets/images/korea.jpg
   overlay_filter: "rgba(31, 25, 20, 0.55)" # warm-tinted overlay matching the card surfaces
+# ──────────────────────────────────────────────────────────────────────
+# Adding an event to this page
+#
+# 1. Put the photos in assets/Gallery/. Keep the extension honest: a
+#    .jfif from Windows is a JPEG, and GitHub Pages will not necessarily
+#    serve it with an image MIME type — rename it to .jpg.
+#
+# 2. Add a galleryN: block here (N = next free number), a matching
+#    <section> in the body below, and bump that year's "<n> events".
+#
+# 3. ORDER MATTERS. The grid hands out slots by position, so the list
+#    order is an editorial decision, not a formality:
+#
+#      1st   lead tile, 2x2 square      the photo that tells the story
+#      2nd   tall tile, 1 wide x 2 high give this a PORTRAIT photo
+#      3rd   wide tile, 2 wide x 1 high give this a LANDSCAPE photo
+#      rest  1x1 squares
+#
+#    The tall and wide slots only appear when the photo count needs them
+#    to close the rectangle — 2 photos use the tall one, 4 use both.
+#    _includes/cna-gallery.html has the span table and the arithmetic.
+#    Put a landscape photo in the tall slot and it loses both its sides.
+#
+# 4. Thumbnails crop from 50% 40%, which suits faces and projected
+#    screens. When one still cuts badly, add focus: "50% 20%" to that
+#    entry — do not re-crop the file, the lightbox shows it uncropped.
+#
+# 5. alt is also the lightbox caption. Write it for a reader.
+#
+# 6. eager=true belongs on the TOPMOST gallery only — it is the page's
+#    largest-contentful-paint image. Move it when a newer event goes in
+#    above the current one.
+# ──────────────────────────────────────────────────────────────────────
 gallery:
   - url: /assets/Gallery/asiacrypt_hyeonbum.png
     image_path: /assets/Gallery/asiacrypt_hyeonbum.png
