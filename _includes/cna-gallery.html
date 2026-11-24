@@ -1,44 +1,111 @@
 {%- comment -%}
   cna-gallery — event photo mosaic.
 
-  Every event block is a rectangle on a 3-column grid. Rather than padding the
-  last row with blanks, the tiles themselves are sized to tile the rectangle
-  exactly: the lead photo spans 2x2, and as many of the next photos as needed
-  span two cells (one tall, then one wide) to take up the slack.
+  Every event block is a rectangle, but the shape of that rectangle is chosen
+  from the photos rather than imposed on them. Each entry carries `ratio:`
+  (width / height, written by .site-check/shapes.mjs — Jekyll on GitHub Pages
+  cannot measure images itself), and the block picks one of five patterns:
 
-  With rows = ceil((n + 3) / 3), the number of two-cell tiles needed is
+    single     1 photo                     shown whole, never cropped
+    pair       2 photos, 0 or 2 portrait   2 up, cell ratio = their average
+    lead-tall  2 photos, exactly 1 portrait  2x2 lead + the portrait beside it
+    quad       4 photos, no portrait       2 x 2, cell ratio = their average
+    mosaic     anything else               2x2 lead + tall + wide + 1x1s
+
+  pair and quad exist because most events here are two or four landscape
+  photos, and the mosaic would crop one of them to 1:2 — a landscape frame
+  loses both its sides that way. Those patterns give the photos a cell of
+  roughly their own proportions instead.
+
+  In mosaic and lead-tall the slots are filled by shape, not by list order:
+  the tall slot takes a portrait photo if the event has one, the wide slot a
+  landscape one. The lead is the first photo that is not portrait, so list
+  order still decides which photo leads among the plausible candidates.
+
+  Cell budget for mosaic: rows = ceil((n + 3) / 3), and
       extra = 3 * rows - n - 3
-  which works out to 0, 1 or 2 for every n, so no filler is ever required:
+  photos span two cells (one tall, then one wide). That is 0, 1 or 2 for any
+  n, so no filler is needed; fillers remain only as a fallback.
 
-      n = 2  ->  2 rows, lead + 1 tall                    6 cells
-      n = 3  ->  2 rows, lead + 2 small                   6 cells
-      n = 4  ->  3 rows, lead + 1 tall + 1 wide + 1 small 9 cells
-      n = 5  ->  3 rows, lead + 1 tall + 3 small          9 cells
-      n = 6  ->  3 rows, lead + 5 small                   9 cells
+  The tall tile must be emitted before the wide one. After a 2x2 lead the
+  only free cells in the opening rows are the third column, which a wide
+  tile cannot enter — placing it first punches holes in the grid.
 
-  The tall tile comes before the wide one on purpose: after a 2x2 lead the
-  only free cells in the first rows are the third column, which a wide tile
-  cannot fit into — placing it first would punch holes in the grid.
-
-  Fillers remain as a safety net for counts the span table cannot cover.
-  Thumbnails crop (object-fit: cover); the lightbox shows the uncropped photo.
-
-  Per-photo options in the front matter list:
-    focus: "50% 20%"   crop anchor, when the default 50% 40% cuts badly
-  Include options:
-    eager=true         first photo loads eagerly (use on the topmost gallery)
+  Per-photo keys: ratio (required, generated), focus ("50% 20%" crop anchor).
+  Include options: eager=true on the topmost gallery only (LCP image).
 {%- endcomment -%}
 {%- assign items = page[include.id] -%}
 {%- assign n = items | size -%}
 {%- if n > 0 -%}
+
+  {%- comment -%} 1. shape census {%- endcomment -%}
+  {%- assign portraits = 0 -%}
+  {%- assign sum = 0.0 -%}
+  {%- for img in items -%}
+    {%- assign r = img.ratio | default: 1.33 -%}
+    {%- assign sum = sum | plus: r -%}
+    {%- if r < 0.87 -%}{%- assign portraits = portraits | plus: 1 -%}{%- endif -%}
+  {%- endfor -%}
+  {%- assign nf = n | times: 1.0 -%}
+  {%- assign avg = sum | divided_by: nf -%}
+
+  {%- comment -%} 2. pattern {%- endcomment -%}
   {%- if n == 1 -%}
-    {%- assign cols = 1 -%}
-    {%- assign rows = 1 -%}
-    {%- assign extra = 0 -%}
-    {%- assign lead = false -%}
+    {%- assign pattern = 'single' -%}
+  {%- elsif n == 2 and portraits == 1 -%}
+    {%- assign pattern = 'lead-tall' -%}
+  {%- elsif n == 2 -%}
+    {%- assign pattern = 'pair' -%}
+  {%- elsif n == 4 and portraits == 0 -%}
+    {%- assign pattern = 'quad' -%}
+  {%- else -%}
+    {%- assign pattern = 'mosaic' -%}
+  {%- endif -%}
+
+  {%- comment -%} 3. cell proportions, snapped so the page keeps a rhythm {%- endcomment -%}
+  {%- if avg >= 1.9 -%}{%- assign cell = '2 / 1' -%}
+  {%- elsif avg >= 1.42 -%}{%- assign cell = '3 / 2' -%}
+  {%- elsif avg >= 1.2 -%}{%- assign cell = '4 / 3' -%}
+  {%- elsif avg >= 0.87 -%}{%- assign cell = '1 / 1' -%}
+  {%- else -%}{%- assign cell = '3 / 4' -%}{%- endif -%}
+
+  {%- comment -%} 4. slot assignment by shape (mosaic / lead-tall only) {%- endcomment -%}
+  {%- assign lead_i = -1 -%}
+  {%- for img in items -%}
+    {%- assign r = img.ratio | default: 1.33 -%}
+    {%- if r >= 0.87 -%}{%- assign lead_i = forloop.index0 -%}{%- break -%}{%- endif -%}
+  {%- endfor -%}
+  {%- if lead_i == -1 -%}{%- assign lead_i = 0 -%}{%- endif -%}
+
+  {%- assign tall_i = -1 -%}
+  {%- for img in items -%}
+    {%- assign r = img.ratio | default: 1.33 -%}
+    {%- if forloop.index0 != lead_i and r < 0.87 -%}{%- assign tall_i = forloop.index0 -%}{%- break -%}{%- endif -%}
+  {%- endfor -%}
+  {%- if tall_i == -1 -%}
+    {%- for img in items -%}
+      {%- if forloop.index0 != lead_i -%}{%- assign tall_i = forloop.index0 -%}{%- break -%}{%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+
+  {%- assign wide_i = -1 -%}
+  {%- for img in items -%}
+    {%- assign r = img.ratio | default: 1.33 -%}
+    {%- if forloop.index0 != lead_i and forloop.index0 != tall_i and r >= 0.87 -%}{%- assign wide_i = forloop.index0 -%}{%- break -%}{%- endif -%}
+  {%- endfor -%}
+  {%- if wide_i == -1 -%}
+    {%- for img in items -%}
+      {%- if forloop.index0 != lead_i and forloop.index0 != tall_i -%}{%- assign wide_i = forloop.index0 -%}{%- break -%}{%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+
+  {%- comment -%} 5. grid shape {%- endcomment -%}
+  {%- if pattern == 'single' -%}
+    {%- assign cols = 1 -%}{%- assign extra = 0 -%}{%- assign fillers = 0 -%}
+  {%- elsif pattern == 'pair' or pattern == 'quad' -%}
+    {%- assign cols = 2 -%}{%- assign extra = 0 -%}{%- assign fillers = 0 -%}
   {%- else -%}
     {%- assign cols = 3 -%}
-    {%- assign lead = true -%}
     {%- assign budget = n | plus: 3 -%}
     {%- assign rows = budget | divided_by: cols -%}
     {%- assign rem = budget | modulo: cols -%}
@@ -46,32 +113,49 @@
     {%- assign extra = rows | times: cols | minus: n | minus: 3 -%}
     {%- assign spare = n | minus: 1 -%}
     {%- if extra > spare -%}{%- assign extra = spare -%}{%- endif -%}
+    {%- assign fillers = rows | times: cols | minus: n | minus: 3 | minus: extra -%}
   {%- endif -%}
-  {%- assign used = n | plus: 3 | plus: extra -%}
-  {%- if lead == false -%}{%- assign used = n -%}{%- endif -%}
-  {%- assign fillers = rows | times: cols | minus: used -%}
-<div class="cna-gallery{% if n == 1 %} cna-gallery--single{% endif %}" data-cols="{{ cols }}" data-count="{{ n }}" markdown="0">
-  {%- for img in items -%}
-  {%- assign span = '' -%}
-  {%- if lead and forloop.first -%}
-    {%- assign span = ' cna-gallery-tile--feature' -%}
-  {%- elsif forloop.index0 == 1 and extra >= 1 -%}
-    {%- assign span = ' cna-gallery-tile--tall' -%}
-  {%- elsif forloop.index0 == 2 and extra >= 2 -%}
-    {%- assign span = ' cna-gallery-tile--wide' -%}
+
+<div class="cna-gallery" data-pattern="{{ pattern }}" data-cols="{{ cols }}" data-count="{{ n }}"
+     style="--cna-gal-cell: {{ cell }}" markdown="0">
+  {%- if pattern == 'single' or pattern == 'pair' or pattern == 'quad' -%}
+    {%- for img in items -%}
+      {%- assign is_eager = false -%}{%- if include.eager and forloop.first -%}{%- assign is_eager = true -%}{%- endif -%}
+      {%- include cna-gallery-tile.html img=img span='' num=forloop.index total=n eager=is_eager -%}
+    {%- endfor -%}
+  {%- else -%}
+    {%- for img in items -%}
+      {%- if forloop.index0 == lead_i -%}
+        {%- include cna-gallery-tile.html img=img span='feature' num=forloop.index total=n eager=include.eager -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- if extra >= 1 -%}
+      {%- for img in items -%}
+        {%- if forloop.index0 == tall_i -%}
+          {%- include cna-gallery-tile.html img=img span='tall' num=forloop.index total=n -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}
+    {%- if extra >= 2 -%}
+      {%- for img in items -%}
+        {%- if forloop.index0 == wide_i -%}
+          {%- include cna-gallery-tile.html img=img span='wide' num=forloop.index total=n -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}
+    {%- for img in items -%}
+      {%- assign i = forloop.index0 -%}
+      {%- assign skip = false -%}
+      {%- if i == lead_i -%}{%- assign skip = true -%}{%- endif -%}
+      {%- if extra >= 1 and i == tall_i -%}{%- assign skip = true -%}{%- endif -%}
+      {%- if extra >= 2 and i == wide_i -%}{%- assign skip = true -%}{%- endif -%}
+      {%- unless skip -%}
+        {%- include cna-gallery-tile.html img=img span='' num=forloop.index total=n -%}
+      {%- endunless -%}
+    {%- endfor -%}
+    {%- if fillers > 0 -%}{%- for i in (1..fillers) -%}
+    <span class="cna-gallery-tile cna-gallery-filler" aria-hidden="true"></span>
+    {%- endfor -%}{%- endif -%}
   {%- endif -%}
-  <button type="button" class="cna-gallery-tile{{ span }}"
-          data-full="{{ img.url | default: img.image_path | relative_url }}"
-          data-caption="{{ img.alt | escape }}"
-          aria-label="{{ img.alt | escape | default: 'Photo' }} — photo {{ forloop.index }} of {{ n }}, open full size">
-    <img src="{{ img.image_path | relative_url }}" alt=""
-         style="object-position: {{ img.focus | default: '50% 40%' }}"
-         {% if include.eager and forloop.first %}loading="eager" fetchpriority="high"{% else %}loading="lazy"{% endif %}
-         decoding="async">
-  </button>
-  {%- endfor -%}
-  {%- if fillers > 0 -%}{%- for i in (1..fillers) -%}
-  <span class="cna-gallery-tile cna-gallery-filler" aria-hidden="true"></span>
-  {%- endfor -%}{%- endif -%}
 </div>
 {%- endif -%}

@@ -1,0 +1,14 @@
+{%- comment -%}
+  One gallery tile. Split out so cna-gallery.html can emit tiles from several
+  different orders without repeating the markup.
+  Params: img, span ('feature' | 'tall' | 'wide' | ''), num, total, eager
+{%- endcomment -%}
+<button type="button" class="cna-gallery-tile{% if include.span != '' %} cna-gallery-tile--{{ include.span }}{% endif %}"
+        data-full="{{ include.img.url | default: include.img.image_path | relative_url }}"
+        data-caption="{{ include.img.alt | escape }}"
+        aria-label="{{ include.img.alt | escape | default: 'Photo' }} — photo {{ include.num }} of {{ include.total }}, open full size">
+  <img src="{{ include.img.image_path | relative_url }}" alt=""
+       style="object-position: {{ include.img.focus | default: '50% 40%' }}"
+       {% if include.eager %}loading="eager" fetchpriority="high"{% else %}loading="lazy"{% endif %}
+       decoding="async">
+</button>
