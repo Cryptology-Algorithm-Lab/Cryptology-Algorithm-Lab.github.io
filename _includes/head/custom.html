@@ -1385,6 +1385,14 @@ body{
   grid-column: span 2;
   aspect-ratio: auto;
 }
+/* pair and quad give their photos a cell of roughly their own proportions
+   instead of a square — most events here are two or four landscape frames,
+   and squaring them off throws away both sides of each one. The ratio is
+   snapped to a short list in the include so the page keeps a rhythm. */
+.cna-gallery[data-pattern="pair"] .cna-gallery-tile,
+.cna-gallery[data-pattern="quad"] .cna-gallery-tile{
+  aspect-ratio: var(--cna-gal-cell, 1);
+}
 button.cna-gallery-tile{
   cursor: zoom-in;
   appearance: none;
@@ -1395,7 +1403,7 @@ button.cna-gallery-tile{
    their height has to come from the grid tracks (which the 1:1 lead tile
    fixes at one column width). Leave the image in flow and it drags the whole
    row to its natural height instead. */
-.cna-gallery:not(.cna-gallery--single) .cna-gallery-tile img{
+.cna-gallery:not([data-pattern="single"]) .cna-gallery-tile img{
   position: absolute;
   inset: 0;
 }
@@ -1424,16 +1432,16 @@ button.cna-gallery-tile:focus-visible{
 }
 /* A lone photo is shown whole — cropping a single image to a square loses
    the only thing the event block has to say. */
-.cna-gallery--single{
+.cna-gallery[data-pattern="single"]{
   /* One photo should not become the biggest block on the page. Cap it at the
      width of a single 3-col tile pair so it sits inside the page rhythm. */
   max-width: calc((200% - var(--cna-s-2)) / 3);
 }
-.cna-gallery--single .cna-gallery-tile{
+.cna-gallery[data-pattern="single"] .cna-gallery-tile{
   aspect-ratio: auto;
   background: transparent;
 }
-.cna-gallery--single .cna-gallery-tile img{
+.cna-gallery[data-pattern="single"] .cna-gallery-tile img{
   height: auto;
   object-fit: contain;
 }
