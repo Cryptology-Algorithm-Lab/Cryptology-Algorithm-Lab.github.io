@@ -44,7 +44,7 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
       <ul>
         <li>Date &amp; Place: 11:30 AM – 2:00 PM, Dec 2 / Fusion Technology Center (FTC) 5F Lounge, Hanyang University</li>
         <li><b>Changjin Kim</b> — Breaking High Confidence: Practical Face Impersonation under High-Security Thresholds</li>
-        <li><b>Seunghun Paik</b> — IDFace: Face Template Protection for Secure and Efficient Identification</li>
+        <li><b>Seunghun Paik</b> — IDFace: Face Template Protection for Efficient and Secure Identification</li>
         <li><b>Chanwoo Hwang</b> — Non-Adaptive Adversarial Face Generation</li>
       </ul>
     </div>
