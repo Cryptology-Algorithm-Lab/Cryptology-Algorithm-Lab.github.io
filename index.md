@@ -75,6 +75,19 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
     </div>
   </article>
 
+  <article class="cna-card cna-cat-award" data-cat="award" data-date="2026-11-11">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-award">Award</span>
+      <time class="cna-card-meta">Nov 11, 2026</time>
+    </header>
+    <div class="cna-card-body">
+      <b>Seunghun Paik</b> won the Special Award (특별상) in the <b>National Cryptography Contest</b>, 2026.
+      <ul>
+        <li><i>Fuzzy Private Set Intersection under Density-Bounded Assumptions</i></li>
+      </ul>
+    </div>
+  </article>
+
   <article class="cna-card cna-cat-seminar" data-cat="talk" data-date="2026-10-28">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-seminar">Talk</span>
