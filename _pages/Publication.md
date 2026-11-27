@@ -682,7 +682,7 @@ header:
     <span class="cna-row-meta">C25</span>
     <div class="cna-row-main">
       <div class="cna-row-title"><b>Sunpill Kim&dagger;</b>, <b>Seunghun Paik&dagger;</b>, <b>Chanwoo Hwang</b>, <b>Dongsoo Kim</b>, Junbum Shin, and <b>Jae Hong Seo*</b></div>
-      <div class="cna-row-sub"><i>IDFace: Face Template Protection for Secure and Efficient Identification</i></div>
+      <div class="cna-row-sub"><i>IDFace: Face Template Protection for Efficient and Secure Identification</i></div>
     </div>
     <div class="cna-row-aside">
       <span class="cna-chip cna-chip-talk">ICCV</span>
