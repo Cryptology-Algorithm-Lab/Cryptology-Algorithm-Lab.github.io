@@ -34,6 +34,22 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
 <div id="annual-news-grid" class="cna-card-grid" markdown="0">
 
+  <article class="cna-card cna-cat-seminar" data-cat="talk" data-date="2026-11-27">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-seminar">Talk</span>
+      <time class="cna-card-meta">Nov 27, 2026</time>
+    </header>
+    <div class="cna-card-body">
+      <p><b>Changjin Kim</b>, <b>Seunghun Paik</b>, and <b>Chanwoo Hwang</b> will present posters at the <b>HY-IAA AI Research Spotlight</b>, held at Hanyang University.</p>
+      <ul>
+        <li>Date &amp; Place: 11:30 AM – 2:00 PM, Dec 2 / Fusion Technology Center (FTC) 5F Lounge, Hanyang University</li>
+        <li><b>Changjin Kim</b> — Breaking High Confidence: Practical Face Impersonation under High-Security Thresholds</li>
+        <li><b>Seunghun Paik</b> — IDFace: Face Template Protection for Secure and Efficient Identification</li>
+        <li><b>Chanwoo Hwang</b> — Non-Adaptive Adversarial Face Generation</li>
+      </ul>
+    </div>
+  </article>
+
   <article class="cna-card cna-cat-award" data-cat="award" data-date="2026-11-27">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-award">Award</span>
