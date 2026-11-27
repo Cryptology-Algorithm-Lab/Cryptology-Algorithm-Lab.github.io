@@ -14,7 +14,7 @@ header:
 <details class="cna-year" open markdown="0">
   <summary>
     <h3>2026</h3>
-    <span class="cna-year-count">3 awards</span>
+    <span class="cna-year-count">4 awards</span>
     <svg class="cna-year-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg>
   </summary>
   <div class="cna-year-body">
@@ -28,6 +28,18 @@ header:
     </div>
     <div class="cna-row-aside">
       <span class="cna-chip cna-chip-award">Excellence</span>
+    </div>
+  </article>
+
+  <article class="cna-row cna-row--no-meta">
+
+    <div class="cna-row-main">
+      <div class="cna-row-title">National Cryptography Contest</div>
+      <div class="cna-row-sub">National Intelligence Service, Korea</div>
+      <div class="cna-row-recipients"><b>Seunghun Paik</b></div>
+    </div>
+    <div class="cna-row-aside">
+      <span class="cna-chip cna-chip-award">Special</span>
     </div>
   </article>
 
