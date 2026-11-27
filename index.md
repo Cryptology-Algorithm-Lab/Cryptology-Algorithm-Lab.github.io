@@ -34,6 +34,19 @@ We are Cryptology &amp; Algorithm Lab and our leader is Professor [Jae Hong Seo]
 
 <div id="annual-news-grid" class="cna-card-grid" markdown="0">
 
+  <article class="cna-card cna-cat-award" data-cat="award" data-date="2026-11-27">
+    <header class="cna-card-head">
+      <span class="cna-chip cna-chip-award">Award</span>
+      <time class="cna-card-meta">Nov 27, 2026</time>
+    </header>
+    <div class="cna-card-body">
+      <b>Hyeonmin Jang</b> won the Excellence Award (우수상) in the academic activity program of the <b>College of Natural Science, Hanyang University</b>.
+      <ul>
+        <li><i>Trustworthy Vision: Certified Robustness for Face Recognition via Randomized Smoothing</i></li>
+      </ul>
+    </div>
+  </article>
+
   <article class="cna-card cna-cat-paper" data-cat="paper" data-date="2026-11-17">
     <header class="cna-card-head">
       <span class="cna-chip cna-chip-paper">Journal</span>
